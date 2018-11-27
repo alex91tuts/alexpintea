@@ -13,9 +13,8 @@ title: Category
     </div>
     
     <div class="row listrecent">
-    {% assign products = site.data.products | sort: 'price_discounted' %} 
+    {% assign products = site.data.products %} 
         {% for product in products %}
-        
          {% if product.category ==  page.cat or product.category == page.cat1 %}
                 {% include product.html %}
          {% endif %}
