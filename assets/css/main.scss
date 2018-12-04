@@ -12,7 +12,16 @@
 @import
 	"syntax"
 ;
-
+.btn-secondary {
+	background: transparent;
+	border: none;
+	color: rgba(0,0,0,.5) !important;
+}
+.btn-secondary {
+	background: transparent !important;
+	border: none;
+	color: rgba(0,0,0,.7);
+}
 
 // Search box
 #search-input {
@@ -46,7 +55,7 @@
 
 #results-container {
 	position: relative;
-	min-height: 73vh;
+	min-height: 70vh;
 }
 
 
@@ -99,6 +108,10 @@
     border: solid 1px #67b26f;
     color: white;
     
+}
+.act-nav a{
+	color: #67b26f !important;
+	font-weight: 700;
 }
 .act {
    background: linear-gradient(to right, #67b26f, #4ca2cd);
@@ -464,6 +477,9 @@ width: 100%;
     float: right;
 }
 @media (max-width:576px) {
+	.snip1529 {
+		max-width: 100%;
+	}
     .mb-30px {
     margin-bottom: 3px;
         padding: 3px;

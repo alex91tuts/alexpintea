@@ -63,27 +63,48 @@
                 
 							
                 {% if page.url == "/" %}
-                <li class="nav-item active">
+                <li class="nav-item act-nav">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Acasa</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">ACASA</a>
                 </li>
                 
-                {% if page.url == "/about.html" %}
-                <li class="nav-item active">
+                {% if page.url == "/about" %}
+                <li class="nav-item act-nav">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/about">Despre</a>
+                <a class="nav-link" href="{{ site.baseurl }}/about">DESPRE</a>
                 </li>
-                
+				<div class="dropdown">
+  					<a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						CATEGORII
+					</a>
+						  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+							{% assign posts = site.posts | sort | reverse  %}
+								{% for post in posts %}
+									{% if post.index == 1 %}
+									   <a class="dropdown-item" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title | upcase }}</a> 
+							  {% unless forloop.last %}
+							  			<div class="dropdown-divider"></div>
+							  {% endunless %}
+									{% endif %}
+							 {% endfor %}							
+						  </div>
+				</div>
+                <!--
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.facebook.com/wowthemesnet/"><i class="fab fa-facebook-f"></i></a>
                 </li>
                 
                 <li class="nav-item">
                 <a target="_blank"  class="nav-link" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter"></i></a>
+                </li>
+				 -->
+				
+				<li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/search"><i class="fa fa-search"></i></a>
                 </li>
                 
 				
