@@ -4,21 +4,21 @@ layout: null
 {
     "rochii": [              
                                   
-                                  {% for product in site.data.products %}{% if product.category == "rochii" %}
+                                  {% for product in site.data.products %}{% if product.category == "rochii" and product.price_discounted != "" %}
                                   { "adv_name": "{{ product.adv_name }}",
                                     "category": "rochii",
                                     "manufacturer": "{{ product.manufacturer }}",
                                     "product_name": "{{ product.product_name }}",
                                     "product_aff_link": "{{ product.product_aff_link }}",
                                     "product_pic": "{{ product.product_pic }}",
-                                    "price_vat": yu,
+                                    "price_vat": {{ product.price_vat }},
                                     "price_discounted": {{ product.price_discounted }},
                                     "discount": {{ product.price_vat | minus:  product.price_discounted | times: 100 | divided_by: product.price_vat | floor | abs }}
                                     }{% unless forloop.last %},{% endunless %} {% endif %}{% endfor %} 
         
                ],
     "fuste": [
-                                {% for product in site.data.products %} {% if product.category == "fuste" %}
+                                {% for product in site.data.products %} {% if product.category == "fuste" and product.price_discounted != "" %}
                                   { "adv_name": "{{ product.adv_name }}",
                                     "category": "fuste",
                                     "manufacturer": "{{ product.manufacturer }}",
@@ -32,7 +32,7 @@ layout: null
                              
               ],
     "hanorace": [
-                                {% for product in site.data.products %}{% if product.category == "hanorace" %}
+                                {% for product in site.data.products %}{% if product.category == "hanorace" and product.price_discounted != "" %}
                                   { "adv_name": "{{ product.adv_name }}",
                                     "category": "hanorace",
                                     "manufacturer": "{{ product.manufacturer }}",
@@ -46,7 +46,7 @@ layout: null
      
                 ],
     "bluze": [
-                         {% for product in site.data.products %}{% if product.category == "bluze" or product.category == "haine" %}
+                         {% for product in site.data.products %}{% if product.price_discounted != "" and product.category == "bluze" or product.category == "haine"  %}
                                   { "adv_name": "{{ product.adv_name }}",
                                     "category": "bluze",
                                     "manufacturer": "{{ product.manufacturer }}",
@@ -60,7 +60,7 @@ layout: null
       
              ],
     "salopete": [
-                         {% for product in site.data.products %} {% if product.category == "salopete" %}                        
+                         {% for product in site.data.products %} {% if product.category == "salopete" and product.price_discounted != "" %}                        
                                 
                                   { "adv_name": "{{ product.adv_name }}",
                                     "category": "salopete",
@@ -75,7 +75,7 @@ layout: null
                     
                 ],
     "tricouri": [
-                         {% for product in site.data.products %}{% if product.category == "tricouri" %}          
+                         {% for product in site.data.products %}{% if product.category == "tricouri" and product.price_discounted != "" %}          
                                 
                                   { "adv_name": "{{ product.adv_name }}",
                                     "category": "tricouri",

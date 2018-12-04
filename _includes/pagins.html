@@ -2,7 +2,7 @@
 {% capture about_me | strip %}
     {% for product in site.data.prod_org[ page.category ] %}
       {% if forloop.first %}
-      {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }}
+      {{ forloop.length | divided_by: 28.0 | ceil | minus: 1 }}
       {% endif %}
     {% endfor %}
     {% endcapture %}
