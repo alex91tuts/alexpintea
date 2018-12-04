@@ -1,0 +1,42 @@
+{% capture per_page | strip %}
+    28
+{% endcapture %}
+
+
+{% if page.pag == "pag1" %}
+        {% for product in products limit:per_page %}
+                {% include product.html %}
+        {% endfor %}
+        {% elsif page.pag == "pag2" %}
+            {% for product in products offset:per_page limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+         {% elsif page.pag == "pag3" %}
+            {% for product in products offset:56 limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+        {% elsif page.pag == "pag4" %}
+            {% for product in products offset:84 limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+        {% elsif page.pag == "pag5" %}
+            {% for product in products offset:112 limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+        {% elsif page.pag == "pag6" %}
+            {% for product in products offset:140 limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+        {% elsif page.pag == "pag7" %}
+            {% for product in products offset:168 limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+        {% elsif page.pag == "pag8" %}
+            {% for product in products offset:196 limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+        {% elsif page.pag == "pag9" %}
+            {% for product in products offset:224 limit:per_page %}
+                {% include product.html %}
+            {% endfor %}
+{% endif %}

@@ -11,22 +11,26 @@ title: Home
     <div class="section-title">
         
         
-        <h2><span>CATEGORII</span></h2>
+        <h2><span>CATEGORII {{ page_data | strip }}</span></h2>
         
     </div>
     
     <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
+        {% assign posts = site.posts | sort | reverse  %}
+        {% for post in posts %}
+            {% if post.index == 1 %}
                {% include postbox.html %}          
-
+            {% endif %}
         {% endfor %}
-        
+       
     </div>
     
 </section>
+ 
 
+
+
+{% comment %}
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
@@ -35,4 +39,4 @@ title: Home
     {% include pagination.html %}
 </span>
 </div>
-
+{% endcomment %}

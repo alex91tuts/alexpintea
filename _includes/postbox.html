@@ -1,11 +1,21 @@
 
-<figure class="snip1529">
+<figure class="snip1529 col-lg-4">
   <img src="{{ post.image }}" />
-  <div class="date"><span class="day">%</span><span class="month">red</span></div>
+  <div class="date">
+      <span class="month">pana la</span>
+      <span class="day">
+          {% assign products = site.data.prod_org[ post.category ] | sort: "discount" | reverse %} 
+                    {% for product in products limit:1 %}
+                        {{ product.discount }}%
+                    {% endfor %}
+      </span>
+      
+  </div>
   <figcaption>
     <h3>{{ post.title | upcase }}</h3>
-    <p></p>
   </figcaption>
   <div class="hover"><i class="ion-android-open"></i></div>
   <a href="{{ post.url | absolute_url }}"></a>
 </figure>
+
+

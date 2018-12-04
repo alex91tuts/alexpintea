@@ -1,0 +1,34 @@
+
+{% capture about_me | strip %}
+    {% for product in site.data.prod_org[ page.category ] %}
+      {% if forloop.first %}
+      {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }}
+      {% endif %}
+    {% endfor %}
+    {% endcapture %}
+
+
+    {% capture arr_pag | strip %}
+    {% for product in site.data.prod_org[ page.category ] %}
+      {% if forloop.first %}
+      {% assign posts = site.posts | reverse  %}{% for post in posts %}{% if post.url contains page.category %}{{ post.url }},{% endif %}{% endfor %}
+      {% endif %}
+    {% endfor %}
+     {% endcapture %}
+ 
+    {% assign array = arr_pag | split: ','%}
+    
+
+
+    {% for posts in site.data.prod_org[ page.category ] limit: 1 %}    
+        {% for i in (0..about_me) %}
+            {% if i < 9 %}
+       
+        <a class="number" href="{{ site.url }}{{ site.baseurl }}{{ array[i] | strip }}">{{ i | plus: 1 }}</a>
+        
+        {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+
+

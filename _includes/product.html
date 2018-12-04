@@ -2,8 +2,7 @@
 
 <div class="col-lg-3 col-md-6 col-6 mb-30px card-group">
     <div class="card h-100">
-        <div class="maxthumb">
-            
+        <div class="maxthumb">   
             <a href="{{ product.product_aff_link }}" target="_blank">
                 <img class="img-fluid" src="{{ product.product_pic }}" alt="{{ product.product_name }}" data-toggle="tooltip" data-placement="top" title="{{ product.manufacturer }}"> 
             </a>
@@ -18,8 +17,8 @@
                 
                 <span class="price">{{ product.price_discounted | floor }} Lei</span><br/>
                 <span class="old-price">{{ product.price_vat | floor}} Lei</span><br/>
-                <span class="perc">{{ product.price_discounted | divided_by: product.price_vat | times: 100 | minus: 100 | floor | abs }}%</span><br/>
-                <span class="categorie">{{ product.category | upcase }}</span>              
+                <span class="perc">{{ product.discount }}%</span><br/>
+                <span  data-toggle="modal" data-target="#exampleModal" data-whatever="{{ product.product_name }}" class="categorie">{{ product.category | upcase }}</span>              
                 <a class="citeste" href="{{ product.product_aff_link }}" target="_blank">VEZI PRODUS</a>
                 <div class="clearfix"></div>
             </div>

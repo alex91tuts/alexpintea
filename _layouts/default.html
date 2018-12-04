@@ -61,6 +61,7 @@
         
             <ul class="navbar-nav ml-auto">
                 
+							
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
@@ -85,6 +86,7 @@
                 <a target="_blank"  class="nav-link" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter"></i></a>
                 </li>
                 
+				
             </ul>		
   
         <!-- End Menu -->
@@ -95,18 +97,18 @@
 </nav>
 <!-- End Navigation
 ================================================== -->
-    
+ 
 <div class="site-content">   
 <div class="container">
-    
+
 <!-- Site Title
-================================================== -->
+================================================== 
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
          {{ site.description }}
     </p>
-</div>
+</div>-->
 
     
     
@@ -116,8 +118,13 @@
     {{ content }}
 </div>
 
-<!-- Bottom Alert Bar
+    
+<!-- Scroll to top
 ================================================== -->
+<a id="back2Top" title="Back to top" href="#">&#10148;</a>
+    
+<!-- Bottom Alert Bar
+================================================== 
 <div class="alertbar">
 	<div class="container text-center">
 		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
@@ -130,7 +137,7 @@
 	</div>
 </div>    
     
-</div><!-- /.container>
+</div><!-- /.container>-->
     
 
 

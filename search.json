@@ -1,0 +1,17 @@
+---
+layout: null
+---
+[
+  {% for product in site.data.products %}
+    {
+    
+      "title"    : "{{ product.product_name | strip_html | escape }}",
+      "url"      : "{{ product.product_aff_link }}",
+      "category" : "{{ product.category | upcase }}",
+      "picture"  : "{{ product.product_pic }}",
+      "discount" : "{{ product.price_discounted | floor | abs }}",
+      "price"    : "{{ product.price_vat | floor | abs }}"
+            
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

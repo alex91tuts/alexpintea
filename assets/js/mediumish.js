@@ -114,3 +114,41 @@ jQuery(document).ready(function($){
 
 
 });
+
+
+// Pagination Current Page
+$(function() {
+    var nav = document.getElementById("pagins"),
+        anchor = nav.getElementsByTagName("a"),
+        current = window.location;
+
+    console.log("anchor = ",anchor,"current = ",current);
+
+    for (var i = 0; i < anchor.length; i++) {
+    if(anchor[i].href == current) {
+        anchor[i].className = "act number";
+
+    }
+
+}
+});
+
+
+/*Scroll to top when arrow up clicked BEGIN*/
+$(window).scroll(function() {
+    var height = $(window).scrollTop();
+    if (height > 100) {
+        $('#back2Top').fadeIn();
+    } else {
+        $('#back2Top').fadeOut();
+    }
+});
+$(document).ready(function() {
+    $("#back2Top").click(function(event) {
+        event.preventDefault();
+        $("html, body").animate({ scrollTop: 0 }, "slow");
+        return false;
+    });
+
+});
+

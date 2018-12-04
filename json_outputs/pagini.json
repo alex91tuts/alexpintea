@@ -1,0 +1,74 @@
+---
+layout: null
+---
+[
+    {
+{% for product in site.data.prod_org.tricouri %}
+  {% if forloop.first %}
+  "tricouri_pag": {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }},
+  "tricouri_mod": {{ forloop.length | modulo: 20 }},
+  "tricouri_tot": {{ forloop.length }},
+  "tricouri_cat": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/tricouri/" %}{{ post.url }},{% endif %}{% endfor %}],
+  "pag_name": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/tricouri/" %}{{ post.title }},{% endif %}{% endfor %}],
+    
+  {% endif %}
+{% endfor %}  
+
+{% for product in site.data.prod_org.rochii %}
+  {% if forloop.first %}
+  "rochii_pag": {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }},
+  "rochii_mod": {{ forloop.length | modulo: 20 }},
+  "rochii_tot": {{ forloop.length }},
+  "rochii_cat": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/rochii/" %}{{ post.url }},{% endif %}{% endfor %}],
+  "pag_name_rochii": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/rochii/" %}{{ post.title }},{% endif %}{% endfor %}],
+    
+  {% endif %}
+{% endfor %}  
+
+{% for product in site.data.prod_org.bluze %}
+  {% if forloop.first %}
+  "bluze_pag": {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }},
+  "bluze_mod": {{ forloop.length | modulo: 20 }},
+  "bluze_tot": {{ forloop.length }},
+  "bluze_cat": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/bluze/" %}{{ post.url }},{% endif %}{% endfor %}],
+  "pag_name_bluze": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/bluze/" %}{{ post.title }},{% endif %}{% endfor %}],
+    
+  {% endif %}
+{% endfor %}  
+
+{% for product in site.data.prod_org.hanorace %}
+  {% if forloop.first %}
+  "hanorace_pag": {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }},
+  "hanorace_mod": {{ forloop.length | modulo: 20 }},
+  "hanorace_tot": {{ forloop.length }},
+  "hanorace_cat": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/hanorace/" %}{{ post.url }},{% endif %}{% endfor %}],
+  "pag_name_hanorace": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/hanorace/" %}{{ post.title }},{% endif %}{% endfor %}],
+    
+  {% endif %}
+{% endfor %} 
+
+{% for product in site.data.prod_org.salopete %}
+  {% if forloop.first %}
+  "salopete_pag": {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }},
+  "salopete_mod": {{ forloop.length | modulo: 20 }},
+  "salopete_tot": {{ forloop.length }},
+  "salopete_cat": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/salopete/" %}{{ post.url }},{% endif %}{% endfor %}],
+  "pag_name_salopete": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/salopete/" %}{{ post.title }},{% endif %}{% endfor %}],
+    
+  {% endif %}
+{% endfor %}   
+
+{% for product in site.data.prod_org.fuste %}
+  {% if forloop.first %}
+  "fuste_pag": {{ forloop.length | divided_by: 20.0 | ceil | minus: 1 }},
+  "fuste_mod": {{ forloop.length | modulo: 20 }},
+  "fuste_tot": {{ forloop.length }},
+  "fuste_cat": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/fuste/" %}{{ post.url }},{% endif %}{% endfor %}],
+  "pag_name_fuste": [{% assign posts = site.posts | reverse %}{% for post in posts %}{% if post.url contains "/fuste/" %}{{ post.title }},{% endif %}{% endfor %}],
+    
+  {% endif %}
+{% endfor %}   
+ 
+
+    }
+ ]

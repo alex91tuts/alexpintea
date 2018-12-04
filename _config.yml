@@ -34,9 +34,63 @@ plugins:
  
     
 # Pagination 
-paginate: 6
+paginate: 7
 paginate_path: /page:num/
     
 # Other
 markdown: kramdown
 highlighter: rouge
+permalink: /:categories/:title.html
+
+
+
+#defaults for product category and pages
+defaults:
+  -
+    scope:
+      path: "_posts/tricouri/*" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "tricouri"
+      
+  -
+    scope:
+      path: "_posts/rochii/*" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "rochii"
+
+  -
+    scope:
+      path: "_posts/bluze/*" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "bluze"
+      
+  -
+    scope:
+      path: "_posts/fuste/*" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "fuste"
+      
+  -   
+    scope:
+      path: "_posts/hanorace/*" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "hanorace"
+      
+  -   
+    scope:
+      path: "_posts/salopete/*" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "salopete"        
+      
