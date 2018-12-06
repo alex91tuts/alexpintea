@@ -2,16 +2,44 @@
 layout: null
 ---
 [
-  {% for product in site.data.products %}
+	{% for product in site.data.prod_org.tricouri %}
     {
-    
       "title"    : "{{ product.product_name | strip_html | escape }}",
       "url"      : "{{ product.product_aff_link }}",
       "category" : "{{ product.category | upcase }}",
       "picture"  : "{{ product.product_pic }}",
-      "discount" : "{{ product.price_discounted | floor | abs }}",
-      "price"    : "{{ product.price_vat | floor | abs }}"
-            
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "discount" : "{{ product.price_discounted | floor }}",
+      "price"    : "{{ product.price_vat | floor | abs }}"       
+    },
+  	{% endfor %}
+	{% for product in site.data.prod_org.rochii %}
+    {
+      "title"    : "{{ product.product_name | strip_html | escape }}",
+      "url"      : "{{ product.product_aff_link }}",
+      "category" : "{{ product.category | upcase }}",
+      "picture"  : "{{ product.product_pic }}",
+      "discount" : "{{ product.price_discounted | floor }}",
+      "price"    : "{{ product.price_vat | floor | abs }}"       
+    },
+	{% endfor %}
+	{% for product in site.data.prod_org.bluze %}
+    {
+      "title"    : "{{ product.product_name | strip_html | escape }}",
+      "url"      : "{{ product.product_aff_link }}",
+      "category" : "{{ product.category | upcase }}",
+      "picture"  : "{{ product.product_pic }}",
+      "discount" : "{{ product.price_discounted | floor }}",
+      "price"    : "{{ product.price_vat | floor | abs }}"     
+    },
+  	{% endfor %}
+	{% for product in site.data.prod_org.salopete %}
+    {
+      "title"    : "{{ product.product_name | strip_html | escape }}",
+      "url"      : "{{ product.product_aff_link }}",
+      "category" : "{{ product.category | upcase }}",
+      "picture"  : "{{ product.product_pic }}",
+      "discount" : "{{ product.price_discounted | floor }}",
+      "price"    : "{{ product.price_vat | floor | abs }}"       
+    }{% unless forloop.last %},{% endunless %}
+  	{% endfor %}
 ]
