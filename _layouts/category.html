@@ -12,39 +12,9 @@ title: Category
 </div>
     
 <div class="row listrecent">
-    
-    {% assign products = site.data.prod_org[ page.category ] | sort: "discount" | reverse %}  
+    {% assign products = site.data.prod_org[ page.category ]| sort: "discount" | reverse %}  
         {% include pagini_categorii.html %}
-    
-    
-    {% comment %}
-    {% if page.category == "tricouri" %}
-    {% assign products = site.data.prod_org.tricouri | sort: "discount" | reverse %}  
-        {% include pagini_categorii.html %}
-    
-    {% elsif page.category == "rochii" %}
-    {% assign products = site.data.prod_org.rochii | sort: "discount" | reverse %} 
-        {% include pagini_categorii.html %}
-    
-    {% elsif page.category == "bluze" %}
-    {% assign products = site.data.prod_org.bluze | sort: "discount" | reverse %}  
-        {% include pagini_categorii.html %}
-    
-    {% elsif page.category == "fuste" %}
-    {% assign products = site.data.prod_org.fuste | sort: "discount" | reverse %}  
-        {% include pagini_categorii.html %}
-    
-    {% elsif page.category == "hanorace" %}
-    {% assign products = site.data.prod_org.hanorace | sort: "discount" | reverse %}  
-        {% include pagini_categorii.html %}
-    
-    {% elsif page.category == "salopete" %}
-    {% assign products = site.data.prod_org.salopete | sort: "discount" | reverse %}  
-        {% include pagini_categorii.html %}
-    
-    {% endif %}
-    {% endcomment %}
-    
+   	
     </div>
 </section>
 

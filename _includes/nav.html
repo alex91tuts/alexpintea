@@ -38,7 +38,7 @@
                 <a class="nav-link cta" href="{{ site.baseurl }}/about">DESPRE</a>
                 </li>
 				<div class="dropdown">
-  					<a class="btn btn-secondary dropdown-toggle cta" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  					<a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						CATEGORII
 					</a>
 						  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
@@ -50,6 +50,20 @@
 							  			<div class="dropdown-divider"></div>
 							  {% endunless %}
 									{% endif %}
+							 {% endfor %}							
+						  </div>
+				</div>
+				<div class="dropdown">
+  					<a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						CATEGOTEST
+					</a>
+						  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+							{% assign categorii = site.data.categorii | split: "," %}
+								{% for cat in categorii %}
+									   <a class="dropdown-item" href="{{ site.baseurl }}/{{ post.url }}">{{ cat | last }}</a> 
+							  {% unless forloop.last %}
+							  			<div class="dropdown-divider"></div>
+							  {% endunless %}
 							 {% endfor %}							
 						  </div>
 				</div>
