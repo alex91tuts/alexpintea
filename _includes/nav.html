@@ -53,20 +53,7 @@
 							 {% endfor %}							
 						  </div>
 				</div>
-				<div class="dropdown">
-  					<a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						CATEGOTEST
-					</a>
-						  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-							{% assign categorii = site.data.categorii | split: "," %}
-								{% for cat in categorii %}
-									   <a class="dropdown-item" href="{{ site.baseurl }}/{{ post.url }}">{{ cat | last }}</a> 
-							  {% unless forloop.last %}
-							  			<div class="dropdown-divider"></div>
-							  {% endunless %}
-							 {% endfor %}							
-						  </div>
-				</div>
+				
                 <!--
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.facebook.com/wowthemesnet/"><i class="fab fa-facebook-f"></i></a>
