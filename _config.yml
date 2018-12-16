@@ -78,6 +78,14 @@ defaults:
       layout: "category"
       category: "fuste"
    
+  -
+    scope:
+      path: "_posts/hanorace/*" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "hanorace"
+   
   -   
     scope:
       path: "_posts/salopete/*" # an empty string here means all files in the project
