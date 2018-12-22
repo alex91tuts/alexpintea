@@ -10,9 +10,12 @@ title: Category
 <h2><span>{{ page.category | upcase }} </span></h2>
       
 </div>
-    
-<div class="row listrecent">
-    {% assign products = site.data.prod_org[ page.category ]| sort: "discount" | reverse %}  
+<button type="button" data-sort="price:asc">Sort by price (low to high)</button>
+<button type="button" data-sort="price:desc">Sort by price (high to low)</button>
+<div class="row listrecent container1">
+	
+
+    {% assign products = site.data.prod_org[ page.category ] %}  
         {% include pagini_categorii.html %}
    	
     </div>
@@ -25,6 +28,23 @@ title: Category
 
 </div>
 </div>
+
+
+<script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
+        <script>
+            var containerEl = document.querySelector('.container1');
+            
+				
+			var mixer = mixitup(containerEl, {
+    animation: {
+        "duration": 2000,
+        "nudge": false,
+        "reverseOut": false,
+        effectsIn: 'fade translateY(-100%)'
+    }
+});
+			
+        </script>
 
 
 

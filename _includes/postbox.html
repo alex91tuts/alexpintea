@@ -5,7 +5,7 @@
       <span class="month">pana la</span>
       <span class="day">
 		  
-          {% assign products = site.data.prod_org[ post.category ] | sort: "discount" | reverse %} 
+          {% assign products = site.data.prod_org[ post.category ] %} 
                     {% for product in products limit:1 %}
                         {{ product.discount }}%
                     {% endfor %}

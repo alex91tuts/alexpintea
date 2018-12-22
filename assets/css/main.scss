@@ -13,43 +13,6 @@
 	"syntax"
 ;
 
-// page transition 
-
-.overlay {
-	animation-name: fadeInRight;   
-}
-.m-scene {
-	.scene_element {
-    animation-duration: 0.8s;
-    transition-timing-function: ease-in-out;
-    animation-fill-mode: both;
-  }
-}
-@keyframes fadeInRight {
-  0% {
-    width: 0;
-	left: 0;
-	opacity: 0;
-  }
-  30% {
-    width: 50%;
-	left: 10%;
-	
-  }
-  70% {
-    width: 100%;
-	left: 30%;
-	opacity: 0.7;
-  }
-
-  100% {
-    left: 100%;
-	opacity: 1;
-  }
-}
-
-
-
 
 
 //page transition ends here
@@ -643,6 +606,7 @@ width: 100%;
 .cat-body {
     position: absolute;
 }
+
 .cat-title a.text-dark {
     text-align: center;
     font-family: Righteous;
