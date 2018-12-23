@@ -97,50 +97,36 @@ title: Home
 
     {% assign products = site.data.prod_org.tricouri %}
 	
-        {% for product in products limit: 4 %}
+        {% for product in products limit: 1000 %}
                 {% include product.html %}
         {% endfor %}
    	
     </div>
 </section>
 
-<div class="container pag_container">
-<div id="pagins" class="row justify-content-md-center">
 
-    {% include pagins.html %}          
-
+        <div class="controls-pagination">
+            <div class="mixitup-page-list"></div>
+        </div>
 </div>
-</div>
-<h1>Asynchronous JavaScript</h1>
-    <script>
-		let result, data;
-       fetch('https://w.profitshare.ro/affiliate-feed/export/?hash=68230fb510baa246a67bf901c7f895ea')
-            .then(result => {
-                console.log(result);
-		   		return	result.json();
-                
-            })
-			.then(data => {
-		   console.log(data);
-	   })
-            
-            .catch(error => console.log(error)); 
+<script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
+<script src="{{ site.baseurl }}/assets/js/mixitup-pagination.min.js"></script>
+   <script>
+	   
+	var containerEl = document.querySelector('.container1');
+			
+	var mixer = mixitup(containerEl, {
+    
+	pagination: {
+        limit: 20 // impose a limit of 8 targets per page
+    } 
+	});
     </script>
 
-<script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
-        <script>
-            var containerEl = document.querySelector('.container1');
-            
-				
-			var mixer = mixitup(containerEl, {
-    animation: {
-        "duration": 200,
-        "nudge": false,
-        effectsIn: 'fade translateY(-100%)'
-    }
-});
-			
-        </script>
+
+ 
+
+
 
 
 
