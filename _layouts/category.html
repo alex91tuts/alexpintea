@@ -16,35 +16,29 @@ title: Category
 	
 
     {% assign products = site.data.prod_org[ page.category ] %}  
-        {% include pagini_categorii.html %}
-   	
+        {% for product in products limit: 200 %}
+                {% include product.html %}
+        {% endfor %}
     </div>
 </section>
 
-<div class="container pag_container">
-<div id="pagins" class="row justify-content-md-center">
-
-    {% include pagins.html %}          
-
+<div class="controls-pagination">
+            <div class="mixitup-page-list"></div>
+        </div>
 </div>
-</div>
-
-
 <script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
-        <script>
-            var containerEl = document.querySelector('.container1');
-            
-				
-			var mixer = mixitup(containerEl, {
-    animation: {
-        "duration": 2000,
-        "nudge": false,
-        "reverseOut": false,
-        effectsIn: 'fade translateY(-100%)'
-    }
-});
+<script src="{{ site.baseurl }}/assets/js/mixitup-pagination.min.js"></script>
+   <script>
+	   
+	var containerEl = document.querySelector('.container1');
 			
-        </script>
+	var mixer = mixitup(containerEl, {
+    
+	pagination: {
+        limit: 20 // impose a limit of 8 targets per page
+    } 
+	});
+    </script>
 
 
 
