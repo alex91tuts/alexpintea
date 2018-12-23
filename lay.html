@@ -97,7 +97,7 @@ title: Home
 
     {% assign products = site.data.prod_org.tricouri %}
 	
-        {% for product in products limit: 1000 %}
+        {% for product in products limit: 200 %}
                 {% include product.html %}
         {% endfor %}
    	
