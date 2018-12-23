@@ -13,7 +13,94 @@
 	"syntax"
 ;
 
-//pagination from mix-it up
+/* Pagination Controls
+---------------------------------------------------------------------- */
+
+.controls-pagination {
+    padding: 1rem;
+    font-size: 0.1px;
+    text-align: justify;
+	text-align: center;
+	
+}
+
+.controls-pagination:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.mixitup-page-list,
+.mixitup-page-stats {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.mixitup-page-list {
+    text-align: left;
+}
+
+.mixitup-page-stats {
+    font-size: .9rem;
+    color: #333;
+    font-weight: bold;
+    font-family: 'helvetica', arial, sans-serif;
+}
+
+.mixitup-control {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 29px;
+    height: 29px;
+    background-image: linear-gradient(to right bottom, #FBDB89, #F48982);;
+    border: none;
+    cursor: pointer;
+    font-size: .9rem;
+    transition: color 150ms, border-color 150ms;
+    vertical-align: middle;
+	border-radius: 4px;
+    margin: 3px;
+    color: white;
+    font-weight: 500;
+}
+
+.mixitup-control:hover {
+	color: white;
+	transform: translateX(1px); 
+	transition-timing-function: ease-in;
+}
+.mixitup-control-active {
+    background: linear-gradient(to right, #67b26f, #4ca2cd);
+    border: solid 1px #67b26f;
+    color: white; 
+}
+
+.mixitup-control:disabled {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 29px;
+    height: 29px;
+    background-image: linear-gradient(to right bottom, #FBDB89, #F48982);;
+    border: none;
+    cursor: pointer;
+    font-size: .9rem;
+    transition: color 150ms, border-color 150ms;
+    vertical-align: middle;
+	border-radius: 4px;
+    margin: 3px;
+    color: white;
+    font-weight: 500;
+}
+
+.mixitup-control-truncation-marker {
+    background: transparent;
+    pointer-events: none;
+    line-height: 2.2em;
+	color: #64c0c0;
+    border: none;
+}
 
 
 
