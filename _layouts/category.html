@@ -23,7 +23,7 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.category ] %}
-		{% capture adv %}{% for adv_name in prod %}<button type="button" class="filt" data-toggle=".{{ adv_name.adv_name | remove: ".ro" }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endfor %}{% endcapture %}
+		{% capture adv %}{% for adv_name in prod %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: ".ro" }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
