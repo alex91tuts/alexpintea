@@ -121,6 +121,7 @@ License: https://www.wowthemes.net/freebies-license/
 .card-title {
 	font-size: 13px;
 	font-style: italic;
+	font-weight:700;
 }
  .listfeaturedtag h4.card-text,.listrecent h4.card-text {
      color:rgba(0,0,0,.44);
