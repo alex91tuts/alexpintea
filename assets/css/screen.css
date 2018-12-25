@@ -60,6 +60,9 @@ License: https://www.wowthemes.net/freebies-license/
      padding-bottom:20px;
      margin-bottom:-1px;
 }
+.section-title {
+	margin-bottom: 20px;
+}
  .article-post ol, .article-post ul {
      margin-bottom:1.5rem;
 }

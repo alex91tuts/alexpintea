@@ -10,7 +10,7 @@ layout: null
       "picture"  : "{{ product.product_pic }}",
       "discount" : "{{ product.price_discounted | floor }}",
       "price"    : "{{ product.price_vat | floor | abs }}"       
-    },
+    }{% unless forloop.last %},{% endunless %}
   	{% endfor %}
 	{% for product in site.data.prod_org.rochii %}
     {
@@ -20,7 +20,7 @@ layout: null
       "picture"  : "{{ product.product_pic }}",
       "discount" : "{{ product.price_discounted | floor }}",
       "price"    : "{{ product.price_vat | floor | abs }}"       
-    },
+    }{% unless forloop.last %},{% endunless %}
 	{% endfor %}
 	{% for product in site.data.prod_org.bluze %}
     {
@@ -30,7 +30,7 @@ layout: null
       "picture"  : "{{ product.product_pic }}",
       "discount" : "{{ product.price_discounted | floor }}",
       "price"    : "{{ product.price_vat | floor | abs }}"     
-    },
+    }{% unless forloop.last %},{% endunless %}
   	{% endfor %}
 	{% for product in site.data.prod_org.salopete %}
     {

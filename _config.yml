@@ -48,7 +48,7 @@ permalink: /:categories/:title.html
 defaults:
   -
     scope:
-      path: "_posts/tricouri/*" # an empty string here means all files in the project
+      path: "_posts/tricouri" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
