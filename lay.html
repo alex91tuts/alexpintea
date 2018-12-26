@@ -79,46 +79,7 @@ title: Home
  
 
 
-{% comment %}
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
-{% endcomment %}
 
-<button type="button" data-sort="price:asc">Sort by price (low to high)</button>
-<button type="button" data-sort="price:desc">Sort by price (high to low)</button>
-<div class="row listrecent container1">
-	<div class="col-lg-3 col-12">
-		<div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action active">
-    Cras justo odio
-  </a>
-  <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-  <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
-  <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
-  <a href="#" class="list-group-item list-group-item-action disabled">Vestibulum at eros</a>
-</div>
-	</div>
-	<div class="col-lg-9 col-12 row">
-    {% assign products = site.data.prod_org.tricouri %}
-	
-        {% for product in products limit: 200 %}
-                {% include products-3col.html %}
-        {% endfor %}
-	</div>
-	
-    </div>
-</section>
-
-        <div class="controls-pagination">
-            <div class="mixitup-page-list"></div>
-        </div>
-</div>
 <script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
 <script src="{{ site.baseurl }}/assets/js/mixitup-pagination.min.js"></script>
    <script>
