@@ -5,7 +5,6 @@ title: Home
 
 ---
 
-<div class="row">
 	  		
 	  <div class="col-lg-12 p-1">
 			 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
@@ -76,7 +75,213 @@ title: Home
     </div>
     
 </section>
- 
+
+ <!-- Feature 2  -->
+                <!-- ============================================================== -->
+                <div class="bg-light spacer feature20 up">
+                    <div class="container">
+                        <!-- Row  -->
+                        <div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+                                <span class="label label-success label-rounded">Feature 2</span>
+                                <h2 class="title">Awesome with Extra Ordinary Flexibility</h2>
+                                <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
+                            </div>
+                        </div>
+                        <!-- Row  -->
+                        <div class="row wrap-feature-20">
+                            
+                            <!-- Column -->
+							{% assign posts = site.posts %}
+								{% for post in posts %}
+									{% if post.index == 1 %}
+                            <div class="col-lg-6" data-aos="zoom-in" data-aos-duration="1200">
+                                <div class="card">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <div class="card-body d-flex no-block">
+                                                <div class="m-r-20"><img src="{{ post.image }}" width="70" class="rounded" /></div>
+                                                <div>
+                                                    <h5 class="font-medium">{{ post.title }}</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 text-center">
+                                            <a href="{{ post.url | absolute_url }}" class="text-white linking bg-success-gradiant">Lets Talk <i class="ti-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+							          {% endif %}
+								{% endfor %}
+       
+                        </div>
+                        <!-- Row  -->
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- Feature 2  -->
+                <!-- ============================================================== -->
+
+ 				<!-- Static Slider 3  -->
+                <!-- ============================================================== -->
+                <span>Checkout My Work <i class="ti-arrow-right"></i></span>
+                <!-- ============================================================== -->
+                <!-- End Static Slider 3  -->
+                <!-- ============================================================== -->
+<!-- text  -->
+                <!-- ============================================================== -->
+                <div class="spacer">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+                                <h1 class="title font-bold">Cards</h1>
+                                <h6 class="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            </div>
+                        </div>        
+                    </div>    
+                </div>
+                <!-- ============================================================== -->
+                <!-- End text  -->
+                <!-- ============================================================== -->
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card card-shadow">
+                                <div class="card-body">
+                                    <h3 class="card-title">Special title treatment</h3>
+                                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                    <a href="#" class="btn btn-success">Go somewhere</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card card-shadow">
+                                <div class="card-body">
+                                    <h3 class="card-title">Special title treatment</h3>
+                                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- text  -->
+                <!-- ============================================================== -->
+<div class="spacer">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+                                <h1 class="title font-bold">Dropdowns</h1>
+                                <h6 class="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            </div>
+                        </div>        
+                    </div>    
+                </div>
+                <!-- ============================================================== -->
+                <!-- End text  -->
+                <!-- ============================================================== -->
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Action
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Separated link</a>
+                                </div>
+                            </div>
+                            <!-- Example single danger button -->
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Action
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Separated link</a>
+                                </div>
+                            </div>
+                            <!-- Example single danger button -->
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Action
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Separated link</a>
+                                </div>
+                            </div>
+                            <!-- Example single danger button -->
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Action
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Separated link</a>
+                                </div>
+                            </div>
+                            <!-- Example single danger button -->
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Action
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Separated link</a>
+                                </div>
+                            </div>
+                            <!-- Example single danger button -->
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Action
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Separated link</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- text  -->
+                <!-- ============================================================== -->
+                <div class="spacer">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+                                <h1 class="title font-bold">Form</h1>
+                                <h6 class="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            </div>
+                        </div>        
+                    </div>    
+                </div>
+                <!-- ============================================================== -->
+                <!-- End text  -->
+
 
 
 

@@ -87,7 +87,18 @@
     
 <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
 
+<script src="{{ site.baseurl }}/assets/js/custom.min.js"></script>
 
+<script src="{{ site.baseurl }}/assets/js/jquery.touchSwipe.min.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/isotope.pkgd.min.js"></script>
+
+<script>
+    $('.tgl-cl').on('click', function() {
+        $('body .h17-main-nav').toggleClass("show");
+    });
+    $('.h17-main-nav').perfectScrollbar();
+</script>
     
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 </body>

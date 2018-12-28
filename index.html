@@ -4,67 +4,28 @@ layout: default
 title: Home
 
 ---
-{% comment %}
-<div class="row">
-	  		
-	  <div class="col-lg-12 p-1">
-			 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
-			  <ol class="carousel-indicators">
-				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-			  </ol>
-			  <div class="carousel-inner">
-				<div class="carousel-item active">
-							<div class="banner jumbotron d-block w-100" style="background-image: url({{ site.baseurl }}/assets/images/banner.jpg);">
-							  <h1 class="display-4">Hello, world!</h1>
-							  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-							  <hr class="my-4" style="color:white";>
-							  <a class="btn btn-primary btn-lg btn-banner" href="#" role="button">Learn more</a>
-							</div>
-				</div>
-				<div class="carousel-item">
-							<div class="banner jumbotron" style="background-image: url({{ site.baseurl }}/assets/images/pantaloni.jpeg);">
-							  <h1 class="display-4">Hello, world!</h1>
-							  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-							  <hr class="my-4" style="color:white";>
-							  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-							</div>
-				</div>
-				<div class="carousel-item">
-							<div class="banner jumbotron" style="background-image: url({{ site.baseurl }}/assets/images/salopete.jpg);">
-							  <h1 class="display-4">Hello, world!</h1>
-							  <p class="lead"></p>
-							  <hr class="my-4" style="color:white";>
-							  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-							</div>
-				</div>
-			  </div>
-			  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			  </a>
-			  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			  </a>
-			</div>
-	  </div> 
-  	</div>
-{% endcomment %}
 
+
+<div class="row">
 <!-- Posts Index
 ================================================== -->
+							<div class="banner jumbotron d-block w-100" style="background-image: url({{ site.baseurl }}/assets/images/reduceri-banner.jpeg);">
+							  <h1 class="display-4 mainheading">TOTUL REDUS!</h1>
+							  <p class="lead">Fii la curent cu cele mai mari reduceri!</p>
+							  <hr class="my-4" style="color:white";>
+							  <a class="btn btn-primary btn-lg btn-banner" href="#categorii" role="button"><i class="fas fa-angle-double-down"></i></a>
+							</div>
+</div>
 <!-- CATEGORII 
-					================================================== -->
+					==================================================
 					<div class="mainheading">
 						<h1 class="sitetitle">CATEGORII</h1>
 					</div>
 						<div class="section-title">
 							<h2><span>TOATE REDUESE</span></h2>
-						</div>
+						</div> -->
 
-<section class="recent-posts">
+<section id="categorii" class="recent-posts">
     <div class="row listrecent">
         {% assign posts = site.posts %}
 		{% for post in posts %}
@@ -79,13 +40,4 @@ title: Home
  
 
 
-{% comment %}
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
-{% endcomment %}
+

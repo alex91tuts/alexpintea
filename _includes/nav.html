@@ -1,81 +1,53 @@
-<!-- Begin Menu Navigation
-================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
-    
-    <div class="container pr-0">    
-    
-    <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>
-    <!-- End Logo -->
-  
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    
-    
-    <div class="collapse navbar-collapse" id="navbarMediumish">
-       
-        <!-- Begin Menu -->
-        
-            <ul class="navbar-nav ml-auto">
-                
-							
-                {% if page.url == "/" %}
-                <li class="nav-item act-nav ">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link cta" href="{{ site.baseurl }}/index.html">ACASA</a>
-                </li>
-                
-                {% if page.url == "/about" %}
-                <li class="nav-item act-nav">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link cta" href="{{ site.baseurl }}/about">DESPRE</a>
-                </li>
-				<div class="dropdown">
-  					<a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						CATEGORII
-					</a>
-						  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-							{% assign posts = site.posts | sort | reverse  %}
-								{% for post in posts %}
-									{% if post.index == 1 %}
-									   <a class="dropdown-item" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title | upcase }}</a> 
-							  {% unless forloop.last %}
-							  			<div class="dropdown-divider"></div>
-							  {% endunless %}
-									{% endif %}
-							 {% endfor %}							
-						  </div>
-				</div>
-				
-                <!--
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.facebook.com/wowthemesnet/"><i class="fab fa-facebook-f"></i></a>
-                </li>
-                
-                <li class="nav-item">
-                <a target="_blank"  class="nav-link" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter"></i></a>
-                </li>
-				 -->
-				
-				<li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/search"><i class="fa fa-search"></i></a>
-                </li>
-                
-				
-            </ul>		
-  
-        <!-- End Menu -->
-
-    </div>
-        
-    </div>
-</nav>
-<!-- End Navigation
-================================================== -->
+<!-- ============================================================== -->
+                <!-- Header 17  -->
+                <!-- ============================================================== -->
+                <div class="header17">
+                    <div class="container">
+                        <!-- Header 13 navabar -->
+                        <nav class="h17-nav">
+                            <div class="">
+                                <a class="navbar-brand" href="{{ site.url }}"><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" /></a>
+                                <div class="call-info dl hidden-md-down">
+                                    <small class="text-muted">CALL US ON</small>
+                                    <h5 class="m-b-0 font-medium">215 123 4567</h5>
+                                </div>
+                            </div>
+                            <div class="ml-auto align-self-center">
+                                <ul class="list-inline h17nav-bar">
+                                    <li><a class="btn btn-success-gradiant hidden-md-down text-white" href="#">Get Free Quote</a></li>
+                                    <li><a class="nav-link tgl-cl" href="javascript:void(0)"><i class="ti-menu "></i></a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        <!-- End Header 13 navabar -->
+                    </div>
+                    <div class="h17-main-nav animated fadeInDown justify-content-center" data-aos="fade-up">
+                        <div class="h-17navbar align-self-center">
+                            <a href="javascript:void(0)" class="close-icons tgl-cl"><i class="ti-close"></i></a>
+                            <ul class="nav-menu">
+                                <li><img src="{{ site.baseurl }}/{{ site.logo }}" alt="wrapkit"/></li>
+                                <li class="active"><a href="#">Home</a></li>
+                                <li><a href="#">About</a></li>
+                                <li><a href="#">Product</a></li>
+                                <li><a href="#">Features</a></li>
+                                <li><a href="#">Contact</a></li>
+                                <li><a class="btn btn-success-gradiant" href="#">Get Free Quote</a></li>
+                            </ul>
+                            <ul class="info-nav">
+                                <li class="half-width"><a href="#"><i class="fa fa-envelope text-danger"></i> info@wrappixel.com</a></li>
+                                <li class="half-width"><a href="#"><i class="fa fa-phone text-danger"></i> 123 456 7890</a></li>
+                            </ul>
+                            <ul class="social-nav">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                                <li>© 2018 WrapKit</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Header 17 -->
+                <!-- ============================================================== -->

@@ -193,16 +193,20 @@
     bottom: -138px;
 }
 .banner {
-	height: 360px;
-    position: relative;
+	position: relative;
     text-align: center;
-    background-color: #0f10106b;
+    background-color: #343a40;
     background-blend-mode: overlay;
     background-size: cover;
 	background-position: center;
 	color: white;
 	border-radius: 0;
 	box-shadow: 0 0 13px -4px lightblue;
+}
+.banner .display-4 {
+	font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.2;
 }
 .carousel-indicators {
 	bottom: 50px;
@@ -322,141 +326,6 @@ figure.snip1278.hover .add-to-cart {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-
-
-// liquid button
-
-.btn-liquid {
-	display: inline-block;
-	position: relative;
-	width: 240px;
-	height: 60px;
-	border-radius: 27px;
-	color: #fff;
-	font: 600 14px/60px "Righteous", sans-serif;
-	letter-spacing: 0.05em;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.btn-liquid .inner {
-	position: relative;
-	z-index: 2;
-}
-
-.btn-liquid:hover {
-	color: white !important;
-}
-
-.btn-liquid canvas {
-	position: absolute;
-	top: -50px;
-	right: -50px;
-	bottom: -50px;
-	left: -50px;
-
-	z-index: 1;
-}
-
-
-
-
-
-//text letters change on button
-
-
-.cta {
-	
-	
-	&:active {
-		transform: translateY(3px);
-	}
-}
-
-.btn-text-parent {
-	position: relative;
-	display: inline-block;
-	overflow: hidden;
-}
-
-.wrap_text {
-	display: inline-block;
-}
-
-.buildin-btn-text {
-	position: absolute;
-	left: 0;
-	top: 0;
-	z-index: 9;
-	width: 100%;
-	transform: translateY(100%);
-
-	.btn-letter {
-		opacity: 0;
-	}
-}
-
-.btn-letter {
-	display: inline-block;
-	margin: 0em 0.05em;
-	position: relative;
-	transition: transform 300ms, opacity 300ms ease;
-}
-
-@for $i from 1 through 30 {
-	.current-btn-text {
-		.btn-letter {
-			&:nth-child(#{$i}) {
-				transition-delay: 50ms * $i - 1;
-			}
-		}
-	}
-}
-@for $i from 1 through 30 {
-	.buildin-btn-text {
-		.btn-letter {
-			&:nth-child(#{$i}) {
-				opacity: 0;
-				transition-delay: 50ms * $i - 1;
-			}
-		}
-	}
-}
-
-.cta:hover {
-	.current-btn-text {
-		.btn-letter {
-			opacity: 0;
-			transform: translateY(-100%);
-		}
-	}
-	.buildin-btn-text {
-		.btn-letter {
-			opacity: 1;
-			transform: translateY(-100%);
-		}
-	}
-}
-
-
-//end infographics 
-
-
-
-
-
-
-.btn-secondary {
-	background: transparent;
-	border: none;
-	color: rgba(0,0,0,.5) !important;
-}
-.btn-secondary {
-	background: transparent !important;
-	border: none;
-	color: rgba(0,0,0,.7);
-}
 
 // Search box
 #search-input {
@@ -883,12 +752,18 @@ width: 100%;
 .card-footer {
     padding: 0 10px 10px 10px;
 }
-.card-body {
+.card-body-custom {
     padding: 1px 5px 0px 5px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.125);
     border-top: 1px solid rgba(0, 0, 0, 0.125);
     height: 36px;
     overflow: hidden;
+}
+.card-title-custom {
+	font-size: 0.9rem;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 2;
 }
 .listrecent a.text-dark {
     font-size: 0.8rem;
