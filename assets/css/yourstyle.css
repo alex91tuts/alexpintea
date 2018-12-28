@@ -106,3 +106,27 @@ Header 17
     -webkit-align-self: auto !important;
     -ms-flex-item-align: auto !important;
     align-self: auto !important; } }
+
+/*******************
+STATIC SLIDER 1
+*******************/
+
+.static-slider1{
+    h1{
+        font-weight: 700;
+        line-height: 56px;
+        span{
+            border-bottom:3px solid $success;
+        }
+    }
+
+}
+@media(max-width:767px) {
+.static-slider1{
+        h1{
+            font-weight: 700;
+            line-height: 36px;
+            font-size:24px;
+        }
+    }
+}
