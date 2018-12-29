@@ -38,8 +38,6 @@ License: https://www.wowthemes.net/freebies-license/
 
  .site-content {
      min-height: 60vh;
-     padding-top: 1.5rem;
-     margin-top: 57px;
      transition: all 0.4s;
 }
  section {
@@ -63,6 +61,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .section-title {
 	margin-bottom: 20px;
+	margin-top: 20px;
 }
  .article-post ol, .article-post ul {
      margin-bottom:1.5rem;
