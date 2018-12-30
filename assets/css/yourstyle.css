@@ -109,7 +109,7 @@ Feature 20
 Header 17
 *******************/
 .header17 {
-	box-shadow: 0 0 10px 0 lightgray;
+	border-bottom: solid 1px whitesmoke;
 }
 .header17 .h17-nav {
   padding: 15px 0;
