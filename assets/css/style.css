@@ -1618,7 +1618,8 @@ Topbar
     -webkit-transition: 0.2s ease-in;
     -o-transition: 0.2s ease-in;
     transition: 0.2s ease-in;
-    background: #ffffff; }
+    background: #ffffff;
+	top: 0;}
     .topbar.fixed-header .navbar .navbar-brand img {
       height: 50px;
       -webkit-backface-visibility: hidden;
@@ -2901,3 +2902,5 @@ File: scss
     padding-right: 10px; }
   #slider-sec .carousel-control-prev {
     padding-left: 10px; } }
+
+

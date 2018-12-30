@@ -12,6 +12,13 @@
 @import
 	"syntax"
 ;
+.day-title {
+	font-weight: 900;
+}
+.day {
+	color: #fe6b00;
+    font-weight: 700;
+}
 
 /* Pagination Controls
 ---------------------------------------------------------------------- */
@@ -446,6 +453,8 @@ figure.snip1278.hover .add-to-cart {
     text-align: left;
     padding: 0;
     height: 362px;
+	border-radius: 3px;
+	box-shadow: 0 0 7px -3px #282525;
 }
 
 .modal-lg {
@@ -498,6 +507,9 @@ width: 100%;
 .snip1529 .date .month {
   font-size: 8px;
 }
+.snip1529 .date .day {
+  color: white;
+}
 
 .snip1529 h3,
 .snip1529 p {
@@ -508,6 +520,7 @@ width: 100%;
 .snip1529 h3 {
   font-weight: 800;
   letter-spacing: -0.4px;
+  color: white;
 }
 
 .snip1529 .hover {
@@ -517,7 +530,7 @@ width: 100%;
   left: 0;
   right: 0;
   align-items: center;
-  background: linear-gradient(to right, #67b26f, #4ca2cd);
+  background: black;
   display: flex;
   font-size: 65px;
   justify-content: center;
@@ -556,7 +569,7 @@ width: 100%;
 .snip1529.hover .hover {
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
-  opacity: 1;
+  opacity: 0.3;
 }
 
 
@@ -565,11 +578,7 @@ width: 100%;
   opacity: 0;
 }
 
-.snip1529:hover .date,
-.snip1529.hover .date {
-  -webkit-transform: translateY(-100%);
-  transform: translateY(-100%);
-}
+
 
 
 
@@ -791,6 +800,7 @@ width: 100%;
 	}
 	.snip1529 {
 		max-width: 100%;
+		margin: 3px 40px;
 	}
 	.price::after {
 		display: none;
