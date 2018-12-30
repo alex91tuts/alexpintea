@@ -47,77 +47,42 @@ title: Home
         <!-- Row  -->
         <div class="row wrap-feature-20">
             <!-- Column -->
+			{% assign posts = site.posts %}
+				{% for post in posts %}
+					{% if post.index == 1 %} 
+						            
             <div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
                 <div class="card">
                     <div class="row">
                         <div class="col-md-8">
                             <div class="card-body d-flex no-block">
-                                <div class="m-r-20"><img src="assets/images/reduceri-banner.jpeg" width="70" class="rounded" /></div>
+                                <div class="m-r-20">
+									{% assign products = site.data.prod_org[ post.category ] %} 
+										{% for product in products limit:1 %}
+									<img src="{{ product.product_pic }}" height="54" class="rounded" />
+									{% endfor %}
+								</div>
                                 <div>
-                                    <h5 class="font-medium">Make your website in no-time with us.</h5></div>
+                                    <h5 class="font-medium">Pana la <span class="day">
+										{% assign products = site.data.prod_org[ post.category ] %} 
+										{% for product in products limit:1 %}
+											{{ product.discount }}%
+										{% endfor %}
+										</span>in categoria {{ post.title | upcase }}
+									</h5>
+								</div>
                             </div>
                         </div>
                         <div class="col-md-4 text-center">
-                            <a href="javascript:void(0)" class="text-white linking bg-success-gradiant">Lets Talk <i class="ti-arrow-right"></i></a>
+                            <a href="" class="text-white linking bg-success-gradiant">Vezi Produse <i class="ti-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
+				{% endif %}
+			{% endfor %}
             <!-- Column -->
-            <!-- Column -->
-            <div class="col-lg-6" data-aos="flip-right" data-aos-duration="1200">
-                <div class="card">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="card-body d-flex no-block">
-                                <div class="m-r-20"><img src="assets/images/reduceri-banner.jpeg" width="70" class="rounded" /></div>
-                                <div>
-                                    <h5 class="font-medium">Make your website in no-time with us.</h5></div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <a href="javascript:void(0)" class="text-white linking bg-success-gradiant">Lets Talk <i class="ti-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Column -->
-            <!-- Column -->
-            <div class="col-lg-6" data-aos="zoom-in" data-aos-duration="1200">
-                <div class="card">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="card-body d-flex no-block">
-                                <div class="m-r-20"><img src="assets/images/reduceri-banner.jpeg" width="70" class="rounded" /></div>
-                                <div>
-                                    <h5 class="font-medium">Make your website in no-time with us.</h5></div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <a href="javascript:void(0)" class="text-white linking bg-success-gradiant">Lets Talk <i class="ti-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Column -->
-            <!-- Column -->
-            <div class="col-lg-6" data-aos="zoom-in" data-aos-duration="1200">
-                <div class="card">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="card-body d-flex no-block">
-                                <div class="m-r-20"><img src="assets/images/reduceri-banner.jpeg" width="70" class="rounded" /></div>
-                                <div>
-                                    <h5 class="font-medium">Make your website in no-time with us.</h5></div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <a href="javascript:void(0)" class="text-white linking bg-success-gradiant">Lets Talk <i class="ti-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Column -->
+            
             <div class="col-md-12 m-t-40 text-center">
                 <a class="btn btn-success-gradiant btn-md btn-arrow" data-toggle="collapse" href="#f20"><span>View Feature20 code <i class="ti-arrow-right"></i></span></a>
             </div>
