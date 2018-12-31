@@ -734,7 +734,7 @@ width: 100%;
 }
 .adv {
     position: absolute;
-    top: 264px;
+    top: 282px;
     left: 0px;
     background: linear-gradient(to right, #67b26f, #4ca2cd);
     color: white;
@@ -792,6 +792,9 @@ width: 100%;
     float: right;
 }
 @media (max-width:576px) {
+	.section-title {
+	margin-top: 20px;
+	}
 	.select-sort {
 	display: inline-block;
 	}

@@ -46,7 +46,7 @@ title: Home
             </div>
 			{% endif %}{% endfor %}
             <!-- Column -->
-            <div class="col-md-12 m-t-20 text-center"> <a class="btn btn-outline-success btn-md btn-arrow" data-toggle="collapse" href=""><span>VEZI TOATE CATEGORIILE <i class="ti-arrow-right"></i></span></a></div>
+            <div class="col-md-12 m-t-20 text-center"> <a class="btn btn-outline-success btn-md btn-arrow" data-toggle="collapse" href="/categorii"><span>VEZI TOATE CATEGORIILE <i class="ti-arrow-right"></i></span></a></div>
         </div>
     </div>
 </div>
@@ -98,24 +98,7 @@ title: Home
 				{% endif %}
 			{% endfor %}
             <!-- Column -->
-            
-            <div class="col-md-12 m-t-40 text-center">
-                <a class="btn btn-success-gradiant btn-md btn-arrow" data-toggle="collapse" href="http://localhost:4000/jachete%20si%20paltoane/pg1.html"><span>MAI MULTE REDUCERI <i class="ti-arrow-right"></i></span></a>
-            </div>
         </div>
         <!-- Row  -->
-    </div>
-</div>
-
-
-<div class="container">
- <div class="row listrecent">
-        {% assign posts = site.posts %}
-		{% for post in posts %}
-            {% if post.index == 1 %}
-				{% include postbox.html %}          
-            {% endif %}
-        {% endfor %}
-       
     </div>
 </div>

@@ -56,7 +56,7 @@ defaults:
       
   -
     scope:
-      path: "_posts/rochii/*" # an empty string here means all files in the project
+      path: "_posts/rochii" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
@@ -64,7 +64,7 @@ defaults:
 
   -
     scope:
-      path: "_posts/bluze/*" # an empty string here means all files in the project
+      path: "_posts/bluze" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
@@ -72,7 +72,7 @@ defaults:
       
   -
     scope:
-      path: "_posts/fuste/*" # an empty string here means all files in the project
+      path: "_posts/fuste" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
@@ -80,7 +80,7 @@ defaults:
    
   -
     scope:
-      path: "_posts/hanorace/*" # an empty string here means all files in the project
+      path: "_posts/hanorace" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
@@ -88,7 +88,7 @@ defaults:
    
   -   
     scope:
-      path: "_posts/salopete/*" # an empty string here means all files in the project
+      path: "_posts/salopete" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
@@ -96,7 +96,7 @@ defaults:
   
   -   
     scope:
-      path: "_posts/camasi/*" # an empty string here means all files in the project
+      path: "_posts/camasi" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
@@ -104,7 +104,7 @@ defaults:
   
   -   
     scope:
-      path: "_posts/Jachete si paltoane/*" # an empty string here means all files in the project
+      path: "_posts/Jachete si paltoane" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"

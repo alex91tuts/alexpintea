@@ -4,7 +4,7 @@ layout: null
 { 
 	{% assign posts = site.posts | sort | reverse  %}{% for post in posts %}{% if post.index == 1 %}
 {{ post.title }}: [                         
-                                  {% for product in site.data.products %}{% if product.category == post.title and product.price_discounted != "" %}
+                                 {% for product in products %}{% if product.category == post.title and product.price_discounted != "" %}
                                     { 
 				  					"adv_name": "{{ product.adv_name }}",
                                     "category": "{{ product.category }}",
