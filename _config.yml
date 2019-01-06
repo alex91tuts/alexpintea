@@ -109,3 +109,20 @@ defaults:
     values:
       layout: "category"
       category: "Jachete si paltoane"
+
+
+  -   
+    scope:
+      path: "_posts/ochelari" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "ochelari"
+  
+  -   
+    scope:
+      path: "_posts/chiloti dama" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "chiloti dama"

@@ -2,6 +2,8 @@
 
 layout: empty
 title: Home
+cat1: tricouri
+cat2: bluze
 
 ---
 <div class="static-slider7" style="background-image:url(assets/images/reduceri-banner.jpeg); background-size: cover;">
@@ -65,8 +67,8 @@ title: Home
         <div class="row wrap-feature-20">
             <!-- Column -->
 			{% assign posts = site.posts %}
-				{% for post in posts limit: 7 %}
-					{% if post.index == 1 %} 
+				{% for post in posts limit: 6 %}
+					 
 						            
             <div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
                 <div class="card">
@@ -95,10 +97,11 @@ title: Home
                     </div>
                 </div>
             </div>
-				{% endif %}
+				
 			{% endfor %}
             <!-- Column -->
         </div>
         <!-- Row  -->
     </div>
+</div>
 </div>
