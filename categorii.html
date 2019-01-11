@@ -20,14 +20,30 @@ title: Categorii
 </div>
 
 
-<div class="container" style="margin-top: 30px">
- <div class="row listrecent">
-        {% assign posts = site.posts %}
-		{% for post in posts %}
-            {% if post.index == 1 %}
-				{% include postbox.html %}          
-            {% endif %}
-        {% endfor %}
-       
+<div class="spacer feature24">
+    <div class="container">
+        <!-- Row -->
+        <div class="row justify-content-center">
+            <div class="col-md-7 text-center"> <span class="label label-success label-rounded">FASHION</span>
+              
+            </div>
+        </div>
+        <!-- Row -->
+        <div class="row wrap-feature-24">
+            <!-- Column -->
+			{% assign posts = site.posts %}
+				{% for post in posts %}
+					{% if post.index == 1 %} 
+            <div class="col-lg-3 col-md-6">
+                <div class="card card-shadow">
+                    <a href="{{ post.url | absolute_url }}" class="service-24"> <i class="{{ post.icon }}"></i>
+                        <h6 class="ser-title" style="font-weight: 900">{{ post.title | upcase }}</h6>
+                    </a>
+                </div>
+            </div>
+			{% endif %}{% endfor %}
+            <!-- Column -->
+            
+        </div>
     </div>
 </div>

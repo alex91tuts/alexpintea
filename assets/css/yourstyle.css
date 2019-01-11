@@ -55,6 +55,19 @@ Feature 35
 /*******************
 Feature 24
 *******************/
+.feature24 .title{
+        font-size:90px;
+        font-weight: 800;
+        line-height: 90px;
+    }
+
+@media(max-width:767px) {
+.feature24 .title {
+            font-weight: 700;
+            line-height: 50px;
+            font-size:50px;
+    }
+}
 
 .wrap-feature-24 {
   margin-top: 60px;
@@ -164,7 +177,13 @@ Header 17
       .header17 .h17-nav .h17nav-bar li a.nav-link {
         color: #8d97ad;
         padding: 10px 15px;
-        display: block; }
+        display: none; }
+
+@media (max-width: 576px) {
+	.header17 .h17-nav .h17nav-bar li a.nav-link {
+		display: block;
+	}
+}
     .header17 .h17-nav .h17nav-bar:hover .nav-link, .header17 .h17-nav .h17nav-bar.active .nav-link {
       color: #ff4d7e; }
     .header17 .h17-nav .h17nav-bar:last-child {
@@ -429,3 +448,18 @@ projects
       -webkit-transform: scale(1.1);
       -ms-transform: scale(1.1);
       transform: scale(1.1); }
+
+
+.static-slider2 .title{
+        font-size:90px;
+        font-weight: 800;
+        line-height: 90px;
+    }
+
+@media(max-width:767px) {
+.static-slider2 .title {
+            font-weight: 700;
+            line-height: 50px;
+            font-size:50px;
+    }
+}
