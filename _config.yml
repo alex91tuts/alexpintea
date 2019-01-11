@@ -9,33 +9,6 @@ google_analytics: 'UA-86031208-5'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-# Authors
-authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-
     
 # Other
 markdown: kramdown
@@ -46,83 +19,10 @@ permalink: /:categories/:title.html
 
 #defaults for product category and pages
 defaults:
-  -
-    scope:
-      path: "_posts/tricouri" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "tricouri"
-      
-  -
-    scope:
-      path: "_posts/rochii" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "rochii"
-
-  -
-    scope:
-      path: "_posts/bluze" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "bluze"
-      
-  -
-    scope:
-      path: "_posts/fuste" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "fuste"
-   
-  -
-    scope:
-      path: "_posts/hanorace" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "hanorace"
-   
   -   
     scope:
-      path: "_posts/salopete" # an empty string here means all files in the project
+      path: "_posts/fashion" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
-      category: "salopete"
-  
-  -   
-    scope:
-      path: "_posts/camasi" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "camasi"
-  
-  -   
-    scope:
-      path: "_posts/Jachete si paltoane" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "Jachete si paltoane"
-
-
-  -   
-    scope:
-      path: "_posts/ochelari" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "ochelari"
-  
-  -   
-    scope:
-      path: "_posts/chiloti dama" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "chiloti dama"
+      category: "fashion"

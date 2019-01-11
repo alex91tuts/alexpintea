@@ -2,10 +2,11 @@
 
 <div class="col-lg-3 col-md-6 col-6 mb-30px mix {{ product.adv_name | remove: ".ro" }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
     <div class="card h-100">
-        <div class="maxthumb">   
-            <a href="{{ product.product_aff_link }}" target="_blank">
-                <img class="img-fluid lazy" data-src="https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}" src="https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}" alt="{{ product.product_name }}" data-toggle="tooltip" data-placement="top" title="{{ product.manufacturer }}"> 
-            </a>
+		{% if page.categorie == "rucsacuri" or page.categorie == "curele" or page.categorie == "sosete" or page.categorie == "palarii" %}
+        <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: contain; background-repeat: no-repeat; background-position: center;" >
+			{% else %}
+			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: cover;" >
+			{% endif %}
             <span class="adv" >{{ product.adv_name }}</span><br/>
             <span class="manufacturer" >{{ product.manufacturer }}</span><br/>
         </div>
@@ -25,3 +26,5 @@
 </div>
 
 <!-- end post -->
+
+

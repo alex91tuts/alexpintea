@@ -82,10 +82,12 @@ cat2: bluze
 								</div>
                                 <div>
                                     <h5 class="font-medium">Până la <span class="day">
-										{% assign products = site.data.prod_org[ post.category ] %} 
+										{% assign products = site.data.prod_org[ post.categorie ] %}
+										{% if product.discount != 100 %}
 										{% for product in products limit:1 %}
 											{{ product.discount | strip }}%
 										{% endfor %}
+										{% endif %}
 										</span >în categoria <span class="day-title">{{ post.title | upcase }}</span>
 									</h5>
 								</div>

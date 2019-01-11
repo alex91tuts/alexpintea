@@ -7,7 +7,7 @@ title: Category
     
 <div class="section-title row">
 
-<h2 class="col-lg-6 col-6"><span>{{ page.category | upcase }}  </span></h2>
+<h2 class="col-lg-6 col-6"><span>{{ page.title | upcase }}  </span></h2>
 <div class="col-lg-6 col-6 sorting">
 	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by price">
 		<span class="filt">PRET</span>
@@ -27,8 +27,8 @@ title: Category
 </div>
 	
 	<div class="mixing col-lg-12">
-		{% assign prod = site.data.prod_org[ page.category ] %}
-		{% capture adv %}{% for adv_name in prod %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: ".ro" }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endfor %}{% endcapture %}
+		{% assign prod = site.data.prod_org[ page.categorie ] %}
+		{% capture adv %}{% for adv_name in prod limit: 200 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: ".ro" }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
@@ -37,10 +37,12 @@ title: Category
 
 <div class="row container1">
 	
-
-    {% assign products = site.data.prod_org[ page.category ] %}  
-        {% for product in products limit: 200 %}
+	{% assign site.posts = post %}
+    {% assign products = site.data.prod_org[ page.categorie ] %}  
+        {% for product in products limit: 300 %}
+			{% if product.discount != 100 %}
                 {% include product.html %}
+			{% endif %}
         {% endfor %}
     </div>
 </section>
@@ -63,7 +65,7 @@ title: Category
 	var mixer = mixitup(containerEl, {
     
 	pagination: {
-        limit: 20, // impose a limit of 8 targets per page
+        limit: 28, // impose a limit of 8 targets per page
 		maxPagers: 5
     } 
 	});
