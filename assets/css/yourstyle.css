@@ -479,7 +479,9 @@ contact 2
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
-    display: flex; }
+    display: flex;
+	min-height: 250px;  
+}
   .contact2 .detail-box {
     padding: 40px; }
     .contact2 .detail-box .round-social {

@@ -93,7 +93,7 @@ categorie3: fuste
 				{% assign products = site.data.prod_org[ page.categorie1 ] %}  
         			{% for product in products limit: 8 %}
 						{% if product.discount != 100 %}
-							{% include product.html %}
+							{% include products-3col.html %}
 						{% endif %}
         			{% endfor %}	
 				</div>
@@ -121,7 +121,7 @@ categorie3: fuste
 				{% assign products = site.data.prod_org[ page.categorie2 ] %}  
         			{% for product in products limit: 8 %}
 						{% if product.discount != 100 %}
-							{% include product.html %}
+							{% include products-3col.html %}
 						{% endif %}
         			{% endfor %}	
 				</div>
@@ -149,7 +149,7 @@ categorie3: fuste
 				{% assign products = site.data.prod_org[ page.categorie3 ] %}  
         			{% for product in products limit: 8 %}
 						{% if product.discount != 100 %}
-							{% include product.html %}
+							{% include products-3col.html %}
 						{% endif %}
         			{% endfor %}	
 				</div>

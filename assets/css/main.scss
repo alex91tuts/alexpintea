@@ -770,11 +770,10 @@ width: 100%;
     overflow: hidden;
 }
 .card-title-custom {
-	font-size: 0.9rem !important;
-    font-style: italic !important;
+    font-size: 0.8rem !important;
     font-weight: 700 !important;
-    line-height: 2 !important;
-}
+    line-height: 3 !important;
+	}
 .listrecent a.text-dark {
     font-size: 0.8rem;
 }
@@ -785,6 +784,7 @@ width: 100%;
 .card:hover  {
    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0); 
     transition: 0.3s;
+	-webkit-transform: translateY(-5px);
 }
 .img-left {
     float: left;
