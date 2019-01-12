@@ -28,7 +28,7 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] %}
-		{% capture adv %}{% for adv_name in prod limit: 200 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: ".ro" }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endfor %}{% endcapture %}
+		{% capture adv %}{% for adv_name in prod limit: 300 %}{% if adv_name.adv_name != page.exception %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: ".ro" }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
@@ -40,7 +40,7 @@ title: Category
 	{% assign site.posts = post %}
     {% assign products = site.data.prod_org[ page.categorie ] %}  
         {% for product in products limit: 300 %}
-			{% if product.discount != 100 %}
+			{% if product.discount != 100 and product.adv_name != page.exception %}
                 {% include product.html %}
 			{% endif %}
         {% endfor %}

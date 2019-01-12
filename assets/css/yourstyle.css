@@ -462,4 +462,85 @@ projects
             line-height: 50px;
             font-size:50px;
     }
+.cont-over {
+	display: flex; flex-wrap: nowrap; overflow-x: auto;
+	}
+}
+/*******************
+contact 2
+*******************/
+.contact2 {
+  padding: 60px 0;
+  margin-bottom: 0;
+  background-position: center top; }
+  .contact2 .bg-image {
+    background-size: cover;
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+  .contact2 .detail-box {
+    padding: 40px; }
+    .contact2 .detail-box .round-social {
+      margin-top: 100px; }
+      .contact2 .detail-box .round-social.light a {
+        background: transparent;
+        color: #ffffff;
+        border: 2px solid #ffffff;
+        margin: 0 7px;
+        height: 49px;
+        width: 49px;
+        line-height: 49px; }
+  .contact2 .contact-container {
+    position: relative;
+    top: 0; }
+    .contact2 .contact-container .links a {
+      color: #8d97ad; }
+/*******************
+static slider 3
+*******************/
+
+.static-slider3{
+    padding: 10% 0;
+    h1{
+        font-weight: 300;
+        line-height: 50px;
+        span{
+            border-bottom:3px solid $success;
+        }
+    }
+
+}
+@media(max-width:767px) {
+.static-slider3{
+        h1{
+            line-height: 30px;
+            font-size:24px;
+        }
+    }
+}
+
+/*******************
+feature 22
+*******************/
+
+.wrap-feature-22 {
+  margin-top: 60px;
+}
+
+.wrap-feature-22 .text-box {
+  padding: 0 30px;
+}
+
+.wrap-feature-22 .text-box h3 {
+  margin: 10px 0 25px 0;
+}
+
+/*******************
+feature 26
+*******************/
+
+.wrap-feature-26 .max-box {
+  max-width: 580px;
 }
