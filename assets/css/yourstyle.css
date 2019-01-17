@@ -302,7 +302,7 @@ STATIC SLIDER 7
 
 @media(max-width:767px) {
     .static-slider7 h1.title{
-        font-size:60px;
+        font-size:40px;
         line-height: 70px;
     }
 }

@@ -47,3 +47,47 @@ title: Tehnologie
         </div>
     </div>
 </div>
+
+
+
+
+<div class="bg-light spacer feature20 up">
+    <div class="container">
+        <!-- Row  -->
+        <div class="row justify-content-center">
+            <div class="col-md-7 text-center">
+                <span class="label label-success label-rounded">CATEGORII GENERALE</span>
+                <h2 class="title">CATEGORII DE PRODUSE LA REDUCERE</h2>
+                <h6 class="subtitle">ÎN CURÂND MAI MULTE CATEGORII!</h6>
+            </div>
+        </div>
+        <!-- Row  -->
+        <div class="row wrap-feature-20">
+            <!-- Column -->
+			{% assign posts = site.posts %}
+				{% for post in posts %}
+					{% if post.category == "tehnologie" %} 
+            <div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
+                <div class="card">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="card-body d-flex no-block">
+                                <div class="m-r-20" style="font-size: 36px; color: #ff6a5b"><i class="{{ post.icon }}"></i></div>
+                                <div>
+                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">{{ post.title | upcase }}</h5>
+									
+								</div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="{{ post.url }}" class="text-white linking bg-success-gradiant">PRODUSE <i class="ti-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>{% endif %}{% endfor %}
+            <!-- Column -->
+            
+        </div>
+        <!-- Row  -->
+    </div>
+</div>
