@@ -871,7 +871,7 @@ width: 100%;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     font-weight: 600;
     bottom: 72px;
-    left: auto;
+    left: auto !important;
 	right: 2px;
     text-decoration: line-through red;
     }
