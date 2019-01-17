@@ -26,3 +26,11 @@ defaults:
     values:
       layout: "category"
       category: "fashion"
+
+  -   
+    scope:
+      path: "_posts/tehnologie" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "tehnologie"

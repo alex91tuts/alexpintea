@@ -1,8 +1,0 @@
----
-layout: null
----
-[
-	{% assign category = site.data.products %}{% capture cat %}{% for categorie in category %}{% if categorie.price_discounted != "" %}{{ categorie.category }}{{ categorie.category | size }}{% unless forloop.last %}, {% endunless %}| {% endif %}{% endfor %}{% endcapture %}
-	{{ cat | split: "| " | uniq }}
-    
-]

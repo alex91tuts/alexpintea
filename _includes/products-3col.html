@@ -2,7 +2,7 @@
 
 <div class="col-lg-3 col-md-6 col-6 mb-30px mix card-group" style="flex: 0 0 auto;" data-aos="fade-right">
     <div class="card h-100">
-		{% if page.categorie == "rucsacuri" or page.categorie == "curele" or page.categorie == "sosete" or page.categorie == "palarii" %}
+		{% if page.categorie == "rucsacuri" or page.categorie == "curele" or page.categorie == "sosete" or page.categorie == "palarii" or page.categorie == "laptopuri" %}
         <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: contain; background-repeat: no-repeat; background-position: center;" >
 			{% else %}
 			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: cover;" >
@@ -16,7 +16,12 @@
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="price">{{ product.price_discounted | round: 0 }} Lei</span><br/>
-                <span class="old-price">{{ product.price_vat | round: 0 }} Lei</span><br/>
+                {% if product.price_vat > 999 %}
+                <span class="old-price" style="left: 45px;">
+					{% else %}
+				<span class="old-price">
+					{% endif %}
+					{{ product.price_vat | round: 0 }} Lei</span><br/>
                 <span class="perc">{{ product.discount }}%</span><br/>
                 <span class="categorie">{{ product.category | upcase }}</span>              
                 <a class="citeste" href="{{ product.product_aff_link }}" target="_blank">VEZI PRODUS</a>

@@ -2,13 +2,13 @@
 
 layout: empty
 title: Home
-categorie: bluze
+categorie: laptopuri
 categorie1: salopete
 categorie2: paltoane
 categorie3: fuste
 
 ---
-<div class="static-slider7" style="background-image:url(assets/images/reduceri-banner.jpeg); background-size: cover; background-position: center;">
+<div class="static-slider7" style="background-image:url(assets/images/reduceri-banner.jpg); background-size: cover; background-position: center;">
     <div class="container">
         <!-- Row  -->
         <div class="row justify-content-center ">
@@ -24,36 +24,60 @@ categorie3: fuste
 </div>
 
 
-<a id="categs"></a>
-<div class="spacer feature24">
+<div class="spacer feature20 up">
     <div class="container">
-        <!-- Row -->
+        <!-- Row  -->
         <div class="row justify-content-center">
-            <div class="col-md-7 text-center"> <span class="label label-success label-rounded">PROFITĂ ACUM</span>
-                <h2 class="title">CATEGORII<span class="text-megna">.</span></h2>
-                <h6 class="subtitle">CELE MAI MARI REDUCERI!</h6>
+            <div class="col-md-7 text-center">
+                <span class="label label-success label-rounded">CATEGORII GENERALE</span>
+                <h2 class="title">CATEGORII DE PRODUSE LA REDUCERE</h2>
+                <h6 class="subtitle">Cele mai bune oferte într-un singur loc!</h6>
             </div>
         </div>
-        <!-- Row -->
-        <div class="row wrap-feature-24">
+        <!-- Row  -->
+        <div class="row wrap-feature-20">
             <!-- Column -->
-			{% assign posts = site.posts | sort %}
-				{% for post in posts limit:8 %}
-					{% if post.index == 1 %} 
-            <div class="col-lg-3 col-md-6">
-                <div class="card card-shadow">
-                    <a href="{{ post.url | absolute_url }}" class="service-24"> <i class="{{ post.icon }}"></i>
-                        <h6 class="ser-title" style="font-weight: 900">{{ post.title | upcase }}</h6>
-                    </a>
+            <div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
+                <div class="card">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="card-body d-flex no-block">
+                                <div class="m-r-20"><img src="/assets/images/catfashion.jpg" width="70" class="rounded" /></div>
+                                <div>
+                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">ÎMBRĂCĂMINTE</h5>
+									
+								</div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="/fashion.html" class="text-white linking bg-success-gradiant">PRODUSE <i class="ti-arrow-right"></i></a>
+                        </div>
+                    </div>
                 </div>
             </div>
-			{% endif %}{% endfor %}
             <!-- Column -->
-            <div class="col-md-12 m-t-20 text-center"> <a class="btn btn-outline-success btn-md btn-arrow" href="/categorii"><span>VEZI TOATE CATEGORIILE <i class="ti-arrow-right"></i></span></a></div>
+            <!-- Column -->
+            <div class="col-lg-6" data-aos="flip-right" data-aos-duration="1200">
+                <div class="card">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="card-body d-flex no-block">
+                                <div class="m-r-20"><img src="/assets/images/cattehnologie.jpg" width="70" class="rounded" /></div>
+                                <div>
+                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">TEHNOLOGIE</h5></div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="/tehnologie.html" class="text-white linking bg-success-gradiant">PRODUSE <i class="ti-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Column -->
         </div>
+        <!-- Row  -->
     </div>
 </div>
-
 <div class="static-slider2 spacer" style="background-color: rgb(244, 248, 250) !important;">
     <div class="container">
         <!-- Row  -->

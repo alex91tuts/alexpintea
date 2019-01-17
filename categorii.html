@@ -4,7 +4,7 @@ layout: empty
 title: Categorii
 
 ---
-<div class="static-slider7" style="background-image:url(assets/images/categorii.jpeg); background-size: cover;">
+<div class="static-slider7" >
     <div class="container">
         <!-- Row  -->
         <div class="row justify-content-center ">
@@ -20,30 +20,57 @@ title: Categorii
 </div>
 
 
-<div class="spacer feature24">
+<div class="bg-light spacer feature20 up">
     <div class="container">
-        <!-- Row -->
+        <!-- Row  -->
         <div class="row justify-content-center">
-            <div class="col-md-7 text-center"> <span class="label label-success label-rounded">FASHION</span>
-              
+            <div class="col-md-7 text-center">
+                <span class="label label-success label-rounded">CATEGORII GENERALE</span>
+                <h2 class="title">CATEGORII DE PRODUSE LA REDUCERE</h2>
+                <h6 class="subtitle">ÎN CURÂND MAI MULTE CATEGORII!</h6>
             </div>
         </div>
-        <!-- Row -->
-        <div class="row wrap-feature-24">
+        <!-- Row  -->
+        <div class="row wrap-feature-20">
             <!-- Column -->
-			{% assign posts = site.posts %}
-				{% for post in posts %}
-					{% if post.index == 1 %} 
-            <div class="col-lg-3 col-md-6">
-                <div class="card card-shadow">
-                    <a href="{{ post.url | absolute_url }}" class="service-24"> <i class="{{ post.icon }}"></i>
-                        <h6 class="ser-title" style="font-weight: 900">{{ post.title | upcase }}</h6>
-                    </a>
+            <div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
+                <div class="card">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="card-body d-flex no-block">
+                                <div class="m-r-20"><img src="/assets/images/catfashion.jpg" width="70" class="rounded" /></div>
+                                <div>
+                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">ÎMBRĂCĂMINTE</h5>
+									
+								</div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="/fashion.html" class="text-white linking bg-success-gradiant">PRODUSE <i class="ti-arrow-right"></i></a>
+                        </div>
+                    </div>
                 </div>
             </div>
-			{% endif %}{% endfor %}
             <!-- Column -->
-            
+            <!-- Column -->
+            <div class="col-lg-6" data-aos="flip-right" data-aos-duration="1200">
+                <div class="card">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="card-body d-flex no-block">
+                                <div class="m-r-20"><img src="/assets/images/cattehnologie.jpg" width="70" class="rounded" /></div>
+                                <div>
+                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">TEHNOLOGIE</h5></div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="/tehnologie.html" class="text-white linking bg-success-gradiant">PRODUSE <i class="ti-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Column -->
         </div>
+        <!-- Row  -->
     </div>
 </div>
