@@ -1,0 +1,33 @@
+<!-- begin post -->
+<div class="col-lg-3 col-md-6 col-6 mb-30px mix {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
+    <div class="card h-100">
+		<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/245/x/{{ product.product_pic }}); background-size: contain; background-repeat: no-repeat; background-position: center; height: 240px !important;">
+			<style>
+			@media (max-width: 578px) {
+    			
+				}
+			</style>
+            <span class="adv" style="border-radius: 0 5px 5px 0;">{{ product.adv_name }}</span><br/>
+            <span class="manufacturer" >{{ product.manufacturer }}</span><br/>
+        </div>
+        <div class="card-body-custom">
+            <h2 class="card-title-custom"><a class="text-dark" href="{{ product.product_aff_link }}" target="_blank">{{ product.product_name }}</a></h2>     
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="price">{{ product.price_discounted | round: 0 }} Lei</span><br/>
+				{% if product.price_vat > 999 %}
+                <span class="old-price" style="left: 45px;">
+					{% else %}
+				<span class="old-price">
+					{% endif %}
+					{{ product.price_vat | round: 0 }} Lei</span><br/>
+                <span class="perc">{{ product.discount }}%</span><br/>
+                             
+                <a class="citeste" href="{{ product.product_aff_link }}" target="_blank">VEZI PRODUS</a>
+             </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+

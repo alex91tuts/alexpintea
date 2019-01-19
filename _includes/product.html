@@ -1,9 +1,13 @@
 <!-- begin post -->
-
-<div class="col-lg-3 col-md-6 col-6 mb-30px mix {{ product.adv_name | remove: ".ro" }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
+<div class="col-lg-3 col-md-6 col-6 mb-30px mix {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
     <div class="card h-100">
 		{% if page.categorie == "rucsacuri" or page.categorie == "curele" or page.categorie == "sosete" or page.categorie == "palarii" or page.category == "tehnologie" %}
-        <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: contain; background-repeat: no-repeat; background-position: center;" >
+        <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/145/x/{{ product.product_pic }}); background-size: 145px; background-repeat: no-repeat; background-position: center;">
+			<style>
+			@media (max-width: 578px) {
+    			.maxthumb { background-size: 100px !important;}
+				}
+			</style>
 			{% else %}
 			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: cover;" >
 			{% endif %}
@@ -23,13 +27,12 @@
 					{% endif %}
 					{{ product.price_vat | round: 0 }} Lei</span><br/>
                 <span class="perc">{{ product.discount }}%</span><br/>
-                <span class="categorie">{{ page.title| upcase }}</span>              
+                             
                 <a class="citeste" href="{{ product.product_aff_link }}" target="_blank">VEZI PRODUS</a>
              </div>
         </div>
     </div>
 </div>
-
 <!-- end post -->
 
 

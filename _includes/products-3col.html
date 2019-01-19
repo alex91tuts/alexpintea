@@ -2,13 +2,18 @@
 
 <div class="col-lg-3 col-md-6 col-6 mb-30px mix card-group" style="flex: 0 0 auto;" data-aos="fade-right">
     <div class="card h-100">
-		{% if page.categorie == "rucsacuri" or page.categorie == "curele" or page.categorie == "sosete" or page.categorie == "palarii" or page.categorie == "laptopuri" %}
-        <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: contain; background-repeat: no-repeat; background-position: center;" >
+		{% if product.category == "Notebook / Laptop" %}
+        <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/145/x/{{ product.product_pic }}); background-size: 145px; background-repeat: no-repeat; background-position: center;">
+			<style>
+			@media (max-width: 578px) {
+    			.maxthumb { background-size: 100px !important;}
+				}
+			</style>
 			{% else %}
-			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: cover;" >
+			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-repeat: no-repeat; background-size: cover !important;" >
 			{% endif %}
             <span class="adv" >{{ product.adv_name }}</span><br/>
-            <span class="manufacturer" >{{ product.manufacturer }}</span><br/>
+            
         </div>
         <div class="card-body-custom">
             <h2 class="card-title-custom"><a class="text-dark" href="{{ product.product_aff_link }}" target="_blank">{{ product.product_name }}</a></h2>     
@@ -23,7 +28,7 @@
 					{% endif %}
 					{{ product.price_vat | round: 0 }} Lei</span><br/>
                 <span class="perc">{{ product.discount }}%</span><br/>
-                <span class="categorie">{{ product.category | upcase }}</span>              
+                      
                 <a class="citeste" href="{{ product.product_aff_link }}" target="_blank">VEZI PRODUS</a>
              </div>
         </div>

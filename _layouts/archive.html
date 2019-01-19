@@ -11,12 +11,12 @@ title: Archive
 </div>
 <div class="row listrecent">
 
-{% for post in page.posts %}
-
-    {% include postbox.html %}
-
-{% endfor %}
-
+{{% assign products = site.data.prod_org[ page.categorie ] %}  
+        {% for product in products %}
+			{% if product.discount != 100 and product.adv_name != page.exception %}
+                {% include product.html %}
+			{% endif %}
+        {% endfor %}
 </div>
 </section>
 

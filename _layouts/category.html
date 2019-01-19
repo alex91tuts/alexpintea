@@ -28,7 +28,7 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] %}
-		{% capture adv %}{% for adv_name in prod limit: 300 %}{% if adv_name.adv_name != page.exception %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: ".ro" }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
+		{% capture adv %}{% for adv_name in prod %}{% if adv_name.adv_name != page.exception and adv_name.discount !=100 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: '.ro' | remove: " " }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
@@ -40,16 +40,19 @@ title: Category
 	{% assign site.posts = post %}
     {% assign products = site.data.prod_org[ page.categorie ] %}  
         {% for product in products limit: 300 %}
-			{% if product.discount != 100 and product.adv_name != page.exception %}
+			{% if product.discount != 100 and product.adv_name != page.exception and page.category == "fashion" or page.category == "tehnologie" %}
                 {% include product.html %}
+			{% elsif page.category == "incaltaminte" %}
+				{% include incaltaminte.html %}
 			{% endif %}
         {% endfor %}
     </div>
 </section>
 
-<div class="controls-pagination">
+		<div class="controls-pagination">
             <div class="mixitup-page-list"></div>
-        </div>
+   		</div>
+
 </div>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.lazy.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
@@ -66,7 +69,9 @@ title: Category
     
 	pagination: {
         limit: 28, // impose a limit of 8 targets per page
-		maxPagers: 5
+		maxPagers: 5,
+		maintainActivePage: false,
+		hidePageListIfSinglePage: true
     } 
 	});
 	

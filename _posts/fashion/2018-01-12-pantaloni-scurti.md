@@ -5,5 +5,6 @@ index: 1
 title: pantaloni scurți
 categorie: pantaloni scurți
 icon: icon-Short-Pants 
+exception: "FashionDays.ro"
 
 ---
