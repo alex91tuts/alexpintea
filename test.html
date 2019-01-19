@@ -4,61 +4,33 @@ layout: empty
 title: Categorii
 
 ---
-<div class="static-slider7" >
-    <div class="container">
-        <!-- Row  -->
-        <div class="row justify-content-center ">
-            <!-- Column -->
-            <div class="col-md-8 align-self-center text-center">
-                <h1 class="title text-white">CATEGORII</h1>
-                               
-            </div>
-            <!-- Column -->
-            
-        </div>
-    </div>
-</div>
 
-
-		
-			<div class="spacer feature2">
-    <div class="container">
-        <!-- Row  -->
-        <div class="row justify-content-center">
-            <div class="col-md-7 text-center">
-                <span class="label label-info label-rounded">Feature 2</span>
-                <h2 class="title">Awesome with Extra Ordinary Flexibility</h2>
-                <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
-            </div>
-        </div>
-        <div class="row m-t-40">
-		{% assign products = site.data.pegas %}  
-			{% for product in products limit: 5 %}
-			{% if product.category == "Cartuse & Tonere" or product.category == "Accesorii telefoane mobile" %}
-			
-        
-            <!-- Column -->
-            <div class="col-md-4 wrap-feature2-box">
-                <div class="card card-shadow" data-aos="flip-left" data-aos-duration="1200">
-                    <img class="card-img-top" src="{{ product.image_urls }}" alt="wrappixel kit" />
-                    <div class="card-body text-center">
-                        <h5 class="font-medium"> {{ product.title }}</h5>
-                        <p class="m-t-20">{{ product.price }} RON</p>
-						<p class="m-t-20">{{ product.category }} RON</p>
-                    </div>
-                </div>
-            </div>
-            {% endif %}
-            {% endfor %}
-            <div class="col-md-12 m-t-20 text-center">
-                <a class="btn btn-info-gradiant btn-md btn-arrow"><span>View Feature2 code <i class="ti-arrow-right"></i></span></a>
-            </div>
-        </div>
-    </div>
-</div>
-		
-<style>
-.wrap-feature2-box .card-body {
-  padding: 40px;
-}
-</style>
+					<div class="container">
+						<div class="hover-dropdown font-14" id="h6-info">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="h6-dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                  Shop <i class="fa fa-angle-down m-l-5"></i>
+                                </a>
+                                    <ul class="b-none dropdown-menu font-14 animated fadeInUp">
+                                        <li class="dropdown-submenu"> <a class="dropdown-toggle dropdown-item" href="javascript:void(0)" aria-haspopup="true" aria-expanded="false">Shop Listing <i class="fa fa-angle-right ml-auto"></i></a>
+                                            <ul class="dropdown-menu menu-right font-14 b-none animated flipInY">
+                                                <li><a class="dropdown-item font-medium">With Sidebar</a></li>
+                                                <li><a class="dropdown-item" href="shop-listing-2-column-sidebar.html" target="_blank">2 Columns</a></li>
+                                                <li><a class="dropdown-item" href="shop-listing-3-column-sidebar.html" target="_blank">3 Columns</a></li>
+                                                <li class="divider" role="separator"></li>
+                                                <li><a class="dropdown-item font-medium">Without Sidebar</a></li>
+                                                <li><a class="dropdown-item" href="shop-listing-3-column-nosidebar.html" target="_blank">3 Columns</a></li>
+                                                <li><a class="dropdown-item" href="shop-listing-4-column-nosidebar.html" target="_blank">4 Columns</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item" href="shop-detail.html" target="_blank">Shop Details</a></li>
+                                        <li><a class="dropdown-item" href="shop-cart.html" target="_blank">Shopping Cart</a></li>
+                                        <li><a class="dropdown-item" href="shop-checkout.html" target="_blank">Checkout</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <div class="act-buttons">
+                                <button class="btn btn-success-gradiant font-14">Buy Now</button>
+                            </div>
+                        </div>
+					</div>

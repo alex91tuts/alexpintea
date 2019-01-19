@@ -7,7 +7,7 @@ title: Category
     
 <div class="section-title row">
 
-<h2 class="col-lg-6 col-6"><span>{{ page.title | upcase }}  </span></h2>
+<h2 class="col-lg-6 col-6"><span>{{ page.title | upcase }}</span></h2>
 <div class="col-lg-6 col-6 sorting">
 	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by price">
 		<span class="filt">PRET</span>
@@ -28,12 +28,31 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] %}
-		{% capture adv %}{% for adv_name in prod %}{% if adv_name.adv_name != page.exception and adv_name.discount !=100 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ adv_name.adv_name | remove: '.ro' | remove: " " }}">{{ adv_name.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
+		{% capture adv %}{% for product in prod %}{% if product.adv_name != page.exception and product.discount !=100 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
 </div>
-			
+	<!--
+					<div class="container">
+						<div class="hover-dropdown font-14" id="h6-info">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="#" id="h6-dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+										Shop <i class="fa fa-angle-down m-l-5"></i>
+									</a>
+                                    <ul class="b-none dropdown-menu font-14 animated fadeInUp" style="width: fit-content;">
+										{% assign prod = site.data.prod_org[ page.categorie ] %}
+										{% capture adv %}{% for product in prod limit: 300 %}{% if product.discount !=100 %}<button type="button" class="" style="flex: 0 0 auto;" data-toggle=".{{ product.manufacturer | remove: '.ro' | remove: " " }}">{{ product.manufacturer | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
+										{{ adv | split: ", " | uniq }} 
+                                        <li class="divider" role="separator"></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+					</div>						
+	-->							
+
 
 <div class="row container1">
 	
@@ -42,7 +61,7 @@ title: Category
         {% for product in products limit: 300 %}
 			{% if product.discount != 100 and product.adv_name != page.exception and page.category == "fashion" or page.category == "tehnologie" %}
                 {% include product.html %}
-			{% elsif page.category == "incaltaminte" %}
+			{% elsif page.category == "incaltaminte" or page.category == "cosmetice-parfumuri" %}
 				{% include incaltaminte.html %}
 			{% endif %}
         {% endfor %}
@@ -84,8 +103,8 @@ title: Category
 	$(function() {
         $('.lazy').Lazy();
     });
-    </script>
 
+</script>
 
 
 

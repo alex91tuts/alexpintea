@@ -1,5 +1,5 @@
 <!-- begin post -->
-<div class="col-lg-3 col-md-6 col-6 mb-30px mix {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
+<div class="col-lg-3 col-md-6 col-6 mb-30px mix {{ product.manufacturer | remove: " " }} {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
     <div class="card h-100">
 		<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/245/x/{{ product.product_pic }}); background-size: contain; background-repeat: no-repeat; background-position: center; height: 240px !important;">
 			<style>
