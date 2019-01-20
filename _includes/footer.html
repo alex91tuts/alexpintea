@@ -1,0 +1,73 @@
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" style="width: 30px;" /> Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">
+				<a style="color: black" href="/politica-confidentialitate">POLITICA DE CONFIDENȚIALITATE |</a>
+				<a style="color: black" href="/politica-cookie">POLITICA DE COOKIE |</a>
+				<a style="color: black" href="/termeni-conditii">TERMENI ȘI CONDIȚII</a>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+   
+</div> <!-- /.site-content -->
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+    
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    
+<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+    
+<script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/jquery.touchSwipe.min.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/isotope.pkgd.min.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/owl.carousel.min.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/aos.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/type.js"></script>
+
+<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/jquery.ihavecookies.js"></script>
+
+<script type="text/javascript">
+    $('.tgl-cl').on('click', function() {
+        $('body .h17-main-nav').toggleClass("show");
+    });
+	
+	$('body').ihavecookies({
+  		title: "Cookie-uri",
+		message: "Acest website folosește cookie-uri pentru a se asigura că îți oferim cea mai bună experiență.",
+		link: "/politica-cookie.html",
+		delay: 2000,
+		expires: 30,
+		acceptBtnLabel: 'Acceptă',
+		 moreInfoLabel: 'Mai multe'
+});
+	
+</script>
+    
+
+
+</body>
+</html>
