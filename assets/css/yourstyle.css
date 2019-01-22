@@ -11,6 +11,15 @@ File: scss
 /*Extra Variable*/
 /*Gradiant*/
 
+/*******************
+custom
+*******************/
+.categorie {
+	background: linear-gradient(to right, #ff6a5b 0%, #ff4d7e 100%);
+} 
+.tit {
+	color: inherit;
+}
 
 
 
@@ -90,6 +99,8 @@ Feature 24
   text-align: center;
   padding: 40px 0;
   display: block;
+  border: solid 1px lightsteelblue;
+  border-radius: 3px;	
 }
 .wrap-feature-24 .title {
 	font-weight: 900;
