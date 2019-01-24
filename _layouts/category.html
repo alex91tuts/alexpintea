@@ -59,10 +59,14 @@ title: Category
 	{% assign site.posts = post %}
     {% assign products = site.data.prod_org[ page.categorie ] %}  
         {% for product in products limit: 300 %}
-			{% if product.discount != 100 and product.adv_name != page.exception and page.category == "fashion" or page.category == "tehnologie" %}
+			{% if page.categorie contains "orange" %}
+				{% include faradiscount.html %}
+			{% elsif product.discount != 100 and product.adv_name != page.exception and page.category == "fashion" or page.category == "tehnologie" %}
                 {% include product.html %}
 			{% elsif page.category == "incaltaminte" or page.category == "cosmetice-parfumuri" %}
 				{% include incaltaminte.html %}
+			{% else %}
+				{% include product.html %}
 			{% endif %}
         {% endfor %}
     </div>
