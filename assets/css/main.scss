@@ -875,4 +875,40 @@ width: 100%;
 	right: 2px;
     text-decoration: line-through red;
     }
+	.title-category {
+		opacity: 1 !important;
+	}
+}
+
+.card-category {
+  position: relative;
+  height: 450px;
+  box-shadow: 0 10px 25px 0 rgba(black,.5);
+  transition: .5s;
+  border-radius: 0 !important;
+  margin-right: 5px !important;
+  margin-left: 5px !important;
+  
+  &:hover {
+    transition: .5s;
+    .title-category {
+      padding-bottom: 50px;
+      transition: .5s;
+    }
+  }
+  
+ a .title-category {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    font-size: 26px;
+    font-weight: 300;
+    padding: 30px 0;
+    background: linear-gradient(to top, #000, transparent);
+    text-transform: uppercase;
+    text-align: center;
+    transition: .5s;
+	font-weight: 600;
+  }
 }
