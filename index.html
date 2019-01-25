@@ -2,10 +2,10 @@
 
 layout: empty
 title: Home
-categorie: laptopuri
+categorie: monitoare
 categorie1: salopete
 categorie2: paltoane
-categorie3: fuste
+categorie3: parfumuri-barbati
 
 ---
 <div class="static-slider7" style="background-image:url(assets/images/reduceri-banner.jpg); background-size: cover; background-position: center;">
@@ -47,7 +47,7 @@ categorie3: fuste
 		<!-- Column -->
 		<!-- Column -->
 			<div class="card card-category" style="background: url('assets/images/cat-ingrijire.jpg') no-repeat center/cover;">
-				<a href="" style="color: white;"><div class="title-category" >ÎNGRIJIRE</div></a>
+				<a href="/cosmetice-parfumuri.html" style="color: white;"><div class="title-category" >ÎNGRIJIRE</div></a>
 			</div>
 		<!-- Column -->
 		</div>
@@ -76,7 +76,7 @@ categorie3: fuste
 				{% assign products = site.data.prod_org[ page.categorie ] %}  
         			{% for product in products limit: 8 %}
 						{% if product.discount != 100 %}
-							{% include products-3col.html %}
+							{% include product.html %}
 						{% endif %}
         			{% endfor %}	
 				</div>
@@ -159,7 +159,7 @@ categorie3: fuste
 				{% assign products = site.data.prod_org[ page.categorie3 ] %}  
         			{% for product in products limit: 8 %}
 						{% if product.discount != 100 %}
-							{% include products-3col.html %}
+							{% include incaltaminte.html %}
 						{% endif %}
         			{% endfor %}	
 				</div>

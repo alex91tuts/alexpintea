@@ -1,8 +1,8 @@
 # Site
-name: "TotulRedus"
+name: "TotRedus"
 description: "Reduceri Reduceri Reduceri"
 meta_description: "Cele mai mari reduceri la o varietate largă de produse."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/log-tr.jpg'
 favicon: 'favicon.png'
 url: "https://totredus.ro"
 google_analytics: 'UA-86031208-5'

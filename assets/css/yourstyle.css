@@ -394,7 +394,7 @@ Header 17
 	top: 0;
 }
 .header17 .h17-nav {
-  padding: 15px 30px;
+  padding: 5px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -864,4 +864,34 @@ button#gdpr-cookie-advanced {
     margin-right: 5px;
 }
 
+/* Load More Button
+---------------------------------------------------------------------- */
+
+.load-more-wrapper {
+    text-align: center;
+    padding: 1rem;
+}
+
+.load-more {
+    display: inline-block;
+    background: #0cd49a;
+    font-size: 1rem;
+    font-family: 'helvetica', arial, sans-serif;
+    padding: 5px;
+    min-width: 8rem;
+    cursor: pointer;
+    color: #333;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .05);
+    border-radius: 31px;
+    color: white;
+    font-weight: 800;
+	outline: none !important;
+}
+
+
+.load-more:disabled {
+    opacity: .5;
+    color: #aaa;
+    cursor: default;
+}
 
