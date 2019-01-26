@@ -821,6 +821,9 @@ width: 100%;
     }
     .adv {
     top: 172px;
+	top: 172px;
+    background: white;
+    color: black;
     }
     .perc {
     width: 40px;
@@ -849,8 +852,8 @@ width: 100%;
     padding: 5px 7px;
     border: solid 1px lightgray;
     border-radius: 3px;
-    background: linear-gradient(to right, #67b26f, #4ca2cd);
-    color: white;
+    background: white;
+    color: #3aba85;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     font-weight: 700;
     position: absolute;

@@ -219,6 +219,11 @@ License: https://www.wowthemes.net/freebies-license/
      margin-top:3px;
      cursor:pointer;
 }
+@media (max-width: 578px) {
+	.navbar-brand img {
+		max-height: 34px !important;
+	}
+}
 .navbar-brand img {
      max-height: 55px;
      margin-right:5px;
