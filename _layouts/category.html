@@ -28,7 +28,7 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] %}
-		{% capture adv %}{% for product in prod %}{% if product.adv_name != page.exception and product.discount !=100 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
+		{% capture adv %}{% for product in prod limit: 300 %}{% if product.adv_name != page.exception and product.discount !=100 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
