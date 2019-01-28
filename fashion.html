@@ -18,7 +18,9 @@ title: fashion
         <div class="row wrap-feature-24">
             <!-- Column -->
 			{% assign posts = site.posts %}
+			{% assign products = site.data.prod_org[ page.categorie ] %}
 				{% for post in posts %}
+					{% if products != "" %}
 					{% if post.category == "fashion" %} 
             <div class="col-lg-3 col-md-6">
                 <div class="card card-shadow">
@@ -27,7 +29,7 @@ title: fashion
                     </a>
                 </div>
             </div>
-			{% endif %}{% endfor %}
+			{% endif %}{% endif %}{% endfor %}
             <!-- Column -->
             
         </div>

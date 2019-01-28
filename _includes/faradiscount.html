@@ -25,7 +25,7 @@
 					{{ product.price_vat | round: 0 }} Lei</span><br/>
                 <span class="perc" style="display: none">{{ product.discount }}%</span><br/>
                              
-                <a class="citeste" href="{{ product.product_aff_link }}" target="_blank">VEZI PRODUS</a>
+                <a class="citeste" href="{{ product.product_aff_link }}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank">VEZI PRODUS</a>
              </div>
         </div>
     </div>
