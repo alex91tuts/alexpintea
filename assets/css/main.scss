@@ -824,6 +824,10 @@ width: 100%;
 	top: 172px;
     background: white;
     color: black;
+	border-radius: 0 5px 5px 0;
+    border-top: solid 1px lightgray;
+    border-right: solid 1px lightgray;
+    border-bottom-right-radius: 0 !important;
     }
     .perc {
     width: 40px;
@@ -850,11 +854,9 @@ width: 100%;
     }
     .price {
     padding: 5px 7px;
-    border: solid 1px lightgray;
-    border-radius: 3px;
-    background: white;
+	background: white;
     color: #3aba85;
-    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: none;
     font-weight: 700;
     position: absolute;
     bottom: 2px;
