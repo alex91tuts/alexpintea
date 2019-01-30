@@ -80,7 +80,7 @@ categorie:
                 <h1 class="title">{{ item }}<span class="text-megna">.</span></h1>
 				
 				<div class="row container1 cont-over">	
-				{% assign products = site.data.prod_org[ item ] %}  
+				{% assign products = site.data.prod_org[ item ] | sort: "discount" | reverse %}  
         			{% for product in products limit: 8 %}
 						{% if product.discount != 100 %}
 							{% include product.html %}
