@@ -894,3 +894,63 @@ button#gdpr-cookie-advanced {
     cursor: default;
 }
 
+
+/* Modal
+---------------------------------------------------------------------- */
+
+	.modal4 {
+		padding-right: 0 !important;
+	}
+	.perc-mod {
+	top: 0px;
+    left: 0;
+    border-radius: 0;
+    background: #ff6a5b;
+	z-index: 10;
+	}
+	.price-mod {
+		font-size: 25px;
+		font-weight: 600;
+		color: darkgreen;
+	}
+	.afterp-mod {
+		font-size: 16px;
+	}
+	.oldp-mod {
+	 color: lightslategray;
+	 text-decoration: line-through red;
+	}
+	.aftero-mod {
+		font-size: 16px;
+		color: lightslategray;
+		text-decoration: line-through red;
+	}
+	.description-mod {
+		margin-top: 20px;
+		border: solid 1px #f0f0f0;
+		padding: 10px;
+		border-radius: 3px;
+	}
+
+	@media only screen and (max-width: 578px) {
+  	.mod-dia {
+		margin: 0;
+		}
+	.perc-mod {
+		padding: 20px;
+		}
+	.modal-bg {
+		padding: 15px 15px 15px 30px !important;
+		}	
+	.mod-title {
+		font-size: 16px !important;
+    	line-height: 1.5 !important;	
+		}
+	.description-mod {
+		font-size: 15px;
+		}
+	.price-mod {
+		font-size: 15px;
+		}
+	}
+	

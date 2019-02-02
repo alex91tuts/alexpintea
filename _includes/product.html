@@ -1,13 +1,16 @@
+
 <!-- begin post -->
-<div class="col-lg-3 col-md-6 col-6 mb-30px mix {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
+<div class="col-lg-3 col-md-6 col-6 mb-30px item {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
     <div class="card h-100">
-		{% if page.categorie == "rucsacuri" or page.categorie == "curele" or page.categorie == "sosete" or page.categorie == "palarii" or page.category == "tehnologie" or page.categorie == monitoare %}
+		{% if page.category == "tehnologie" or page.category == "cosmetice-parfumuri" %}
         <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/145/x/{{ product.product_pic }}); background-size: 145px; background-repeat: no-repeat; background-position: center;">
 			<style>
 			@media (max-width: 578px) {
     			.maxthumb { background-size: 100px !important;}
 				}
 			</style>
+			{% elsif page.category == "incaltaminte" %}
+			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/270/x/{{ product.product_pic }}); background-size: cover; background-repeat: no-repeat; background-position: center;">
 			{% else %}
 			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: cover;" >
 			{% endif %}
@@ -19,19 +22,16 @@
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="price">{{ product.price_discounted | round: 0 }} Lei</span><br/>
-				{% if product.price_vat > 999 %}
-                <span class="old-price" style="left: 45px;">
-					{% else %}
-				<span class="old-price">
-					{% endif %}				
-					{{ product.price_vat | round: 0 }} Lei</span><br/>
-                <span class="perc">{{ product.discount }}%</span><br/>             
-                <a class="citeste" href="{{ product.product_aff_link }}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank">VEZI PRODUS</a>
+				<div>
+				<span class="price">{{ product.price_discounted | round: 0 }} Lei <span class="old-price">{{ product.price_vat | round: 0 }} Lei</span></span>
+				</div>
+				<span class="perc">{{ product.discount }}%</span><br/> 
+				<a class="citeste" data-toggle="modal" data-target="#mymodal{% increment modal %}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank">VEZI PRODUS</a>
              </div>
         </div>
     </div>
 </div>
 <!-- end post -->
 
-
+{% include modal.html %}
+	

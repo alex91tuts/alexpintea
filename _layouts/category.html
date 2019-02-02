@@ -15,12 +15,12 @@ title: Category
 <div class="col-lg-6 col-6 sorting">
 	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by price">
 		<span class="filt">PRET</span>
-		<button type="button" class="filt" data-sort="price:asc"><i class="fas fa-chevron-up"></i></span></button>
-		<button type="button" class="filt" data-sort="price:desc"><i class="fas fa-chevron-down"></i></span></button>
+		<button data-mixitup-control type="button" class="filt" data-sort="price:asc"><i class="fas fa-chevron-up"></i></span></button>
+		<button data-mixitup-control type="button" class="filt" data-sort="price:desc"><i class="fas fa-chevron-down"></i></span></button>
 	</div>
 	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by discount">
 		<span class="filt">DISCOUNT</span>
-		<button type="button" class="filt" data-sort="discount:desc"><i class="fas fa-chevron-down"></i></span></button>
+		<button data-mixitup-control type="button" class="filt" data-sort="discount:desc"><i class="fas fa-chevron-down"></i></span></button>
 	</div>
 			<select class="select-sort">
 				<option value="random">SORTARE</option>
@@ -32,7 +32,7 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-		{% capture adv %}{% for product in prod limit: 400 %}{% if product.adv_name != page.exception and product.discount !=100 %}<button type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
+		{% capture adv %}{% for product in prod limit: 400 %}{% if product.adv_name != page.exception and product.discount !=100 %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
@@ -62,15 +62,7 @@ title: Category
 	{% assign site.posts = post %}
     {% assign products = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}  
         {% for product in products limit: 400 %}
-			{% if page.categorie contains "orange" %}
-				{% include faradiscount.html %}
-			{% elsif product.adv_name != page.exception and page.category == "fashion" or page.category == "tehnologie" and product.discount != 100 and product.price_vat != product.price_discounted %}
-                {% include product.html %}
-			{% elsif page.category == "incaltaminte" or page.category == "cosmetice-parfumuri" %}
-				{% include incaltaminte.html %}
-			{% else %}
-				{% include product.html %}
-			{% endif %}
+			{% include product.html %}
         {% endfor %}
     </div>
 </section>
@@ -93,13 +85,17 @@ title: Category
 			
 	var containerEl = document.querySelector('.container');
             var loadMoreEl = document.querySelector('.load-more');
-            var currentLimit = 28;
+            var currentLimit = 16;
             var incrementAmount = 16;
 
             var mixer = mixitup(containerEl, {
                 pagination: {
-                    limit: currentLimit
+                    limit: currentLimit	
                 },
+				 selectors: {
+					target: '.item',
+					control: '[data-mixitup-control]'
+				},
                 callbacks: {
                     onMixEnd: handleMixEnd
                 }
