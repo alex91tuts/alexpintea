@@ -954,3 +954,9 @@ button#gdpr-cookie-advanced {
 		}
 	}
 	
+.close-btn {
+	font-size: 35px !important;
+	box-shadow: 0 0 10px -2px !important;
+	border-radius: 0!important;
+	color: red !important;
+	}
