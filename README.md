@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 769f23e036415c3468f7e08268335d295465c14f
+Hello and welcome to totredus.ro
