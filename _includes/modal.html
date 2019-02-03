@@ -7,7 +7,7 @@
 					<span class="perc perc-mod">{{ product.discount }}%</span>
 					{% if page.category == "fashion" or page.category == "incaltaminte" %}
 					<div class="col-lg-5 col-md-3 modal-bg-img" style="text-align: center;">
-						<img src="https://abpipzueen.cloudimg.io/width/486/x/{{ product.product_pic }}">
+						<img src="https://abpipzueen.cloudimg.io/width/550/x/{{ product.product_pic }}">
 						{% else %}
 						<div class="col-lg-5 col-md-3 modal-bg-img" style="text-align: center; padding: 50px;">
 						<img src="https://abpipzueen.cloudimg.io/height/500/x/{{ product.product_pic }}">
@@ -32,7 +32,20 @@
 							{% endif %}
 							<a href="{{ product.product_aff_link }}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank" class="btn btn-danger-gradiant btn-rounded btn-md btn-arrow text-white"><span>Spre produs <i class="ti-arrow-right"></i></span></a>
 							{% if product.description != "" %}
+							{% if product.adv_name contains "answear" %}
+							{% assign desc = product.description | split: " -" %}
+							<ul class="description-mod">
+							{% for lines in desc %}
+							{% if forloop.last == true %}
+								
+    						{% else %}
+							<li>{{ lines }}</li>
+							{% endif %}
+							{% endfor %}
+							</ul>
+							{% else %}
 							<p class="description-mod">{{ product.description }}</p>
+							{% endif %}
 							{% endif %}
 					</div>
 				</div>
