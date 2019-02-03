@@ -60,9 +60,11 @@ title: Category
 <div class="row container1">
 	
 	{% assign site.posts = post %}
-    {% assign products = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}  
+    {% assign products = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
         {% for product in products limit: 400 %}
+		{% if product.price_vat > product.price_discounted %}
 			{% include product.html %}
+		{% endif %}
         {% endfor %}
     </div>
 </section>
