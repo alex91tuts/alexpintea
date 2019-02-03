@@ -30,7 +30,7 @@
 							{% if product.gift == "1" %}
 							<p><i class="icon-Gift-Box"></i> Cadou inclus</p> 
 							{% endif %}
-							<a href="{{ product.product_aff_link }}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank" class="btn btn-danger-gradiant btn-rounded btn-md btn-arrow text-white"><span>Spre produs <i class="ti-arrow-right"></i></span></a>
+							<a href="{{ product.product_aff_link }}" target="_blank" class="btn btn-danger-gradiant btn-rounded btn-md btn-arrow text-white"><span>Spre produs <i class="ti-arrow-right"></i></span></a>
 							{% if product.description != "" %}
 							{% if product.adv_name contains "answear" %}
 							{% assign desc = product.description | split: " -" %}
