@@ -19,10 +19,8 @@
 								{{ product.product_name }}
 							</h2>
 							<p class="adv-mod" >{{ product.adv_name }}</p>
-								<p class="price-mod">{{ product.price_discounted }}
-								{% if product.price_discounted != product.price_d_after %},{{ product.price_d_after }}{% endif %} Lei
-								<span class="oldp-mod">{{ product.price_vat }}
-								{% if product.price_vat != product.price_after %},{{ product.price_after }}{% endif %} Lei</span>
+								<p class="price-mod">{{ product.price_discounted | strip }}{% if product.price_discounted != product.price_d_after %},{{ product.price_d_after }}{% endif %} Lei
+								<span class="oldp-mod">{{ product.price_vat | strip }}{% if product.price_vat != product.price_after %},{{ product.price_after }}{% endif %} Lei</span>
 								</p>
 							{% if product.shipping == "1" %}
 							<p><i class="icon-Truck"></i> Transport gratuit</p> 
