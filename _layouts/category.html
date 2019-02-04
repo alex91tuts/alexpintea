@@ -32,31 +32,18 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-		{% capture adv %}{% for product in prod limit: 400 %}{% if product.adv_name != page.exception and product.discount !=100 %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
+		{% capture adv %}{% for product in prod limit: 400 %}{% if product.price_vat > product.price_discounted %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
 </div>
-	<!--Hello Awin
-					<div class="container">
-						<div class="hover-dropdown font-14" id="h6-info">
-                            <ul class="navbar-nav ml-auto">
-                                <li class="nav-item dropdown">
-									<a class="nav-link dropdown-toggle" href="#" id="h6-dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-										Shop <i class="fa fa-angle-down m-l-5"></i>
-									</a>
-                                    <ul class="b-none dropdown-menu font-14 animated fadeInUp" style="width: fit-content;">
-										{% assign prod = site.data.prod_org[ page.categorie ] %}
-										{% capture adv %}{% for product in prod limit: 300 %}{% if product.discount !=100 %}<button type="button" class="" style="flex: 0 0 auto;" data-toggle=".{{ product.manufacturer | remove: '.ro' | remove: " " }}">{{ product.manufacturer | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
-										{{ adv | split: ", " | uniq }} 
-                                        <li class="divider" role="separator"></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-					</div>						
-	-->							
-
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/jquery.unveil.js"></script>
+<script>
+$(document).ready(function() {
+  $("img").unveil(400);
+});	
+</script>
 <div class="row container1">
 	
 	{% assign site.posts = post %}
@@ -75,7 +62,6 @@ title: Category
         </div>
 
 </div>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.lazy.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
 <script src="{{ site.baseurl }}/assets/js/mixitup-pagination.min.js"></script>
   
@@ -134,11 +120,6 @@ title: Category
                 var order = selectSort.value;
                 mixer.sort(order);
             });
-	   
-		
-		$(function() {
-        $('.lazy').Lazy();
-    });
 </script>
 
 
