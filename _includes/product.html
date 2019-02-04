@@ -3,14 +3,17 @@
 <div class="col-lg-3 col-md-6 col-6 mb-30px item {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
     <div class="card h-100">
 		{% if page.category == "tehnologie" or page.category == "cosmetice-parfumuri" %}
-        <div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/145/x/{{ product.product_pic }}); background-size: 145px; background-repeat: no-repeat; background-position: center;">
+        <div class="maxthumb" ><img data-src="https://abpipzueen.cloudimg.io/height/200/n/{{ product.product_pic }}" src="/assets/images/default.jpg">
 			<style>
 			@media (max-width: 578px) {
-    			.maxthumb { background-size: 100px !important;}
+    			.maxthumb { padding: 52px; !important;}
 				}
 			</style>
-			{% elsif page.category == "incaltaminte" %}
-			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/270/x/{{ product.product_pic }}); background-size: cover; background-repeat: no-repeat; background-position: center;">
+			{% elsif page.category == "incaltaminte"  %}
+			<div class="maxthumb"> <img data-src="https://abpipzueen.cloudimg.io/crop/253x300/n/{{ product.product_pic }}" src="/assets/images/default.jpg" >
+			{% elsif page.category == "fashion"  %}
+			<div class="maxthumb">
+			<img data-src="https://abpipzueen.cloudimg.io/width/253/n/{{ product.product_pic }}" src="/assets/images/default.jpg">
 			{% else %}
 			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: cover;" >
 			{% endif %}
@@ -35,3 +38,11 @@
 
 {% include modal.html %}
 	
+<style>
+	.maxthumb: {
+		line-height: 300px;
+	}
+	.maxthumb img {
+		vertical-align: middle;
+	}
+</style>
