@@ -32,23 +32,16 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-		{% capture adv %}{% for product in prod limit: 400 %}{% if product.price_vat > product.price_discounted %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
+		{% capture adv %}{% for product in prod limit: 300 %}{% if product.price_vat > product.price_discounted %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
 </div>
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/jquery.unveil.js"></script>
-<script>
-$(document).ready(function() {
-  $("img").unveil(400);
-});	
-</script>
 <div class="row container1">
 	
 	{% assign site.posts = post %}
     {% assign products = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-        {% for product in products limit: 400 %}
+        {% for product in products limit: 300 %}
 		{% if product.price_vat > product.price_discounted %}
 			{% include product.html %}
 		{% endif %}
@@ -62,6 +55,7 @@ $(document).ready(function() {
         </div>
 
 </div>
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
 <script src="{{ site.baseurl }}/assets/js/mixitup-pagination.min.js"></script>
   
@@ -120,6 +114,10 @@ $(document).ready(function() {
                 var order = selectSort.value;
                 mixer.sort(order);
             });
+		
+		$(function() {
+        $('.lazy').Lazy();
+    });
 </script>
 
 
