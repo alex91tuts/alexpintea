@@ -32,25 +32,11 @@ title: Category
 	
 	<div class="mixing col-lg-12">
 		{% assign prod = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-<<<<<<< HEAD
 		{% capture adv %}{% for product in prod limit: 300 %}{% if product.price_vat > product.price_discounted %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
-=======
-		{% capture adv %}{% for product in prod limit: 400 %}{% if product.price_vat > product.price_discounted %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
->>>>>>> ad21f0f313af9dec67bd4a2e837ab6f2b5f46b29
 		{{ adv | split: ", " | uniq }} 
 	</div>	
 	
 </div>
-<<<<<<< HEAD
-=======
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/jquery.unveil.js"></script>
-<script>
-$(document).ready(function() {
-  $("img").unveil(400);
-});	
-</script>
->>>>>>> ad21f0f313af9dec67bd4a2e837ab6f2b5f46b29
 <div class="row container1">
 	
 	{% assign site.posts = post %}
@@ -69,10 +55,6 @@ $(document).ready(function() {
         </div>
 
 </div>
-<<<<<<< HEAD
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-=======
->>>>>>> ad21f0f313af9dec67bd4a2e837ab6f2b5f46b29
 <script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
 <script src="{{ site.baseurl }}/assets/js/mixitup-pagination.min.js"></script>
   
@@ -131,13 +113,10 @@ $(document).ready(function() {
                 var order = selectSort.value;
                 mixer.sort(order);
             });
-<<<<<<< HEAD
 		
 		$(function() {
         $('.lazy').Lazy();
     });
-=======
->>>>>>> ad21f0f313af9dec67bd4a2e837ab6f2b5f46b29
 </script>
 
 
