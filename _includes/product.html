@@ -1,5 +1,5 @@
 <!-- begin post -->
-<div class="col-lg-3 col-md-6 col-6 mb-30px item {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
+<div class="col-lg-3 col-md-6 col-6 mb-30px item lazy {{ product.adv_name | remove: '.ro' | | remove: " " }} card-group" data-discount="{{ product.discount }}" data-price="{{ product.price_discounted | round: 0 }} ">
     <div class="card h-100">
 		{% if page.category == "tehnologie" or page.category == "cosmetice-parfumuri" %}
         <div class="maxthumb" ><img src="https://abpipzueen.cloudimg.io/height/200/n/{{ product.product_pic }}">

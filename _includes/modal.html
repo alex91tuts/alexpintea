@@ -1,5 +1,5 @@
 <!-- sample modal content -->
-<div id="mymodal{% increment modal1 %}" class="modal fade custom-modal modal4" tabindex="-1" role="dialog" aria-hidden="true" style="display: none; 99991!important;">
+<div id="mymodal{% increment modal1 %}" class="modal fade custom-modal modal4 lazy" tabindex="-1" role="dialog" aria-hidden="true" style="display: none; 99991!important;">
 	<div class="modal-dialog modal-lg mod-dia">
 		<div style="border: 0; border-radius: 0;" class="modal-content po-relative">
 			<div class="modal-body p-0">
@@ -28,7 +28,7 @@
 							{% if product.gift == "1" %}
 							<p><i class="icon-Gift-Box"></i> Cadou inclus</p> 
 							{% endif %}
-							<a href="{{ product.product_aff_link }}" target="_blank" class="btn btn-danger-gradiant btn-md btn-arrow text-white"><span>Spre produs <i class="ti-arrow-right"></i></span></a>
+							<a href="{{ product.product_aff_link }}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank" class="btn btn-danger-gradiant btn-md btn-arrow text-white"><span>Spre produs <i class="ti-arrow-right"></i></span></a>
 							{% if product.description != "" %}
 							{% if product.adv_name contains "answear" %}
 							{% assign desc = product.description | split: " -" %}
