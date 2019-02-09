@@ -84,11 +84,6 @@
 	transform: translateX(1px); 
 	transition-timing-function: ease-in;
 }
-.mixitup-control-active {
-    background: linear-gradient(to right, #67b26f, #4ca2cd);
-    border: solid 1px #67b26f;
-    color: white; 
-}
 
 .mixitup-control:disabled {
     position: relative;
@@ -134,12 +129,13 @@
 	cursor: pointer;
 }
 .mixitup-control-active {
-    background: #393939;
+    background-image: linear-gradient(to right bottom, #FBDB89, #F48982);
 	outline: none;
+	color: white !important;
 }
 .mixitup-control-active:hover {
     outline: none;
-	background: #393939;
+	background: white;
 }
 .mixing {
   display: flex;

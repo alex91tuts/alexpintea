@@ -6,10 +6,10 @@
 				<div class="row">
 					<span class="perc perc-mod">{{ product.discount }}%</span>
 					{% if page.category == "fashion" or page.category == "incaltaminte" %}
-					<div class="col-lg-5 col-md-3 modal-bg-img" style="text-align: center;">
+					<div class="col-lg-5 col-md-3 modal-bg-img center-mod" style="text-align: center;">
 						<img src="https://abpipzueen.cloudimg.io/width/550/x/{{ product.product_pic }}">
 						{% else %}
-						<div class="col-lg-5 col-md-3 modal-bg-img" style="text-align: center; padding: 50px;">
+						<div class="col-lg-5 col-md-3 modal-bg-img center-mod" style="text-align: center; padding: 50px;">
 						<img src="https://abpipzueen.cloudimg.io/height/500/x/{{ product.product_pic }}">
 						{% endif %}
 						</div>
@@ -45,6 +45,8 @@
 							<p class="description-mod">{{ product.description }}</p>
 							{% endif %}
 							{% endif %}
+							<br>
+							<p class="size-mod" >Mărimi: {{ product.size }}</p>
 					</div>
 				</div>
 				<a href="#" class="close-btn" data-dismiss="modal" aria-hidden="true">×</a>

@@ -2623,12 +2623,18 @@ custom modals
   background-size: cover;
   background-position: center center;
   min-height: 300px; }
-
+.modal-bg-img img {
+	max-height: 700px;
+}
 .modal1 .modal-bg {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center top;
   padding: 40px; }
+.center-mod {
+	display: flex;
+	align-items: center;
+}
 
 .modal1 .input-group {
   margin-top: -45px; }

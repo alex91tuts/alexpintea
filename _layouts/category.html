@@ -29,20 +29,37 @@ title: Category
                 <option value="price:desc">PRET DESC</option>
             </select>
 </div>
-	
-	<div class="mixing col-lg-12">
-		{% assign prod = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-		{% capture adv %}{% for product in prod limit: 300 %}{% if product.price_vat > product.price_discounted %}<button data-mixitup-control type="button" class="filt" style="flex: 0 0 auto;" data-toggle=".{{ product.adv_name | remove: '.ro' | remove: " " }}">{{ product.adv_name | upcase | remove: ".ro"}}</button>, {% endif %}{% endfor %}{% endcapture %}
-		{{ adv | split: ", " | uniq }} 
-	</div>	
-	
+
+<span>FILTRE: </span><a style="cursor: pointer;" data-toggle="modal" data-target="#brand" > BRAND <i class="icon-Arrow-Down3"></i></a>
+<!-- sample modal content -->
+<div id="brand" class="modal fade custom-modal modal4 lazy" tabindex="-1" role="dialog" aria-hidden="true" style="display: none; 99991!important;">
+	<div class="modal-dialog modal-lg mod-dia">
+		<div style="border: 0; border-radius: 0;" class="modal-content po-relative">
+			<div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLongTitle">FILTREAZĂ DUPĂ BRAND</h5>
+				<i class="icon-Geo3-Close" data-dismiss="modal" style="font-size: 31px; color: orangered; cursor: pointer;"></i>
+			  </div>
+			<div class="modal-body">
+				<a class="dropdown-item" style="display: inline-flex; width: auto; color: orangered;" data-mixitup-control href="#" data-toggle=".item">TOATE</a>
+				{% assign prod = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
+				{% capture brand %}{% for product in prod limit: 300 %}<a class="dropdown-item" style="display: inline-flex; width: auto" data-mixitup-control href="#" data-toggle=".{{ product.manufacturer | split: " " | first }}">{{ product.manufacturer | upcase }}</a>, {% endfor %}{% endcapture %}
+				{{ brand | split: ", " | uniq }} 
+			</div>
+			</div>
+		</div>
+		<!-- /.modal-content -->
+	</div>
+	<!-- /.modal-dialog -->
+
 </div>
 <div class="row container1">
+	
 	
 	{% assign site.posts = post %}
     {% assign products = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
         {% for product in products limit: 300 %}
-		{% if product.price_vat > product.price_discounted %}
+		{% if product.size contains "ani" or product.size contains "luni" or product.product_name contains "copii" %}
+		{% else %}
 			{% include product.html %}
 		{% endif %}
         {% endfor %}
