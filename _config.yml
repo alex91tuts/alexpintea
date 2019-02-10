@@ -21,7 +21,7 @@ permalink: /:categories/:title.html
 defaults:
   -   
     scope:
-      path: "_posts/fashion" # an empty string here means all files in the project
+      path: "_posts/fashion-femei" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "category"
@@ -48,3 +48,27 @@ defaults:
     values:
       layout: "category"
       category: "cosmetice-parfumuri"	  
+  -   
+    scope:
+      path: "_posts/cadouri" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "cadouri"	  
+  -   
+    scope:
+      path: "_posts/fashion-barbati" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "fashion-barbati"
+  -   
+    scope:
+      path: "_posts/incaltaminte-barbati" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "incaltaminte-barbati"
+
+
+
