@@ -45,8 +45,10 @@
 							<p class="description-mod">{{ product.description }}</p>
 							{% endif %}
 							{% endif %}
+							{% if product.size != "" %}
 							<br>
 							<p class="size-mod" >Mărimi: {{ product.size }}</p>
+							{% endif %}
 					</div>
 				</div>
 				<a href="#" class="close-btn" data-dismiss="modal" aria-hidden="true">×</a>
