@@ -13,8 +13,8 @@
 			{% elsif page.category == "fashion" or page.category == "fashion-barbati" %}
 				{% if product.adv_name contains "BIBLOO"%}
 					<div class="maxthumb">
-					<img src="https://abpipzueen.cloudimg.io/height/317/n/{{ product.product_pic }}">
-				{% else %}
+					<img src="https://abpipzueen.cloudimg.io/height/317/n/{{ product.product_pic }}"> <style>@media (max-width: 578px){.maxthumb img { max-height: 192px; !important;}}</style>	
+					{% else %}
 					<div class="maxthumb">
 					<img src="https://abpipzueen.cloudimg.io/width/253/n/{{ product.product_pic }}">
 				{% endif %}
