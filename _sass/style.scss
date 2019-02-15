@@ -28,7 +28,6 @@ File: scss
 /*Normal Color*/
 /*Extra Variable*/
 /*Gradiant*/
-@import url(../css/animate.css);
 @import url(../../assets/icons/font-awesome/css/font-awesome.min.css);
 @import url(../../assets/icons/iconmind/iconmind.css);
 @import url(../../assets/icons/themify-icons/themify-icons.css);
@@ -270,7 +269,7 @@ h4,
 h5,
 h6 {
   color: #3e4555;
-  font-family: "Montserrat", sans-serif; }
+  font-family: "Montserrat", sans-serif !important; }
 
 h1 {
   line-height: 40px;
