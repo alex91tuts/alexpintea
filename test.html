@@ -47,10 +47,6 @@ title: Categorii
 </div>
 </div>
 
-<script src="//tp.media/content?promo_id=2811&shmarker=208457&campaign_id=100&locale=en&target_host=search.jetradar.com&origin=BAY&destination=BCN&border_radius=0&powered_by=true" charset="utf-8"></script>
-
-
-
 <!-- Diferite Produs -->
 {% for item in page.categorie %}
 {% increment counter %}
@@ -86,3 +82,17 @@ title: Categorii
     </div>
 </div>
 {% endfor %}
+
+<div class="container2" data-ref="container2">
+            <div class="gap" data-ref="first-gap"></div>
+            <div class="gap"></div>
+            <div class="gap"></div>
+        </div>
+	
+<script>	
+fetch('http://totredus.ro/search.json')
+  .then(response => response.json())
+  .then(data => console.log(data))
+</script>
+	
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
