@@ -1,0 +1,16 @@
+---
+
+layout: page
+title: Recenzii
+
+---
+{% for review in site.reviews %}
+<figure class="snip1529 col-lg-3">
+  <img src="{{ review.image_path }}" />
+  <figcaption>
+    <h3>{{ review.title | upcase }}</h3>
+  </figcaption>
+  <div class="hover"></div>
+  <a href="{{ review.url }}"></a>
+</figure>
+{% endfor %}

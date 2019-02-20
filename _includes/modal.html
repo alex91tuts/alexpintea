@@ -30,17 +30,16 @@
 							{% endif %}
 							<a href="{{ product.product_aff_link }}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank" class="btn btn-danger-gradiant btn-md btn-arrow text-white"><span>Spre produs <i class="ti-arrow-right"></i></span></a>
 							{% if product.description != "" %}
-							{% if product.adv_name contains "answear" %}
-							{% assign desc = product.description | split: " -" %}
-							<ul class="description-mod">
-							{% for lines in desc %}
-							{% if forloop.last == true %}
-								
-    						{% else %}
-							<li>{{ lines }}</li>
-							{% endif %}
-							{% endfor %}
-							</ul>
+								{% if product.adv_name contains "answear" %}
+								{% assign desc = product.description | split: " -" %}
+								<ul class="description-mod">
+									{% for lines in desc %}
+										{% if forloop.last == true %}
+											{% else %}
+											<li>{{ lines }}</li>
+										{% endif %}
+									{% endfor %}
+								</ul>
 							{% else %}
 							<p class="description-mod">{{ product.description }}</p>
 							{% endif %}

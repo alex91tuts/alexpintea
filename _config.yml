@@ -17,7 +17,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title.html
 
-
+collections:
+  reviews:
+    output: true     
+    permalink: /review/:path/
 
 #defaults for product category and pages
 defaults:
@@ -71,6 +74,14 @@ defaults:
     values:
       layout: "category"
       category: "incaltaminte-barbati"
+  -   
+    scope:
+      path: "_posts/electrocasnice" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "category"
+      category: "electrocasnice"
+
 
 
 

@@ -1,0 +1,139 @@
+---
+layout: empty
+disqus: false
+archive: false
+post_class: post-template
+
+---
+
+<!-- Begin Article
+================================================== -->
+<div class="container review-cont">
+<!-- Post Featured Image -->
+<div class="banner-review row" style="background-image:url({{ site.url }}/assets/images/reviews/{{ page.image_path }}); background-size: cover; background-position: center;"> 
+	<h1 class="banner-title">{{ page.title }}</h1>
+</div>
+<!-- End Featured Image -->
+<div class="row">
+	<!-- Post Content -->
+	<div class="article-post review-post col-lg-8 col-12 order-12 order-lg-1">
+		{{content}}
+	</div>
+
+			<div class="col-lg-4 col-12 row wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
+				<div class="col review-side">
+					{% for item in page.opt %}
+					<div class="progress" style="height: 6px;">
+					{% if item.value <= 25 %}
+					  <div class="progress-bar bg-danger" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+					{% elsif item.value > 25 and item.value <= 50 %}
+					  <div class="progress-bar bg-warning" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+					{% elsif item.value > 50 and item.value <= 75 %}
+					  <div class="progress-bar bg-info" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+					{% elsif item.value > 75 %}
+					  <div class="progress-bar bg-success" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+					{% endif %}
+					</div>
+					<p class="features-score">{{ item.name | upcase }}</p>
+					{% endfor %}
+					{% capture val1 %}{% for item in page.opt limit:1 %}{{ item.value }}{% endfor %}{% endcapture %}{% capture val2 %}{% for item in page.opt limit:1 offset:1 %}{{ item.value }}{% endfor %}{% endcapture %}{% capture val3 %}{% for item in page.opt limit:1 offset:2 %}{{ item.value }}{% endfor %}{% endcapture %}{% capture val4 %}{% for item in page.opt limit:1 offset:3 %}{{ item.value }}{% endfor %}{% endcapture %}{% capture val5 %}{% for item in page.opt limit:1 offset:4 %}{{ item.value }}{% endfor %}{% endcapture %}
+					<h3>TOTAL</h3><span class="score">{{ val1 | plus: val2 | plus: val3 | plus: val4 | plus: val5 | divided_by: 50 }}</span>
+				</div>
+			</div>
+
+</div>
+</div>
+		<!-- End Post -->
+<style>
+	.score {
+    font-size: -webkit-xxx-large;
+    font-weight: 400;
+    border: solid 4px;
+    border-radius: 100px;
+    padding-right: 20px;
+    padding-left: 23px;
+    border-color: coral;
+    box-shadow: 0 0 9px 0px;
+    position: absolute;
+    right: -42px;
+    bottom: -29px;
+    background: white;
+}
+	.review-cont .row {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	}
+	.features-score {
+	font-size: 15px;
+	font-weight: 700;
+	}
+	.wrapper-side {
+	padding-left: 25px; 
+	padding-right: 0;	
+	}
+	.banner-review {
+	height: 500px;
+	margin-top: 90px;
+	display: flex;
+	align-items: left;
+	justify-content: left;
+	margin-bottom: 25px;
+	padding: 20px;
+	}
+	.banner-title {
+	color: white;
+    text-shadow: 0 1px 1px #000;
+    font-weight: 700;
+    font-size: 50px;
+	align-self: flex-end;
+	line-height: 1;
+	}
+	.review-cont {
+	max-width: 1080;
+	}
+	.review-post {
+	border: solid 1px #d3d3d3a1;
+	padding: 15px;
+	}
+	.review-side {
+	height: fit-content;
+    border: solid 1px #d3d3d3a1;
+    padding: 15px;
+	position: sticky;
+    top: 100px;
+	}
+	
+	@media only screen and (max-width: 600px) {
+		.score {
+			font-size: xx-large;
+			font-weight: 500;
+			padding-right: 15px;
+			padding-left: 15px;
+			position: absolute;
+			right: 2px;
+			bottom: 2px;
+		} 
+		.banner-title {
+			font-weight: 600;
+			font-size: 30px;
+			align-self: center;
+			line-height: 1.3;
+			text-align: center;
+		  }
+		  .banner-review {
+			max-height: 240px;
+			margin-top: 0;
+		  }
+		  .wrapper-side {
+			padding-left: 0 !important;
+			margin-bottom: 15px;  
+			}
+		.review-side {
+			padding: 10px;
+		}
+		.review-post {
+			font-size: 16px;
+			margin-bottom: 15px;
+		}
+}
+</style>
