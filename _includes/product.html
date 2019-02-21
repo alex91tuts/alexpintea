@@ -9,7 +9,8 @@
 			{% elsif page.category == "fashion" or page.category == "fashion-barbati" %}
 				{% if product.adv_name contains "BIBLOO"%}
 					<div class="maxthumb">
-					<img src="https://abpipzueen.cloudimg.io/height/317/n/{{ product.product_pic }}"> <style>@media (max-width: 578px){.maxthumb img { max-height: 192px; !important;}}</style>	
+						{% capture img %}{{site.url}}/assets/images/images-small/{{ product.product_pic | split: '/' | last }}{% endcapture %}
+						<img src="{{site.url}}/assets/images/images-small/{{ product.product_pic | split: '/' | last }}" onerror="this.onerror=null;this.src='https://abpipzueen.cloudimg.io/height/317/n/{{ product.product_pic }}';"/> <style>@media (max-width: 578px){.maxthumb img { max-height: 192px; !important;}}</style>
 					{% else %}
 					<div class="maxthumb">
 					<img src="https://abpipzueen.cloudimg.io/width/253/n/{{ product.product_pic }}">
@@ -17,7 +18,7 @@
 			{% else %}
 			<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/{{ product.product_pic }}); background-size: cover;" >
 			{% endif %}
-            <span class="adv" >{{ product.adv_name }}</span><br/>
+            <span class="adv" >{{ product.manufacturer }}</span><br/>
             <span class="manufacturer" >{{ product.manufacturer }}</span><br/>
         </div>
         <div class="card-body-custom">
