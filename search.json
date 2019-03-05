@@ -1,35 +1,11 @@
 ---
 layout: null
 ---
-[
-    {
-        id: 142,
-	name: 'Joe',
-        role: 'Developer',
-        age: 22
-    },
-    {
-        id: 242,
-	name: 'Zack',
-        role: 'Project Manager',
-        age: 45
-    },
-    {
-        id: 243,
-	name: 'Kumar',
-        role: 'Designer',
-        age: 29
-    },
-    {
-        id: 402,
-	name: 'Steph',
-        role: 'Developer',
-        age: 33
-    },
-    {
-        id: 511,
-	name: 'Sohyun',
-        role: 'Developer',
-        age: 23
-    }
-]
+{ "products" : [
+  { "Name": "Cheese", "Price" : 2.50, "Location": "Refrigerated foods"},
+  { "Name": "Crisps", "Price" : 3, "Location": "the Snack isle"},
+  { "Name": "Pizza", "Price" : 4, "Location": "Refrigerated foods"},
+  { "Name": "Chocolate", "Price" : 1.50, "Location": "the Snack isle"},
+  { "Name": "Self-raising flour", "Price" : 1.50, "Location": "Home baking"},
+  { "Name": "Ground almonds", "Price" : 3, "Location": "Home baking"}
+]}

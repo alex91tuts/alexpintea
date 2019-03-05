@@ -4,25 +4,6 @@ layout: post
 title: Categorii
 
 ---
-
-<div class="static-slider7" >
-    <div class="container">
-        <!-- Row  -->
-        <div class="row justify-content-center ">
-            <!-- Column -->
-            <div class="col-md-8 align-self-center text-center">
-                <h1 class="title text-white">CATEGORII</h1>
-                               
-            </div>
-            <!-- Column -->
-            
-        </div>
-    </div>
-</div>
-
-<script async src="//www.travelpayouts.com/blissey/scripts_ro.js?categories=price%2Criver_view%2Ctophotels&id=13559&type=compact&currency=ron&width=935&host=search.hotellook.com&marker=208457.&limit=10&powered_by=true" charset="UTF-8">
-</script>
-
 <div class="container mt-3">
 <div class="wrapppr-cat card-deck mx-auto">
 	<!-- Column -->
@@ -83,16 +64,118 @@ title: Categorii
 </div>
 {% endfor %}
 
-<div class="container2" data-ref="container2">
-            <div class="gap" data-ref="first-gap"></div>
-            <div class="gap"></div>
-            <div class="gap"></div>
-        </div>
+<div id="output" class="container row">PRODUSE</div>
+<div id="btn-group">
+<input type="button" id="first" onclick="firstPage()" value="first" />
+<input type="button" id="next" onclick="nextPage()" value="next" />
+<input type="button" id="previous" onclick="previousPage()" value="previous" />
+<input type="button" id="last" onclick="lastPage()" value="last" />
+</div>
+<input type="button" id="loadMore" onclick="loadMore()" value="Load More" />
+
+<script>
+	var fil = new Array(),
+		output = '',
+		 list = new Array(),
+		 pageList = new Array(),
+	     currentPage = 1,
+		 numberPerPage = 20,
+		 numberOfPages = 0;
+		
+		function change(custom) {
+			 let url = custom;
+				 fil = [];
+				 pageList = [];
+		function topFunction() {
+		  document.body.scrollTop = 0; // For Safari
+		  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+		}
+		topFunction();
+			return getProd();
+			function getProd() {
+				fetch(url)
+				.then((res) => res.json())
+				.then((data) => {
+					var output = '', 
+						page = data.length;		
+						
+					function loadList () {
+						for (var i = 0; i < data.length ; i++) {
+							fil.push(data[i]);
+						}
+						load();
+						var begin = ((currentPage - 1) * numberPerPage);
+						var end = begin + numberPerPage;
+						pageList = fil.slice(begin, end);									
+						check();
+					}
+					loadList();
+					pageList.forEach(function(prod){
+						output += `
+			<!-- begin post -->
+			<div class="col-lg-3 col-md-4 col-6 mb-30px item lazy card-group">
+				<div class="card h-100">
+						<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/${prod.product_pic}); background-size: contain; background-repeat: no-repeat; background-position: center;" >
+						<span class="adv" >${prod.manufacturer}</span><br/>
+						<span class="manufacturer" >${prod.manufacturer}</span><br/>
+					</div>
+					<div class="card-body-custom">
+						<h2 class="card-title-custom"><a class="text-dark" href="${prod.product_aff_link}" target="_blank">${prod.product_name}</a></h2>     
+					</div>
+					<div class="card-footer bg-white">
+						<div class="wrapfooter">
+							<div>
+							<span class="price">${prod.price_discounted} Lei <span class="old-price">${prod.price_vat} Lei</span></span>
+							</div>
+							<span class="perc">${prod.discount}%</span><br/> 
+							<a class="citeste" data-toggle="modal" data-target="#mymodal{% increment modal %}" >DETALII</a>
+						 </div>
+					</div>
+				</div>
+			</div>
+			<!-- end post -->
+			`		
+					});
+					document.getElementById('output').innerHTML = output;
+				})
+			}      
+	};
+	window.onload = change('http://localhost:4000/api/prods3.json');
 	
-<script>	
-fetch('http://totredus.ro/search.json')
-  .then(response => response.json())
-  .then(data => console.log(data))
+	///////////////////////
+	///pagination
+	///////////////////////
+	
+	function load(){
+		numberOfPages = getNumberOfPages();
+		console.log(numberOfPages);
+		console.log(fil);
+	}
+	function getNumberOfPages() {
+    return Math.ceil(fil.length / numberPerPage);
+	}
+	function nextPage() {
+		currentPage += 1;
+		change('http://localhost:4000/api/prods3.json');
+		}
+	function previousPage() {
+		currentPage -= 1;
+		change('http://localhost:4000/api/prods3.json');
+		}
+	function firstPage() {
+		currentPage =1;
+		change('http://localhost:4000/api/prods3.json');
+		}
+	function lastPage() {
+		currentPage = numberOfPages;
+		change('http://localhost:4000/api/prods3.json');
+		}
+	function check() {
+		document.getElementById("next").disabled = currentPage == numberOfPages ? true : false;
+		document.getElementById("previous").disabled = currentPage == 1 ? true : false;
+		document.getElementById("first").disabled = currentPage == 1 ? true : false;
+		document.getElementById("last").disabled = currentPage == numberOfPages ? true : false;
+	}
+	
 </script>
 	
-<script src="https://unpkg.com/axios/dist/axios.min.js"></script>

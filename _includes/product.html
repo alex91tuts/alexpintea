@@ -9,7 +9,6 @@
 			{% elsif page.category == "fashion" or page.category == "fashion-barbati" %}
 				{% if product.adv_name contains "BIBLOO"%}
 					<div class="maxthumb">
-						{% capture img %}{{site.url}}/assets/images/images-small/{{ product.product_pic | split: '/' | last }}{% endcapture %}
 						<img src="{{site.url}}/assets/images/images-small/{{ product.product_pic | split: '/' | last }}" onerror="this.onerror=null;this.src='https://abpipzueen.cloudimg.io/height/317/n/{{ product.product_pic }}';"/> <style>@media (max-width: 578px){.maxthumb img { max-height: 192px; !important;}}</style>
 					{% else %}
 					<div class="maxthumb">
