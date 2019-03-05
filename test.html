@@ -140,7 +140,7 @@ title: Categorii
 				})
 			}      
 	};
-	window.onload = change('http://localhost:4000/api/prods3.json');
+	window.onload = change('http://totredus.ro/api/prods3.json');
 	
 	///////////////////////
 	///pagination
@@ -156,19 +156,19 @@ title: Categorii
 	}
 	function nextPage() {
 		currentPage += 1;
-		change('http://localhost:4000/api/prods3.json');
+		change('totredus.ro/api/prods3.json');
 		}
 	function previousPage() {
 		currentPage -= 1;
-		change('http://localhost:4000/api/prods3.json');
+		change('totredus.ro/api/prods3.json');
 		}
 	function firstPage() {
 		currentPage =1;
-		change('http://localhost:4000/api/prods3.json');
+		change('totredus.ro/api/prods3.json');
 		}
 	function lastPage() {
 		currentPage = numberOfPages;
-		change('http://localhost:4000/api/prods3.json');
+		change('totredus.ro/api/prods3.json');
 		}
 	function check() {
 		document.getElementById("next").disabled = currentPage == numberOfPages ? true : false;
