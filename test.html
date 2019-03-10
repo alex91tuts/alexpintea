@@ -1,96 +1,40 @@
 ---
 
-layout: post
+layout: page
 title: Categorii
 
 ---
-<div class="container mt-3">
-<div class="wrapppr-cat card-deck mx-auto">
-	<!-- Column -->
-	<div class="item-cat card" style="background: url('https://unsplash.it/400/300?image=1081') no-repeat center/450px;">
-		<p class="title-cat">Los Angeles</p>
-		<p class="price-cat">$229<br><span>per day</span></p>
-	</div>
-	<!-- Column -->
-	<!-- Column -->
-	<div class="item-cat card" style="background: url('https://unsplash.it/400/300?image=1029') no-repeat center/450px;">
-		<p class="title-cat">Los Angeles</p>
-		<p class="price-cat">$229<br><span>per day</span></p>
-	</div>
-	<!-- Column -->
-	<!-- Column -->
-	<div class="item-cat card" style="background: url('https://unsplash.com/photos/ua5MgxDp5_E') no-repeat center/450;">
-		<p class="title-cat">Los Angeles</p>
-		<p class="price-cat">$229<br><span>per day</span></p>
-	</div>
-	<!-- Column -->
-
-</div>
-</div>
-
-<!-- Diferite Produs -->
-{% for item in page.categorie %}
-{% increment counter %}
-{% assign value = counter | modulo: 2 %}
-{% if value == 1 %}
-<div class="static-slider2 spacer" style="background-color: rgb(244, 248, 250) !important;">
-{% else %}
-<div class="static-slider2 spacer" style="background-color: white !important;">
-{% endif %}
-    <div class="container">
-        <!-- Row  -->
-        <div class="row">
-            <!-- Column -->
-            <div class="col-lg-12 align-self-center" data-aos="fade-right" data-aos-duration="1200">
-                <h1 class="title">{{ item }}<span class="text-megna">.</span></h1>
-				
-				<div class="row container1 cont-over">	
-				{% assign products = site.data.prod_org[ item ] | sort: "discount" | reverse %}  
-        			{% for product in products limit: 8 %}
-						{% if product.discount != 100 %}
-							{% include product.html %}
-						{% endif %}
-        			{% endfor %}	
-				</div>
-				{% assign posts = site.posts %}
-				{% for post in posts %}
-					{% if post.categorie == item %} 
-                <a class="btn btn-success-gradiant btn-md btn-arrow m-t-20 m-b-10" href="{{ post.url }}"><span>VEZI MAI MULT <i class="ti-arrow-right"></i></span></a>
-					{% endif %}
-        		{% endfor %}            </div>
-            <!-- Column -->
-        </div>
-    </div>
-</div>
-{% endfor %}
-
+<div style="margin-top: 200px"></div>
+<input class="filt" type="button" id="" onclick="change('http://localhost:4000/api/prods3.json');filTer = 'SAMSUNG';currentPage = 1;" value="SAMSUNG" />
+<input class="filt" type="button" id="" onclick="change('http://localhost:4000/api/prods3.json');filTer = 'HTC';currentPage = 1;" value="HTC" />
+<input class="filt" type="button" id="" onclick="change('http://localhost:4000/api/prods3.json');filTer = 'NOKIA'; currentPage = 1;" value="NOKIA" />
 <div id="output" class="container row">PRODUSE</div>
-<div id="btn-group">
-<input type="button" id="first" onclick="firstPage()" value="first" />
-<input type="button" id="next" onclick="nextPage()" value="next" />
-<input type="button" id="previous" onclick="previousPage()" value="previous" />
-<input type="button" id="last" onclick="lastPage()" value="last" />
+<div id="btn-group" style="text-align: center">
+<input class="filt" type="button" id="first" onclick="firstPage()" value="prima" />
+<input class="filt" type="button" id="previous" onclick="previousPage()" value="înapoi" />
+<input class="filt" type="button" id="next" onclick="nextPage()" value="înainte" />
+<input class="filt" type="button" id="last" onclick="lastPage()" value="ultima" />
 </div>
-<input type="button" id="loadMore" onclick="loadMore()" value="Load More" />
 
 <script>
-	var fil = new Array(),
-		output = '',
-		 list = new Array(),
-		 pageList = new Array(),
-	     currentPage = 1,
-		 numberPerPage = 20,
-		 numberOfPages = 0;
-		
-		function change(custom) {
-			 let url = custom;
-				 fil = [];
+	var fil           = new Array(),
+		output        = '',
+		list          = new Array(),
+		pageList      = new Array(),
+	    currentPage   = 1,
+		numberPerPage = 20,
+		numberOfPages = 0,
+		filTer        = '';
+
+		function change(url) {
+			 let fil      = [],
 				 pageList = [];
 		function topFunction() {
 		  document.body.scrollTop = 0; // For Safari
 		  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 		}
 		topFunction();
+			
 			return getProd();
 			function getProd() {
 				fetch(url)
@@ -100,22 +44,26 @@ title: Categorii
 						page = data.length;		
 						
 					function loadList () {
-						for (var i = 0; i < data.length ; i++) {
-							fil.push(data[i]);
+						for (var i = 0; i < page; i++) {
+							if(data[i].manufacturer.indexOf(filTer) > -1 ){
+							   fil.push(data[i]);
+							}
 						}
 						load();
 						var begin = ((currentPage - 1) * numberPerPage);
 						var end = begin + numberPerPage;
-						pageList = fil.slice(begin, end);									
+						pageList = fil.slice(begin, end);		
 						check();
 					}
 					loadList();
+					let a = 1;
 					pageList.forEach(function(prod){
+						a++;
 						output += `
 			<!-- begin post -->
 			<div class="col-lg-3 col-md-4 col-6 mb-30px item lazy card-group">
 				<div class="card h-100">
-						<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/${prod.product_pic}); background-size: contain; background-repeat: no-repeat; background-position: center;" >
+						<div class="maxthumb" style="background: url(https://abpipzueen.cloudimg.io/width/254/x/${prod.product_pic}); ${prod.adv_name == "answear.ro " ? 'background-size: cover;' : 'background-size: contain;'} background-repeat: no-repeat; background-position: center;" >
 						<span class="adv" >${prod.manufacturer}</span><br/>
 						<span class="manufacturer" >${prod.manufacturer}</span><br/>
 					</div>
@@ -128,19 +76,52 @@ title: Categorii
 							<span class="price">${prod.price_discounted} Lei <span class="old-price">${prod.price_vat} Lei</span></span>
 							</div>
 							<span class="perc">${prod.discount}%</span><br/> 
-							<a class="citeste" data-toggle="modal" data-target="#mymodal{% increment modal %}" >DETALII</a>
+							<a class="citeste" data-toggle="modal" data-target="#mymodal${a}">DETALII</a>
 						 </div>
 					</div>
 				</div>
 			</div>
 			<!-- end post -->
-			`		
+			<!-- sample modal content -->
+				<div id="mymodal${a}" class="modal fade custom-modal modal4 lazy" tabindex="-1" role="dialog" aria-hidden="true" style="display: none; 99991!important;">
+					<div class="modal-dialog modal-lg mod-dia">
+						<div style="border: 0; border-radius: 0;" class="modal-content po-relative">
+							<div class="modal-body p-0">
+								<div class="row">
+									<span class="perc perc-mod">${prod.discount}%</span>
+									<div class="col-lg-5 col-md-3 modal-bg-img center-mod" style="text-align: center;">
+										<img src="https://abpipzueen.cloudimg.io/width/550/x/${prod.product_pic}">
+									</div>
+									<div class="col-lg-7 col-md-9">
+										<div class="modal-bg">
+											<h2 class="mod-title">
+												${prod.product_name}
+											</h2>
+											<p class="adv-mod" >${prod.adv_name}</p>
+											<p class="price-mod">${prod.price_discounted} Lei <span>${prod.price_vat}</span></p>
+											<p class="${prod.shipping == "1" ? ' ' : 'd-none'}"><i class="icon-Truck"></i> TRANSPORT GRATUIT<p>
+											<p class="${prod.gift == "1" ? '' : 'd-none'}"><i class="icon-Gift-Box"></i> CADOU INCLUS</p>
+											<a href="${prod.product_aff_link}" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');" target="_blank" class="btn btn-danger-gradiant btn-md btn-arrow text-white"><span>Spre produs <i class="ti-arrow-right"></i></span></a>
+											<br>
+											<p class="description-mod ${prod.description ? '' : 'd-none'}">${prod.description}</p>
+											<br>
+											<p class="size-mod ${prod.size ? '' : 'd-none'}" >Mărimi: ${prod.size}</p>
+									</div>
+								</div>
+								<a href="#" class="close-btn" data-dismiss="modal" aria-hidden="true">×</a>
+							</div>
+							</div>
+						</div>
+						<!-- /.modal-content -->
+					</div>
+					<!-- /.modal-dialog -->
+				</div>`		
 					});
 					document.getElementById('output').innerHTML = output;
 				})
 			}      
 	};
-	window.onload = change('https://totredus.ro/api/prods3.json');
+	window.onload = change('http://localhost:4000/api/prods3.json');
 	
 	///////////////////////
 	///pagination
@@ -156,19 +137,19 @@ title: Categorii
 	}
 	function nextPage() {
 		currentPage += 1;
-		change('https://totredus.ro/api/prods3.json');
+		change('http://localhost:4000/api/prods3.json');
 		}
 	function previousPage() {
 		currentPage -= 1;
-		change('https://totredus.ro/api/prods3.json');
+		change('http://localhost:4000/api/prods3.json');
 		}
 	function firstPage() {
 		currentPage =1;
-		change('https://totredus.ro/api/prods3.json');
+		change('http://localhost:4000/api/prods3.json');
 		}
 	function lastPage() {
 		currentPage = numberOfPages;
-		change('https://totredus.ro/api/prods3.json');
+		change('http://localhost:4000/api/prods3.json');
 		}
 	function check() {
 		document.getElementById("next").disabled = currentPage == numberOfPages ? true : false;
@@ -176,6 +157,7 @@ title: Categorii
 		document.getElementById("first").disabled = currentPage == 1 ? true : false;
 		document.getElementById("last").disabled = currentPage == numberOfPages ? true : false;
 	}
+	
 	
 </script>
 	
