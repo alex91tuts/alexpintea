@@ -4,10 +4,23 @@ layout: page
 title: Categorii
 
 ---
-<div style="margin-top: 200px"></div>
-<input class="filt" type="button" id="" onclick="change('http://localhost:4000/api/prods3.json');filTer = 'SAMSUNG';currentPage = 1;" value="SAMSUNG" />
-<input class="filt" type="button" id="" onclick="change('http://localhost:4000/api/prods3.json');filTer = 'HTC';currentPage = 1;" value="HTC" />
-<input class="filt" type="button" id="" onclick="change('http://localhost:4000/api/prods3.json');filTer = 'NOKIA'; currentPage = 1;" value="NOKIA" />
+<style>
+	.filt:disabled {
+		color: darkgoldenrod;
+	}
+</style>
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = '';currentPage = 1;" value="All" />
+	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = 'SAMSUNG';currentPage = 1;" value="SAMSUNG" />
+	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = 'HTC';currentPage = 1;" value="HTC" />
+	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = 'NOKIA'; currentPage = 1;" value="NOKIA" />
+  </div>
+</div>
+
 <div id="output" class="container row">PRODUSE</div>
 <div id="btn-group" style="text-align: center">
 <input class="filt" type="button" id="first" onclick="firstPage()" value="prima" />
@@ -17,16 +30,17 @@ title: Categorii
 </div>
 
 <script>
-	var fil           = new Array(),
+	let newArr,
 		output        = '',
 		list          = new Array(),
 		pageList      = new Array(),
 	    currentPage   = 1,
 		numberPerPage = 20,
 		numberOfPages = 0,
-		filTer        = '';
+		filTer        = '',
+		url           = 'https://totredus.ro/api/prods3.json';
 
-		function change(url) {
+	var change = function () {
 			 let fil      = [],
 				 pageList = [];
 		function topFunction() {
@@ -49,6 +63,7 @@ title: Categorii
 							   fil.push(data[i]);
 							}
 						}
+						newArr = fil.length;
 						load();
 						var begin = ((currentPage - 1) * numberPerPage);
 						var end = begin + numberPerPage;
@@ -121,7 +136,7 @@ title: Categorii
 				})
 			}      
 	};
-	window.onload = change('http://localhost:4000/api/prods3.json');
+	window.onload = change();
 	
 	///////////////////////
 	///pagination
@@ -129,27 +144,25 @@ title: Categorii
 	
 	function load(){
 		numberOfPages = getNumberOfPages();
-		console.log(numberOfPages);
-		console.log(fil);
 	}
 	function getNumberOfPages() {
-    return Math.ceil(fil.length / numberPerPage);
+    return Math.ceil(newArr / numberPerPage);
 	}
 	function nextPage() {
 		currentPage += 1;
-		change('http://localhost:4000/api/prods3.json');
+		change();
 		}
 	function previousPage() {
 		currentPage -= 1;
-		change('http://localhost:4000/api/prods3.json');
+		change();
 		}
 	function firstPage() {
 		currentPage =1;
-		change('http://localhost:4000/api/prods3.json');
+		change();
 		}
 	function lastPage() {
 		currentPage = numberOfPages;
-		change('http://localhost:4000/api/prods3.json');
+		change();
 		}
 	function check() {
 		document.getElementById("next").disabled = currentPage == numberOfPages ? true : false;
