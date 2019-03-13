@@ -9,17 +9,10 @@ title: Categorii
 		color: darkgoldenrod;
 	}
 </style>
-<div class="dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown button
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = '';currentPage = 1;" value="All" />
-	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = 'SAMSUNG';currentPage = 1;" value="SAMSUNG" />
-	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = 'HTC';currentPage = 1;" value="HTC" />
-	<input class="dropdown-item filt" type="button" id="" onclick="change();url ='https://totredus.ro/api/prods3.json';filTer = 'NOKIA'; currentPage = 1;" value="NOKIA" />
-  </div>
-</div>
+<input class="test" type="checkbox" id="SAMSUNG" onclick="change();url ='http://localhost:4000/api/prods3.json';pushToFilTer('SAMSUNG');currentPage = 1;" value="SAMSUNG" /><label for="scales">SAMSUNG</label>
+<input class="test" type="checkbox" id="HTC" onclick="change();url ='http://localhost:4000/api/prods3.json';pushToFilTer('HTC');currentPage = 1;" value="HTC" /><label for="scales">HTC</label>
+<input class="test" type="checkbox" id="NOKIA" onclick="change();url ='http://localhost:4000/api/prods3.json';pushToFilTer('NOKIA'); currentPage = 1;"/><label for="scales">NOKIA</label>
+
 
 <div id="output" class="container row">PRODUSE</div>
 <div id="btn-group" style="text-align: center">
@@ -30,6 +23,16 @@ title: Categorii
 </div>
 
 <script>
+	function pushToFilTer(val) {
+		var inp   = document.getElementById(val),
+			index = filTer.indexOf(val);
+		
+		if (inp.checked) {
+			filTer.indexOf(val) > -1 ? filTer.splice(index, 1) : filTer.push(val);
+		} else {
+			filTer.indexOf(val) > -1 ? filTer.splice(index, 1) : '';
+		}
+	}
 	let newArr,
 		output        = '',
 		list          = new Array(),
@@ -37,7 +40,7 @@ title: Categorii
 	    currentPage   = 1,
 		numberPerPage = 20,
 		numberOfPages = 0,
-		filTer        = '',
+		filTer        = [],
 		url           = 'https://totredus.ro/api/prods3.json';
 
 	var change = function () {
@@ -58,11 +61,17 @@ title: Categorii
 						page = data.length;		
 						
 					function loadList () {
-						for (var i = 0; i < page; i++) {
-							if(data[i].manufacturer.indexOf(filTer) > -1 ){
-							   fil.push(data[i]);
-							}
-						}
+							for (var i = 0; i < page; i++) {
+							if (filTer.length === 0) {
+									fil.push(data[i]);
+								} else {
+									for (var n = 0; n < filTer.length; n++) {
+									var f = filTer[n];
+									eval("(data[i].manufacturer.indexOf(f) > -1 ) ? fil.push(data[i]) : '';");
+								}
+								
+							 }
+						    }
 						newArr = fil.length;
 						load();
 						var begin = ((currentPage - 1) * numberPerPage);
