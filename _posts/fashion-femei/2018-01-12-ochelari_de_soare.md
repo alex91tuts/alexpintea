@@ -2,7 +2,8 @@
 
 index: 1
 title: Ochelari de soare
-categorie: ochelari_de_soare
 icon: icon-Sunglasses-3 
+api: haine_femei/ochelari_soare
+size: contain
 
 ---

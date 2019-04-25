@@ -52,7 +52,6 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.ihavecookies.js"></script>
 
-
 <script type="text/javascript">
     $('.tgl-cl').on('click', function() {
         $('body .h17-main-nav').toggleClass("show");
@@ -71,6 +70,32 @@
 		$(function() {
         $('.lazy').Lazy();
     });
+	
+	$(function() {
+  $('a[href*="#"]:not([href="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+
+if ($(window).width() > 1024) {
+   $("#sidebar").stick_in_parent({offset_top: 90});
+}
+else if ($(window).width() < 1023 && $(window).width() > 990 ) {
+   $("#sidebar").stick_in_parent({offset_top: 15});
+}
+else if ($(window).width() < 990) {
+   console.log(' ce pula mea');
+}
+	
 </script>
     
 

@@ -1,0 +1,102 @@
+{% assign sum = 0%}
+	{% for item in page.opt %}
+		{% assign sum = sum | plus:item.value %}
+	{% endfor %}
+{% assign number = page.opt | size | times: 10.0 %}
+{% assign total = sum | divided_by: number | round: 1 %}
+
+{% capture decimal %}{% endcapture %}
+
+{% capture progress4times %} {{ 10 | minus: total | times: 0.1 }} {% endcapture %}
+
+{% capture progress %}{{ 339.292 | times: progress4times }}{% endcapture %} 
+
+<div id="scor" class="scor-box">
+	 <h3>PRETURI</h3>
+	 {% include preturi-produse-oferta.html %}
+	 <hr>
+	<div class="circle-progress" style="margin-bottom: 50px;">
+		 <div class="progress-bar-total">
+				 <div style="position: relative;"><span class="percent">{{ total }}</span></div>
+				<svg class="progress-circle" width="120" height="120" viewBox="0 0 120 120">
+					<circle cx="60" cy="60" r="50" fill="none" stroke="lightgray" stroke-width="12" stroke-dasharray="1, 8"/>
+					<circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
+					<circle class="progress__value-circle" style=" stroke-dashoffset: {{ progress }};" cx="60" cy="60" r="54" fill="none" stroke="#f77a52" stroke-width="12" />
+				</svg>
+			</div>
+		 <h3 style="margin-bottom: 0;">SCOR: </h3>
+		 <p>{{ page.scor-intro }}</p>
+	</div>
+	<div class="col">
+			{% for item in page.opt %}
+				<div class="progress" style="height: 6px;">
+						{% if item.value <= 25 %}
+								<div class="progress-bar bg-danger" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+						{% elsif item.value > 25 and item.value <= 50 %}
+								<div class="progress-bar bg-warning" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+						{% elsif item.value > 50 and item.value <= 75 %}
+								<div class="progress-bar bg-info" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+						{% elsif item.value > 75 %}
+								<div class="progress-bar bg-success" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+						{% endif %}
+			</div>
+			<p class="features-score">{{ item.name | upcase }}<span style="float: right;">{{ item.value }}</span></p>
+			{% endfor %}
+	</div>
+	<hr>
+	<div class="pros-cons row col-12">
+			<div class="col-md-6 pros">
+					<h3>PRO</h3>
+					<ul style="list-style: none; padding-left: 24px;">
+						{% for item in page.pro %}
+							<li>{{ item }}</li>
+						{% endfor %}
+					</ul>
+			</div>
+			<div class="col-md-6 cons">
+					<h3>CONTRA</h3>
+					<ul style="list-style: none; padding-left: 24px;">
+						{% for item in page.contra %}
+							<li>{{ item }}</li>
+						{% endfor %}
+					</ul>
+			</div>
+	</div>
+  <hr>
+  <div class="key">
+			<h3>SPECIFICATII CHEIE</h3>
+			<ul style="list-style: none; padding: 0;">
+				{% for item in page.key %}
+					<li>{{ item }}</li>
+				{% endfor %}
+			</ul>
+	</div>
+	<hr>
+	<div>
+			<h3>VERDICT</h3>
+			<img class="verdict-img" src="/assets/images/reviews/verdict.png" alt="{{ page.title }}">
+			<p>{{ page.verdict }}</p>
+	</div>
+ </div>
+
+<style>
+ .key ul li {
+    border: solid 1px #d3d3d382;
+    border-radius: 3px;
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-left: solid 10px green;
+    border-right: solid 10px green;
+    color: black;
+    font-weight: 500;
+    }
+	.key {
+		text-align: center;
+	}
+	.key ul li:hover {
+		border-left: solid 19px green;
+    border-right: solid 19px green;
+		transition: all 1s;
+	}
+</style>

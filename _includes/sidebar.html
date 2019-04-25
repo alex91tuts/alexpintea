@@ -1,0 +1,74 @@
+<div class="col-lg-4 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
+<div id="sidebar">
+<div class="col review-side">
+    <h5 class="title-section-sidebar">RECENT</h5>
+		<hr>
+	{% assign reviews = site.reviews  %}
+	{% for review in site.reviews reversed %}
+	<a href="{{ review.url }}">
+	<div class="small-post">
+	<img class="small-post-image" src="{{ site.url }}/assets/images/reviews/{{ review.image_path }}">
+	{{ review.title }}
+	</div>
+	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> alexpintea </span>
+	<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ review.date | date_to_string }} </span>
+	<hr class="line-sub">
+	</a>
+	{% endfor %}
+ </div> 
+	<div class="col review-side">
+    <h5 class="title-section-sidebar">CATEGORII</h5>
+		<hr>
+	{% assign reviews = site.reviews  %}
+	{% for review in site.reviews reversed %}
+	<a href="{{ site.url }}/review" onclick="window.name = '{{ review.categorie-review }}';">
+		{{ review.categorie-review }}
+	<hr class="line-sub-cat">
+	</a>
+	{% endfor %}
+ </div>
+	
+	</div>	
+</div>
+
+<style>
+	.small-post {
+		overflow: hidden;
+    font-size: 12px;
+    margin-bottom: 13px;
+    max-height: 39px;
+    height: 42px;
+    font-weight: 500;
+		font-style: italic;
+		color: black;
+	}
+	.small-post-image {
+		max-width: 25%;
+    border-radius: 4px;
+    float: left;
+    margin-right: 10px;
+	}
+	.small-post-meta {
+		position: relative;
+    top: -19px;
+    font-size: 11px;
+    font-style: italic;
+    color: black;
+		margin-right: 4px;
+	}
+	.line-sub {
+		margin-top: -17px;
+    margin-bottom: 17px;
+	}
+	.line-sub-cat {
+		margin-bottom: 15px;
+    margin-top: 0px;
+	}
+	.title-section-sidebar {
+		font-weight: 900;
+		display: inline;
+    border-bottom: solid black;
+    padding-bottom: 17px;
+	}
+	
+</style>

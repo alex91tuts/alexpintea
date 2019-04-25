@@ -4,13 +4,357 @@ layout: page
 title: Recenzii
 
 ---
-{% for review in site.reviews %}
-<figure class="snip1529 col-lg-3">
-  <img src="{{ review.image_path }}" />
-  <figcaption>
-    <h3>{{ review.title | upcase }}</h3>
-  </figcaption>
-  <div class="hover"></div>
-  <a href="{{ review.url }}"></a>
-</figure>
-{% endfor %}
+
+<div><button id='categorie-selectata' type="button" class="btn btn-dark btn-sm cat-small"></button></div>
+<div class="row reviews-wrapper">
+	<div id="outputReview" class="row col-lg-9"></div>
+	{% include sidebar-loop-review.html %}
+</div>
+
+<style>
+	@media (max-width: 570px) {
+	.cat-small {
+		margin-left: 0;
+	}
+	.card-wrapper {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#outputReview {
+    padding-left: 0;
+		padding-right: 0;
+	}
+}
+	#outputReview {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reviews-wrapper {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.scor-scris {
+		color: white;
+		font-size: 14px;
+    font-weight: 600;
+    margin-left: 10px;
+	}
+	.layer1 {
+		color: lightgray;
+	}
+	.layer2 {
+		color: yellow;
+		position: absolute;
+    top: 0px;
+    overflow: hidden;
+	}
+	.rev-card-col {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.rev-card {
+		border: solid 1px whitesmoke;
+		border-radius: 3px;
+	}
+	.rev-title {
+		padding: 10px;
+	}
+	.rev-title h3 {
+		color: black;
+    font-size: 14px;
+    line-height: 1.5;
+    height: 44px;
+    overflow: hidden;
+	}
+	.rev-title a {
+		background: red;
+	}	
+	.box-pos {
+		background: black;
+		box-shadow: 0 0 10px 1px lightgray;
+		border-radius: 3px;
+	}
+	#categorie-selectata:after {
+		content: "\f00d"; /* FontAwesome Unicode */
+    font-family: FontAwesome;
+		margin-left: 10px;
+	}
+	.cat-small {
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	.small-scor {
+		position: absolute;
+    top: 7px;
+    right: 7px;
+    border: solid;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    border-radius: 50px;
+    font-weight: 800;
+    background: white;
+	}
+	
+	
+	
+	.card-test {
+	background: #000;
+  overflow: hidden;
+  box-shadow: 0 5px 10px rgba(0,0,0, 0.5);
+  padding: 0;
+	}
+
+.card-test .poster {
+  position: relative;
+  overflow: hidden;
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+}
+
+.card-test .poster:before {
+  content: "";
+  position: absolute ;
+ 	bottom: -130px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(0deg,#000 50%, transparent);
+  transition: 0.5s;
+  z-index: 1;
+}
+
+.card-test:hover .poster:before {
+  bottom: 0;
+}
+
+.card-test .poster img {
+  width: 100%;
+  transition: 0.5s;
+}
+
+.card-test:hover .poster img {
+  filter: blur(2px);
+  transform: translateY(-30px);
+}
+
+.details {
+  position: absolute;
+  padding: 20px;
+  width: 100%;
+  height: 74%;
+  bottom: -133px;
+  left: 0;
+  box-sizing: border-box;
+  transition: 0.5s;
+  z-index: 2;
+}
+
+.card-test:hover .details {
+  bottom: 0;
+}
+
+.details h2 {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+	height: 73px;
+  overflow: hidden;
+}
+
+.rating-stars {
+ position: relative;
+ display: inline-block;
+}
+
+.rating .fa {
+  color: #f7f406;
+  margin-right: 2px;
+  font-size: 16px;
+}
+
+.rating span {
+  color: #fff;
+  padding: 0 5px;
+}
+
+.tags {
+  position: relative;
+  margin-top: 2px;
+}
+
+.tags span {
+  padding: 0 5px;
+  margin-right: 2px;
+	margin-left: 2px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tags span.fantasy {
+  background: black;
+}
+
+
+.info {
+  color: #fff;
+}
+
+.info p {
+  margin: 15px, 0, 10px;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 400;
+	margin-bottom: 3px;
+	height: 79px;
+  overflow: hidden;
+}
+
+.star {
+  position: relative;
+}
+
+.star h4 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  color: #f7f406
+}
+
+.star ul {
+  margin: 10px 0 0;
+  padding: 0;
+  display: flex;
+}
+
+.star ul li {
+  list-style: none;
+  width: 45px;
+  height: 45px;
+  background: #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 6px;
+  border: 2px solid #fff;
+}
+
+.star ul li img {
+  width: 100%;
+}
+	.author-small {
+	font-size: 14px;
+  color: #ff9800;
+	font-weight: 800;
+	}
+	.tags .bottom-tag {
+		color: black;
+	}
+	.bottom-tag {
+		background: white;
+    font-size: 11px;
+    font-weight: 500;
+	}
+	.read-more {
+		float: right;
+    background: goldenrod;
+    color: white !important;
+    font-size: 14px;
+    padding: 4px 21px;
+		font-weight: 800;
+	}
+	.read-more:hover i {
+		animation: pulse 1s ease-out infinite alternate;
+	}
+	@keyframes pulse {
+  0% {
+    transform: translateX(0px);
+  }
+	33% {
+    transform: translateX(3px);
+  }
+	66% {
+    transform: translateX(6px);
+  }
+  100% {
+    transform: translateX(3px);
+  }
+}
+	.card-wrapper {
+		padding-bottom: 15px;
+	}
+</style>
+
+<script>
+	
+let url = 'http://localhost:4000/api/review/review_api.json',
+		fil = [],
+		categorie = window.name;
+function getFilters() {
+fetch(url)
+	.then((res)  => res.json())
+	.then((data) => {
+		var outputReview = '';
+	  fil = [];
+		for (var i=0; i<data.length; i++) {
+			if (data[i].categorie.toUpperCase().indexOf(categorie) > -1 || data[i].tag1.toUpperCase().indexOf(categorie) > -1 || data[i].tag2.toUpperCase().indexOf(categorie) > -1 || data[i].tag3.toUpperCase().indexOf(categorie) > -1 ) {
+					fil.push(data[i])
+			}
+		}
+		fil.forEach(function(prod){
+			outputReview += `
+				<div class="card-wrapper col-lg-6">
+				<div class="card-test">
+						<div class="poster" style="background-image: url('/assets/images/reviews/${prod.imagine}')">
+							 <div class="tags">
+								<span class="fantasy">${prod.categorie}</span>
+							</div>
+						<div class="details">
+							<a href="${prod.link}"><h2>${prod.titlu}<br></h2></a>
+							<span class="author-small">By Alexandru Pintea</span><br>
+							<div class="rating-stars">
+								<span class="layer1">★★★★★</span><span class="scor-scris">${prod.scor}/100</span>
+								<span class="layer2" style="width: ${prod.scor}%;">★★★★★</span>
+							</div>
+
+							<div class="info">
+								<p>Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet<span>...citeste daca amai citesti ce mai sciu un pic probabil ca va iesi din schem</span></p>
+							</div>
+							<div class="tags">
+								<span class="bottom-tag">${prod.tag1}</span>
+								<span class="bottom-tag">${prod.tag2}</span>
+								<span class="bottom-tag">${prod.tag3}</span>
+								<a href="${prod.link}" class="read-more">CITESTE <i class="fas fa-angle-double-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+				`	
+		});
+		document.getElementById('outputReview').innerHTML = outputReview;
+	  document.getElementById('categorie-selectata').innerHTML = categorie;
+	  categorie = '';
+	  buttonInner();
+	})
+}
+window.onload = getFilters();
+
+function buttonInner () {
+	var x = document.getElementById('categorie-selectata');
+	var u = document.getElementById('categorie-selectata').innerText;
+	u == '' ? x.style.display = 'none' : x.style.display = 'block';
+}
+
+	
+
+document.getElementById('categorie-selectata').addEventListener('click', function() {
+	categorie = [];
+	window.name = '';
+	getFilters();
+});
+
+	
+</script>

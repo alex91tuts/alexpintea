@@ -1,0 +1,77 @@
+<div class="row author-box">
+	<div class="col-2 img-author">	<img src="/assets/images/reviews/pintea.jpg"><a href="#"><span>DETALII</span></a></div>
+	<div class="col-10 detail-author">
+		<span class="author-name">PINTEA ALEXANDRU</span>
+		<p class="author-bio">Este administratorul acestui site si autorul a numeroase dintre articolele relevante din lmea it. Pasionat de dezvoltare web, axat in mod special pe partea de frontend.</p>
+	</div>
+</div>
+
+<style>
+	.author-box {
+		border-radius: 3px;
+	  box-shadow: 0 0 10px 0 #0e0e0e33;
+		background-image: url('/assets/images/reviews/author-background.jpg');
+		background-size: cover;
+		margin-bottom: 15px;
+	}
+	.img-author {
+		padding: 0;
+    border-radius: 5px;
+  	}
+	.img-author span {
+		position: absolute;
+    left: 0;
+    bottom: 0;
+    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    width: 100%;
+    text-align: center;
+		color: white;
+		font-weight: 600;
+		transition: all 1s;
+	}
+	.img-author span:hover {
+	 letter-spacing: 2px;
+		font-weight: 900;
+		transition: all 1s;
+		transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+	}
+	.img-author img {
+		border-radius: 3px 0 0 3px;
+	}
+	.author-bio {
+		margin: 0 !important;
+		padding: 0;
+	}
+	.author-name {
+		margin: 0;
+		display: block;
+		font-size: 26px;
+    font-weight: 800;		
+	}
+	
+	
+	
+	@media (max-width: 574px) {
+		.img-author span {
+		font-size: 12px;
+    font-weight: 500;
+		}
+		.author-box {
+			height: 77px;
+    	overflow: hidden;
+		}
+		.author-name {
+		font-size: 15px;		
+	 }
+		.author-bio {
+		font-size: 10px;
+			line-height: 1.6;
+			padding: 0;
+			
+	 }
+		.img-author {
+			max-height: 77px;
+		}
+	}
+</style>

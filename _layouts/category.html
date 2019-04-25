@@ -12,133 +12,448 @@ title: Category
 </blockquote>
 {% endif %} 
 <h2 class="col-lg-6 col-6"><span>{{ page.title | upcase }}</span></h2>
+
+	
 <div class="col-lg-6 col-6 sorting">
 	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by price">
 		<span class="filt">PRET</span>
-		<button data-mixitup-control type="button" class="filt" data-sort="price:asc"><i class="fas fa-chevron-up"></i></span></button>
-		<button data-mixitup-control type="button" class="filt" data-sort="price:desc"><i class="fas fa-chevron-down"></i></span></button>
+		<button onclick="sorting('-u.json');" type="button" class="filt"><i class="fas fa-chevron-up"></i></span></button>
+		<button onclick="sorting('-d.json');" type="button" class="filt"><i class="fas fa-chevron-down"></i></span></button>
 	</div>
 	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by discount">
 		<span class="filt">DISCOUNT</span>
-		<button data-mixitup-control type="button" class="filt" data-sort="discount:desc"><i class="fas fa-chevron-down"></i></span></button>
+		<button onclick="sorting('-a.json');" type="button" class="filt"><i class="fas fa-chevron-down"></i></span></button>
 	</div>
-			<select class="select-sort">
-				<option value="random">SORTARE</option>
-				<option value="discount:desc">DISCOUNT %</option>
-				<option value="price:asc">PRET CRESC</option>
-                <option value="price:desc">PRET DESC</option>
-            </select>
+			<select onchange="sorting(value)" class="select-sort">
+				<option value="-a.json">DISCOUNT %</option>
+				<option value="-u.json">PRET CRESC</option>
+        <option value="-d.json">PRET DESC</option>
+      </select>
 </div>
 
-<span>FILTRE: </span><a style="cursor: pointer;" data-toggle="modal" data-target="#brand" > BRAND <i class="icon-Arrow-Down3"></i></a>
-<!-- sample modal content -->
-<div id="brand" class="modal fade custom-modal modal4 lazy" tabindex="-1" role="dialog" aria-hidden="true" style="display: none; 99991!important;">
-	<div class="modal-dialog modal-lg mod-dia">
-		<div style="border: 0; border-radius: 0;" class="modal-content po-relative">
-			<div class="modal-header">
-				<h5 class="modal-title" id="exampleModalLongTitle">FILTREAZĂ DUPĂ BRAND</h5>
-				<i class="icon-Geo3-Close" data-dismiss="modal" style="font-size: 31px; color: orangered; cursor: pointer;"></i>
-			  </div>
-			<div class="modal-body">
-				<a class="dropdown-item" style="display: inline-flex; width: auto; color: orangered;" data-mixitup-control href="#" data-toggle=".item">TOATE</a>
-				{% assign prod = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-				{% capture brand %}{% for product in prod limit: 300 %}<a class="dropdown-item" style="display: inline-flex; width: auto" data-mixitup-control href="#" data-toggle=".{{ product.manufacturer | split: " " | first }}">{{ product.manufacturer | upcase }}</a>, {% endfor %}{% endcapture %}
-				{{ brand | split: ", " | uniq }} 
-			</div>
-			</div>
-		</div>
-		<!-- /.modal-content -->
-	</div>
-	<!-- /.modal-dialog -->
-
 </div>
-<div class="row container1">
-	
-	
-	{% assign site.posts = post %}
-    {% assign products = site.data.prod_org[ page.categorie ] | sort: "discount" | reverse %}
-        {% for product in products limit: 300 %}
-		{% if product.size contains "ani" or product.size contains "luni" or product.product_name contains "copii" %}
-		{% else %}
-			{% include product.html %}
-		{% endif %}
-        {% endfor %}
+<div class="container1 row">
+    <div style="width: 100%;">
+    <button id="id-cancel-cat" type="button" class="cancel-cat btn btn-light btn-sm" >FILTRE <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
     </div>
+<div class="col-12" id="cancel-button" style="margin-bottom: 10px;">
+</div>
+
+	
+	
+<div id="id-sidebar-wide" class="col-xl-3 col-lg-3 col-md-4 col-sm-12 sidebar-wide">
+<div id="sidebar">
+<button id="inapoi" type="button" class="cancel-cat btn btn-light btn-sm" ><i class="fa fa-long-arrow-left" aria-hidden="true"></i> INAPOI</button>
+	
+	<div class="fi container">
+		<input style="margin-bottom: 5px; float: right;" class="filt" type="button" id="" onclick="clearAllFilters();" value="STERGE"/>
+		<p style="font-weight: 700; margin-bottom: 0; display: inline;">Brand</p>
+		<input style="margin-bottom: 15px; width: 100%; border-radius: 5px; padding-left: 5px;" type="text" id="myInput" onkeyup="searchInFilters()" placeholder="CAUTA.." title="Type in a name">
+		<hr>
+		<ul id="outputFilter" class="list-group" style="max-height: 400px;overflow: overlay;padding: 0;margin: 0;">
+		</ul>	
+		<hr>
+	</div> 
+ </div>	
+</div>
+<div id="output" class="row col-xl-9 col-lg-9 col-md-8 col-sm-12"></div>
+	
+	<div id="btn-group" style="text-align: center; width: 100%;">
+		<input class="filt" type="button" id="first" onclick="firstPage()" value="prima" />
+		<input class="filt" type="button" id="previous" onclick="previousPage()" value="înapoi" />
+		<input class="filt" type="button" id="next" onclick="nextPage()" value="înainte" />
+		<input class="filt" type="button" id="last" onclick="lastPage()" value="ultima" />
+		<p class="" style="text-align: center; margin-top: 5px; font-weight: 700;"><span id="current__page"></span><span> din </span><span id="total__pages">20</span></p>
+	</div>
+	
+	
+	
+	
+{{ content }}
+</div>
 </section>
 
 		
-		<div class="load-more-wrapper">
-            <button type="button" class="load-more">MAI MULTE</button>
-        </div>
+<style>
+	.bread-crumbs-shop {
+		font-weight: 700;
+    font-size: 15px;
+	}
+	.recent-posts .row {
+		margin-left: 0;
+		margin-right: 0;
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.cancel-cat {
+		margin: 5px;
+	}
+	@media (min-width: 768px ) {
+		.cancel-cat {
+			display: none;
+		}
+	}
+	.prod {
+		max-height: fit-content;
+	}
+	.filt:disabled {
+		color: #454441;
+	}
+	.fi {
+    border-radius: 4px;
+    padding: 10px;
+	}
+	.categorii-sidebar {
+		width: 100%;
+		text-transform: uppercase;
+		text-align: left;
+		margin-bottom: 5px;
+	}
+    .category-body a:active {
+        background: black;
+        color: white;
+    }
+	.category-body {
+		box-shadow: 0 0 10px 0 #d3d3d38f;
+		border-radius: 4px;
+		padding: 10px; 
+		margin-bottom: 15px;
+	}
+	/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
 
-</div>
-<script src="{{ site.baseurl }}/assets/js/mixitup.js"></script>
-<script src="{{ site.baseurl }}/assets/js/mixitup-pagination.min.js"></script>
-  
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
 
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+	.filters__check {
+		margin-bottom: 5px;
+	}
+	.cat-btn {
+		border: solid 1px lightgray;
+    border-right: solid 10px green;
+    border-radius: 5px;
+		margin-bottom: 4px;
+	}
+	.cat-btn .btn-link:hover {
+		text-decoration: none;
+	}
+	.cat-btn h2 .btn-link {
+		font-size: 13px;
+    font-weight: 700;
+		margin-right: 5px;
+	}
+	.categorii-radio {
+		padding: 10px;
+	}
+	.maxthumb {
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+@media only screen and (max-width: 768px) {
+  .sidebar-wide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 10000;
+    background: white;
+    left: 0;
+    right: 0;
+    padding-bottom: 20px;
+		display: none;
+  }
+    .close-button {
+        
+    }
+}
+    .mobile-filters {
+        background-color: black;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 1000;
+    }
+</style>
 
-	<script>
-    var containerEl = document.querySelector('.container1');
-	var selectSort = document.querySelector('.select-sort');
-			
-	var containerEl = document.querySelector('.container');
-            var loadMoreEl = document.querySelector('.load-more');
-            var currentLimit = 16;
-            var incrementAmount = 16;
+<script>
+let                     newArr,
+		output        = '',
+		list          = new Array(),
+		pageList      = new Array(),
+	  currentPage   = 1,
+		numberPerPage = 24,
+		numberOfPages = 0,
+		filTer        = [],
+		url           = '{{ site.url }}/api/{{ page.api }}/result-a.json';
 
-            var mixer = mixitup(containerEl, {
-                pagination: {
-                    limit: currentLimit	
-                },
-				 selectors: {
-					target: '.item',
-					control: '[data-mixitup-control]'
-				},
-                callbacks: {
-                    onMixEnd: handleMixEnd
-                }
-            });
+//////////////////////////////////////////////////////
+/////////////    SPLIT STRING FOR SORT   /////////////
+//////////////////////////////////////////////////////	
+function sorting(sor) {
+ currentPage   = 1;
+ let arr, fin;
+  arr = url.split("-");
+  arr.pop();
+  arr.push(sor);
+  url = arr.join("");
+  change();
+console.log(url);
+}	
 
-            function handleMixEnd(state) {
-                // At the end of each operation, we must check whether the current
-                // matching collection of target elements has additional hidden
-                // elements, and enable or disable the load more button as
-                // appropriate
+//////////////////////////////////////////////////////
+/////////////        SEARCH FILTERS   ////////////////
+//////////////////////////////////////////////////////
+function searchInFilters() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("outputFilter");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+//////////////////////////////////////////////////////
+/////////////        CLEAR FILTERS   /////////////////
+//////////////////////////////////////////////////////
+	function clearAllFilters () {
+		var x = document.querySelectorAll(".filters--check");
+		for (var i = 0; i < x.length; i++) {
+		x[i].checked = false;
+		}
+		filTer = [];
+		document.getElementById('cancel-button').innerHTML = '';
+		change();
+	}
 
-                if (state.activePagination.limit + incrementAmount >= state.totalMatching) {
-                    // Disable button
+//////////////////////////////////////////////////////
+/////////////        CLEAR FILTERS by BUTTON   ///////
+//////////////////////////////////////////////////////	
+function deleteFilterButton (value) {
+	document.getElementById(value).innerHTML = '';
+}
+	
+	
+//////////////////////////////////////////////////////
+/////////////       LOADER           /////////////////
+//////////////////////////////////////////////////////	
+		
+	function loadingTransparency() {
+		var pr = document.querySelectorAll(".prod");
+		for (var i=0; i<pr.length; i++) {
+			pr[i].style.opacity = "1";
+		}
+	}
+	
+	
+//////////////////////////////////////////////////////
+/////////////        FILTRE          /////////////////
+//////////////////////////////////////////////////////
+	let filterUrl   = url,
+		filterArray = [],
+		filA        = [],
+		allUp;
+	function getFilters() {
+    filA = [];
+	fetch(url)
+	.then((res)  => res.json())
+	.then((data) => {
+		var outputFilter = '',
+			outputAdv = '',
+			page         = data.length;	
+		function getAllUniqueValues() {
+			for (var i = 0; i<page; i++) {
+			filA.push(data[i].manufacturer);
+			}
+		}
+		getAllUniqueValues();
+		allUp = filA.map(a => a.toUpperCase());
+		var uniqueItemsBrand = Array.from(new Set(allUp));
+		uniqueItemsBrand.forEach(function(prod){
+			outputFilter += `
+		<!-- begin post -->
+				<li class="filters__check"><input type="checkbox" class="filters--check" id="${prod.toUpperCase()}" onclick="change();pushToFilTer('${prod.toUpperCase()}'); currentPage = 1;" value="${prod.toUpperCase()}"> ${prod.toUpperCase()}</li>
+		<!-- end post -->`	
+		});
+		document.getElementById('outputFilter').innerHTML = outputFilter;
+	})
+ }
+window.onload = getFilters();
+	
+		
+//////////////////////////////////////////////////////
+/////////////        PUSH TO FILTER AND BUTTONS  /////
+//////////////////////////////////////////////////////	
+	
+	function pushToFilTer(val) {
+		var inp   = document.getElementById(val),
+			index = filTer.indexOf(val);
+		
+		if (inp.checked) {
+			filTer.indexOf(val) > -1 ? filTer.splice(index, 1) : filTer.push(val);
+		} else {
+			filTer.indexOf(val) > -1 ? filTer.splice(index, 1) : '';
+		}
+	}
+	
+//////////////////////////////////////////////////////
+/////////////       add buttons to the top       /////
+//////////////////////////////////////////////////////
+	function pushFilterButton() {
+		var outputCloseButton = '';
+		if (filTer != []) {
+		console.log(filTer);
+		filTer.map(function(val){
+			outputCloseButton += `
+			<button id='${val.toLowerCase()}' onclick="deleteFilterButton('${val}')"; type="button" class="cancel-cat btn btn-light btn-sm" value="${val}">${val} <i class="fa fa-remove"></i></button>
+			`
+		});
+		}
+		document.getElementById('cancel-button').innerHTML = outputCloseButton;
+	}
+	
+//////////////////////////////////////////////////////
+/////////////      functia principala            /////
+//////////////////////////////////////////////////////	
+	var change = function () {
+			 let fil      = [],
+				   pageList = [];
+		// Functie scroll to top //
+		function topFunction() {
+		  document.body.scrollTo({
+				top: 0,
+				behavior: 'smooth',
+			});
+		  document.documentElement.scrollTo({
+				top: 0,
+				behavior: 'smooth',
+			});
+		}
+		topFunction();
+		// sfarsit //
+		
+			return getProd();
+			function getProd() {
+				fetch(url)
+				.then((res) => res.json())
+				.then((data) => {
+					var output = '', 
+						page = data.length;		
+						
+					function loadList () {
+							for (var i = 0; i < page; i++) {
+							if (filTer.length === 0) {
+									fil.push(data[i]);
+								} else {
+									for (var n = 0; n < filTer.length; n++) {
+									var f = filTer[n];
+									eval("(data[i].manufacturer.toUpperCase().indexOf(f) > -1 ) ? fil.push(data[i]) : '';");
+								}
+								
+							 }
+						    }
+						newArr = fil.length;
+						load();
+						var begin = ((currentPage - 1) * numberPerPage);
+						var end = begin + numberPerPage;
+						pageList = fil.slice(begin, end);		
+						check();
+					}
+					loadList();
+					setTimeout(loadingTransparency, 500);
+                    pageList.forEach(function(prod){
+						output += `
+						<!-- begin post -->
+						<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6 mb-30px lazy card-group prod" data-aos="zoom-in" style="opacity: 0.2; padding-left: 0;">
+							<div class="card h-100">
+									<div class="maxthumb" style="background-image: url(https://abpipzueen.cloudimg.io/width/254/x/${prod.product_pic});background-size: {{ page.size }};">
+									<span class="adv" >${prod.manufacturer}</span><br/>
+									<span class="manufacturer" >${prod.manufacturer}</span><br/>
+								</div>
+								<div class="card-body-custom">
+									<h2 class="card-title-custom"><a class="text-dark" href="${prod.product_aff_link}" target="_blank">${prod.product_name}</a></h2>     
+								</div>
+								<div class="card-footer bg-white">
+									<div class="wrapfooter">
+										<div>
+										<span class="price">${prod.price_discounted} Lei <span class="old-price">${prod.price_vat} Lei</span></span>
+										</div>
+										<span class="perc">${prod.discount}%</span><br/> 
+										<a class="citeste" href="${prod.product_aff_link}" target="_blank">VEZI</a>
+									 </div>
+								</div>
+							</div>
+						</div>
+						<!-- end post -->
+						`		
+					});
+					document.getElementById('output').innerHTML = output;
+				})
+			}      
+	};
+	window.onload = change();
+	///////////////////////
+	///pagination
+	///////////////////////
+	
+	function load(){
+		numberOfPages = getNumberOfPages();
+	}
+	function getNumberOfPages() {
+    return Math.ceil(newArr / numberPerPage);
+	}
+	function nextPage() {
+		currentPage += 1;
+		change();
+		}
+	function previousPage() {
+		currentPage -= 1;
+		change();
+		}
+	function firstPage() {
+		currentPage =1;
+		change();
+		}
+	function lastPage() {
+		currentPage = numberOfPages;
+		change();
+		}
+	function check() {
+		document.getElementById("next").disabled = currentPage == numberOfPages ? true : false;
+		document.getElementById("previous").disabled = currentPage == 1 ? true : false;
+		document.getElementById("first").disabled = currentPage == 1 ? true : false;
+		document.getElementById("last").disabled = currentPage == numberOfPages ? true : false;
+		document.getElementById("current__page").innerHTML = currentPage;
+		document.getElementById("total__pages").innerHTML = numberOfPages;
+	}	
 
-                    loadMoreEl.disabled = true;
-                } else if (loadMoreEl.disabled) {
-                    // Enable button
-
-                    loadMoreEl.disabled = false;
-                }
-            }
-
-            function handleLoadMoreClick() {
-                // On each click of the load more button, we increment
-                // the current limit by a defined amount
-
-                currentLimit += incrementAmount;
-
-                mixer.paginate({limit: currentLimit});
-            }
-
-            loadMoreEl.addEventListener('click', handleLoadMoreClick);
-	selectSort.addEventListener('change', function() {
-                var order = selectSort.value;
-                mixer.sort(order);
-            });
-
+document.getElementById('id-cancel-cat').addEventListener('click', function() {
+	document.getElementById('id-sidebar-wide').style.display = 'block';
+});
+document.getElementById('inapoi').addEventListener('click', function() {
+	document.getElementById('id-sidebar-wide').style.display = 'none';
+})
 </script>
-
-
-
-
-
-
-
 
 
 

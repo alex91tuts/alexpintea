@@ -1,10 +1,9 @@
 ---
 
-image: https://fdcdn.akamaized.net/m/780x1132/products/16166/16165213/images/res_58a057dad462b0a8de31787c61e76615.jpg?s=qcK_3i_jAtOQ
 index: 1
 title: pantaloni scurți
-categorie: pantaloni scurți
 icon: icon-Short-Pants 
-exception: "FashionDays.ro"
+api: haine_femei/pantaloni_scurti
+size: cover
 
 ---
