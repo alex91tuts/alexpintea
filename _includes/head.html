@@ -12,13 +12,11 @@
 <title>{{ page.title }} | {{site.name}}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Atunci cand ai chef de cumparaturi" />
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="{{ page.title }} | {{ site.name }}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
-<meta property="og:image" content="{% if page.meta_image %}{{ page.meta_image }}{% else %}{{ site.baseurl }}/assets/images/meta-image.jpg {% endif %}"/>
-	
-<meta property="og:image" content="assets/images/banner.jpg">
-    
+<meta property="og:image" content="{% if page.meta_image %}{{ site.url }}/{{ page.meta_image }}{% else %}{{ site.baseurl }}/assets/images/meta-image.jpg {% endif %}"/>
+  
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">

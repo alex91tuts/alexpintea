@@ -2,6 +2,7 @@
 
 title: Huawei P30 Pro | Review Limba Romana | Un Smartphone cu Superputeri 
 image_path: huaweip30pro.jpg
+meta_image: assets/images/reviews/huaweip30pro.jpg
 layout: review
 date: 2019-04-25
 categorie-review: SMARTPHONE
