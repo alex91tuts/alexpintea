@@ -1,4 +1,4 @@
-<div class="col-lg-3 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
+<div class="col-lg-3 col-12 wrapper-side order-lg-12" style="padding-right: 0;padding-left: 0;">
 <div id="sidebar">
 <div class="col review-side">
     <h5 class="title-section-sidebar">RECENT</h5>
@@ -21,8 +21,9 @@
 		<hr>
 	{% assign reviews = site.reviews  %}
 	{% for review in site.reviews reversed %}
-	<a href="{{ site.url }}/review" onclick="window.name = '{{ review.categorie-review }}';">
+	<button class="btn-categ-rev" onclick="categorie = '{{ review.categorie-review }}';getFilters();">
 		{{ review.categorie-review }}
+		</button>
 	<hr class="line-sub-cat">
 	</a>
 	{% endfor %}
@@ -32,6 +33,11 @@
 </div>
 
 <style>
+	.btn-categ-rev {
+		background: none;
+		border: none;
+		cursor: pointer;
+	}
 	.small-post {
 		overflow: hidden;
     font-size: 12px;
@@ -43,7 +49,7 @@
 		color: black;
 	}
 	.small-post-image {
-		max-width: 25%;
+		max-width: 34%;
     border-radius: 4px;
     float: left;
     margin-right: 10px;
@@ -68,7 +74,7 @@
 		font-weight: 900;
 		display: inline;
     border-bottom: solid black;
-    padding-bottom: 17px;
+    padding-bottom: 20px;
 	}
 	
 </style>

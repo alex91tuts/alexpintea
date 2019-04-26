@@ -5,8 +5,7 @@ title: Recenzii
 permalink: /review/
 
 ---
-
-<div><button id='categorie-selectata' type="button" class="btn btn-dark btn-sm cat-small"></button></div>
+	<div><button id='categorie-selectata' style="margin-left: 0;" class="btn btn-dark btn-sm cat-small"></button></div>
 <div class="row reviews-wrapper">
 	<div id="outputReview" class="row col-lg-9"></div>
 	{% include sidebar-loop-review.html %}
@@ -29,6 +28,7 @@ permalink: /review/
 	#outputReview {
 		margin-left: 0;
 		margin-right: 0;
+		padding-left: 0;
 	}
 	.reviews-wrapper {
 		margin-left: 0;
@@ -285,6 +285,7 @@ permalink: /review/
 }
 	.card-wrapper {
 		padding-bottom: 15px;
+		padding-left: 0;
 	}
 </style>
 
@@ -317,11 +318,11 @@ fetch(url)
 							<span class="author-small">By Alexandru Pintea</span><br>
 							<div class="rating-stars">
 								<span class="layer1">★★★★★</span><span class="scor-scris">${prod.scor}/100</span>
-								<span class="layer2" style="width: ${prod.scor}%;">★★★★★</span>
+								<span class="layer2" style="width: ${(prod.scor * 56)/100}%;">★★★★★</span>
 							</div>
 
 							<div class="info">
-								<p>Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet<span>...citeste daca amai citesti ce mai sciu un pic probabil ca va iesi din schem</span></p>
+								<p>${prod.intro}</p>
 							</div>
 							<div class="tags">
 								<span class="bottom-tag">${prod.tag1}</span>
