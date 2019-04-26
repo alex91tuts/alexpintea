@@ -16,8 +16,8 @@
 	 {% include preturi-produse-oferta.html %}
 	 <hr>
 	<div class="circle-progress" style="margin-bottom: 50px;">
-		 <div class="progress-bar-total">
-				 <div style="position: relative;"><span class="percent" itemprop="ratingValue" itemscope itemtype="http://schema.org/Rating">{{ total }}</span><meta itemprop="bestRating" content="10" itemscope itemtype="http://schema.org/Rating" /></div>
+		 <div itemscope itemtype="http://schema.org/Rating" class="progress-bar-total">
+				 <div style="position: relative;"><span class="percent" itemprop="ratingValue">{{ total }}</span><meta itemprop="bestRating" content="10" /></div>
 				<svg class="progress-circle" width="120" height="120" viewBox="0 0 120 120">
 					<circle cx="60" cy="60" r="50" fill="none" stroke="lightgray" stroke-width="12" stroke-dasharray="1, 8"/>
 					<circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
