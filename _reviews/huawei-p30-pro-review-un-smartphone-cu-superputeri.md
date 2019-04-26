@@ -1,5 +1,4 @@
 ---
-
 title: Huawei P30 Pro | Review Limba Romana | Un Smartphone cu Superputeri 
 image_path: huaweip30pro.jpg
 meta_image: assets/images/reviews/huaweip30pro.jpg
@@ -74,10 +73,12 @@ Cu toate că în anul 2019 atenția va fi îndreptată în principal asupra noil
 
 Huawei este, ca mărime, al doilea fabricant de telefoane din lume iar odată cu lansarea P30Pro, au șanse reale să ajungă pe primul loc. 
 
+---
 ### P30Pro vs P30
 
 P30 este fratele mai mic al lui P30Pro, o variantă lite cu un ecran mai mic. Cu toate astea, vine cu același design atractiv. Nu are același zoom la cameră și nici aceleași performanțe însă este echipat cu mufă jack. Nu este la fel de captivant ca și P30Pro însă și prețurile sunt diferite.
 
+---
 ### Design - culori uimitoare
 
 Design-ul telefonului este un mixt între P20Pro și Mate 20Pro, telefoane care au apărut înainte. Marginile nu sunt așa ascuțite ca la Mate 20 Pro, însă destul de înguste încât să le poți simți în palmă. În cutie este inclusă o husă transparentă din silicon ce face telefonul mai confortabil și mai puțin alunecos. Transparența este importantă deoarece Huawei a depus mult efort să creeze poate cele mai interesante culori văzute până acum la un smartphone.
@@ -88,6 +89,7 @@ Design-ul telefonului este un mixt între P20Pro și Mate 20Pro, telefoane care 
 
 Așadar, avem strălucitorul orange/roșu - denumit "amber sunrise" ( răsăritul de chihlimbar ). Apoi "breathing crystal" ( cristalul care respiră ), un gradient albastru cu argintiu și cu nuanțe de roz și verde. De asemenea avem și opțiunile negru și aurora ( culoarea  celor de la Huawei ). Toate culorie sunt superbe și stralucitoare. 
 
+---
 ### Greutate și construcție
 
 Spre deosebire de Mate 20 Pro, P30 Pro se simte puțin mai greu în mână, în ciuda faptului că diferența dintre ele este de numai câteva grame. Probabil, acest lucru se datorează faptului că la P30 Pro partea de sus este mai grea. Surplusul de greutate în partea de sus este mai mult decât sigur cauzat de tehnologia îmbunătățită a camerei.
@@ -100,6 +102,7 @@ Este construit din sticlă și metal, asemănător cu Galaxy S10 sau P20 Pro, î
 
 Nu este nicio mufă jack așa că fără căști cu fir. De asemenea, nu are nici slot pentru card microSD. Huawei a optat din nou pentru modelul propriu de card NM (nano memorie) pentru extinderea spațiului de stocare disponibil. Acestea sunt mai scumpe și mai greu de găsit decât clasicele microSD-uri.
 
+---
 ### Ecranul
 
 Ecranul se întinde chiar până la marginile telefonului, frânt numai de o singură crestătură mică în partea de sus ce conține camera de selfie. Marginile sunt de asemenea mici și nu există niciun senzor de amprentă sub ecran ca la P20 Pro. Acesta a fost integrat în ecran. Locul unde trebuie pus degetul este marcat de o iconiță amprentă pe ecranul de blocare.
@@ -114,6 +117,7 @@ Huawei P30 Pro are 3 camere pe partea din spate:
 * o unitate ultra-wide de 20 megapixeli;
 * o unitate pentru zoom de 8 megapixeli.
 
+---
 ### Zoom
 
 Camera de 8 megapixeli este concepută să funcționeze ca un periscop și de aceea are un zoom incredibil. Poate mări de nu numai de 5x ori dar de 10x fără mari pierderi de calitate. Acest nivel de zoom este foarte mare pentru un telefon și te lasă să te apropii de detalii unde în mod normal ai avea o imagine super pixelată.
@@ -126,16 +130,19 @@ Nu este complet fără pierderi de calitate așa cum susțin cei de la Huawei î
 
 Poți folosi și zoom-ul digital în același timp cu cel al lentilelor și să mărești imaginea până la 50x. Desigur, calitatea imaginii se reduce semnificativ.
 
+---
 ### Stabilitate
 
 De asemeanea, stabilitatea este destul de bună. Când ești cu zoom-ul la maxim și te chinui să prinzi un anumit detaliu, telefonul luptă din greu să stabilizeze imaginea pentru a te ajuta să faci o fotografie cât mai clară.
 
+---
 ### În întuneric 
 
 Huawei P30 Pro face fotografii extraordinare noaptea sau în condiții de luminozitate scăzută și poate să prindă un nivel uimitor de detalii. 
 
 Prin combinația unui nou tip de senzor de imagine și un ISO ridicat, telefonul poate să facă capturi în situații în care nici ochiul uman nu o face prea bine.
 
+---
 ### Fotografiile uzuale
 
 Fotografiile de zi cu zi, utilizând camera standard sunt în general decente. 
@@ -148,6 +155,7 @@ Ajutat de modul HDR, la selfie-uri telefonul face o treabă decentă la echilibr
 
 Culorile arată natural și având în vedere că nu există blitz în față și fotografiile făcute în întuneric arată destul de bine.
 
+---
 ### Camera din față - selfie
 
 Fotografiile făcute cu camera frontală arată extraordinar. Nu e de mirare având în vedere că aceasta are 32 de megapixeli. 
@@ -166,6 +174,7 @@ Procesorul Kirin 980 este construit pe o arhitectură foarte eficientă, asemăn
 
 Însă scorurile nu spun toată povestea și în utilizare, telefonul este departe de a fi încet. Navigarea în interfață este promptă și fără întârzieri. Conținutul video și jocurile cu cerințe grafice ridicate rulează fără probleme. 
 
+---
 ### Sistem de operare
 
 P30 Pro rulează ultimul Android Pie 9, suprapus de software-ul celor de la Huawei, EMUI 9.1. Acesta din urmă aduce a iPhone, considerând aplicațiile poziționate de-a lungul mai multor homescreen-uri. Dacă vrei, poți schimba interfața pe una mai apropiată de Android.
@@ -182,24 +191,28 @@ Măsurând 6.4 inch, display-ul OLED se întinde pe aproape toată partea din fa
 
 Pentru aplicațiile precum Netflix sau YouTube are suport HDR pentru a îmbunătăți culorile, insă este mult mai puțin notabil decât la Galaxy S10 Plus. 
 
+---
 ### Luminozitatea - 446 niți
 
 Măsurată în niți, o unitate de măsură a intensită împărțită la suprafață. Luminozitatea maximă, cu o valoarea de 446 niți, oferă destulă putere încât telefonul să fie vizibil în razele soarelui. 
 Nitul măsoară câtă lumină vine de la un ecran. Moajoritatea oamenilor se simt confortabil undeva la 150-200, ceea ce la P30 Pro înseamnă 40%.
 
+---
 ### Nivelul de negru - 0.000 niți
 
 Utilizarea ecranului OLED, spre deosebire de LCD, oferă nivelul perfect de negru. 
 
+---
 ### Contrastul - infinit
 
 Huwei P30 Pro, la fel ca iPhone X și Samsung Galaxy S10, utilizează un ecran OLED. Acest ecran oferă un raport de contrast infinit. Raportul de contrast este bazat pe distanța dntre cel mai întunecat negru și cel mai luminos alb.  
 
+---
 ### Acuratețea culorilor - temperatura: 7287k
 
 Temperatura culorilor la Huawei P30 Pro este destul de apropiată de cea ideală (6500k). Valoarea de 65000k ne spune că albul nu are acea tentă galbenă.
 
-
+---
 ## Baterie 
 
 * O baterie de 4200mAh;
@@ -212,20 +225,22 @@ Temperatura culorilor la Huawei P30 Pro este destul de apropiată de cea ideală
 
 Folosit destul de intens, cu mai multe ore de muzică, destul de multe telefoane și o mulțime de activitate social media/ email, telefonul rezistă 2 zile. Un rezultat destul de impresionant. Dacă adăugăm încărcarea super rapidă obținem un campion al bateriilor. 
 
+---
 ### Performanța bateriei - VIDEO
 
 Telefonul are un ecran destul de mare cu o rezoluție maxima FHD+. Pentru a prelungi durata de viață a bateriei poți schimba rezoluția la HD. 
 
 De exemplu, o oră de Netflix la 50% luminozitate a consumat 6% din baterie, mult mai puțin decât ar consuma Galaxy S10 Plus, de exemplu. 
 
+---
 ### Bateria pe timpul jocurilor
 
 Jocurile vor pune întotdeauna o presiune mult mai mare pe baterie decât conținutul video. Însă P30 Pro nu dezamăgește nici aici. Acesta a consumat 12% - 15% pe oră, jucând jocuri solicitante precum Asphalt 9 și între 8% și 11% la jocuri mai mici.
 
+---
 ### Încărcarea
 
 Încărcătorul care vine în cutie are o putere de 40w. Acesta poate încărca telefonul până la 100% în aproximativ o oră. Mai impresionant este că poți încărca telefonul de la 0% la 70% în numai 38 de minute.
 
-
-
+---
 Surse: [DIGITALTRENDS](https://www.digitaltrends.com/cell-phone-reviews/huawei-p30-pro-review/), [TRUSTEDREVIEWS](https://www.trustedreviews.com/reviews/huawei-p30-pro), [CNET](https://www.cnet.com/reviews/huawei-p30-pro-review/) 
