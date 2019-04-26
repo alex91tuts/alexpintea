@@ -22,6 +22,8 @@ opt:
 
 scor-intro: Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru Galaxy S10 Plus.
 
+description: Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru Galaxy S10 Plus.
+
 pro: ['Fotografii uimitoare', 'Baterie foarte bună', 'Se incarca foarte repede', 'Design superb']
 
 contra: ['Performanta procesorului', 'Rezoluția ecranului', 'Nu are mufă jack', 'Interfața rămâne o problemă']
