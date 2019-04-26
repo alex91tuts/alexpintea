@@ -17,14 +17,14 @@
 	 <hr>
 	<div class="circle-progress" style="margin-bottom: 50px;">
 		 <div class="progress-bar-total">
-				 <div style="position: relative;"><span class="percent" itemprop="ratingValue" itemscope itemtype="http://schema.org/Review">{{ total }}</span><meta itemprop="bestRating" content="10" itemscope itemtype="http://schema.org/Review"/></div>
+				 <div style="position: relative;"><span class="percent" itemprop="ratingValue">{{ total }}</span><meta itemprop="bestRating" content="10" /></div>
 				<svg class="progress-circle" width="120" height="120" viewBox="0 0 120 120">
 					<circle cx="60" cy="60" r="50" fill="none" stroke="lightgray" stroke-width="12" stroke-dasharray="1, 8"/>
 					<circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
 					<circle class="progress__value-circle" style=" stroke-dashoffset: {{ progress }};" cx="60" cy="60" r="54" fill="none" stroke="#f77a52" stroke-width="12" />
 				</svg>
 			</div>
-		<h3 style="margin-bottom: 0;">SCOR: <span itemprop="itemReviewd" content="10" itemscope itemtype="http://schema.org/Review">{{ page.nume }}</span></h3>
+		<h3 style="margin-bottom: 0;">SCOR: <span itemprop="itemReviewed">{{ page.nume }}</span></h3>
 		 <p>{{ page.scor-intro }}</p>
 	</div>
 	<div class="col">

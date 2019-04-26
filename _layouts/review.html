@@ -8,7 +8,7 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-<div class="container review-cont" itemscope itemtype="http://schema.org/Product">
+<div class="container review-cont" itemscope itemtype="http://schema.org/Review">
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}/assets/images/reviews/{{ page.image_path }}"></meta>
 <div id="top-featured" class="banner-review row" style="background-image:url({{ site.url }}/assets/images/reviews/{{ page.image_path }}); background-size: cover; background-position: center;">
@@ -23,9 +23,9 @@ post_class: post-template
 						</div>
 				 <h1 class="banner-title">{{ page.title }}</h1>
 						<div class="review-meta">
-							<span><i class="fa fa-user" aria-hidden="true"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Review">alexpintea</span> </span> | 
+							<span><i class="fa fa-user" aria-hidden="true"></i> <span itemprop="author">alexpintea</span> </span> | 
 							<span><i class="fa fa-clock-o"></i> {% include reading-time.html %} </span> | 
-							<span itemprop="dateCreated" itemscope itemtype="http://schema.org/Review"><i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date_to_string }} </span>
+							<span><i class="fa fa-calendar" aria-hidden="true"></i> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
 						</div>
 				</div>
     </div>
@@ -41,7 +41,7 @@ post_class: post-template
 		
  <div>
 	 <div style="text-align: center;"><img class="" src="/assets/images/reviews/text.png" alt="review"></div>
-	 <div itemprop="reviewBody" itemscope itemtype="http://schema.org/Review" id="continut">
+	 <div itemprop="reviewBody" id="continut">
    	{{content}}
 		 <hr>
 	 </div>
