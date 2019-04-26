@@ -6,6 +6,7 @@ layout: review
 date: 2019-04-25
 categorie-review: SMARTPHONE
 tags: ['huawei', 'premium', '2019']
+nume: Huawei P30 Pro
 
 opt:
   - name: design
