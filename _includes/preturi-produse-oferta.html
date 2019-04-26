@@ -17,8 +17,8 @@
   <div style="padding: 10px" class="col-12 col-lg-6">
     <div class="price-box row">
 				<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; text-align: center;"><img class="logo-shop" src="/assets/images/logo-emag.png" alt="{{ page.title }}"></div>
-				<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | slice: 0, cut_nou }} Lei<span class="old-p">{{ produse.old_price | slice: 0, cut_old }} Lei</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
-				<a href="#"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
+				<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | slice: 0, cut_nou }} Lei{% if produse.old_price != "" %}<span class="old-p">{{ produse.old_price | slice: 0, cut_old }} Lei</span>{% endif %}</p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
+				<a target="_blank" href="{{ page.link-emag }}"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
     </div>
   </div>
 	{% endif %}
@@ -32,7 +32,7 @@
 	<div class="price-box row">
 			<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-ihunt.png" alt="{{ page.title }}"></div>
 			<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | replace: 'ACUM: ', ''}}<span class="old-p">{{ produse.old_price | replace: 'a fost ','' }} Lei</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
-			<a href="#"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
+			<a target="_blank" href="{{ page.link-ihunt }}"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
 	</div>
 </div>
 {% endif %}
@@ -46,7 +46,7 @@
 	<div class="price-box row">
 			<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-evomag.png" alt="{{ page.title }}"></div>
 			<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | replace: 'ACUM: ', ''}}<span class="old-p">{% if produse.old_price != "" %}{{ produse.old_price | replace: 'a fost ','' }} Lei{% endif %}</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
-			<a href="#"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
+			<a target="_blank" href="{{ page.link-evomag }}"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
 	</div>
 </div>
 {% endif %}
@@ -59,8 +59,8 @@
 <div style="padding: 10px" class="col-12 col-lg-6">
 	<div class="price-box row">
 			<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-pcgarage.png" alt="{{ page.title }}"></div>
-			<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | replace: 'Pret:', ''}} Lei<span class="old-p">{% if produse.old_price != "" %}{{ produse.old_price | replace: 'Pret vechi:','' }}{% endif %}</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
-			<a href="#"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
+			<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | replace: 'Pret:', '' |  replace: " RON", " Lei"}}<span class="old-p">{% if produse.old_price != "" %}{{ produse.old_price | replace: 'Pret vechi:','' | replace: " RON", "Lei" }}{% endif %}</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
+			<a target="_blank" href="{{ page.link-pcgarage }}"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
 	</div>
 </div>
 {% endif %}
@@ -73,8 +73,8 @@
 <div style="padding: 10px" class="col-12 col-lg-6">
 	<div class="price-box row">
 			<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-qmobile.png" alt="{{ page.title }}"></div>
-			<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | replace: 'Pret:', ''}}<span class="old-p">{% if produse.old_price != "" %}{{ produse.old_price | replace: 'Pret vechi:','' }}{% endif %}</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
-			<a href="#"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
+			<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | replace: 'Pret:', '' | replace: 'Lei', ' Lei'}}<span class="old-p">{% if produse.old_price != "" %}{{ produse.old_price | replace: 'Pret vechi:','' | split: " " | first }} Lei{% endif %}</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
+			<a target="_blank" href="{{ page.link-quick }}"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
 	</div>
 </div>
 {% endif %}
@@ -88,7 +88,7 @@
 	<div class="price-box row">
 			<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-nexio.png" alt="{{ page.title }}"></div>
 			<div class="col-6 pl-1" ><p style="margin: 0;font-weight: 700;">{{ produse.new_price | replace: 'Pret:', ''}}<span class="old-p">{% if produse.old_price != "" %}{{ produse.old_price | replace: 'Pret vechi:','' }}{% endif %}</span></p><p style="margin: 0; font-size: 11px;">{{ produse.magazin }}.ro</p></div>
-			<a href="#"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
+			<a target="_blank" href="{{ page.link-vexio }}"><img class="go-img" src="/assets/images/reviews/go.png" alt="{{ page.title }}"></a>
 	</div>
 </div>
 {% endif %}
