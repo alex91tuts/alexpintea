@@ -87,13 +87,13 @@
 });
 
 if ($(window).width() > 1024) {
-   $("#sidebar").stick_in_parent({offset_top: 90});
+   $("#sidebar, #tocid").stick_in_parent({offset_top: 90});
 }
 else if ($(window).width() < 1023 && $(window).width() > 990 ) {
-   $("#sidebar").stick_in_parent({offset_top: 15});
+   $("#sidebar, #tocid").stick_in_parent({offset_top: 15});
 }
 else if ($(window).width() < 990) {
-   console.log(' ce pula mea');
+   $("#tocid").stick_in_parent({offset_top: 35});
 }
 	
 </script>
