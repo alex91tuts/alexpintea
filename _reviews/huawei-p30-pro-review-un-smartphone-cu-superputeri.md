@@ -20,9 +20,9 @@ opt:
   - name: baterie 
     value: 99	
 
-scor-intro: Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru Galaxy S10 Plus.
+scor-intro: Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului.
 
-description: Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru Galaxy S10 Plus.
+description: Huawei P30 Pro - Review - Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului.
 
 pro: ['Fotografii uimitoare', 'Baterie foarte bună', 'Se incarca foarte repede', 'Design superb']
 
