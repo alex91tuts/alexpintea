@@ -96,6 +96,17 @@ else if ($(window).width() < 990) {
    $("#tocid").stick_in_parent({offset_top: 35});
 }
 	
+///////////////////////////////////////
+// Cool author small box/////
+///////////////////////////////////////////
+(function() {
+  $('.btn').click(function() {
+    $(this).toggleClass('active');
+    return $('.box').toggleClass('open');
+  });
+
+}).call(this);
+/////////////////////////////////////////////
 </script>
     
 
