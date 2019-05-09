@@ -77,9 +77,46 @@
 			<img class="verdict-img" src="/assets/images/reviews/verdict.png" alt="{{ page.title }}">
 			<p>{{ page.verdict }}</p>
 	</div>
- </div>
+	<div>
+		<hr>
+		<h3>SPECIFICATII</h3>
+		<div id="read-table" class="table-trunc">
+		<div class="table-responsive">
+		<table class="table table-bordered table-sm table-hover table-dark">
+			<tbody>
+				{% assign specs = site.data.specificatii[page.sku] %}
+				{% for item in specs offset: 5 %}
+				<tr>
+					<td class="left-td">{{ item[0] }}</td>
+					<td>{{ item[1] }}</td>
+				</tr>
+				{% endfor %}
+				</tbody>
+		</table>
+		</div>
+	</div>
+		<button id="read-table-btn" onclick="toggle();">vezi mai multe</button>
+</div>
+</div>
 
 <style>
+	#read-table-btn {
+		background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+		border: 0;
+		cursor: pointer;
+	}
+	.table-trunc {
+		height: 500px;
+		overflow: hidden;
+	}
+	.table-all {
+		height: 100%;
+	}
  .key ul li {
     border: solid 1px #d3d3d382;
     border-radius: 3px;
@@ -100,3 +137,17 @@
 		transition: all 1s;
 	}
 </style>
+
+<script>
+function toggle() {
+var content =	document.getElementById('read-table');
+var button = document.getElementById('read-table-btn');
+	if (content.className === "table-all") {
+		content.className = "table-trunc";
+		button.innerHTML = "vezi mai multe"
+	} else {
+		content.className = "table-all";
+		button.innerHTML = "vezi mai putin";
+	}
+}
+</script>

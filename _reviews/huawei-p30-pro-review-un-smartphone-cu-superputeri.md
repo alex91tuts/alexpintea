@@ -56,6 +56,8 @@ link-quick: https://l.profitshare.ro/l/6307810
 cod-vexio: "necunoscut"
 link-vexio: 
 
+sku: rev1
+
 ---
 <span class="drop-caps">D</span>_acă nu te deranjează foarte tare versiunea proprie de Android a celor de la Huawei (EMUI), P30Pro este un telefon fantastic care iși merită prețul. Camera, bateria și aspectul îl pun în topul telefoanelor premium lansate anul acesta. A fost lansat pe 26 martie 2019 impreună cu un frate mai mic și mai ieftin, Huawei P30. Va fi Huawei în top cu P30Pro sau Samsung cu Galaxy S10 și Galaxy S10 Plus?_
 
