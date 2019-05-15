@@ -63,13 +63,13 @@
 			</div>
 	</div>
   <hr>
-  <div class="key">
-			<h3>SPECIFICATII CHEIE</h3>
-			<ul style="list-style: none; padding: 0;">
-				{% for item in page.key %}
-					<li>{{ item }}</li>
-				{% endfor %}
-			</ul>
+  <div class="key row">
+			<h3 class="col-12">SPECIFICATII CHEIE</h3>
+				<ul style="list-style: none; padding: 0;">
+					{% for item in page.key %}
+						<li>{{ item }}</li>
+					{% endfor %}
+				</ul>
 	</div>
 	<hr>
 	<div>
@@ -77,6 +77,9 @@
 			<img class="verdict-img" src="/assets/images/reviews/verdict.png" alt="{{ page.title }}">
 			<p>{{ page.verdict }}</p>
 	</div>
+
+	{% assign specs = site.data.specificatii[page.sku] %}
+	{% if specs %}
 	<div>
 		<hr>
 		<h3>SPECIFICATII</h3>
@@ -84,7 +87,6 @@
 		<div class="table-responsive">
 		<table class="table table-bordered table-sm table-hover table-dark">
 			<tbody>
-				{% assign specs = site.data.specificatii[page.sku] %}
 				{% for item in specs offset: 5 %}
 				<tr>
 					<td class="left-td">{{ item[0] }}</td>
@@ -97,6 +99,7 @@
 	</div>
 		<button id="read-table-btn" onclick="toggle();">vezi mai multe</button>
 </div>
+{% endif %}
 </div>
 
 <style>
@@ -123,18 +126,11 @@
     display: block;
     padding: 5px 10px;
     margin-bottom: 10px;
-    border-left: solid 10px green;
-    border-right: solid 10px green;
     color: black;
     font-weight: 500;
     }
 	.key {
 		text-align: center;
-	}
-	.key ul li:hover {
-		border-left: solid 19px green;
-    border-right: solid 19px green;
-		transition: all 1s;
 	}
 </style>
 

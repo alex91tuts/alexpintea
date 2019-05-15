@@ -1,0 +1,6 @@
+---
+layout: null 
+---
+[
+	{% for review in site.reviews %}"{{ review.categorie-review }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+]

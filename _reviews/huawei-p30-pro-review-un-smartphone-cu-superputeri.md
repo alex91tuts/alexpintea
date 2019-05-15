@@ -1,5 +1,5 @@
 ---
-title: Huawei P30 Pro | Review Limba Romana | Un Smartphone cu Superputeri 
+title: Huawei P30 Pro | Pareri | Preturi | Review | Limba Romana
 image_path: huaweip30pro.jpg
 meta_image: assets/images/reviews/huaweip30pro.jpg
 layout: review
@@ -22,7 +22,7 @@ opt:
 
 scor-intro: Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului.
 
-description: Huawei P30 Pro - Review - Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului.
+description: Huawei P30 Pro Pareri, Preturi, Specificatii - Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului.
 
 pro: ['Fotografii uimitoare', 'Baterie foarte bună', 'Se incarca foarte repede', 'Design superb']
 
@@ -64,7 +64,7 @@ sku: rev1
 > Unic, distractiv și cu o cameră extraordinară Huawei P30Pro devine un supererou al telefoanelor.
 
 ---
-## Huawei P30Pro Review
+## Huawei P30Pro Pareri
 
 Cu toate că în anul 2019 atenția va fi îndreptată în principal asupra noilor modele de telefoane pliabile - Huawei Mate X sau Galaxy Fold - și bineînțeles asupra fenomenului 5G, vom vedea și o mulțime de modele de smartphone tradiționale. Cu siguranță, P30Pro va fi unul dintre cele mai bune.
 
