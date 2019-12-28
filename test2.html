@@ -4,3 +4,24 @@ layout: page
 <div>
 {% include author-cool.html %}
 </div>
+
+document.getElementById('getUsers').addEventListener('click', getUsers);
+				 document.getElementById('getPosts').addEventListener('click', reload);
+				  function getUsers(){
+						fetch('test.json')
+						.then((res) => res.json())
+						.then((data) => {
+							let output = '';
+							data.forEach(function(user){
+								output += `
+									<tr>
+										<th scope="col">${user.nume}</th>
+										<th scope="col">${user.prenume}</th>
+									</tr>
+								`;
+							});
+							document.getElementById('output').innerHTML = output;
+						})
+					}
+					
+				

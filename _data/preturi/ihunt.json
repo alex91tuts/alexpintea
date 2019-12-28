@@ -10,17 +10,16 @@
     {
         "id": "Cod produs: husasiliconvkworlds8\n         Producător: VKworld",
         "name": "Husa Silicon VKworld S8",
-        "new_price": "ACUM: 20 Lei",
+        "new_price": "ACUM: 15 Lei",
         "old_price": "a fost 49 Lei",
         "magazin": "iHunt",
         "poza": "https://www.ihunt.ro/image/cache/data/emag2018/vkworld/s8/1-420x420.jpg"
     },
     {
-        "id": "Cod produs: resigilat-meiigoom1gold\n         Producător: Meiigoo",
-        "name": "Resigilat Meiigoo M1 Gold",
-        "new_price": "ACUM: 799 Lei",
-        "old_price": "a fost 1.259 Lei",
-        "magazin": "iHunt",
-        "poza": "https://www.ihunt.ro/image/cache/data/emag2017/meiigoo/m1/gold-1-420x420.jpg"
+        "id": "",
+        "name": "",
+        "new_price": "",
+        "old_price": "",
+        "magazin": "iHunt"
     }
 ]
