@@ -75,4 +75,29 @@ Deși poartă același nume, P20 Lite nu se aseamănă foarte mult cu fratele ma
 Telefonul vine cu recunoaștere facială, o atingere inteligentă pentru un telefon ieftin.
 
 ---
+## Huawei P20 Lite - Design
+
+Dintr-o privire ar fi dificil să spui că Lite se diferențiază de mult mai distinsul și capabilul frate mai mare. Din ochi, au cam aceleași dimensiuni ( deși P20 este mai înalt, mai îngust și mai subțire), este construit din metal și sticlă iar în partea din față, este dominat de un display alungit.
+
+Acestea fiind spuse, apar o serie de indicii care sugerează natura mai ieftină a lui Lite. Spre deosebire de corpul lui P20, unde sticla curbată curge în lin până în legătura metalică din jurul marginii telefonului, Lite are linia de incheiere mult mai grosieră. Deși nu este atât de elegant (discutabil), telefonul este mai greu de scăpat din mână.
+
+Toate butoanele de control ale smartphone-ului sunt poziționate de-a lungul laturei din dreapta și pot fi accesate cu ușurință cu amândouă mâinile. 
+
+Slotul hibrid SIM poate se regăsește pe partea stângă. Acesta oferă posibilitatea de a folosi fie o cartelă nano-SIM și un card micro-SD, fie două cartele nano-SIM. 
+
+Precum majoritatea telefoanelor de la Huawei de după 2018, P20 Lite este echipat cu un slot de tip USB-C poziționată pe latura de jos. De asemenea, pe acceași latură se regăsește și on slot standard jack, de 3,5 mm. Asta este o veste foarte bună pentru cei care încă nu cochetează cu căștile bluetooth. 
+
+Unul dintre lucrurile care ar putea să vă surprindă este greutatea acestuia. La numai 145g, este un dispozitiv surprinzător de ușor, mai ales având în vedere construcția de sticlă de pe spate.
+
+Dincolo de nevoile evidente ale sticlei, precum lustruirea frecventă din cauza amprentelor, acest material adaugă și un grad mai ridicat de fragilitate dispozitivului.
+
+Nu avem parte de rezistență la apă, deci, este bine să tineți telefonul departe de ploaie sau piscine.
+
+Senzorul de amprentă este poziționat diferit față de restul dispozitivelor P20. Acesta nu mai este pe banda subțire de sub display și a fost relocat pe spatele telefonului. Are acum o formă circulară și este mai mare. 
+
+## Huawei P20 Lite - Ecran
+
+Huawei P20 Lite oferă un display mai mare decât P20 (5,84 inch vs 5,80 inch), cu un aspect-ratio înalt de 19:9. De fapt, în comparație cu alte dispozitive din aceeași categorie de preț, oferă cel mai bun raport ecran-corp (80,5%).
+
+---
 Surse: [GSMARENA](https://www.gsmarena.com/huawei_p20_lite-review-1767p6.php), [TRUSTEDREVIEWS](https://www.trustedreviews.com/reviews/huawei-p20-lite), [CNET](https://www.cnet.com/reviews/huawei-p20-lite-review/), [TECHRADAR](https://www.techradar.com/reviews/huawei-p20-lite)
