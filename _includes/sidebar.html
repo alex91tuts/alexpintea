@@ -19,14 +19,13 @@
 	<div class="col review-side">
     <h5 class="title-section-sidebar">CATEGORII</h5>
 		<hr>
-	{% for review in site.reviews reversed %}
-	{% capture categ %}{{ review.categorie-review }},{% endcapture %}
-	{% endfor %}
-	<a href="{{ site.url }}/review" onclick="window.name = '{{ review.categorie-review }}';">
-	{{ categ | split: "," | uniq }}
+	{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
+	{% for item in cat reversed %}
+	<a href="{{ site.url }}/review" onclick="window.name = '{{ item }}';" style="color: black;">
+		{{ item }}
 	<hr class="line-sub-cat">
 	</a>
-
+	{% endfor %}
  </div>
 	
 	</div>	

@@ -1,12 +1,12 @@
 [
     
     [
-        "Denumire:",
-        "Smartphone Huawei  P30 Pro"
+        "Model",
+        "P20 Lite"
     ],
     [
-        "Model",
-        "P30 Pro"
+        "Tip",
+        "Candybar"
     ],
     [
         "Dual SIM",
@@ -22,47 +22,39 @@
     ],
     [
         "Culoare",
-        "Aurora"
+        "Negru"
     ],
     [
         "Dimensiuni",
-        "158 x 73.4 x 8.41 mm"
+        "148.6 x 71.2 x 7.4 mm"
     ],
     [
         "Greutate",
-        "192 g"
+        "145 g"
     ],
     [
-        "Waterproof",
-        "Da"
-    ],
-    [
-        "Certificare",
-        "IP68, Protectie totala impotriva prafului, Protectie impotriva scufundarilor in lichide pe perioade lungi si la presiunea apei"
+        "Carcasa",
+        "Aluminiu - Plastic"
     ],
     [
         "Ecran",
-        "OLED"
+        "IPS"
     ],
     [
         "Culori",
-        "16.7 Milioane"
+        "16 Milioane"
     ],
     [
         "Rezolutie",
-        "1080 x 2340 pixeli"
-    ],
-    [
-        "Aspect Ratio",
-        "19.5:9"
+        "1080 x 2280 pixeli"
     ],
     [
         "Marime display",
-        "6.47 inch"
+        "5.84 inch"
     ],
     [
         "Densitate pixeli",
-        "398 ppi"
+        "432 ppi"
     ],
     [
         "Touchscreen",
@@ -74,15 +66,15 @@
     ],
     [
         "Caracteristici",
-        "EMUI 9.0 (Emotion User Interface) - HDR10 - 100% DCI-P3 coverage"
+        "EMUI 8.0 (Emotion User Interface)"
     ],
     [
         "Model",
-        "Cortex A76 + Cortex A76 + Cortex A55"
+        "Cortex A53 + Cortex A53"
     ],
     [
         "Frecventa",
-        "2600 + 1920 + 1800 MHz"
+        "2360 + 1700 MHz"
     ],
     [
         "Nuclee",
@@ -94,27 +86,23 @@
     ],
     [
         "Model Chipset",
-        "Kirin 980"
+        "Kirin 659"
     ],
     [
         "GPU",
-        "Mali-G76 MP10"
-    ],
-    [
-        "Caracteristici",
-        "Dual NPUs (Neural-network Processing Unit)"
+        "Mali-T830 MP2"
     ],
     [
         "Memorie interna flash",
-        "128 GB"
+        "64 GB"
     ],
     [
         "RAM",
-        "6 GB"
+        "4 GB"
     ],
     [
         "Slot card",
-        "NM Card, pana la 256GB"
+        "microSD, pana la 256GB"
     ],
     [
         "Caracteristici",
@@ -126,27 +114,23 @@
     ],
     [
         "Camera foto principala",
-        "Triple 40 + 20 + 8 mpx"
+        "Dual 16 + 2 mpx"
     ],
     [
         "Camera foto secundara",
-        "32 mpx"
+        "16 mpx"
     ],
     [
-        "5-camere",
-        "Fata 1x 32 mpx, Spate 1x 40 mpx + 1x 20 mpx + 1x 8 mpx + ToF 3D"
-    ],
-    [
-        "ToF (Time-of-flight)",
-        "Da"
+        "Tri-camera",
+        "Fata 1x 16 mpx, Spate 1x 16 mpx + 1x 2 mpx"
     ],
     [
         "Autofocus",
-        "PDAF + Laser AF"
+        "Da"
     ],
     [
         "LED Flash",
-        "Dual-LED (DualTone)"
+        "Da"
     ],
     [
         "Geotagging",
@@ -161,14 +145,6 @@
         "Da"
     ],
     [
-        "Detectie zambet",
-        "Da"
-    ],
-    [
-        "Stabilizator imagine",
-        "OIS (Optical Image Stabilization)AIS (Huawei AI Image Stabilization)"
-    ],
-    [
         "Panorama",
         "Da"
     ],
@@ -177,28 +153,12 @@
         "Da"
     ],
     [
-        "Zoom optic",
-        "5x"
-    ],
-    [
-        "Caracteristici",
-        "Camera spate:40 MP, f/1.6, (wide), 1/1.7\", PDAF/Laser AF, OIS20 MP, f/2.2, 16mm (ultrawide), 1/2.7\", PDAF/Laser AFPeriscope 8 MP, f/3.4, 80mm (telephoto), 1/4\", 5x optical zoom, OIS, PDAF/Laser AFCamera frontala:32 MP, f/2.0, (wide)"
-    ],
-    [
         "Inregistrare video",
-        "2160p / 1080p / 720p"
-    ],
-    [
-        "Stabilizator video",
-        "gyro-EIS"
+        "1080p"
     ],
     [
         "FPS (Frame Per Second)",
-        "2160p@30fps1080p@30/60fps720p@30/960fps"
-    ],
-    [
-        "Caracteristici",
-        "Super Slow Motion 960 fps"
+        "30@1080p"
     ],
     [
         "Sistem operare",
@@ -206,11 +166,11 @@
     ],
     [
         "Versiune",
-        "9.0 (Pie)"
+        "8.0 (Oreo)"
     ],
     [
         "Retea",
-        "GSM 850 / 900 / 1800 / 1900HSDPA 850 / 900 / 1900 / 2100LTE band 1/2/3/4/5/6/7/8/9/12/17/18/19/20/26/28/32/34/38/39/40"
+        "GSM 850 / 900 / 1800 / 1900HSDPA 850 / 900 / 1900 / 2100LTE"
     ],
     [
         "GPRS",
@@ -226,19 +186,11 @@
     ],
     [
         "4G",
-        "LTE-A Cat21, 1400 Mbps DL, 200 Mbps UL"
-    ],
-    [
-        "4G LTE Banda 38 (2600)",
-        "Da"
+        "LTE-A 2CA, Cat6, 50 Mbps UL, 300 Mbps DL"
     ],
     [
         "Suport incarcare wireless Qi",
-        "Da, integrat"
-    ],
-    [
-        "Reverse Wireless Charging",
-        "Da"
+        "Nu"
     ],
     [
         "NFC (Near Field Communication)",
@@ -246,19 +198,15 @@
     ],
     [
         "WLan",
-        "Wi-Fi 802.11 a/b/g/n/ac, Dual-Band, DNLA, Wi-Fi Hotspot, Wi-Fi Direct"
+        "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Hotspot, Wi-Fi Direct"
     ],
     [
         "Bluetooth",
-        "5.0 cu A2DP, LE, EDR, aptX HD"
+        "4.2 cu A2DP, EDR, BLE, aptX"
     ],
     [
         "GPS receiver",
-        "Da, cu banda dubla A-GPS, GLONASS, GALILEO, BeiDou, QZSS"
-    ],
-    [
-        "USB Tip-C",
-        "3.1, Type-C 1.0 conector reversibil"
+        "Da, cu suport A-GPS, GLONASS"
     ],
     [
         "Tip acumulator",
@@ -266,15 +214,19 @@
     ],
     [
         "Capacitate acumulator",
-        "4200 mAh"
+        "3000 mAh"
     ],
     [
         "Suport incarcare rapida",
-        "HUAWEI SuperCharge 40WFast Wireless Charging 15W"
+        "Da"
     ],
     [
-        "Caracteristici",
-        "- 32-bit/384kHz audio- Anulare a zgomotului activ cu microfon dedicat"
+        "USB Tip-C",
+        "2.0, Type-C 1.0 conector reversibil"
+    ],
+    [
+        "Jack 3.5 mm",
+        "Da"
     ],
     [
         "Accelerometru",
@@ -286,7 +238,7 @@
     ],
     [
         "Amprenta",
-        "Da, sub display"
+        "Da"
     ],
     [
         "Giroscop",
@@ -298,18 +250,6 @@
     ],
     [
         "Busola",
-        "Da"
-    ],
-    [
-        "Spectru de culoare",
-        "Da"
-    ],
-    [
-        "Face ID",
-        "Da"
-    ],
-    [
-        "Infrarosu",
         "Da"
     ],
     [
@@ -337,6 +277,10 @@
         "SMS (threaded view), MMS, e-Mail, Push e-Mail, IM"
     ],
     [
+        "Radio FM",
+        "Da"
+    ],
+    [
         "MP3-Player",
         "Da"
     ],
@@ -349,11 +293,15 @@
         "Da"
     ],
     [
-        "Conector Jack 3.5 mm",
-        "Nu"
-    ],
-    [
         "Alte caracteristici",
         "Loudspeaker"
+    ],
+    [
+        "Observatii",
+        "Parteneri oficiali si autorizati Android"
+    ],
+    [
+        "Info certificare IP",
+        "Indice de protectie si certificare IP"
     ]
 ]
