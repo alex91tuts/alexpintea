@@ -1,16 +1,15 @@
 ---
 layout: travel
 title: "Lisabona obiective turistice - top 20"
-descriere: Cum sa faci un site fără să fii programator? Cu ce să începi? Care este diferența dintre Blog și Site? Răspunsuri potrivite pentru începători găsești aici.
+descriere: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase și cosmopolitane orașe ale Europei. Orașul atrage o multitudine de turiști din mai multe motive.
 
 image: /assets/images/travel/lisabona/obiective-lisabona-featured.jpg
 imageloop: /assets/images/travel/lisabona/obiective-lisabona-loop.jpg
 imagesidebar: /assets/images/travel/lisabona/obiective-lisabona-sidebar.jpg
 
 author: "Alexandru Pintea"
-comment-id: 1
-tara: UNGARIA
-oras: BUDAPESTA
+tara: PORTUGALIA
+oras: LISABONA
 lang: ro_RO
 keyword: lisabona obiective turistice
 date: 29.12.2019
@@ -97,7 +96,7 @@ Ruta: **Martim Moniz – Graca – Portas de Sol – Se Cathedral – Rua Concei
 
 Cea mai aglomerată parte este între Baixa și Alfama, însă în sezon toată ruta este la fel. Partea vestică a rutei, între Sao Bento și Campo Ourique, tinde să fie mai liniștită.
 
-## Castelul São Jorge
+## Castelul Sao Jorge
 ---
 
 <span class="drop">A</span>mplasat pe vârful celei mai înalte coline din **Lisabona**, São Jorge, castelul cu același nume este unul dintre cele mai emblematice simboluri ale orașului. 
@@ -138,7 +137,7 @@ Fiind unul dintre cele mai populare **obiective turistice din Lisabona** de obic
 Monumentul oferă tururi informative și gratuite. Dacă prinzi unul dintre aceste tururi este recomandat să te alături. 
 
 ---
-## Mănăstirea Jeronimos 
+## Manastirea Jeronimos 
 ---
 
 <span class="drop">M</span>ănăstirea Jeronimos este, alături de Turnul Belem, unul dintre cele mai importante **obiective turistice din Lisabona**. Aici regăsim mormântul lui Vasco da Gama. 
@@ -184,7 +183,7 @@ Mănăstire:
 - Intrare gratuită cu **Cardul Lisabona**
 
 ---
-## Piața Rossio
+## Piata Rossio
 ---
 
 <span class="drop">P</span>iața Rossio este cea mai plină de viața zonă a **Lisabonei**, inundată de baruri și restaurante. Denumită oficial Praça de D. Pedro IV, piața este sufletul Lisabonei unde își petrec timpul relaxându-se atât locuitorii cât și turiștii. 
