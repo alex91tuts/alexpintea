@@ -21,66 +21,9 @@ collections:
   reviews:
     output: true     
     permalink: /review/:path/
-
-#defaults for product category and pages
-defaults:
-  -   
-    scope:
-      path: "_posts/fashion-femei" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "fashion"
-
-  -   
-    scope:
-      path: "_posts/tehnologie" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "tehnologie"
-  -   
-    scope:
-      path: "_posts/incaltaminte" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "incaltaminte"	  
-  -   
-    scope:
-      path: "_posts/cosmetice-parfumuri" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "cosmetice-parfumuri"	  
-  -   
-    scope:
-      path: "_posts/cadouri" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "cadouri"	  
-  -   
-    scope:
-      path: "_posts/fashion-barbati" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "fashion-barbati"
-  -   
-    scope:
-      path: "_posts/incaltaminte-barbati" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "incaltaminte-barbati"
-  -   
-    scope:
-      path: "_posts/electrocasnice" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "category"
-      category: "electrocasnice"
+  travel:
+    output: true     
+    permalink: /travel/:path/
 
 
 

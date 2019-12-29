@@ -1,0 +1,6 @@
+---
+layout: null 
+---
+[
+	{% for trip in site.travel %}"{{ trip.oras }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+]
