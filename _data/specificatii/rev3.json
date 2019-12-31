@@ -1,0 +1,286 @@
+[
+    [
+        "Denumire:",
+        "Smartphone Huawei  P Smart (2019)"
+    ],
+    [
+        "Model",
+        "P Smart 2019"
+    ],
+    [
+        "Tip",
+        "Candybar"
+    ],
+    [
+        "Dual SIM",
+        "Da"
+    ],
+    [
+        "Tip SIM",
+        "Nano-SIM"
+    ],
+    [
+        "Accesare simultana SIM",
+        "Dual Standby"
+    ],
+    [
+        "Culoare",
+        "Negru"
+    ],
+    [
+        "SAR (Specific absorption rate)",
+        "0.83 W/kg (head)"
+    ],
+    [
+        "Dimensiuni",
+        "155.2 x 73.4 x 7.95 mm"
+    ],
+    [
+        "Greutate",
+        "160 g"
+    ],
+    [
+        "Ecran",
+        "LTPS IPS LCD"
+    ],
+    [
+        "Culori",
+        "16 Milioane"
+    ],
+    [
+        "Rezolutie",
+        "1080 x 2340 pixeli"
+    ],
+    [
+        "Aspect Ratio",
+        "19.5:9"
+    ],
+    [
+        "Marime display",
+        "6.21 inch"
+    ],
+    [
+        "Densitate pixeli",
+        "415 ppi"
+    ],
+    [
+        "Touchscreen",
+        "Capacitive"
+    ],
+    [
+        "Multi-touch",
+        "Da"
+    ],
+    [
+        "Caracteristici",
+        "EMUI 9.0 (Emotion User Interface)"
+    ],
+    [
+        "Model",
+        "Cortex A73 + Cortex A53"
+    ],
+    [
+        "Frecventa",
+        "2200 + 1700 MHz"
+    ],
+    [
+        "Nuclee",
+        "Octa Core"
+    ],
+    [
+        "Chipset",
+        "HiSilicon"
+    ],
+    [
+        "Model Chipset",
+        "Kirin 710"
+    ],
+    [
+        "GPU",
+        "Mali-G51 MP4"
+    ],
+    [
+        "Memorie interna flash",
+        "64 GB"
+    ],
+    [
+        "RAM",
+        "3 GB"
+    ],
+    [
+        "Slot card",
+        "microSD, pana la 512GB"
+    ],
+    [
+        "Stocare suplimentara",
+        "Adauga 1TB stocare in OneDrive cumparand Office 365 Personal"
+    ],
+    [
+        "Camera foto principala",
+        "Dual 13 + 2 mpx"
+    ],
+    [
+        "Camera foto secundara",
+        "8 mpx"
+    ],
+    [
+        "Tri-camera",
+        "Fata 1x 8 mpx, Spate 1x 13 mpx + 1x 2 mpx"
+    ],
+    [
+        "Autofocus",
+        "Da"
+    ],
+    [
+        "LED Flash",
+        "Da"
+    ],
+    [
+        "Geotagging",
+        "Da"
+    ],
+    [
+        "Touch focus",
+        "Da"
+    ],
+    [
+        "Panorama",
+        "Da"
+    ],
+    [
+        "HDR (High Dynamic Range)",
+        "Da"
+    ],
+    [
+        "Inregistrare video",
+        "1080p"
+    ],
+    [
+        "FPS (Frame Per Second)",
+        "30@1080p"
+    ],
+    [
+        "Sistem operare",
+        "Android OS"
+    ],
+    [
+        "Versiune",
+        "9.0 (Pie)"
+    ],
+    [
+        "Retea",
+        "GSM 850 / 900 / 1800 / 1900HSDPA 850 / 900 / 1900 / 2100LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)"
+    ],
+    [
+        "GPRS",
+        "Da"
+    ],
+    [
+        "EDGE",
+        "Da"
+    ],
+    [
+        "3G",
+        "HSDPA, 42.2 Mbps; HSUPA, 5.76 Mbps"
+    ],
+    [
+        "4G",
+        "LTE-A 2CA, Cat6, 50 Mbps UL, 300 Mbps DL"
+    ],
+    [
+        "Suport incarcare wireless Qi",
+        "Nu"
+    ],
+    [
+        "NFC (Near Field Communication)",
+        "Nu"
+    ],
+    [
+        "WLan",
+        "Wi-Fi 802.11 a/b/g/n/ac, Dual-Band, Wi-Fi Hotspot, Wi-Fi Direct"
+    ],
+    [
+        "Bluetooth",
+        "4.2 cu A2DP, BLE"
+    ],
+    [
+        "GPS receiver",
+        "Da, cu suport A-GPS, GLONASS"
+    ],
+    [
+        "Tip acumulator",
+        "Standard (build-in) Li-Ion"
+    ],
+    [
+        "Capacitate acumulator",
+        "3400 mAh"
+    ],
+    [
+        "Caracteristici",
+        "- Anulare a zgomotului activ cu microfon dedicat"
+    ],
+    [
+        "microUSB",
+        "2.0 microUSB, USB On-The-Go"
+    ],
+    [
+        "Jack 3.5 mm",
+        "Da"
+    ],
+    [
+        "Accelerometru",
+        "Da"
+    ],
+    [
+        "Proximitate",
+        "Da"
+    ],
+    [
+        "Amprenta",
+        "Da"
+    ],
+    [
+        "Lumina",
+        "Da"
+    ],
+    [
+        "Busola",
+        "Da"
+    ],
+    [
+        "Numere in agenda",
+        "Da"
+    ],
+    [
+        "Registru apeluri",
+        "Da"
+    ],
+    [
+        "Sunete Apel",
+        "MP3, WAV"
+    ],
+    [
+        "Vibratii",
+        "Da"
+    ],
+    [
+        "Mesaje",
+        "SMS (threaded view), MMS, e-Mail, Push e-Mail, IM"
+    ],
+    [
+        "MP3-Player",
+        "Da"
+    ],
+    [
+        "Ceas",
+        "Da"
+    ],
+    [
+        "Alarma",
+        "Da"
+    ],
+    [
+        "Alte caracteristici",
+        "Loudspeaker"
+    ]
+]
