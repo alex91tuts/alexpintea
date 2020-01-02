@@ -1,0 +1,86 @@
+{% assign emag = site.data.preturi.emag %}
+{% assign ihunt = site.data.preturi.ihunt %}
+{% assign evomag = site.data.preturi.evomag %}
+{% assign pcgarage = site.data.preturi.pcgarage %}
+{% assign quick = site.data.preturi.quick %}
+{% assign vexio = site.data.preturi.vexio %}
+
+{% assign things = emag | concat: ihunt | concat: evomag | concat: pcgarage | concat: quick | concat: vexio %}
+
+<div class="row">
+{% for mag in page.magazine %}
+	<!-- Preturi Magazine General-->
+	<!-- Preturi Magazine Emag-->
+	 <div style="padding: 10px" class="col-12 col-lg-6">
+    <div class="price-box row">
+			<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/{{ mag.name }}.png" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">{{ mag.name }}.ro</p>
+			</div>
+				
+			<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">{{ page.nume }}</p>
+			<a target="_blank" class="btn-preturi" href="{{ mag.link }}">VEZI PRETURI</a>
+			</div>
+    </div>
+  </div>
+<!-- Sfarsit Emag-->
+{% endfor %}
+</div>	
+	
+<style>
+	.img-pret {
+		text-align: center;
+		padding: 5px;
+	}
+	.img-pret img {
+		max-height: 54px;
+	}
+	.div-pret {
+		text-align: center;
+		padding: 0;
+	}
+	.btn-preturi {
+		position: absolute;
+    left: 0;
+    bottom: 0;
+    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    transition: all 1s;
+		border-radius: 0px 0px 3px;
+	}
+	.btn-preturi:hover {
+		letter-spacing: 2px;
+		font-weight: 900;
+		transition: all 1s;
+		transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+		color: white !important;
+	}
+	.p-new-price {
+		font-size: 15px;
+	}
+	.price-box {
+		box-shadow: 0 0 14px -4px lightgrey;
+		border: solid 1px #d3d3d375;
+		border-radius: 3px;      
+		}
+	.logo-shop {
+		max-height: 30px;
+		max-width: 75%;
+	}
+	.old-p {
+		position: absolute;
+    font-size: 10px;
+    top: 19px;
+    text-decoration: line-through red;
+    left: 0;
+    right: 0;
+    margin: auto;
+	}
+	@media (max-width: 570px) {
+		.old-p {
+			top: 19px;
+		}
+	}
+</style>

@@ -42,6 +42,16 @@ verdict: Huawei P20 Lite este o adiție bine venită în seria P20 ce captureaz�
 
 colors: ['red', 'green', 'blue', 'orange']
 
+magazine:
+  - name: emag
+    link: https://l.profitshare.ro/l/7205677
+  - name: evomag
+    link: https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=d4f678b43&redirect_to=https%253A//www.evomag.ro/%253Fsn.q%253DP20+lite
+  - name: quickmobile
+    link: https://l.profitshare.ro/l/7205678
+  - name: vexio
+    link: https://l.profitshare.ro/l/7205681
+
 sku: rev2
 
 ---

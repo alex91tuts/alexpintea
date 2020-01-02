@@ -5,12 +5,83 @@ title: Recenzii
 permalink: /review/
 
 ---
-	<div><button id='categorie-selectata' style="margin-left: 0;" class="btn btn-dark btn-sm cat-small"></button></div>
+
+<div><button id='categorie-selectata' style="margin-left: 0;" class="btn btn-dark btn-sm cat-small"></button></div>
 <div class="row reviews-wrapper">
 	<div id="outputReview" class="row col-lg-9"></div>
 	{% include sidebar-loop-review.html %}
 </div>
+<script>
+	
+let url = '{{ site.url }}/api/review/review_api.json',
+		fil = [],
+		categorie = window.name;
+function getFilters() {
+fetch(url)
+	.then((res)  => res.json())
+	.then((data) => {
+		var outputReview = '';
+	  fil = [];
+		for (var i=0; i<data.length; i++) {
+			if (data[i].categorie.toUpperCase().indexOf(categorie) > -1 || data[i].tag1.toUpperCase().indexOf(categorie) > -1 || data[i].tag2.toUpperCase().indexOf(categorie) > -1 || data[i].tag3.toUpperCase().indexOf(categorie) > -1 ) {
+					fil.push(data[i])
+			}
+		}
+		fil.forEach(function(prod){
+			outputReview += `
+				<div class="card-wrapper col-lg-6">
+				<div class="card-test">
+						<div class="poster" style="background-image: url('/assets/images/reviews/${prod.imagine}')">
+							 <div class="tags">
+								<span class="fantasy">${prod.categorie}</span>
+							</div>
+						<div class="details">
+							<a href="${prod.link}"><h2>${prod.titlu}<br></h2></a>
+							<span class="author-small">By Alexandru Pintea</span><br>
+							<div class="rating-stars">
+								<span class="layer1">★★★★★</span><span class="scor-scris">${prod.scor}/100</span>
+								<span class="layer2" style="width: ${(prod.scor * 56)/100}%;">★★★★★</span>
+							</div>
 
+							<div class="info">
+								<p>${prod.intro}</p>
+							</div>
+							<div class="tags">
+								<span class="bottom-tag">${prod.tag1}</span>
+								<span class="bottom-tag">${prod.tag2}</span>
+								<span class="bottom-tag">${prod.tag3}</span>
+								<a href="${prod.link}" class="read-more">CITESTE <i class="fas fa-angle-double-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+				`	
+		});
+		document.getElementById('outputReview').innerHTML = outputReview;
+	  document.getElementById('categorie-selectata').innerHTML = categorie;
+	  categorie = '';
+	  buttonInner();
+	})
+}
+window.onload = getFilters();
+
+function buttonInner () {
+	var x = document.getElementById('categorie-selectata');
+	var u = document.getElementById('categorie-selectata').innerText;
+	u == '' ? x.style.display = 'none' : x.style.display = 'block';
+}
+
+	
+
+document.getElementById('categorie-selectata').addEventListener('click', function() {
+	categorie = [];
+	window.name = '';
+	getFilters();
+});
+
+	
+</script>
 <style>
 	@media (max-width: 570px) {
 	.cat-small {
@@ -289,74 +360,3 @@ permalink: /review/
 	}
 </style>
 
-<script>
-	
-let url = '{{ site.url }}/api/review/review_api.json',
-		fil = [],
-		categorie = window.name;
-function getFilters() {
-fetch(url)
-	.then((res)  => res.json())
-	.then((data) => {
-		var outputReview = '';
-	  fil = [];
-		for (var i=0; i<data.length; i++) {
-			if (data[i].categorie.toUpperCase().indexOf(categorie) > -1 || data[i].tag1.toUpperCase().indexOf(categorie) > -1 || data[i].tag2.toUpperCase().indexOf(categorie) > -1 || data[i].tag3.toUpperCase().indexOf(categorie) > -1 ) {
-					fil.push(data[i])
-			}
-		}
-		fil.forEach(function(prod){
-			outputReview += `
-				<div class="card-wrapper col-lg-6">
-				<div class="card-test">
-						<div class="poster" style="background-image: url('/assets/images/reviews/${prod.imagine}')">
-							 <div class="tags">
-								<span class="fantasy">${prod.categorie}</span>
-							</div>
-						<div class="details">
-							<a href="${prod.link}"><h2>${prod.titlu}<br></h2></a>
-							<span class="author-small">By Alexandru Pintea</span><br>
-							<div class="rating-stars">
-								<span class="layer1">★★★★★</span><span class="scor-scris">${prod.scor}/100</span>
-								<span class="layer2" style="width: ${(prod.scor * 56)/100}%;">★★★★★</span>
-							</div>
-
-							<div class="info">
-								<p>${prod.intro}</p>
-							</div>
-							<div class="tags">
-								<span class="bottom-tag">${prod.tag1}</span>
-								<span class="bottom-tag">${prod.tag2}</span>
-								<span class="bottom-tag">${prod.tag3}</span>
-								<a href="${prod.link}" class="read-more">CITESTE <i class="fas fa-angle-double-right"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-				`	
-		});
-		document.getElementById('outputReview').innerHTML = outputReview;
-	  document.getElementById('categorie-selectata').innerHTML = categorie;
-	  categorie = '';
-	  buttonInner();
-	})
-}
-window.onload = getFilters();
-
-function buttonInner () {
-	var x = document.getElementById('categorie-selectata');
-	var u = document.getElementById('categorie-selectata').innerText;
-	u == '' ? x.style.display = 'none' : x.style.display = 'block';
-}
-
-	
-
-document.getElementById('categorie-selectata').addEventListener('click', function() {
-	categorie = [];
-	window.name = '';
-	getFilters();
-});
-
-	
-</script>

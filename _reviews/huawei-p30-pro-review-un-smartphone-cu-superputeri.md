@@ -39,22 +39,15 @@ verdict: Ar trebui să-l cumperi? Ei bine, da. Zoom-ul periscopic și performan�
 
 colors: ['red', 'green', 'blue', 'orange']
 
-cod-ihunt: "necunoscut"
-link-ihunt: 
-cod-evomag: "51093SNF"
-link-evomag: https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=d4f678b43&redirect_to=https%253A//www.evomag.ro/solutii-mobile-telefoane-mobile/huawei-telefon-mobil-huawei-p30-pro-procesor-octa-core-kirin-980-capacitive-touchscreen-6.47-6gb-ram-128gb-flash-camera-tripla-40-20-8mp-wi-fi-4g-dual-sim-android-aurora-3682116.html
-
-cod-emag: "51093SNB"
-link-emag: https://l.profitshare.ro/l/6307808
-
-cod-pcgarage: "1826568"
-link-pcgarage: https://l.profitshare.ro/l/6307816
-
-cod-quick: "202609"
-link-quick: https://l.profitshare.ro/l/6307810
-
-cod-vexio: "necunoscut"
-link-vexio: 
+magazine:
+  - name: emag
+    link: https://l.profitshare.ro/l/6307808
+  - name: pcgarage
+    link: https://l.profitshare.ro/l/6307816
+  - name: evomag
+    link: https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=d4f678b43&redirect_to=https%253A//www.evomag.ro/solutii-mobile-telefoane-mobile/huawei-telefon-mobil-huawei-p30-pro-procesor-octa-core-kirin-980-capacitive-touchscreen-6.47-6gb-ram-128gb-flash-camera-tripla-40-20-8mp-wi-fi-4g-dual-sim-android-aurora-3682116.html
+  - name: quickmobile
+    link: https://l.profitshare.ro/l/6307810
 
 sku: rev1
 
