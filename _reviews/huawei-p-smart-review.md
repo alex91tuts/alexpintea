@@ -64,6 +64,57 @@ sku: rev3
 
 Privind de la exterior, pare destul de greu de crezut că acesta este un smartphone atât de ieftin, având în vedere că deține o serie de caracteristici care s-ar regăsi de obicei la un model high-end. Printre acestea se includ display-ul extins cu un notch pentru cameră, colțurile rotunjite și Android Pie cu EMUI. Huawei a anunțat că Huawei P Smart 2019 va primi și Android 10.
 
+Una dintre principalele probleme pe care la are Huawei este pierderea licenței Android. Asta înseamnă că telefoanele nu vor mai beneficia de serviciile Google Play și multe alte aplicații Android, inclusiv Youtube și Gmail. Cu toate astea, telefoanele Huawei existente, inclusiv P Smart 2019 continuă să beneficieze de licență și vor beneficia în continuare chiar și după un upgrade la sistemul de operare.
+
+Așadar, terminalul se poate încă cumpăra în siguranță dar având în vedere relația dintre Google și Huawei poate reprezenta un motiv întemeiat pentru a nu cumpăra, te poți uita și la variante alternative precum impresionantul Xioami Redmi Note 7.
+
+---
+## Huawei P Smart 2019 - Design
+
+Primul lucru care iese in evidență este partea din spate a telefonului pe care cei de la Huawei au construit-o dintr-un material asemănător cu ceramica care arată surprinzător de similar cu materialul real. Este disponibil în variantele Negru, Aurora Blue și Sapphire Blue.
+
+Cu toate astea, dacă îl atingi sau apeși pe partea din spate îți dai seama imediat de faptul că este vorba de un plastic și că sentimentul de premium dispare. Și să nu mai aducem în discuție urmele și amprentele care rămân chiar și după câteva momente de utilizare. Lăsând la o parte materialele, forma rotunjită face din P Smart un dispozitiv simpatic și compact, în ciuda dimensiunilor.
+
+Într-o poziție centrală este așezat senzorul de amprentă ce aduce printr-o simplă mișcare bara de notificări la vedere. Camera principală este poziționată în coltul din stânga sus.
+
+O privire la baza telefonului și imediat ne dăm seama de faptul că P Smart încă oferă o mufă jack integrată de 3.5mm, mai ales având în vedere că telefoanele premium de la Huawei au început să renunțe la această opțiune în urmă ce ceva generații. Împreună cu un set de căști, incluse în pachet, avem la dispoziție și facilitățile radio FM.
+
+Surprinzător, deși suntem în anul 2019, pe baza acestui telefon încă se regăsește un port microUSB. Anul acesta, la fel ca mufele jack, porturile microUSB au început să dispară din peisaj și să fie înlocuite de noile USB Type-C, mult mai versatile și eficiente.
+
+---
+## Ecranul
+
+> Decent ca dimensiuni și rezoluție însă putea fi mai bun la vederea din unghiuri.
+
+Unul dintre trend-urile anului 2018 a fost adoptarea rapidă a display-urilor extinse.  Ecranul IPS LCD de 6.21 inch a lui P Smart are un aspect ratio de 19.5:9, așadar în ciuda faptului că oferă o suparafață mare, telefonul nu este nici pe aproape atât de lat precum ar fi fost dacă păstra tradiționalul aspect ratio de 16:9.
+
+Display-ul full-view dă senzația că telefonul este lung și subțire. Este ușor de ținut cu o singură mână și compania a reușit să mențină și marginile destul de suple. În partea de jos însă, avem o mică bandă neagră iar sus regăsim popularul notch pentru cameră.
+
+Deși notch-ul camerei frontale poate părea destul de agresiv acolo unde rupe linia elegantă a marginilor ecranului, nu intră în conflict cu interfața aplicațiilor. Însă, dacă totuși este cazul, există opțiuni de redimensionare a ecranului.
+
+Dacă totuși nu ești fanul noth-ului îl poți ascunde în spatele unei bare negre generate de partea software. 
+
+Pe partea de calitate, cei de la Huawei afirmă că display-ul cu o rezoluție de 1080 X 2340 Full HD+ poate genera 85 de procente de culoare gamut NTSC. În viața reală, culorile sunt mulțumitoare. Din setările implicite, telefonul este setat pe modul vivid, dar datorită setului robust de setări, este foarte ușor de ajustat în cazul în care culorile sunt prea stridente.
+
+Contrastul nu este cel mai bun, negrul fiind mai mult un gri închis care se poate schimba într-un ton și mai deschis atunci când te uiți la display din afara axelor. Vederea din unghiuri nu este grozavă dar dacă te uiți direct la telefon nu prea ai de ce să te plângi, cel puțin din punct de vedere vizual.
+
+De asemenea, din punct de vedere al setărilor generale ale display-ului, avem la dispoziție și modul Eye Confort (confortabil) ce schimbă temperatură culorilor spre cald pentru a suporta lumina mai ușor în lumină redusă sau în timpul nopții. Poate fi configurat să intre în acțiune manual sau poate fi setat pe modul automat, pe baza orelor de răsărit sau apus.
+
+---
+## Performanță
+
+> Grozav în utilizarea de zi cu zi și telefonul poate să facă față și jocurilor.
+
+P Smart 2019 este echipat cu un procesor Kirin 710 care împerecheat cu numai 3GB de momorie RAM (o cantitate destul de mică pentru un telefon cu Android în anul 2019) face cu succes față nevoilor de zi cu zi.
+
+Mai mult de atât, datorită unor optimizări făcute de cei de la Huawei, update-ul la placa video Turbo 2.0 generează o exeperiență a jocurilor video poate superioară capabilităților acestui telefon.
+
+În uzul de zi cu zi, rareori vei întâlni probleme evidente de uzabilitate. Telefonul raspunde foarte bine când navighezi prin ecrane și printre aplicații. 
+
+Privind calitatea apelurilor, cei care primesc au câteva mici probleme legate de calitatea sunetului și zgomotului de background. Marginile înguste și notch-ul au împins difuzorul înspre partea de deasupra a telefonului, astfel, sunetul nu se propagă direct în ureche. O mare parte se pierde înspre partea de sus și partea din spate.
+
+Claritatea nu are foarte mult de suferit dar este fără discuție puțin inconfortabil, fără să mai menționăm faptul că persoanle din jurul tău probabil vor auzi tot ce auzi și tu în timpul unei convorbiri.
+
 
 ---
 ## Pareri utilizatori
