@@ -29,6 +29,53 @@
 	{% endfor %}
  </div>
 	
+	
+{% assign rawtags = "" %}
+{% for review in site.reviews %}
+  {% assign ttags = review.tags | join:'|' | append:'|' %}
+  {% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+	
+{% assign site.tags = "" %}
+{% for tag in rawtags %}
+  {% if tag != "" %}
+    {% if tags == "" %}
+      {% assign tags = tag | split:'|' %}
+    {% endif %}
+    {% unless tags contains tag %}
+      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+<div class="col review-side">
+<h5 class="title-section-sidebar">TAGURI</h5>
+	<div class="tagcloud">
+	{% for tag in tags offset:1 %}
+			<button class="taglink" onclick="categorie = '{{ tag | upcase }}';getFilters();">{{ tag }}</button>
+	{% endfor%}
+	</div>
+</div>
+
+<style>
+	.tagcloud {
+		margin-top: 30px;
+	}
+	.taglink {
+		border: solid 1px #d3d3d382;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 5px 10px;
+		margin-top: 5px;
+    color: black;
+    font-weight: 500;
+    box-shadow: 0 0 19px -2px lightgrey;
+		background: white;
+	}
+</style>	
+	
+	
+	
 
 	</div>	
 </div>

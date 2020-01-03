@@ -238,4 +238,161 @@ Jocurile vor pune întotdeauna o presiune mult mai mare pe baterie decât conți
 Încărcătorul care vine în cutie are o putere de 40w. Acesta poate încărca telefonul până la 100% în aproximativ o oră. Mai impresionant este că poți încărca telefonul de la 0% la 70% în numai 38 de minute.
 
 ---
+## Pareri utilizatori
+
+---
+### Pozitive
+---
+<!-- Parere Emag-->
+<div class="row mt-4">
+	 <div style="padding: 10px" class="col-12 col-lg-12">
+    <div class="row">
+			<div class="col-2" style="padding: 6px; text-align: center;"><img class="" src="/assets/images/reviews/logo-magazine/emag.png" alt="{{ page.title }}">
+				<p style="margin: 0; font-size: 11px;">emag.ro</p>
+			</div>
+			<div class="col-10 pl-1" style="border: solid 1px #d3d3d352; border-radius: 3px;">
+				<span style="color: #ff8a00; position: absolute; top: -30px;">★★★★★<span style="color: black;"></span><span style="font-style: italic; color: black;">Alex</span></span>
+<p class="" style="margin: 0;font-weight: 400; font-size: 16px;font-style: italic; padding: 5px;">
+Am cumparat si eu telefonul avand in trecut un Mate 20 Pro si apoi un S10+. Nu pot compara decat cu aceste 2 modele pe care le-am avut si pot spune urmatoarele: Bateria - este un monstru pur si simplu. Dupa 6 ore si 30 minute de display mai aveam 50% in conditiile in care s10+ m-a lasat in timpul zilei (fiind incarcat de dimineata) dupa 4 ore de display. Deci bateria este peste ambele modele (M20Pro si S10+) Camera - aici poate tine si de preferintele fiecaruia dar din punctul meu de vedere, aleg oricand pozele de pe P30 Pro. Stabilizarea optica pentru Night Mode este mult, mult, mult mai buna decat pe Mate 20 Pro iar pozele pe timp de noapte nu se pot compara niciodata cu pozele facute cu gluma de Night Mode de la S10+ pe care l-am folosit tot concediul de vara, deci stiu ce vorbesc. In concluzie, este mult mai buna decat la modelel anterioare iar pentru poze cu zoom peste 32X trebuie sa aveti un trepied, asta daca vrei poze cat mai reusite. Sunetul - am tot citit pe aici ca multe persoane se plangeau de sunet si sincer chiar m-am temut putin de tehnologia noua din display dar nu am avut absolut nici o problema din punctul asta de vedere. Semnal - la fel, utilizatori care se plang de semnal...... Nu am avut nici o problema deci nu am ce comenta. Sunt foarte multumit de telefon si nu regret alegerea facuta. Cei cu probleme diverse..... Cred depinde putin si de norocul pe care il ai si ce telefon prinzi.
+</p>
+			</div>
+    </div>
+  </div>
+</div>	
+<!-- END Parere Emag-->
+
+
+<!-- Parere Emag-->
+<div class="row mt-4">
+	 <div style="padding: 10px" class="col-12 col-lg-12">
+    <div class="row">
+			<div class="col-2" style="padding: 6px; text-align: center;"><img class="" src="/assets/images/reviews/logo-magazine/pcgarage.png" alt="{{ page.title }}">
+				<p style="margin: 0; font-size: 11px;">pcgarage.ro</p>
+			</div>
+			<div class="col-10 pl-1" style="border: solid 1px #d3d3d352; border-radius: 3px;">
+				<span style="color: #ff8a00; position: absolute; top: -30px;">★★★★★<span style="color: black;"></span><span style="font-style: italic; color: black;">Marian-Alexandru Dinu</span></span>
+<p class="" style="margin: 0;font-weight: 400; font-size: 16px;font-style: italic; padding: 5px;">			
+Pro:<br>				
+Superb telefonul! Nu știu ce mi-aș putea dori mai mult de la un telefon în momentul de față.<br>
+- ecranul imens și ușor curbat pe margini e unul dintre principalele atuuri ale telefonului.<br>
+- camerele din spate sunt excepționale. Probabil ați văzut deja nenumărate review-uri pe yt, așa că nu o să mai insist aici. Pot doar să spun că toate laudele la adresa acestor camere sunt justificate.<br>
+- bateria e nemaipomenită. Când nu îl folosesc exagerat de mult mă ține cam 3 zile. Când folosesc camera mai intens și ecranul stă aprins mai mult timp, mă ține cam 2 zile. Ajung cam la 7h de screen on time.<br>
+- încărcarea telefonului e exagerat de rapidă. Se încarcă de la 15% la 100% cam în 45 de min.<br>
+- gesturile (gestures), cele care imită oarecum funcționalitățile de la iPhoneX, sunt și ele interesante. Eu le-am activat și m-am obșinuit destul de rapid cu ele (1-2 zile maxim). Vă recomand să le activați și să le folosiți, deoarece veți scăpa de butoanele din josul ecranului și astfel vă veți bucura de un ecran imens.<br>
+Contra:<br>
+- telefonul e măricel, e lung și nu exagerat de lat. Probabil nu e o diferență prea mare față de telefoanele cu care el concurează. Eu m-am obișnuit destul de repede și acum orice telefon mai mic mi se pare minuscul. Eu am o mână medie ca mărime și pot să spun că nu prea se poate folosi cu o mână. Adică e riscant, eu nu fac asta pentru că mi-e frică să nu-l scap din mână. Oricum, nu știu câți dintre noi foloseau telefoanele cu o singură mână, așa că nu cred că e un mare inconvenient.<br>
+- camera frontală e ok pentru o cameră de selfie, dar nu vă așteptați să aibă calitatea unor poze făcute cu un DSLR. E doar decentă.<br>
+				</p>
+			</div>
+    </div>
+  </div>
+</div>	
+<!-- END Parere Emag-->
+
+<!-- Parere Emag-->
+<div class="row mt-4">
+	 <div style="padding: 10px" class="col-12 col-lg-12">
+    <div class="row">
+			<div class="col-2" style="padding: 6px; text-align: center;"><img class="" src="/assets/images/reviews/logo-magazine/emag.png" alt="{{ page.title }}">
+				<p style="margin: 0; font-size: 11px;">emag.ro</p>
+			</div>
+			<div class="col-10 pl-1" style="border: solid 1px #d3d3d352; border-radius: 3px;">
+				<span style="color: #ff8a00; position: absolute; top: -30px;">★★★★★<span style="color: black;"></span><span style="font-style: italic; color: black;">dbk</span></span>
+<p class="" style="margin: 0;font-weight: 400; font-size: 16px;font-style: italic; padding: 5px;">
+Foarte bun. Bateria e punctul lui forte: folosire normala, medium power saving, dupa 3 zile inca mai are 8% baterie. Ecran, ok, camera(e) foarte ok, finisaje foarte misto. Isi merita banii.<br>
+
+Referitor la comparatia cu S10+. E greu de spus care e mai bun. Eu folosesc S10+ dar am cumparat P30 Pro pt sotie. Le-am testat destul de mult in paralel:<br>
+
+Camera: Huawei castiga la capitolul zoom optic (5x vs 2x). Dar la 5x e cam greu de folosit pentru ca tremuratul mainii deterioreaza fotografiile. Mai castiga si la capitolul night shots. Dar si aici e un dar. In timp ce isi ia o idee mai multa lumina decat Samsung-ul, dureaza mai mult sa realizeze poza, si iar intervine problema tremuratului mainii. Oricum, ambele telefoane fac o treaba buna pe timp de noapte, dar pozele sunt inca foarte departe de un DSLR. Totusi, in anumite situatii S10+ e peste P30 Pro. Am observat asta intr-o camera intunecoasa unde singura sursa de lumina era o veioza iar eu incercam sa fac poza unei persoane. Fata perosanei nu era deloc vizibila. In schimb, cu S10+ fata persoanei era perfect vizibila.<br>
+Camera wide pe S10+ e mai buna. Filmarile 4k arata mai bine pe S10+. Ambele telefoane imbunatatesc culorile, insa la P30 Pro se exagereaza. S10+ tine culorile mai aproape de realitate, si le "atinge" cat sa placa un pic mai mult ochiului uman.<br>
+
+S10+ pierde un pic la capitolul baterie (tine 2 1/2 zile in conditile unei utilizari normale si cu medium power saving activat) dar este un all-rounder perfect.<br>
+
+Ecran: P30 Pro are un ecran foarte bun. Dar cel al lui S10+ este superb.<br>
+
+Procesor/ Viteza: Kirin este superior lui Exynos (EU market). Dar cei 2 GB ram cu care S10+ vine in plus fata de P30 Pro fac ca rapiditatea telfoanelor sa fie similara.<br>
+
+Pret: Avantaj P30 Pro<br>
+
+Pacat ca Google/ Trump a luat decizia sa nu mai colaboreze cu Huawei. Totusi, stiind ce ascensiunea au avut chinezii in ultimii ani, nu cred ca vor fi afectati prea rau de aceasta idiotenie<br>
+</p>
+			</div>
+    </div>
+  </div>
+</div>	
+<!-- END Parere Emag-->
+
+---
+### Negative
+---
+<!-- Parere Emag-->
+<div class="row mt-4">
+	 <div style="padding: 10px" class="col-12 col-lg-12">
+    <div class="row">
+			<div class="col-2" style="padding: 6px; text-align: center;"><img class="" src="/assets/images/reviews/logo-magazine/emag.png" alt="{{ page.title }}">
+				<p style="margin: 0; font-size: 11px;">emag.ro</p>
+			</div>
+			<div class="col-10 pl-1" style="border: solid 1px #d3d3d352; border-radius: 3px;">
+				<span style="color: #ff8a00; position: absolute; top: -30px;">★<span style="color: black;">★★★★</span><span style="font-style: italic; color: black;">Dedu Alexandra</span></span>
+<p class="" style="margin: 0;font-weight: 400; font-size: 16px;font-style: italic; padding: 5px;">
+Sunt singura care observa ca acest telefon nu are camera promisa? Culorile afisate de cele n camere sunt execrabile, da, asta e cel mai fericit termen, pentru ca, dupa 4000 de lei dati, te astepti la cu totul altceva. Deci, serios, telefonul asta nu face poze nici cat un S4. Acel macro pus in valoare de camera de masurare a profunzimii este adaugat artificial. Practic camera e un *** care face o poza oarecare peste care vine softul si adauga acel macro. Inteleg la pozele de portret, mna, nu este un dslr, dar si la cele aflate la distanta mica unde toti rivalii reusesc sa scoata un macro adevarat... Alta problema ar fi balansul de alb extrem de ridicat, tonalitatea de bej inchis prezenta in toate pozele si saturatia exagerata. Ce arata astia in prezentare e o totala minciuna. Zoom ul camerei telescop marit la 30 x pare mai degraba o camera vga. Am luat eu un telefon defect din fabrica sau toata lumea se confrunta cu asa ceva?
+</p>
+			</div>
+    </div>
+  </div>
+</div>	
+<!-- END Parere Emag-->
+
+<!-- Parere Emag-->
+<div class="row mt-4">
+	 <div style="padding: 10px" class="col-12 col-lg-12">
+    <div class="row">
+			<div class="col-2" style="padding: 6px; text-align: center;"><img class="" src="/assets/images/reviews/logo-magazine/emag.png" alt="{{ page.title }}">
+				<p style="margin: 0; font-size: 11px;">emag.ro</p>
+			</div>
+			<div class="col-10 pl-1" style="border: solid 1px #d3d3d352; border-radius: 3px;">
+				<span style="color: #ff8a00; position: absolute; top: -30px;">★<span style="color: black;">★★★★</span><span style="font-style: italic; color: black;">Adfaster</span></span>
+<p class="" style="margin: 0;font-weight: 400; font-size: 16px;font-style: italic; padding: 5px;">
+Il iei pentru camera. Atat. Din pacate nici macar camera nu este perfecta. Culori super stridente si nerealiste in lumina buna. Zoom-ul pe video rezulta in sacadare (= skipped frames), stabilizarea atat pe 1080 cat si 4k lasand FOARTE mult de dorit. Singurul atu real al camerei este fotografiatul (NU filmatul) la lumina (foarte) scazuta. Plus zoom-ul optic (DAR NU pentru video, vezi mai sus de ce).<br>
+
+In rest, un total si inacceptabil compromis pentru un telefon la banii astia:<br>
+
+AUDIO: Groaznic! Are doar difuzor mono! Cand te uiti la Youtube sau Netflix ai senzatia ca esti surd de o ureche! Fara mufa de casti!<br>
+
+APELURI: Oribil! Trebuie sa tii telefonul lipit de ureche, avand in vedere faptul ca sunetul vibreaza prin ecran in convorbiri (auzi si tot zgomotul ambiental). Evident ca nu poti vorbi printr-o husa de tip flip-cover, trebuie sa o deschizi ca sa tii urechea lipita de ecran, ceea ce rezulta si intr-un ecran mai murdar, tot timpul.<br>
+
+DISPLAY: La banii astia doar 1080? E o gluma foarte proasta! Daca te uiti atent, vezi pixelii. Plus ca e exagerat de rotunjit pe margini, asta dand senzatia ca este mult mai ingust decat ar trebui (afecteaza orice continut media).<br>
+
+MEMORIE: 128 GB e decent, dar daca vrei mai mult, singura optiune e card nano memory facut de Huawei. Greu de gasit si extrem de scump. NU poti folosi universalele microSD!<br>
+
+BATERIE: Excelenta dar cu un pret EXTREM! Ca sa lungeasca durata bateriei, Huawei este super agresiv in inchiderea / blocarea majoritatii aplicatiilor din fundal. Ma trezesc constant ca mi s-a inchis antivirusul si ca reintrand in telefon aplicatiile din RAM trebuie sa se redeschida (= refresh) – ce rost mai are sa ai 6 GB de RAM atunci??? Mai mult, cand vrea el, telefonul `hotaraste cu de la sine putere` ca nu-i place poza pe care mi-am pus-o eu ca wallpaper si revine la wallpaper-ul Huawei din fabrica. What???<br>
+
+In concluzie, e super dezamagitor sa platesti atatia bani pe un flagship care iti ofera atat de PUTIN ca experienta COMPLETA de smartphone! Nici macar NU exceleaza la camera mult laudata, e vorba doar de numere: 5X zoom optic e inutilizabil in video! Cate poze faci NOAPTEA ca sa le vezi ca aproape ziua? Daca vrei telefonul doar pentru camera, OK, dar poate una compacta (cam cat un pachet de tigari) cu 30X zoom optic (de exemplu Sony DSC-HX90 sau 99) ti-ar fi mult mai folositoare. <br>
+
+Per total, telefonul ar merita cam 3 stele. Ii dau doar 1 stea pentru ca de la un flagship atat de costisitor te astepti la mai mult decat o camera buna, ca experienta.<br>
+</p>
+			</div>
+    </div>
+  </div>
+</div>	
+<!-- END Parere Emag-->
+
+<!-- Parere Emag-->
+<div class="row mt-4">
+	 <div style="padding: 10px" class="col-12 col-lg-12">
+    <div class="row">
+			<div class="col-2" style="padding: 6px; text-align: center;"><img class="" src="/assets/images/reviews/logo-magazine/emag.png" alt="{{ page.title }}">
+				<p style="margin: 0; font-size: 11px;">emag.ro</p>
+			</div>
+			<div class="col-10 pl-1" style="border: solid 1px #d3d3d352; border-radius: 3px;">
+				<span style="color: #ff8a00; position: absolute; top: -30px;">★<span style="color: black;">★★★★</span><span style="font-style: italic; color: black;">Bartha Tiberiu Andrei</span></span>
+<p class="" style="margin: 0;font-weight: 400; font-size: 16px;font-style: italic; padding: 5px;">
+Cu toate laudele si slavele aduse acestui aparat, am achizitionat unul in 11 aprilie, am fost multumit de el, cu toate ca mi se mai bloca pe video la fb, dar dupa o reactualizare s-a remediat problema, insa a aparut o tragedie dupa o scufundare usoara la 10cm sub apa, timp de o poza, aparatul s-a inecat si a inceput finalul! Un tinp a mers, pevurma nu a mai vazut sim-ul 1, s-a oprit si oprit a ramas..... Asa ca concluzia este ca nu e cel mai cel precum e laudat! Am vazut pe youtube diferite filmulete cu acest aparat filmind zeci de minute sub apa insa eu nu mai cred nimic. Ip 68 asta inseamna rezistent la apa si praf. Al meu nu a fost... Pe 22 iunie trebuia sa-l am in concediu cu mine insa voi lua tot pe batrinul Sony xperia.
+</p>
+			</div>
+    </div>
+  </div>
+</div>	
+<!-- END Parere Emag-->
+---
 Surse: [DIGITALTRENDS](https://www.digitaltrends.com/cell-phone-reviews/huawei-p30-pro-review/), [TRUSTEDREVIEWS](https://www.trustedreviews.com/reviews/huawei-p30-pro), [CNET](https://www.cnet.com/reviews/huawei-p30-pro-review/) 
