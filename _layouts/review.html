@@ -36,15 +36,17 @@ post_class: post-template
 	<!-- Post Content -->
 	<div id="articol" class="article-post review-post col-lg-8 col-12 order-first order-lg-1">
 		<div id="tocid" class="toc col"><span class="mobile-toc-trig" onclick='toggleShow()'; id="mobileActivate"></span><ul id="outputList"></ul></div>
-			
+		{% if page.scoreb == da %}
 		{% include scorebox.html %}
-		
+		{% endif %}
  <div>
 	 <div style="text-align: center;"><img class="" src="/assets/images/reviews/text.png" alt="review"></div>
 	 <div itemprop="reviewBody" id="continut">
    	{{content}}
 		 <hr>
+		 {% if page.scoreb == da %}
 		 {% include preturi.html %}
+		 {% endif %}
 		 <hr>
 	 </div>
     {% include tags.html %}
