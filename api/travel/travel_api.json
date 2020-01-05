@@ -8,6 +8,6 @@ layout: null
 		"data": "{{ trip.date | date_to_string }}",
 		"imagine": "{{ trip.imageloop }}",
 		"link": "{{ trip.url }}",
-		"categorie": "{{ trip.oras }}",
+		"categorie": "{{ trip.oras }}"
 	}{% unless forloop.last %},{% endunless %}{% endfor %}
 ]

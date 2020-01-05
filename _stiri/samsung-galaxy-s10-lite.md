@@ -1,61 +1,19 @@
 ---
-title: Galaxy s10 Lite, Galaxy Note 10 Lite
+title: Galaxy s10 Lite, Galaxy Note 10 Lite Pareri | Specificatii | Culori 
 image_path: s10lite-note10lite/main.jpg
 meta_image: assets/images/reviews/s10lite-note10lite/main.jpg
-layout: review
+layout: stiri
 date: 2020-01-04
-categorie-review: STIRI
+categorie: STIRI
 tags: ['S10 Lite', 'Samsung', 'Note Lite']
 nume: Galaxy S10 Lite
-scoreb: no
 
-opt:
-  - name: design
-    value: 
-  - name: display
-    value: 
-  - name: performanță
-    value: 
-  - name: cameră
-    value: 
-  - name: baterie 
-    value: 
 
 scor-intro: Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020.
 
 description: Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020.
 
-
-pro: ['Camera', 'Softul', 'Preț accesibil']
-
-contra: ['Poziție speaker', 'Senzorul de amprentă', 'microUSB']
-
-key:
-  - procesor Kirin 710
-  - display de 6.21 inch, FullView (1920 x 2340)
-  - 3GB RAM
-  - memorie stocare 64 GB cu posibilitate de extindere
-  - bateria de 3400mAh
-  - încărcarea rapidă cu 10W
-  - camera dublă de pe spate cu rezoluții de 13 și 2 megapixeli
-  - camera din față de 8 megapixeli
-  - jack de 3,5mm pentru căși + radio
-
-verdict:  
-
 colors: ['red', 'green', 'blue', 'orange']
-
-magazine:
-  - name: emag
-    link: https://l.profitshare.ro/l/7207991
-  - name: evomag
-    link: https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=d4f678b43&redirect_to=https%253A//www.evomag.ro/%253Fsn.q%253Dhuawei+p+smart+2019
-  - name: quickmobile
-    link: https://l.profitshare.ro/l/7208000
-  - name: pcgarage
-    link: https://l.profitshare.ro/l/7207995
-
-sku: rev3
 
 ---
 _O variantă de buget a lui Galaxy S10 va fi disponibilă, însă momentan nu sunt disponibile prețuri sau data de lansare._

@@ -24,6 +24,9 @@ collections:
   travel:
     output: true     
     permalink: /travel/:path/
+  stiri:
+    output: true     
+    permalink: /stiri/:path/
 
 
 
