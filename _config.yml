@@ -27,7 +27,9 @@ collections:
   stiri:
     output: true     
     permalink: /stiri/:path/
-
+  internet:
+    output: true     
+    permalink: /internet/:path/
 
 
 

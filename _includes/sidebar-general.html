@@ -1,10 +1,10 @@
 <div class="col-lg-3 col-12 wrapper-side order-lg-12" style="padding-right: 0;padding-left: 0;">
 <div id="sidebar">
 <div class="col review-side">
-    <h5 class="title-section-sidebar">RECENT</h5>
-		<hr>
+  <h5 class="title-section-sidebar">RECENT</h5>
+	<hr>
 	{% assign reviews = site.reviews  %}
-	{% for review in site.reviews reversed %}
+	{% for review in site.reviews reversed limit:2 %}
 	<a href="{{ review.url }}">
 	<div class="small-post">
 	<img class="small-post-image" src="{{ site.url }}/assets/images/reviews/{{ review.image_path }}">
@@ -12,52 +12,60 @@
 	</div>
 	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> totredus </span>
 	<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ review.date | date_to_string }} </span>
-	<hr class="line-sub">
+	</hr>
 	</a>
 	{% endfor %}
+	
+	{% for topic in site.internet reversed limit:2 %}
+	<a href="{{ topic.url }}">
+	<div class="small-post">
+	<img class="small-post-image" src="{{ site.url }}{{ topic.imagesidebar }}">
+	{{ topic.title }}
+	</div>
+	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> totredus </span>
+	<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ topic.date | date_to_string }} </span>
+	</hr>
+	</a>
+	{% endfor %}
+	
+	{% for trip in site.travel reversed limit:2 %}
+	<a href="{{ trip.url }}">
+	<div class="small-post">
+	<img class="small-post-image" src="{{ site.url }}{{ trip.imagesidebar }}">
+	{{ trip.title }}
+	</div>
+	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> totredus </span>
+	<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ trip.date | date_to_string }} </span>
+	</hr>
+	</a>
+	{% endfor %}
+	
  </div> 
-	<div class="col review-side">
-    <h5 class="title-section-sidebar">CATEGORII</h5>
-		<hr>
-	{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
-	{% for item in cat reversed %}
-	<button class="btn-categ-rev" onclick="categorie = '{{ item }}';getFilters();">
-		{{ item }}
-		</button>
-	<hr class="line-sub-cat">
+<div class="col review-side">
+  <h5 class="title-section-sidebar">CATEGORII</h5>
+	<hr>
+	<a href="{{ site.url }}/internet" style="color: black;">
+		INTERNET
 	</a>
-	{% endfor %}
+	<hr class="spatiu-categorii">
+	<a href="{{ site.url }}/travel" style="color: black;">
+		CALATORII
+	</a>
+	<hr class="spatiu-categorii">		
+	<a href="{{ site.url }}/review" style="color: black;">
+		RECENZII
+	</a>
+	<hr class="spatiu-categorii">		
+	<a href="{{ site.url }}/stiri" style="color: black;">
+		STIRI
+	</a>
  </div>
 	
-	
-{% assign rawtags = "" %}
-{% for review in site.reviews %}
-  {% assign ttags = review.tags | join:'|' | append:'|' %}
-  {% assign rawtags = rawtags | append:ttags %}
-{% endfor %}
-{% assign rawtags = rawtags | split:'|' | sort %}
-	
-{% assign site.tags = "" %}
-{% for tag in rawtags %}
-  {% if tag != "" %}
-    {% if tags == "" %}
-      {% assign tags = tag | split:'|' %}
-    {% endif %}
-    {% unless tags contains tag %}
-      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
-    {% endunless %}
-  {% endif %}
-{% endfor %}
-<div class="col review-side">
-<h5 class="title-section-sidebar">TAGURI</h5>
-	<div class="tagcloud">
-	{% for tag in tags offset:1 %}
-			<button class="taglink" onclick="categorie = '{{ tag | upcase }}';getFilters();">{{ tag }}</button>
-	{% endfor%}
-	</div>
-</div>
 
+</div>
+	
 <style>
+	
 	.tagcloud {
 		margin-top: 30px;
 	}
@@ -81,6 +89,13 @@
 </div>
 
 <style>
+	
+	.spatiu-categorii {
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
+	
+	
 	.tag:hover {
 	letter-spacing: 1px;
 	transition: all 1s;

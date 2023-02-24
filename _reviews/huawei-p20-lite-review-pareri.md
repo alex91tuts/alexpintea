@@ -7,6 +7,7 @@ date: 2019-05-13
 categorie-review: TELEFON
 tags: ['huawei', 'p20 lite', '2019']
 nume: Huawei P20 Lite
+topic: review
 
 opt:
   - name: design

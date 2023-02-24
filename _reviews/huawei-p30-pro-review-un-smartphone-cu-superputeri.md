@@ -8,6 +8,7 @@ categorie-review: SMARTPHONE
 tags: ['huawei', 'premium', '2019']
 nume: Huawei P30 Pro
 scoreb:
+topic: review
 
 opt:
   - name: design

@@ -5,9 +5,10 @@ descriere: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase ș
 
 image: /assets/images/travel/lisabona/obiective-lisabona-featured.jpg
 imageloop: /assets/images/travel/lisabona/obiective-lisabona-loop.jpg
-imagesidebar: /assets/images/travel/lisabona/obiective-lisabona-sidebar.jpg
+imagesidebar: /assets/images/travel/lisabona/obiective-lisabona-loop.jpg
 
-author: "Alexandru Pintea"
+author: "totredus"
+topic: ORASE
 tara: PORTUGALIA
 oras: LISABONA
 lang: ro_RO

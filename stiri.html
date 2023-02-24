@@ -9,7 +9,7 @@ permalink: /stiri/
 <div><button id='categorie-selectata' style="margin-left: 0;" class="btn btn-dark btn-sm cat-small"></button></div>
 <div class="row reviews-wrapper">
 	<div id="outputReview" class="row col-lg-9"></div>
-	{% include sidebar-stiri-loop.html %}
+	{% include sidebar-general.html %}
 </div>
 <script>
 	
@@ -39,7 +39,7 @@ fetch(url)
 						<p>${prod.descriere}</p>
 						<hr>
 						<a href="${prod.link}"><button>Citeste</button></a>
-						<div class="author-thumb" style="background-image: url(/assets/images/reviews/author.png); background-size: cover;"></div>
+						<div class="author-thumb" style="background-image: url(/assets/images/reviews/author.png);"></div>
 					</div>
 					</div>
 				</div>

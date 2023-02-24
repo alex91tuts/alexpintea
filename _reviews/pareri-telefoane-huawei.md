@@ -8,6 +8,7 @@ categorie-review: UTIL
 tags: ['huawei', '', '']
 nume: Huawei
 scoreb: no
+topic: review
 
 opt:
   - name: design
