@@ -1,12 +1,12 @@
 ---
-title: Riflaj | Cum sa iti faci singur si ieftin
+title: Riflajul | Cum sa iti faci singur si ieftin | Trend design interior
 image_path: riflaj/main.jpg
 meta_image: assets/images/stiri/riflaj/main.jpg
 layout: stiri
 date: 2022-01-05
 categorie: STIRI
 tags: ['Riflaj', 'DIY', 'Lemn']
-nume: Riflaj | Cum sa iti faci singur si ieftin
+nume: Riflaj | Cum sa iti faci singur si ieftin | Trend design interior
 
 
 scor-intro: Ultimul trend în amenajarea spatiilor interioare este riflajul decorativ. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și prinde un aer modern.
