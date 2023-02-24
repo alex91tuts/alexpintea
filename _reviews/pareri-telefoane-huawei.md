@@ -78,14 +78,14 @@ Google s-a conformat cu sancțiunea pe care Statele Unite al Americii a impus-o 
 
 Problema ar putea apărea pentru viitor. Cei de la Huawei doresc să continue cu Android, însă, dacă nu va fi posibil compania are și un plan B. Planul B se aplică doar dispozitivelor viitoare și este ceva la care Huawei lucrează de ceva timp și nu ca urmare a sancțiunilor impuse de SUA.
 
-Conform datelor prezentate de CNN, compania estimează venituri din vânzări de peste 122 miliarde de doalri, o creștere cu 18% față de anul 2018 dar mai mică decât cea așteptată. 
+Conform datelor prezentate de CNN, compania estimează venituri din vânzări de peste 122 miliarde de dolari, o creștere cu 18% față de anul 2018 dar mai mică decât cea așteptată. 
 
 ---
 ## Cele mai bune telefoane Huawei in 2019
 
 Huawei lansează de la smartphone-uri ieftine, precum seria Smart până la flagship-uri premium precum Mate 20 Pro sau Huawei P30 Pro. 
 
-Din cauza diversității mari de telefoane poate fi dificil să îți alegi unul. Cu ajutorul liste de mai jos, sperăm să te ajutăm să iei o decizie informată.
+Din cauza diversității mari de telefoane poate fi dificil să îți alegi unul. Cu ajutorul listei de mai jos, sperăm să te ajutăm să iei o decizie informată.
 
 ### Lista pe scurt
 
