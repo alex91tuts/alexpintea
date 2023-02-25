@@ -23,7 +23,7 @@ date: 19.01.2023
 ### Diferențe
 ---
 
-<span class="drop">A</span>uzim adesea în lumea virtuală aceste denumiri. Facem vreo diferență între ele? Există? Oarecum...
+<span class="drop-caps">A</span>uzim adesea în lumea virtuală aceste denumiri. Facem vreo diferență între ele? Există? Oarecum...
 
 În general ca și bază cele două sunt la fel. Ce diferă însa este scopul fiecăruia. Un <strong>Website</strong> are de regulă următoarele caracteristici:
 
@@ -57,7 +57,7 @@ Deși cele două sunt în general utilizate cu scopuri diferite, o abordare prac
 
 <img src="/assets/images/internet/faciunsite/make-a-blog.jpg" alt="{{ page.title }}">
 
-<span class="drop">U</span>na dintre concepțiile greșite legate de începerea unui blog este că trebuie să fii un scriitor foarte bun pentru a avea succes. Nimic mai greșit. Oamenii citesc bloguri pentru a vedea o perspectivă personală asupra unui subiect. Așadar, majoritatea celor care scriu bloguri adoptă un stil informal și conversațional.
+<span class="drop-caps">U</span>na dintre concepțiile greșite legate de începerea unui blog este că trebuie să fii un scriitor foarte bun pentru a avea succes. Nimic mai greșit. Oamenii citesc bloguri pentru a vedea o perspectivă personală asupra unui subiect. Așadar, majoritatea celor care scriu bloguri adoptă un stil informal și conversațional.
 
 Mai mult de atât, nu trebuie să fii un expert în topicul pe care l-ai ales. De exemplu, cei care citesc un blog despre bucătărie, nu vor să vadă un text elaborat de oamenii de știință, vor sa vadă experiența unui om care a gătit cu adevarat ceva, inclusiv cu greșelile pe care le-a făcut.
 
@@ -77,7 +77,7 @@ Probabil te întrebi: de ce sa depun efortul de a crea un blog? Uite de ce:
 
 Și am și o veste bună! În ultimii ani, internetul a început să explodeze. Tot mai mulți oameni sunt acum online ceea ce înseamna, o creștere a numărului de potențiali cititori. Deci, dacă vrei să începi un blog personal sau să creezi unul pentru afacerea ta, acum este cel mai bun moment.
 
-## CUM SA FACI UN SITE - în câțiva pași simpli?
+## CUM SA FACI UN SITE - în câțiva pași simpli
 ---
 
 1. Decide topicul blogului;
@@ -91,7 +91,7 @@ Probabil te întrebi: de ce sa depun efortul de a crea un blog? Uite de ce:
 
 <img src="/assets/images/internet/faciunsite/despre-ce-vrei-sa-scrii.jpg" alt="{{ page.title }}">
 
-<span class="drop">D</span>acă faci parte dintr-o companie sau organizație, probabil vei scrie  despre produsele/ serviciile pe care compania ta le oferă sau cauza pentru care militezi.
+<span class="drop-caps">D</span>acă faci parte dintr-o companie sau organizație, probabil vei scrie  despre produsele/ serviciile pe care compania ta le oferă sau cauza pentru care militezi.
 
 Dacă ești independent, ai mult mai multă flexibilitate în alegerea unui subiect. Ia în considerare următoarele aspecte:
 
@@ -105,7 +105,7 @@ Dacă ești independent, ai mult mai multă flexibilitate în alegerea unui subi
 
 <img src="/assets/images/internet/faciunsite/platforma.jpg" alt="{{ page.title }}">
 
-<span class="drop">W</span>ordpress.com? Wordpress.org? Wix? Weebly? Blogger? Joomla? Ce sa alegi?
+<span class="drop-caps">W</span>ordpress.com? Wordpress.org? Wix? Weebly? Blogger? Joomla? Ce sa alegi?
 
 Înainte să ne apucăm de lista de mai sus, ar trebui să decidem caracteristicile principale pe care am vrea să ni le ofere platforma.
 
@@ -150,7 +150,7 @@ WordPress.org este gratuit însa va fi nevoie să achiziționezi un nume de dome
 ## Găzduire și domeniu
 ---
 
-<span class="drop">C</span>ât de mult trebuie să meditezi înainte de a alege un nume de domeniu? Este oare atât de importat. Dacă site-ul tău este unul de calitate oamenii vor îl vor vizita indiferent de numele acestuia, nu? Hmm, nu chiar.
+<span class="drop-caps">C</span>ât de mult trebuie să meditezi înainte de a alege un nume de domeniu? Este oare atât de importat. Dacă site-ul tău este unul de calitate oamenii vor îl vor vizita indiferent de numele acestuia, nu? Hmm, nu chiar.
 
 Numele domeniului este un element crucial pentru succesul site-ului tău. Să vedem de ce:
 
@@ -163,7 +163,7 @@ Numele domeniului este un element crucial pentru succesul site-ului tău. Să ve
 
 <img src="/assets/images/internet/faciunsite/alege-domeniu.jpg" alt="{{ page.title }}">
 
-<span class="drop">I</span>ată câteva principii după care să te ghidezi atunci când trebuie să-ți alegi domeniul:
+<span class="drop-caps">I</span>ată câteva principii după care să te ghidezi atunci când trebuie să-ți alegi domeniul:
 
 * simplu: asta înseamnă că trebuie să îl păstrezi scurt, ușor de scris, ușor de memorat și ușor de pronunțat.
 * inteligent: încercă să găsești un nume care să reprezinte esența site-ului tău și în același timp să sune bine pentru a fi ușor de memorat.
@@ -172,14 +172,14 @@ Numele domeniului este un element crucial pentru succesul site-ului tău. Să ve
 
 Ai putea să petreci ore sau să iți alegi numele de domeniu în câteva minute, nu contează. Încearcă să respecți principiile enumerate mai sus. Vrei să fie unic, memorabil, să îți reprezinte brand-ul și să îi inspire pe vizitatorii tăi.
 
-### Cum alegi serverul (găzduire)?
+### Alege serverul (gazduirea)
 ---
 
 <img src="/assets/images/internet/faciunsite/host.jpg" alt="{{ page.title }}">
 
 Sunt foarte mulți factori care determină dacă un server este bun sau nu. Procesul poate fi copleșitor pentru un începător însă voi enumera câteva principii importante. De asemenea, voi  face și un articol separat pe această temă.
 
-#### Să presupunem că ești nou în branșă!
+#### Să presupunem că ești nou în branșă
 ---
 
 Dacă ești la primul tău site aproape întotdeauna este o idee bună să achiziționezi găzduire de tip shared. Acest tip de găzduire este ieftin, ușor de întreținut și suficient pentru pentru majoritatea site-urilor. În același timp, îți permite să te concentrezi pe construirea site-ului fără să fie nevoie să te îngrijorezi de task-uri de tip server precum mentenanța bazei de date sau implementarea unui sistem de securitate.
@@ -232,7 +232,7 @@ Ca și începător este de asemenea indicat să cumperi domeniul și hostul de l
 ## Incepe cu WordPress
 ---
 
-<span class="drop">N</span>e-am hotărât la WordPress, ne-am luat domeniu și gazdă, acum putem începe să lucrăm la site. Considerăm că gazda ne oferă posibilitatea să instalăm WordPress.org cu un singur click pe domeniul ales de noi.
+<span class="drop-caps">N</span>e-am hotărât la WordPress, ne-am luat domeniu și gazdă, acum putem începe să lucrăm la site. Considerăm că gazda ne oferă posibilitatea să instalăm WordPress.org cu un singur click pe domeniul ales de noi.
 
 <img src="/assets/images/internet/faciunsite/wordpress-instaler.jpg" alt="{{ page.title }}">
 
@@ -262,7 +262,7 @@ Acum ai o temă instalată și poți începe să scrii pe noul tău site. Între
 ## Postează primul tău blog
 ---
 
-<span class="drop">A</span>cum totul este pregătit și poți începe să lucrezi la aspectul site-ului  și să postezi primul tau Blog.
+<span class="drop-caps">A</span>cum totul este pregătit și poți începe să lucrezi la aspectul site-ului  și să postezi primul tau Blog.
 
 În mod implicit tema va avea următoarele setări. Pagina de ACASĂ este setată să arate ultimele tale bloguri. Acest aspect poate fi schimbat din setări, dacă de exemplu vrei ca pagina de acasă să fie una personalizată de tine. La început poți lăsa setările implicite și după ce adaugi conținut, să lucrezi și la arhitectura site-ului tău.
 

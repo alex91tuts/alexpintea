@@ -5,7 +5,7 @@
 		<hr>
 	{% assign topic = site.internet  %}
 	{% for internet in topic reversed %}
-	<a href="{{ review.url }}">
+	<a href="{{ internet.url }}">
 	<div class="small-post">
 	<img class="small-post-image" src="{{ site.url }}{{ internet.imagesidebar }}">
 	{{ internet.title }}
@@ -41,6 +41,7 @@
     font-weight: 500;
 		font-style: italic;
 		color: black;
+		line-height: 19px;
 	}
 	.small-post-image {
 		max-width: 25%;
