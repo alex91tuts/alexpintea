@@ -1,7 +1,6 @@
 ---
 title: Riflajul | Cum sa iti faci singur si ieftin | Trend design interior
-image_path: riflaj/main.jpg
-meta_image: assets/images/stiri/riflaj/main.jpg
+image_path: stiri/riflaj/main.jpg
 layout: stiri
 date: 2022-01-05
 categorie: STIRI

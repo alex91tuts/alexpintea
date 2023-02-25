@@ -78,7 +78,7 @@ Trotinetele electrice sunt puțin mai mari și mai grele decât alte tipuri de t
 
 Principalul dezavantaj al unui scuter mare este că este mai greu de depozitat și transportat. Dacă sunteți în căutarea unui scuter subțire, ușor, ușor de luat în transportul public, Inokim Ox Super nu este pentru dvs.
 
-Însă dimensiunea mare a trotinetei are și o serie de beneficii, în special puntea largă. Acesta este suficient de lată pentru a găzdui o persoană mare cu picioarele apropiate, fără ca degetele de la picioare să atârnă de margine – ceva ce nu se poate spune despre multe trotinete electrice.
+Însă dimensiunea mare a trotinetei are și o serie de beneficii, în special puntea largă. Acesta este suficient de lată pentru a găzdui o persoană mare cu picioarele apropiate, fără ca degetele de la picioare să depașească marginea – ceva ce nu se poate spune despre multe trotinete electrice.
 
 De semenea, dimensiunea mare a acesteia creează o senzație de stabilitate și forță în timpul mersului, iar ghidonul lat oferă destul  spațiu pentru frâne și alte accesorii.
 

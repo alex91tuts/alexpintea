@@ -1,7 +1,6 @@
 ---
 title: Galaxy s10 Lite, Galaxy Note 10 Lite Pareri | Specificatii | Culori 
-image_path: s10lite-note10lite/main.jpg
-meta_image: assets/images/reviews/s10lite-note10lite/main.jpg
+image_path: stiri/s10lite-note10lite/main.jpg
 layout: stiri
 date: 2020-01-04
 categorie: STIRI
