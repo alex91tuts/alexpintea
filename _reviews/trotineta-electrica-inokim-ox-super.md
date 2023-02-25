@@ -24,7 +24,7 @@ opt:
     value: 85	
 
 
-scor-intro: Inokim Ox Super este o trotinetă electrică uimitore care arată grozav și are o mulțime de caracteristici interesante.
+scor-intro: Inokim Ox Super este o trotinetă electrică uimitoare care arată grozav și are o mulțime de caracteristici interesante.
 
 description: Trotineta electrică Inokim Ox Super este un scuter electric uimitor, cu câteva caracteristici cu adevărat minunate, care poate face față tuturor provocărilor la care îl supuneți.
 
