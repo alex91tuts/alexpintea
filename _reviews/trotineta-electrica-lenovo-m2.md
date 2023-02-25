@@ -40,7 +40,7 @@ key:
   - Ușor pliabilă
   - Display LED
 
-verdict: Trotineta electrică Lenovo M2 este o opțiune pentru cei care își doresc un scuter de calitate fără să cheltuiască mulți bani. M2 are o mulțime de caracteristici care îl scoate în evidență în competiția cu ceilalți concurenții săi, ceea ce îl face o alegere excelentă pentru oricine caută un scuter electric de calitate.
+verdict: Trotineta electrică Lenovo M2 este o opțiune pentru cei care își doresc un scuter de calitate fără să cheltuiască mulți bani. M2 are o mulțime de caracteristici care îl scoate în evidență în competiția cu ceilalți concurenți, ceea ce îl face o alegere excelentă pentru oricine caută un scuter electric de calitate.
 
 colors: ['red', 'green', 'blue', 'orange']
 
@@ -119,10 +119,6 @@ Scuterele entry-level au o problemă comună cu urcarea dealurilor sau drumurilo
 ### Frânarea
 
 Atât frânele din față, cât și cele din spate au o putere de oprire bună. Venind cu viteză maximă (25 km/h), după ce ai apăsat frâna, există o distanță frânare de aproximativ 3 metri și jumătate, ceea ce nu este deloc rău. Singurul moment în care anvelopele ar derapa ar fi dacă ai trage frâna prea brusc sau dacă drumul este puțin umed. Ambele condiții sunt de înțeles. Dar dacă vrei să fii elegant, derapajul intenționat este de asemenea posibil.
-
-
----
-## Note despre conduita
 
 ---
 ## Lenovo vs. Xiaomi
