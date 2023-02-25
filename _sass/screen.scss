@@ -306,17 +306,17 @@ License: https://www.wowthemes.net/freebies-license/
 }
  @media (max-width:999px) {
      .alertbar {
-         position:relative !Important;
-         margin-bottom:20px;
-         margin-top:20px;
-         box-shadow:none !Important;
-         padding-right: 14px !Important;
+         position: relative;
+         margin-bottom: 20px;
+         margin-top: 20px;
+         box-shadow: none;
+         padding-right: 14px;
     }
      #comments {
          margin-right: 15px;
      }
      .jumbotron.fortags {
-        margin-bottom:0 !Important;
+        margin-bottom: 0px;
     }
      .alertbar form {
         margin-top:20px;
@@ -325,12 +325,12 @@ License: https://www.wowthemes.net/freebies-license/
          display: block;
      }
      .alertbar input[type="submit"] {
-         border-radius:3px !Important;
+         border-radius:3px;
      }
      .alertbar input[type="email"] {
-        margin-right:0px !Important;
+        margin-right:0px;
         display:block;
-        border-right:1px solid #ddd !Important;
+        border-right:1px solid #ddd;
         margin-bottom:10px;
     }
      .jumbotron {

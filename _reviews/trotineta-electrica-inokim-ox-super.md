@@ -11,6 +11,8 @@ scoreb:
 topic: review
 youtubeId: ScGJ7IlyCGQ
 
+author: totredus
+
 opt:
   - name: viteza maxima
     value: 90
