@@ -4,7 +4,7 @@ image_path: pareri-huawei/logo-huawei.jpg
 meta_image: assets/images/reviews/pareri-huawei/logo-huawei.jpg
 layout: review
 date: 2020-01-06
-categorie-review: UTIL
+categorie-review: SMARTPHONE
 tags: ['huawei', '', '']
 nume: Huawei
 scoreb: no

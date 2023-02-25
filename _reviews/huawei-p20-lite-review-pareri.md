@@ -4,7 +4,7 @@ image_path: huawei-p20-lite.jpg
 meta_image: assets/images/reviews/huawei-p20-lite.jpg
 layout: review
 date: 2019-05-13
-categorie-review: TELEFON
+categorie-review: SMARTPHONE
 tags: ['huawei', 'p20 lite', '2019']
 nume: Huawei P20 Lite
 topic: review

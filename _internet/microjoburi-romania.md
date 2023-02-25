@@ -20,7 +20,7 @@ date: 22.02.2023
 ## Microjoburi
 ---
 
-<span class="drop">M</span>icrojoburile, așa cum sugerează și construcția cuvântului, sunt sarcini de rezolvat, de obicei de mică amploare și plătite cu o sumă relativ mică de bani. În loc de job ar fi mai indicată utilizarea cuvântului sarcină, deoarece primul ar putea implica angajarea sau semnarea unui contract.
+<span class="drop-caps">M</span>icrojoburile, așa cum sugerează și construcția cuvântului, sunt sarcini de rezolvat, de obicei de mică amploare și plătite cu o sumă relativ mică de bani. În loc de job ar fi mai indicată utilizarea cuvântului sarcină, deoarece primul ar putea implica angajarea sau semnarea unui contract.
 
 Domeniile în care poți activa sunt vaste și printre ele se numără:
 
@@ -33,7 +33,7 @@ Domeniile în care poți activa sunt vaste și printre ele se numără:
 ## Microjoburi în Romania
 ---
 
-<span class="drop">D</span>in păcate în Romania nu există o platformă avansată care să ofere atât posibilitatea de a câștiga bani prestatorilor cât și de a satisface nevoile cumpărătorilor. De ce? Deoarece nivelul pieței în România nu este încă destul de ridicat.
+<span class="drop-caps">D</span>in păcate în Romania nu există o platformă avansată care să ofere atât posibilitatea de a câștiga bani prestatorilor cât și de a satisface nevoile cumpărătorilor. De ce? Deoarece nivelul pieței în România nu este încă destul de ridicat.
 
 Astfel, dezvoltarea și susținerea unei asemenea platforme aduce cu sine costuri care nu ar fi acoperite de eventualele comisioane.
 
@@ -47,7 +47,7 @@ De asemenea, platforma de plăți cere comision, un certificat SSL profesional e
 ## Apelam la marile platforme
 ---
 
-<span class="drop">N</span>e putem folosi de puterea [Fiverr](https://track.fiverr.com/visit/?bta=25034&brand=fiverrcpa). Dacă te pricepi să faci anumite lucruri pe care alte persoane le-ar putea găsi valoroase, atunci începe să câștigi bani online pe această platformă.
+<span class="drop-caps">N</span>e putem folosi de puterea [Fiverr](https://track.fiverr.com/visit/?bta=25034&brand=fiverrcpa). Dacă te pricepi să faci anumite lucruri pe care alte persoane le-ar putea găsi valoroase, atunci începe să câștigi bani online pe această platformă.
 
 <Conceptul este simplu. Oferă-ți serviciul pentru 5$, primește comenzi, du-le până la capăt și ia banii. 5$ este cea mai mică sumă pentru un GIG. Poți avea prețuri de mii de dolari în funcție de serviciul pe care îl oferi.
 
@@ -91,7 +91,7 @@ Fiecare nivel vine cu beneficii legate de numărul de microjoburi pe care le po�
 ## Românii pe Fiverr
 ---
 
-<span class="drop">E</span>xistă și o mică comunitate de români pe Fiverr care fac servicii atât în limba română cât și în limba engleză, însă e destul de greu să îi identifici pe ai noștri.
+<span class="drop-caps">E</span>xistă și o mică comunitate de români pe Fiverr care fac servicii atât în limba română cât și în limba engleză, însă e destul de greu să îi identifici pe ai noștri.
 
 Dacă încă nu ai un cont, nu mai aștepta! Intră pe Fiverr, fă-ți unul și începe să faci bani online.
 
@@ -139,7 +139,7 @@ Mai departe, spor la TREABĂ!!!
 ## Față în față cu profesioniștii
 ---
 
-<span class="drop">F</span>iverr este un loc unde cumpărătorii business caută în permanență servicii profesionale. Pentru a satisface aceste nevoi cei de la Fiverr au lansat un program numit Fiverr Pro. Așadar, pentru un microjob care în mod normal ar costa 5$ poți primi peste 100$ dacă te încadrezi în categoria grea.
+<span class="drop-caps">F</span>iverr este un loc unde cumpărătorii business caută în permanență servicii profesionale. Pentru a satisface aceste nevoi cei de la Fiverr au lansat un program numit Fiverr Pro. Așadar, pentru un microjob care în mod normal ar costa 5$ poți primi peste 100$ dacă te încadrezi în categoria grea.
 
 Avantajul major al programului este că te pune în contact cu cei mai de seamă cumpărători. Deci, un nou canal de dezvoltare ce te poate purta pe valurile succesului.
 
@@ -150,7 +150,7 @@ Această oportunitate extraordinară este o mână întinsă vânzătorilor care
 ## Doar cateva categorii disponibile
 ---
 
-<span class="drop">Î</span>n momentul de față nu toate categoriile sunt disponibile. Așadar, dacă pasiunile tale se încadrează printre cele de mai jos, ești cu un pas mai în față:
+<span class="drop-caps">Î</span>n momentul de față nu toate categoriile sunt disponibile. Așadar, dacă pasiunile tale se încadrează printre cele de mai jos, ești cu un pas mai în față:
 
 * design grafic;
 * marketing digital;
@@ -192,7 +192,7 @@ Cam aste este tot. Pe parcursul câtorva zile, cei de la Fiverr vor analiza date
 ## Dacă ai fost refuzat
 ---
 
-<span class="drop">D</span>acă nu ai avut succes de prima dată Fiverr îți dă posibilitatea să reaplici. Îți poți îmbunătăți portofoliul, să te descrii mai bine și să aplici din nou.
+<span class="drop-caps">D</span>acă nu ai avut succes de prima dată Fiverr îți dă posibilitatea să reaplici. Îți poți îmbunătăți portofoliul, să te descrii mai bine și să aplici din nou.
 
 De asemenea, ei recomandă să îți faci și un profil normal, să îți faci un portofoliu și să livrezi servicii foarte bune. Astfel, crești șansele de a avea o succes în a deveni vânzător profesionist.
 

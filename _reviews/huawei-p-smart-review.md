@@ -4,7 +4,7 @@ image_path: psmart/psmart-main.jpg
 meta_image: assets/images/reviews/psmart/psmart-main.jpg
 layout: review
 date: 2019-12-31
-categorie-review: TELEFON
+categorie-review: SMARTPHONE
 tags: ['huawei', 'pSmart', '2019']
 nume: Huawei P Smart 2019
 topic: review
