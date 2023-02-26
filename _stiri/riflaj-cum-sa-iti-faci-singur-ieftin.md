@@ -3,7 +3,7 @@ title: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
 image_path: stiri/riflaj/main.jpg
 layout: stiri
 date: 2022-02-26
-categorie: STIRI
+categorie: DESIGN INTERIOR
 tags: ['Riflaj', 'DIY', 'Lemn']
 nume: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
 

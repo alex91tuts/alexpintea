@@ -8,7 +8,7 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-<div class="container review-cont" itemscope itemtype="http://schema.org/Review">
+<div class="container review-cont">
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}/assets/images/{{ page.image_path }}"></meta>
 <div id="top-featured" class="banner-review row" style="background-image:url({{ site.url }}/assets/images/{{ page.image_path }}); background-size: cover; background-position: center;">
@@ -51,7 +51,7 @@ post_class: post-template
  </div>
 <div id="bottom" class="col-12 order-last">
 </div>
-		{% include sidebar.html %}
+		{% include sidebar-stiri-loop.html %}
 </div>
 		<!-- End Post -->
 </div>

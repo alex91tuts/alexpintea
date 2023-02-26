@@ -135,5 +135,12 @@ $(document).ready(function() {
 });
 
 
+/*Scroll to top when category or tag click*/
+function scrollToTop() {
+window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+})
+}
 
 

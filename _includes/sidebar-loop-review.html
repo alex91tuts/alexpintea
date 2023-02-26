@@ -21,7 +21,7 @@
 		<hr>
 	{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
 	{% for item in cat reversed %}
-	<button class="btn-categ-rev" onclick="categorie = '{{ item }}';getFilters();">
+	<button class="btn-categ-rev" onclick="categorie = '{{ item }}';getFilters();scrollToTop();">
 		{{ item }}
 		</button>
 	<hr class="line-sub-cat">
@@ -52,7 +52,7 @@
 <h5 class="title-section-sidebar">TAGURI</h5>
 	<div class="tagcloud">
 	{% for tag in tags offset:1 %}
-			<button class="taglink" onclick="categorie = '{{ tag | upcase }}';getFilters();">{{ tag }}</button>
+			<button class="taglink" onclick="categorie = '{{ tag | upcase }}';getFilters();scrollToTop();">{{ tag }}</button>
 	{% endfor%}
 	</div>
 </div>
@@ -75,9 +75,7 @@
 </style>	
 	
 	
-	
-
-	</div>	
+</div>	
 </div>
 
 <style>

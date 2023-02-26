@@ -7,7 +7,7 @@
 	{% for stire in site.stiri reversed %}
 	<a href="{{ stire.url }}">
 	<div class="small-post">
-	<img class="small-post-image" src="{{ site.url }}/assets/images/stiri/{{ stire.image_path }}">
+	<img class="small-post-image" src="{{ site.url }}/assets/images/{{ stire.image_path }}">
 	{{ stire.title }}
 	</div>
 	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> totredus </span>
