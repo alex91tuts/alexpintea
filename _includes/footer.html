@@ -57,15 +57,6 @@
         $('body .h17-main-nav').toggleClass("show");
     });
 	
-	$('body').ihavecookies({
-  		title: "Cookie-uri",
-		message: "Acest website folosește cookie-uri pentru a se asigura că îți oferim cea mai bună experiență.",
-		link: "/politica-cookie.html",
-		delay: 2000,
-		expires: 30,
-		acceptBtnLabel: 'Acceptă',
-		 moreInfoLabel: 'Mai multe'
-});
 			
 		$(function() {
         $('.lazy').Lazy();
@@ -108,7 +99,11 @@ else if ($(window).width() < 990) {
 }).call(this);
 /////////////////////////////////////////////
 </script>
-    
+ 
+///////////////////////////////////////
+// Cookie consent/////
+///////////////////////////////////////////
+{% include cookie-consent.html %}
 
 
 </body>
