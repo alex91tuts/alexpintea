@@ -9,6 +9,8 @@ tags: ['huawei', 'premium', '2019']
 nume: Huawei P30 Pro
 scoreb:
 topic: review
+author: Tudor Stan
+rating-value: 9.1
 
 opt:
   - name: design

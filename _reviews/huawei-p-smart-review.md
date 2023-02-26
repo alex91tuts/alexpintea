@@ -8,6 +8,8 @@ categorie-review: SMARTPHONE
 tags: ['huawei', 'pSmart', '2019']
 nume: Huawei P Smart 2019
 topic: review
+author: Tudor Stan
+rating-value: 7.8
 
 opt:
   - name: design

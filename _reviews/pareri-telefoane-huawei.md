@@ -9,7 +9,8 @@ tags: ['huawei', '', '']
 nume: Huawei
 scoreb: no
 topic: review
-
+author: Tudor Stan
+rating-value: 7.8
 opt:
   - name: design
     value: 70

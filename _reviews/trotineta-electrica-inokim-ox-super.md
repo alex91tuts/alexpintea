@@ -10,7 +10,6 @@ nume: Inokim OX Super
 scoreb:
 topic: review
 youtubeId: ScGJ7IlyCGQ
-
 author: Tudor Stan
 rating-value: 8.6
 opt:

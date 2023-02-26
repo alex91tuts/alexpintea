@@ -10,7 +10,8 @@ nume: Lenovo M2
 scoreb:
 topic: review
 youtubeId: IUVDjjzfjWM
-
+author: Tudor Stan
+rating-value: 8.9
 opt:
   - name: design
     value: 90
