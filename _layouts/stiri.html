@@ -56,7 +56,65 @@ post_class: post-template
 		<!-- End Post -->
 </div>
 <style>
+	.img-pret {
+		text-align: center;
+		padding: 5px;
+	}
+	.img-pret img {
+		max-height: 54px;
+	}
+	.div-pret {
+		text-align: center;
+		padding: 0;
+	}
+	.btn-preturi {
+		position: absolute;
+    left: 0;
+    bottom: 0;
+    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    transition: all 1s;
+		border-radius: 0px 0px 3px;
+	}
+	.btn-preturi:hover {
+		letter-spacing: 2px;
+		font-weight: 900;
+		transition: all 1s;
+		transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+		color: white !important;
+	}
+	.p-new-price {
+		font-size: 15px;
+	}
+	.price-box {
+		box-shadow: 0 0 14px -4px lightgrey;
+		border: solid 1px #d3d3d375;
+		border-radius: 3px;      
+		}
+	.logo-shop {
+		max-height: 30px;
+		max-width: 75%;
+	}
+	.old-p {
+		position: absolute;
+    font-size: 10px;
+    top: 19px;
+    text-decoration: line-through red;
+    left: 0;
+    right: 0;
+    margin: auto;
+	}
+	@media (max-width: 570px) {
+		.old-p {
+			top: 19px;
+		}
+	}
 	
+		
 	#continut h2 {
 		margin-top: -85px; 
 		padding-top: 85px; 

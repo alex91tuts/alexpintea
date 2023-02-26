@@ -13,12 +13,27 @@ description: Ultimul trend în amenajarea spatiilor interioare este riflajul dec
 
 colors: ['red', 'green', 'blue', 'orange']
 
+
+
 ---
 _Printre ultimele trenduri în amenajarea spatiilor interioare este riflajul decorativ test. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și capătă un aer modern._
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic1.jpg"
-     alt="\{{ page.title }}"
-     style="float: left; margin-right: 10px; margin-bottom: 10px;" />
+alt="\{{ page.title }}"
+style="float: left; margin-right: 10px; margin-bottom: 10px;" />
+
+---
+<!-- Oferta Magazin-->
+<div style="padding: 10px" class="col-12">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Riflaje MDF ieftine</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11487473" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<!-- Sfarsit-->
 
 ---
 ## RIFLAJUL - o istorie lungă
@@ -34,7 +49,7 @@ Acestea oferă un contrast interesant între design-urile tradiționale și elem
 În general, panourile decorative de tip riflaj devin rapid una dintre cele mai populare alegeri în rândul designerilor de interior datorită versatilității, unicității și capacității lor de a aduce interes vizual în orice spațiu, fără a fi prea invadatoare sau distrage atenția de la alte elemente din atractivitatea estetică generală a camerei.
 
 ---
-## De ce sunt asa de populare?
+## De ce sunt asa de populare
 
 <span class="drop-caps">N</span>u este de mirare că decorațiunile cu șipci /lamele nu s-au demodat niciodată. În unele locuri, acestea își recâștigă popularitatea. Ele pot fi găsite împodobind fronturi întregi de bucătărie, elemente de cameră sau piese de mobilier. Cele cu curbe sunt și mai pronunțate din cauza jocului de lumini și umbre. Le găsești și pe bufete sau mici piese de mobilier.
 
@@ -77,7 +92,8 @@ Instalarea șipcilor de lemn pe pereții tăi este un proces simplu care poate f
 
 Dacă intenționați să instalați singur, asigurați-vă că luați măsuri de siguranță, urmați procedurile corecte și consultați instrucțiunile producătorului. Vizionarea videoclipurilor care ilustrează procesul poate fi de asemenea utilă.
 
-## Cum să-ți faci singur riflaj din lemn?
+---
+## Fă singur riflaj din lemn
 
 Cel mai dificil este să găsești șipcile din lemn. De obicei acestea se regăsesc la magazinele de bricolaj în diferite dimensiuni, materiale și prețuri. Desigur, există și alte surse poate mai exclusiviste de unde puteți comanda lemnul. Avantajul magazinelor de bricolaj este că puteți merge personal și alege bucată cu bucată.
 
@@ -110,18 +126,36 @@ Unul dintre cele mai mari avantaje ale MDF-ului față de produsele din lemn mas
 
 Atunci când este etanșat corespunzător cu vopsea de grund sau foi laminate, MDF-ul poate fi folosit și în exterior fără teama de deteriorare cauzată de diferite elemente datorită proprietăților sale de rezistență. Fabricat de obicei din materiale reciclate, cum ar fi așchii de rumeguș sau deșeuri de pastă de hârtie din alte procese de fabricație; este, de asemenea, ecologic!
 
-## Cum să-ți faci singur riflaj din MDF sau PAL?
+---
+## Fă singur riflaj din MDF sau PAL?
 
 MDF-ul vine cu garanția că este drept. Așadar, șipcile obținute prin debitarea unei plăci ar trebui să fie perfect drepte și să nu mai întâlnim aceleasi probleme ca în situația lemnului. Recomamndat este ca debitarea să fie realizată cu un circular special care fie este atașat unor șine, fie au o punte mobilă și au un calculator în spate. Astfel ne asigurăm că toate lamelele sunt perfect drepte. 
 
 Pentru realizarea unui riflaj DIY (în regie proprie), putem utiliza numai MDF brut. 
 
-- MDF-ul brut se poate debita în șipci și se poate prelucra exact ca lemnul. În mod normal, acesta se vopsește sau se înfoliază de către firmele specializate. Dar în cazul nostru, unde vrem să economisim jumatate din costuri, avem o singură opțiune și anume, să îl vopsim. Așadar, după ce am obținut lamelele urmărim un tutorial pe youtube despre cum se vopseșt MDF-ul, cumpărăm grund și vopsea și trecem la treabă. Fie vosim lamelă cu lamelă fie le montăm pe perete sau pe placa suport prin metodele descrise la lemn și le vopsim cu totul (inclusiv suportul obținând așadar un riflaj de aceeași culoare). Există de asemenea și soluția frezării CNC a întregii plăci cu formă de riflaj și ulterior vopsirea sau înfolierea acesteia. În concluzie, din MDF brut nu putem obține efecte cu nervuri de lemn decât prin înfoliere.
+- MDF-ul brut se poate debita în șipci și se poate prelucra exact ca lemnul. În mod normal, acesta se vopsește sau se înfoliază de către firmele specializate. Dar în cazul nostru, unde vrem să economisim jumatate din costuri, avem o singură opțiune și anume, să îl vopsim. Așadar, după ce am obținut lamelele urmărim un tutorial pe youtube despre cum se vopseșt MDF-ul, cumpărăm grund și vopsea și trecem la treabă. Fie vosim lamelă cu lamelă fie le montăm pe perete sau pe placa suport prin metodele descrise la lemn și le vopsim cu totul (inclusiv suportul obținând așadar un riflaj de aceeași culoare). Există de asemenea și soluția frezării CNC a întregii plăci cu formă de riflaj și ulterior vopsirea sau înfolierea acesteia. 
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/mdfvopsit.jpg"
 alt="\{{ page.title }}"
-style="float: left; margin-right: 10px; margin-bottom: 10px;" />
+style="float: left; margin-right: 10px; margin-bottom: 10px; width: 100%;" />
 
+În concluzie, din MDF brut nu putem obține efecte cu nervuri de lemn decât prin înfoliere.
+
+Dacă totuși sună mult prea complicat vezi mai jos lamele de MDF înfoliat la un preț foarte bun:
+
+---
+<!-- Oferta Magazin-->
+<div style="padding: 10px" class="col-12">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Riflaje MDF ieftine</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11487473" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<!-- Sfarsit-->
+---
 ### Riflajul din PAL
 
 PAL-ul este realizat din așchii de lemn care au fost tocate fin și amestecate cu lipici sau rășini sintetice. Stratul interior al acestuia este format din particule mai grosiere, în timp ce straturile exterioare sunt netede și formate din particule mai fine.
@@ -210,5 +244,17 @@ După finisare le montăm fie direct pe perete fie pe o placă suport.
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 
+---
+<!-- Oferta Magazin-->
+<div style="padding: 10px" class="col-12">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Riflaje MDF ieftine</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11487473" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<!-- Sfarsit-->
 
 
