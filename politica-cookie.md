@@ -50,7 +50,12 @@ Terții furnizori ai cookie-urilor trebuie să respecte, de asemenea, regulile �
 Aceste cookie-uri pot proveni de la urmatorii terți: Google Analytics, Facebook, Profitshare, 2Performant.
 
 ### **6. Ce cookie-uri sunt folosite prin intermediul acestei pagini de internet:**
-Prin utilizarea/vizitarea paginii de internet pot fi plasate următoarele cookie-uri:
+
+Acest site web este alimentat de Jekyll și Forestry.io și este găzduit pe GitHub și Netlify. Forestry este folosit ca un CMS extern și datele de de trafic sau datele vizitatorilor nu ajung acolo sau la partenerii lor. Cu toate acestea, Github (ca orice companie de găzduire) poate vedea adresele IP de conectare, paginile vizitate etc. ale vizitatorilor. Rețineți că Github nu este cunoscut pentru a profila în mod activ vizitatorii, dar puteți utiliza un VPN pentru a încerca să preveniți acest lucru.
+
+De asemenea, acest site web folosește Google Analytics pentru a colecta date despre utilizatorii săi. Cu toate acestea, am luat toate măsurile necesare pentru a limita puterea Google asupra acestor date. Am configurat Google Analytics pentru a anonimiza adresele IP și a utiliza SSL în orice moment. În plus, am fost de acord cu un Amendamentul privind prelucrarea datelor cu Google. 
+
+Prin utilizarea/vizitarea paginii de internet pot ar mai putea fi plasate următoarele cookie-uri:
 
 * a. Cookie-uri de performanță a paginii de internet;
 * b. Cookie-uri de analiză a utilizatorilor;

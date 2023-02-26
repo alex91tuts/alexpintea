@@ -5,7 +5,30 @@ archive: false
 post_class: post-template
 
 ---
+<script type="application/ld+json">
+	{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  },
+  "description": "{{page.description}}",
+  "name": "{{page.title}}",
+  "image": "{{page.meta_image}}",
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": "{{page.author}}",
+      "datePublished": "{{page.date}}",
+      "reviewBody": "",
+      "name": "{{ page.nume }}",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "{{page.rating-value}}",
+      }
+    },
+  ]
 
+</script>
 <!-- Begin Article
 ================================================== -->
 <div class="container review-cont">
