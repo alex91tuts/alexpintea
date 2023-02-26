@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-	{% for review in site.reviews %}
+	{% for review in site.reviews reversed %}
 	{
 		"titlu": "{{ review.title }}",
 		"data": "{{ review.date | date_to_string }}",
