@@ -7,25 +7,27 @@ post_class: post-template
 ---
 
 <script type="application/ld+json">
-	{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "description": "{{page.description}}",
-  "name": "{{page.title}}",
-  "image": "{{page.meta_image}}",
-  "review": [
-    {
-      "@type": "Review",
-      "author": "{{page.author}}",
-      "datePublished": "{{page.date}}",
-      "reviewBody": "",
-      "name": "{{ page.nume }}",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "{{page.rating-value}}"
-      }
-    }
-  ]
+
+{
+	"@context": "https://schema.org/",
+	"@type": "Product",
+	"name": "{{page.title}}",
+	"image": "{{site.url}}/{{page.meta_image}}",
+	"description": "{{page.description}}",
+	"review": {
+		"@type": "Review",
+		"datePublished": "{{page.date}}",
+    "name": "{{ page.nume }}",
+		"reviewRating": {
+			"@type": "Rating",
+			"ratingValue": "{{page.rating-value}}",
+			"bestRating": "10"
+		},
+		"author": {
+			"@type": "Person",
+			"name": "{{page.author}}"
+		}
+	},
 }
 </script>
 <!-- Begin Article

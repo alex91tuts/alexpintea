@@ -11,7 +11,7 @@ scoreb:
 topic: review
 youtubeId: ScGJ7IlyCGQ
 
-author: totredus
+author: Tudor Stan
 rating-value: 8.6
 opt:
   - name: viteza maxima
