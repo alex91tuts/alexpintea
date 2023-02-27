@@ -8,7 +8,7 @@ tags: ['FIRE', 'BUGET', 'INVESTITII']
 nume: Independenta financiara
 
 
-scor-intro: Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit.
+scor-intro: Independența financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit.
 
 description: Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit
 
