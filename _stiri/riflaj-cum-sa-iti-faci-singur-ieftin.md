@@ -127,7 +127,7 @@ Unul dintre cele mai mari avantaje ale MDF-ului față de produsele din lemn mas
 Atunci când este etanșat corespunzător cu vopsea de grund sau foi laminate, MDF-ul poate fi folosit și în exterior fără teama de deteriorare cauzată de diferite elemente datorită proprietăților sale de rezistență. Fabricat de obicei din materiale reciclate, cum ar fi așchii de rumeguș sau deșeuri de pastă de hârtie din alte procese de fabricație; este, de asemenea, ecologic!
 
 ---
-## Fă singur riflaj din MDF sau PAL?
+## Fă singur riflaj din MDF sau PAL
 
 MDF-ul vine cu garanția că este drept. Așadar, șipcile obținute prin debitarea unei plăci ar trebui să fie perfect drepte și să nu mai întâlnim aceleasi probleme ca în situația lemnului. Recomamndat este ca debitarea să fie realizată cu un circular special care fie este atașat unor șine, fie au o punte mobilă și au un calculator în spate. Astfel ne asigurăm că toate lamelele sunt perfect drepte. 
 
