@@ -21,7 +21,7 @@
 		<hr>
 	{% assign cat = site.stiri | map: 'categorie' | uniq %}
 	{% for item in cat reversed %}
-	<button class="btn-categ-rev" onclick="categorie = '{{ item }}';getFilters();">
+	<button class="btn-categ-rev" onclick="categorie = '{{ item }}';getFilters();scrollToTop();">
 		{{ item }}
 		</button>
 	<hr class="line-sub-cat">

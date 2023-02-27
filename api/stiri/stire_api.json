@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-	{% for stire in site.stiri %}
+	{% for stire in site.stiri reversed %}
 	{
 		"titlu": "{{ stire.title }}",
 		"data": "{{ stire.date | date_to_string }}",
