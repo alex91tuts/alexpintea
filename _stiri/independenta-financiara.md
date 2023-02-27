@@ -1,5 +1,5 @@
 ---
-title: Independenta financiara | Ce inseamna? | Cum se ajunge acolo? 
+title: Independența financiară | Ce inseamnă? | Cum se ajunge acolo? 
 image_path: stiri/independentafinanciara/main.jpg
 layout: stiri
 date: 2022-02-27
