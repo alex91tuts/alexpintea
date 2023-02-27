@@ -6,7 +6,7 @@ descriere:  Cum sa faci un site fără să fii programator? Cu ce să începi? C
 image: /assets/images/internet/faciunsite/main.jpg
 imageloop: /assets/images/internet/faciunsite/main.jpg
 imagesidebar: /assets/images/internet/faciunsite/main.jpg
-
+categorie: INTERNET
 author: "totredus"
 topic: WEBSITE
 lang: ro_RO

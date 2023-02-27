@@ -6,7 +6,7 @@ descriere: Cum se câștigă bani online din microjoburi? Ce platformă să folo
 image: /assets/images/internet/microjoburi/main.jpg
 imageloop: /assets/images/internet/microjoburi/main.jpg
 imagesidebar: /assets/images/internet/microjoburi/main.jpg
-
+categorie: INTERNET
 author: "totredus"
 topic: MICROJOBURI
 lang: ro_RO

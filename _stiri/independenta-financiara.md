@@ -15,6 +15,9 @@ description: Independenta financiara este capacitatea de a te intretine financia
 colors: ['red', 'green', 'blue', 'orange']
 
 ---
+
+{% include investmentcalc.html %}
+
 ## Independenta financiară
 
 _Conceptul de independență financiară devine din ce în ce mai popular pe măsură ce oamenii caută să preia controlul asupra vieții și finanțelor lor. Dar ce înseamnă exact să fii independent financiar?_
@@ -233,11 +236,11 @@ Cu o analiză atentă și o planificare adecvată, totuși, investițiile în im
 
 Este important ca toată lumea să își planifice drumul până la independența financiară, însă în relaitate prea puțini o fac. Pentru a avea succes este deosebit de important să avem un plan detaliat și să îl respectăm pentru a asigura o pensionare confortabilă. Urmând aceste principii, oricine poate economisi pentru pensie și poate menține un fond decent de urgență.
 
-#### DIsciplina financiară 
+#### Disciplina financiară 
 
 Pentru a vă pensiona mai devreme, trebuie să fiți disciplinat cu finanțele și să vă asigurați că câștigați cât mai mulți bani, menținând în același timp cheltuielile scăzute. Acest lucru poate necesita să faceți unele sacrificii în ceea ce privește stilul de viață.
 
-#### Ivestiții înțelepte
+#### Investiții înțelepte
 
 Investiția în diferite instrumente financiare este unul dintre cele mai importante lucruri pe care le poți face pentru a-ți asigura viitorul financiar. Începând devreme și investind un anumit procent din venit în fiecare lună este cea mai bună modalitate de a crește capitalul prpriu și de a obține stabilitate financiară.
 
