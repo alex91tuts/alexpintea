@@ -29,10 +29,10 @@ colors: ['red', 'green', 'blue', 'orange']
   <label for="duration">DURATA (ANI)</label>
   <input type="number" class="form-control" id="duration"/>
 	<div class="row">
-	<div class="col-6" style="display: flex; align-content: center; flex-wrap: wrap;">
+	<div class="col-12 col-lg-6" style="display: flex; align-content: center; flex-wrap: wrap;">
   <button type="submit" class="btn btn-primary" id="submitinv">CALCULEAZA</button>
 	</div>
-	<div class="col-6">
+	<div class="col-12 col-lg-6">
 		<label id="finalValue"></label>
 	</div>
 	</div>
