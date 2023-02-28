@@ -16,8 +16,6 @@ colors: ['red', 'green', 'blue', 'orange']
 
 ---
 
-{% include investmentcalc.html %}
-
 ## Independenta financiară
 
 _Conceptul de independență financiară devine din ce în ce mai popular pe măsură ce oamenii caută să preia controlul asupra vieții și finanțelor lor. Dar ce înseamnă exact să fii independent financiar?_
