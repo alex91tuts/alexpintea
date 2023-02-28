@@ -430,6 +430,47 @@ post_class: post-template
 			margin-bottom: 15px;
 		}
 }
+	
+/* CALCULATOR DE INVESTITII */	
+.h2inv {
+	margin-top: 5px;
+	padding-top: 5px;
+	}
+	
+label, input, h1, button {
+  display: block;
+}
+input {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+table {
+  display: none;
+}
+.forminv {
+	width: 100%;	
+}
+.invh1 {
+  text-align: center;
+  border-bottom: 1px lightgrey solid;
+  margin: 0px;
+  padding: 10px 0px;
+  box-shadow: 0px 1px 1px 0px lightgrey;
+  background-color: white;
+}
+#myChart {
+  display: none;
+}
+.rowinv {
+ max-height: 90vh !important; 
+}
+.panel {
+  background-color: white;
+  border-radius: 2px;
+  box-shadow: 0px 0px 5px 2px lightgrey;
+  padding: 20px;
+  margin: 3vw;
+}
 </style>
 <script>
 let list = ['Scor'],x = [], continut, he, outputList = '', bottom, rect;
@@ -492,6 +533,55 @@ window.onload = getAllHeadings();
 
 window.onbeforeunload = function () {
   window.scrollTo(0, 0);
+}
+
+// Create event listener on submit button CALCULATOR DE INVESTITII
+document.getElementById("submitinv").addEventListener("click", (e) => calculate(e))
+
+// Function to make calculations and build table
+function calculate(e) {
+  e.preventDefault();
+  let labels = [];
+  let balances = [];
+  // Take form input and assign them to variables 
+  const formItems = document.querySelector("form").children;
+  let startingBal = parseInt(formItems[1].value);
+  const expReturn = parseInt(formItems[3].value)/100;
+  const monthlyDep = parseInt(formItems[5].value);
+  const duration = parseInt(formItems[7].value);
+  const monthlyReturn = expReturn/12;
+  
+  if(!startingBal || !expReturn || !monthlyDep || !duration) {
+    return;
+  }
+  
+  // Create formatter for USD
+  const formatter = new Intl.NumberFormat('ro-RO', {
+  style: 'currency',
+  currency: 'RON',
+  minimumFractionDigits: 2
+  })
+  
+  // Loop through items to update starting balance and build out table rows
+  for(let i = 1; i <= duration*12; i++) {
+    startingBal = (startingBal * (1 + monthlyReturn)) + monthlyDep;
+    if(i % 12 === 0) {
+      const year = i/12;
+      balances.push(startingBal.toFixed(2));
+      labels.push(`Year ${year}`);
+    }
+  }
+  
+  // Make table and chart appear and have the total presented at the bottom of the screen
+  if(document.querySelector("#finalValue")) {
+    document.querySelector("#finalValue").innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
+  } else {
+    const finalValue = document.createElement("h3");
+    finalValue.setAttribute("id", "finalValue");
+    finalValue.innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
+    document.querySelector(".chartDiv").appendChild(finalValue);
+  }
+  document.getElementById("submitinv").innerHTML = "Re-Calculează"
 }
 
 </script>
