@@ -39,7 +39,7 @@ Pentru cei care caută o aventură în România, explorarea Canionului Bicazului
 
 Lacul își trage numele de la orașul Bicaz din apropiere, care deține cheile pentru dezvăluirea misterelor din jurul acestui corp de apă remarcabil. Mulți cred că lacul s-a format printr-o mare inundație care a avut loc cu mii de ani în urmă, în timp ce alții atribuie crearea lui unei erupții vulcanice. În ambele cazuri, a fost mult timp o sursă de fascinație și uimire în rândul vizitatorilor care vin din aproape și de departe pentru a-i asista la frumusețe în mod direct direct.
 
-<img src="/assets/images/travel/cheilebicazului/pic3.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/cheilebicazului/pic4.jpg" alt="{{ page.keyword }}">
 
 Lacul Roșu este cunoscut și sub numele de Lacul Ucigaș și există o legendă în spatele acestui nume. Se spune că atunci când panta s-a prăbușit peste satul din apropiere, alunecarea de teren a ucis majoritatea locuitorilor satului, precum și animalele. În apă era atât de mult sânge de la toate victimele, încât lacul a primit numele de Lacul Roșu sau Lacul Ucigaș.
 
