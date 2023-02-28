@@ -6,6 +6,7 @@ date: 2020-01-04
 categorie: STIRI
 tags: ['S10 Lite', 'Samsung', 'Note Lite']
 nume: Galaxy S10 Lite
+author: "Radu"
 
 
 scor-intro: Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020.

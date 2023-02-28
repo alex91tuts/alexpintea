@@ -1,8 +1,9 @@
 ---
 layout: null
 ---
+{% assign stiri = site.stiri | sort: 'date' | reverse %}
 [
-	{% for stire in site.stiri reversed %}
+	{% for stire in stiri  %}
 	{
 		"titlu": "{{ stire.title }}",
 		"data": "{{ stire.date | date_to_string }}",

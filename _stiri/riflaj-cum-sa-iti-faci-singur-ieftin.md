@@ -2,11 +2,11 @@
 title: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
 image_path: stiri/riflaj/main.jpg
 layout: stiri
-date: 2022-02-26
+date: 2023-02-26
 categorie: DESIGN INTERIOR
 tags: ['Riflaj', 'DIY', 'Lemn']
 nume: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
-
+author: "Radu"
 scor-intro: Ultimul trend în amenajarea spatiilor interioare este riflajul decorativ. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și prinde un aer modern.
 
 description: Ultimul trend în amenajarea spatiilor interioare este riflajul decorativ. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și prinde un aer modern.

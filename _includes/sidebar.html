@@ -1,54 +1,43 @@
 <div class="col-lg-4 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
 <div id="sidebar">
 <div class="col review-side">
-    <h5 class="title-section-sidebar">RECENT</h5>
-		<hr>
-	{% assign reviews = site.reviews %}
-	{% for review in site.reviews reversed limit:3 %}
-	<a href="{{ review.url }}">
-	<div class="small-post">
-	<img class="small-post-image" src="{{ site.url }}/assets/images/reviews/{{ review.image_path }}">
-	{{ review.title }}
-	</div>
-	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> {{review.author}} </span>
-	<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ review.date | date_to_string }} </span>
-	<hr class="line-sub">
-	</a>
+  <h5 class="title-section-sidebar">RECENT</h5>
+	<hr>
+	{% assign reviews = site.reviews | sort: 'date' | reverse %}
+	{% for review in reviews limit:2 %}
+		<a href="{{ review.url }}">
+		<div class="small-post">
+		<img class="small-post-image" src="{{ site.url }}/assets/images/reviews/{{ review.image_path }}">
+		{{ review.title }}
+		</div>
+		<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> {{review.author}} </span>
+		<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ review.date | date_to_string }} </span>
+		<hr class="line-sub">
+		</a>
 	{% endfor %}
-	{% assign stiri = site.stiri %}
-	{% for stire in site.stiri reversed limit:3 %}
-	<a href="{{ stire.url }}">
-	<div class="small-post">
-	<img class="small-post-image" src="{{ site.url }}/assets/images/{{ stire.image_path }}">
-	{{ stire.title }}
-	</div>
-	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> {{stire.author}} </span>
-	<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ stire.date | date_to_string }} </span>
-	<hr class="line-sub">
-	</a>
+	{% assign stiri = site.stiri | sort: 'date' | reverse  %}
+	{% for stire in stiri limit:2 %}
+		<a href="{{ stire.url }}">
+		<div class="small-post">
+		<img class="small-post-image" src="{{ site.url }}/assets/images/{{ stire.image_path }}">
+		{{ stire.title }}
+		</div>
+		<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> {{stire.author}} </span>
+		<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ stire.date | date_to_string }} </span>
+		<hr class="line-sub">
+		</a>
 	{% endfor %}
-	{% assign internets = site.internet %}
-	{% for internet in site.internet reversed limit:3 %}
-	<a href="{{ internet.url }}">
-	<div class="small-post">
-	<img class="small-post-image" src="{{ site.url }}{{ internet.image }}">
-	{{ internet.title }}
 	</div>
-	<span class="small-post-meta"><i class="fa fa-user" aria-hidden="true"></i> {{internet.author}} </span>
-	<span class="small-post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ internet.date | date_to_string }} </span>
-	<hr class="line-sub">
-	</a>
-	{% endfor %}
- </div> 
-	<div class="col review-side">
-    <h5 class="title-section-sidebar">CATEGORII</h5>
-		<hr>
-	{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
-	{% for item in cat reversed %}
-	<a href="{{ site.url }}/review" onclick="window.name = '{{ item }}';" style="color: black;">
-		{{ item }}
-	<hr class="line-sub-cat">
-	</a>
+
+<div class="col review-side">
+<h5 class="title-section-sidebar">CATEGORII</h5>
+	<hr>
+		{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
+		{% for item in cat reversed %}
+		<a href="{{ site.url }}/review" onclick="window.name = '{{ item }}';" style="color: black;">
+			{{ item }}
+		<hr class="line-sub-cat">
+		</a>
 	{% endfor %}
 	{% assign cat = site.stiri | map: 'categorie' | uniq %}
 	{% for item in cat reversed %}
@@ -57,16 +46,11 @@
 	<hr class="line-sub-cat">
 	</a>
 	{% endfor %}
-	{% assign cat = site.internet | map: 'categorie' | uniq %}
-	{% for item in cat reversed %}
-	<a href="{{ site.url }}/stiri" onclick="window.name = '{{ item }}';" style="color: black;">
-		{{ item }}
-	<hr class="line-sub-cat">
-	</a>
-	{% endfor %}
- </div>
-	{% include tagcloud.html %}
-	</div>	
+</div>
+		
+		{% include tagcloud.html %}
+	
+</div>	
 </div>
 
 <style>

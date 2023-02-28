@@ -5,11 +5,11 @@ layout: stiri
 image_path: internet/faciunsite/main.jpg
 meta_image: assets/images/internet/faciunsite/main.jpg
 categorie: INTERNET
-author: "totredus"
+author: "Damian"
 lang: ro_RO
 tags: ['website', 'blog', 'online']
 keyword: cum sa faci un site
-date: 19.01.2023
+date: 2023-01-19
 nume: Cum sa faci un site
 
 ---

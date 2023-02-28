@@ -11,7 +11,7 @@ oras: BICAZ
 lang: ro_RO
 keyword: cheile bicazului
 date: 25.01.2023
-tags: ['natura', 'chei', 'lac']
+tags: ['BICAZ', 'chei', 'lac']
 
 ---
 

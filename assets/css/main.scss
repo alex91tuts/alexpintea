@@ -15,6 +15,14 @@
 
 /* Buttons for sorting and filtering
 ---------------------------------------------------------------------- */
+.review-side {
+	height: fit-content;
+	background-color: #f5f5f54d;
+	border-radius: 8px;
+	padding: 15px;
+	box-shadow: 0 0 14px -4px lightgrey;
+	margin-bottom: 20px;
+}
 .select-sort {
 	height: 31px;
     font-weight: 700;
@@ -570,6 +578,10 @@
     }
 	.title-category {
 		opacity: 1 !important;
+	}
+	.wrapper-side {
+		padding-left: 0 !important;
+		margin-bottom: 15px;
 	}
 }
 

@@ -1,8 +1,9 @@
 ---
 layout: null
 ---
+{% assign reviews = site.reviews | sort: 'date' | reverse %}
 [
-	{% for review in site.reviews reversed %}
+	{% for review in reviews %}
 	{
 		"titlu": "{{ review.title }}",
 		"data": "{{ review.date | date_to_string }}",

@@ -6,6 +6,7 @@ date: 2022-02-24
 categorie: STIRI
 tags: ['Nokia', 'C22', 'C32']
 nume: Nokia C22 si C32
+author: "Radu"
 
 
 scor-intro: Nokia anunță că cele două terminale nou adugate în seria C, C22 și C 32, vor avea o autonomie a bateriei de 3 zile.

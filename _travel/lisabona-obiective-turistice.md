@@ -5,14 +5,13 @@ descriere: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase ș
 description: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase și cosmopolitane orașe ale Europei. Orașul atrage o multitudine de turiști din mai multe motive.
 meta_image: assets/images/travel/lisabona/obiective-lisabona-featured.jpg 
 image: /assets/images/travel/lisabona/obiective-lisabona-featured.jpg
-
-
 author: "totredus"
 tara: PORTUGALIA
 oras: LISABONA
 lang: ro_RO
 keyword: lisabona obiective turistice
 date: 29.12.2019
+tags: ['LISABONA', 'chei', 'lac']
 
 ---
 
