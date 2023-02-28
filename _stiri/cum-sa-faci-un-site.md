@@ -1,19 +1,19 @@
 ---
-layout: internet
 title: "Cum sa faci un site? Un ghid complet | Postează primul tău blog"
-descriere:  Cum sa faci un site fără să fii programator? Cu ce să începi? Care este diferența dintre Blog și Site? Răspunsuri potrivite pentru începători găsești aici.
+description:  Cum sa faci un site fără să fii programator? Cu ce să începi? Care este diferența dintre Blog și Site? Răspunsuri potrivite pentru începători găsești aici.
+layout: stiri
+image_path: internet/faciunsite/main.jpg
 meta_image: assets/images/internet/faciunsite/main.jpg
-image: /assets/images/internet/faciunsite/main.jpg
-imageloop: /assets/images/internet/faciunsite/main.jpg
-imagesidebar: /assets/images/internet/faciunsite/main.jpg
 categorie: INTERNET
 author: "totredus"
-topic: WEBSITE
 lang: ro_RO
 tags: ['website', 'blog', 'online']
 keyword: cum sa faci un site
 date: 19.01.2023
-canonical: htttps://totredus.ro/stiri/cum-sa-faci-un-site/
+nume: Cum sa faci un site
+
+---
+
 
 ## Website versus Blog
 ---

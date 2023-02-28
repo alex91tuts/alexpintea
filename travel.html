@@ -1,24 +1,162 @@
 ---
 
 layout: page
-title: Travel
+title: TRAVEL
 permalink: /travel/
 
 ---
 
-<div>
-	
-</div>
+<div><button id='categorie-selectata' style="margin-left: 0;" class="btn btn-dark btn-sm cat-small"></button></div>
 <div class="row reviews-wrapper">
-	<div id="outputReview" class="row col-lg-9">
-		{% for trip in site.travel %}
-		{% include travel.html %}
-	{% endfor %}
-	</div>
-	{% include sidebar-general.html %}
+	<div id="outputReview" class="row col-lg-8"></div>
+{% include sidebar.html %}
 </div>
+<script>
+	
+let url = '{{ site.url }}/api/travel/travel_api.json',
+		fil = [],
+		categorie = window.name;
+function getFilters() {
+fetch(url)
+	.then((res)  => res.json())
+	.then((data) => {
+		var outputReview = '';
+	  fil = [];
+		for (var i=0; i<data.length; i++) {
+			if (data[i].categorie.toUpperCase().indexOf(categorie) > -1 || data[i].tag1.toUpperCase().indexOf(categorie) > -1 || data[i].tag2.toUpperCase().indexOf(categorie) > -1 || data[i].tag3.toUpperCase().indexOf(categorie) > -1 ) {
+					fil.push(data[i])
+			}
+		}
+		fil.forEach(function(prod){
+			outputReview += `
+				<div class="card-wrapper col-lg-6">
+					<div class="for-style">
+					<div class="imagine-post" style="background-image: url('${prod.imagine}')">
+						<a href="{{site.url }}/{{ post.category }}/index.html"><span class="categ">${prod.categorie}</span></a>
+					</div>
+					<div class="footer-post">
+						<h4>${prod.titlu}</h4>
+						<p>${prod.descriere}</p>
+						<hr>
+						<a href="${prod.link}"><button>Citeste</button></a>
+						<div class="author-thumb" style="background-image: url(/assets/images/reviews/author.png);"></div>
+					</div>
+					</div>
+				</div>
+				`	
+		});
+		document.getElementById('outputReview').innerHTML = outputReview;
+	  document.getElementById('categorie-selectata').innerHTML = categorie;
+	  categorie = '';
+	  buttonInner();
+	})
+}
+window.onload = getFilters();
+
+function buttonInner () {
+	var x = document.getElementById('categorie-selectata');
+	var u = document.getElementById('categorie-selectata').innerText;
+	u == '' ? x.style.display = 'none' : x.style.display = 'block';
+}
+
+	
+
+document.getElementById('categorie-selectata').addEventListener('click', function() {
+	categorie = [];
+	window.name = '';
+	getFilters();
+});
+
+	
+</script>
 
 <style>
+	.categ {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+		color: white;
+		font-weight: 500;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+		margin-top: 5px;
+		font-size: 13px;
+	}
+	.author-thumb {
+		width: 50px;
+    height: 50px;
+    float: right;
+    background-size: 81%;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    box-shadow: 0 0 8px lightgrey;
+    border: solid #41dcab;
+    position: relative;
+    bottom: 7px;
+    background-position: center;
+	}
+	.for-style {
+		border: 1px solid #dddddd7d;
+    box-shadow: 0 0 20px #F0F0F0;
+		border-radius: 4px;
+	}
+	.card-wrapper {
+		padding-left: 10px;
+		padding-bottom: 20px;
+	}
+	.for-style:hover {
+		box-shadow: 0 0 0 0 white;
+		transition: all 0.5s;
+	}
+	.imagine-post {
+		height: 215px;
+		background-size: cover;
+		background-repeat: no-repeat;
+		border-top-left-radius: 3px;
+		border-top-right-radius: 3px;
+		background-position: center;
+	}
+	.imagine-post a:hover {
+		text-decoration: none;
+	}
+	.footer-post {
+		padding: 15px;
+	}
+	.footer-post hr {
+		margin-top: 0;
+	}
+	.footer-post h4 {
+		font-size: 18px;
+		font-weight: 700;
+    overflow: hidden;
+		margin-bottom: 1px;
+		height: 50px;
+	}
+	
+	.footer-post p {
+		margin-bottom: 10px;
+		height: 44px;
+		overflow: hidden;
+		line-height: 1.7;
+    font-size: 13px;
+		font-style: italic;
+	}
+	.footer-post button {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+    text-decoration: none;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+		border: none;
+		color: white;
+		border-radius: 3px;
+		text-transform: uppercase;
+		padding: 7px 16px;
+		font-weight: 600;
+	}
+	.footer-post button:hover {
+		box-shadow: none;
+	}
+
 	@media (max-width: 570px) {
 	.cat-small {
 		margin-left: 0;
@@ -36,6 +174,9 @@ permalink: /travel/
 		margin-left: 0;
 		margin-right: 0;
 		padding-left: 0;
+		padding-right: 0;
+    display: flex;
+    align-content: flex-start;
 	}
 	.reviews-wrapper {
 		margin-left: 0;
@@ -295,3 +436,4 @@ permalink: /travel/
 		padding-left: 0;
 	}
 </style>
+

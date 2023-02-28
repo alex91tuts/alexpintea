@@ -6,8 +6,9 @@ layout: null
 	{
 		"titlu": "{{ trip.title }}",
 		"data": "{{ trip.date | date_to_string }}",
-		"imagine": "{{ trip.imageloop }}",
+		"imagine": "{{ trip.image }}",
 		"link": "{{ trip.url }}",
-		"categorie": "{{ trip.oras }}"
+		"categorie": "{{ trip.oras }}",
+		"descriere": "{{ trip.descriere }}"
 	}{% unless forloop.last %},{% endunless %}{% endfor %}
 ]

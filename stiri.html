@@ -8,8 +8,8 @@ permalink: /stiri/
 
 <div><button id='categorie-selectata' style="margin-left: 0;" class="btn btn-dark btn-sm cat-small"></button></div>
 <div class="row reviews-wrapper">
-	<div id="outputReview" class="row col-lg-9"></div>
-	{% include sidebar-stiri-loop.html %}
+	<div id="outputReview" class="row col-lg-8"></div>
+{% include sidebar.html %}
 </div>
 <script>
 	
@@ -129,6 +129,8 @@ document.getElementById('categorie-selectata').addEventListener('click', functio
 		font-size: 18px;
 		font-weight: 700;
     overflow: hidden;
+		margin-bottom: 1px;
+		height: 50px;
 	}
 	
 	.footer-post p {
@@ -172,6 +174,9 @@ document.getElementById('categorie-selectata').addEventListener('click', functio
 		margin-left: 0;
 		margin-right: 0;
 		padding-left: 0;
+		padding-right: 0;
+    display: flex;
+    align-content: flex-start;
 	}
 	.reviews-wrapper {
 		margin-left: 0;

@@ -15,41 +15,29 @@ description: Independenta financiara este capacitatea de a te intretine financia
 colors: ['red', 'green', 'blue', 'orange']
 
 ---
+
 <div class="rowinv">
-<div class="formDiv panel row" style="margin-top: 5px;">
-  <h2 class="col-12 h2inv" style="margin-top: 0; padding-top: 0;">Calculator investitii</h2>
+<div class="formDiv panel">
+<h2>Calculator investitii</h2>
 <form class="forminv">
-	<div class="row">
-	<div class="col-lg-6 col-12">
   <label for="startingBal">SUMA INIȚIALĂ</label>
   <input type="number" class="form-control" id="startingBal"/>
-	</div>
-	<div class="col-lg-6 col-12">
-  <label for="expectedReturn"> DOBÂNDA ANUALĂ(%)</label>
+  <label for="expectedReturn"> RATA DE CREȘTERE ANUALĂ(%)</label>
   <input type="number" class="form-control" id="expectedReturn"/>
-	</div>
-	</div>
-	<div class="row">
-	<div class="col-12 col-lg-6">
   <label for="monthlyDep">CONTRIBUȚIA LUNARĂ</label>
   <input type="number" class="form-control" id="monthlyDep"/>
-	</div>
-	<div class="col-12 col-lg-6">
   <label for="duration">DURATA (ANI)</label>
   <input type="number" class="form-control" id="duration"/>
-	</div>
-	</div>
 	<div class="row">
-	<div class="col-12 col-lg-6" style="display: flex; align-content: center; flex-wrap: wrap; margin-top: 12px;">
+	<div class="col-6" style="display: flex; align-content: center; flex-wrap: wrap;">
   <button type="submit" class="btn btn-primary" id="submitinv">CALCULEAZA</button>
 	</div>
-	<div class="col-12 col-lg-6">
+	<div class="col-6">
 		<label id="finalValue"></label>
 	</div>
 	</div>
 </form>
 </div>
- 
 </div>
 
 ## Independenta financiară

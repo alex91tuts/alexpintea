@@ -9,20 +9,20 @@
     
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
     
-<title>{{ page.title }} | {{site.name}}</title>
+<title>{{ page.title }}</title>
+<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" /> 
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
 <meta property="og:type" content="{% if page.topic %}{{ page.topic}}{% else %}article{% endif %}"/>
-<meta property="og:title" content="{{ page.title }} | {{ site.name }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
+<meta property="og:title" content="{{ page.title }}" />
 <meta property="og:image" content="{% if page.meta_image %}{{ site.url }}/{{ page.meta_image }}{% else %}{{ site.baseurl }}/assets/images/meta-image.jpg {% endif %}"/>
-  
+ 
 
 	
 	
 	
 	
 	
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
             

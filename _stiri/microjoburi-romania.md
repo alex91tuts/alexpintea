@@ -1,18 +1,16 @@
 ---
-layout: internet
+
 title: "Microjoburile în România | Bani pentru servicii online"
-descriere: Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale.
-meta_image: assets/images/internet/microjoburi/main.jpg 
-image: /assets/images/internet/microjoburi/main.jpg
-imageloop: /assets/images/internet/microjoburi/main.jpg
-imagesidebar: /assets/images/internet/microjoburi/main.jpg
+description: Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale.
+layout: stiri
+image_path: internet/microjoburi/main.jpg
 categorie: INTERNET
-author: "totredus"
-topic: MICROJOBURI
+author: "Damian"
+tags: ['gig', 'fiverr','bani']
 lang: ro_RO
 keyword: microjoburi
 date: 22.02.2023
-canonical: htttps://totredus.ro/stiri/microjoburi-romania/
+nume: Microjoburi în România
 
 ---
 
