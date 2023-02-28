@@ -52,7 +52,7 @@ Faptul că pădurea era acoperită de lac și au rămas doar cioturi de copaci o
 
 Cheile Sugaului găzduiesc unele dintre cele mai îndrăgite specii ale României, cum ar fi râși, urși, vulturi, capre și lupi. Vizitatorii se pot bucura de drumeții liniștite prin sălbăticia neatinsă sau pot aborda unele dintre traseele mai provocatoare care duc la puncte de vedere uimitoare cu vedere la parc și văile din jur. Cu o mulțime de oportunități pentru sporturi de aventură, cum ar fi ciclism montan, rafting și alpinism, Cheile Sugăului au cu adevărat ceva pentru toată lumea.
 
-<img src="/assets/images/travel/cheilebicazului/pic3.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/cheilebicazului/pic5.jpg" alt="{{ page.keyword }}">
 
 Zona se mândrește, de asemenea, cu o moștenire culturală incredibil de bogată, cu multe situri arheologice fascinante răspândite în jurul parcului. Aici vizitatorii pot explora ruinele din așezările antice care datează de mii de ani sau pot lua parte la activități tradiționale, cum ar fi fabricarea brânzei la fermele locale. În timpul primăverii, Cheile Sugăului sunt pline de flori sălbatice vibrante, în timp ce toamna capătă o nuanță aurie datorită frunzișului în schimbare – făcându-l o locație ideală pentru pasionații de fotografie care doresc să-și surprindă frumusețea de altă lume pe film sau pânză.
 
