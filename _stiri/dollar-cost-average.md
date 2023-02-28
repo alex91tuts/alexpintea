@@ -80,9 +80,9 @@ DCA nu este o modalitate garantată de a câștiga bani, dar poate oferi un anum
 ---
 ## Exemplu practic
 
-Mihai este angajat la Firma X și are un plan primește un salariu de 5000 de lei pe luna. Mihai decide să aloce din salariul său 500 lei pe luna, câte 250 lei la fiecare 2 săptămâni, planului personal de independență financiară.
+Mihai este angajat la Firma X și primește un salariu de 5000 de lei pe luna. Mihai decide să aloce din salariul său 500 lei pe luna, câte 250 lei la fiecare 2 săptămâni, planului personal de independență financiară.
 
-El alege să investească 50% din banii săi într-un fond mutual cu capitalizare mare și 50% într-un fond de tip (ETF) indice care urmărește evoluția S&P 500. La fiecare două săptămâni, el va investi 250 RON în fiecare dintre aceste două fonduri, indiferent de prețul fondului.
+El alege să investească 50% din banii săi într-un fond mutual cu capitalizare mare și 50% într-un fond de tip (ETF) indice care urmărește evoluția S&P 500. La fiecare două săptămâni, el va investi 250 RON în fiecare dintre aceste două fonduri, indiferent de prețul pieței.
 
 Pe parcursul a 10 perioade de plată, Mihai a contribuit cu un total de 2500 lei ETF-ul care urmărește indicele S&P 500. Valoarea fondului a fluctuat în acea perioadă, dar în general a crescut.
 
