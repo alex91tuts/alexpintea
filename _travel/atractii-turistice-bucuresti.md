@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Locuri de vizitat in Bucuresti | top 20"
+title: "Locuri de vizitat in Bucuresti | top 20 atractii turistice"
 descriere: De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș plin de viață. 
 description: De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș plin de viață. 
 meta_image: assets/images/travel/bucuresti/main.jpg 
