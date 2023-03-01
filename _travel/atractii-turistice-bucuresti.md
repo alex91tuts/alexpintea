@@ -20,7 +20,8 @@ tags: ['București', '', '']
 ## Gradina Botanica o evadare din agitația vieții orașului
 ---
 
-{% include image-gallery.html folder="/images/travel/bucuresti" %}
+{% include image-gallery.html folder="/images/travel/bucuresti/gradina" %}
+
 <span class="drop">G</span>radina Botanică este un sanctuar natural uimitor situat în capitala României. Înființată în 1891, oferă o oază pentru localnici și vizitatori deopotrivă pentru a se bucura de o evadare liniștită din agitația vieții de zi cu zi. Grădina are peste 10.000 de specii de floră răspândite pe cele 18 hectare de teren ale sale, ceea ce o face una dintre cele mai mari grădini de acest gen din Europa.
 
 Vizitatorii se pot aștepta să găsească o mare varietate de copaci, arbuști și plante cu flori atât din climatul temperat, cât și din cel tropical.
