@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-	{% for trip in site.travel %}
+	{% for trip in site.travel reversed %}
 	{
 		"titlu": "{{ trip.title }}",
 		"data": "{{ trip.date | date_to_string }}",
