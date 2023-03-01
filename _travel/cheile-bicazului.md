@@ -5,7 +5,7 @@ descriere: Canionul Bicazului este o minune naturală uluitoare, cu chei  adânc
 description: Canionul Bicazului este o minune naturală uluitoare, cu chei  adânci, cascadele maiestuoase și viața sălbatică vibrantă. 
 meta_image: assets/images/travel/cheilebicazului/main.jpg 
 image: /assets/images/travel/cheilebicazului/main.jpg
-author: "Marius"
+author: "Cultural Nomad"
 tara: ROMÂNIA
 oras: BICAZ
 lang: ro_RO
@@ -35,7 +35,7 @@ Pentru cei care caută o aventură în România, explorarea Canionului Bicazului
 ---
 ## Misteriosul Lac Roșu
 
-<span class="drop">S</span>ituat în inima României, Lacul Roșu (cunoscut și sub numele de Lacul Bicaz) este o minune naturală uluitor de frumoasă, care captivează vizitatorii de secole. Lacul este numit așa datorită nuanței sale roșii unice cauzate de particulele de oxid de fier din apă. Este înconjurat de superbii Munți Carpați și servește drept atracție turistică majoră pentru cei care vizitează România.
+<span class="drop">S</span>ituat în inima României, Lacul Roșu (cunoscut și sub numele de Lacul Bicaz) este o minune naturală uluitor de frumoasă, care îi captivează pe vizitatori. Lacul este numit așa datorită nuanței sale roșii unice cauzate de particulele de oxid de fier din apă. Este înconjurat de superbii Munți Carpați și servește drept atracție turistică majoră pentru cei care vizitează România.
 
 Lacul își trage numele de la orașul Bicaz din apropiere, care deține cheile pentru dezvăluirea misterelor din jurul acestui corp de apă remarcabil. Mulți cred că lacul s-a format printr-o mare inundație care a avut loc cu mii de ani în urmă, în timp ce alții atribuie crearea lui unei erupții vulcanice. În ambele cazuri, a fost mult timp o sursă de fascinație și uimire în rândul vizitatorilor care vin din aproape și de departe pentru a-i asista la frumusețe în mod direct direct.
 
@@ -59,7 +59,7 @@ Zona se mândrește, de asemenea, cu o moștenire culturală incredibil de bogat
 ---
 ## Explorează frumusețea naturală Lacul Bicaz
 
-<span class="drop">L</span>acul Bicaz este una dintre cele mai frumoase minuni ale naturii din România. Situat în partea de nord-est a țării, este un lac impresionant care oferă de secole priveliști uimtoare.
+<span class="drop">L</span>acul Bicaz este una dintre cele mai frumoase minuni ale naturii din România. Situat în partea de nord-est a țării, este un lac impresionant care oferă de foarte multă vreme priveliști uimtoare.
 
 Lacul este înconjurat de munți uluitori și stânci abrupte, făcându-l o destinație ideală pentru cei care doresc să evadeze din viața urbană de zi cu zi și să exploreze natura în cele mai rafinate detalii. Lacul în sine este destul de adânc – ajungând la adâncimi de până la 35 de metri – și oferă o oportunitate minunată pentru înot, caiac, pescuit și alte activități acvatice.
 
