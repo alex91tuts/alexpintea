@@ -11,7 +11,7 @@ oras: BUCUREȘTI
 lang: ro_RO
 keyword: de vizitat bucuresti
 date: 01.03.2023
-tags: ['București', '', '']
+tags: ['București', 'capitale', 'atractii']
 
 ---
 
@@ -56,7 +56,7 @@ Indiferent de modul în care alegi să-l experimentezi - fie prin vizitarea lui 
 ---
 ## Explorează splendoarea Ateneului Roman
 
-<img src="/assets/images/travel/bucuresti/ateneu.jpg" alt="{{ page.keyword }}">
+{% include image-gallery.html folder="/images/travel/bucuresti/ateneu" sursa="https://www.instagram.com/explore/tags/ateneulroman/" %}
 
 <span class="drop">A</span>teneul Român, situat în București este un reper cultural care stă în picioare de peste 120 de ani. Construită între 1886 și 1888, această clădire circulară emblematică a fost proiectată de arhitectul francez Albert Galleron într-un stil neoclasic. Fațada sa impresionantă prezintă o serie de coloane corintice impunătoare și sculpturi complicate cu personaje din folclorul românesc.
 
@@ -73,6 +73,8 @@ Toate lucrurile luate în considerare, nu este de mirare de ce Ateneul Român a 
 ---
 ## Descoperiți frumusețea atemporală a Bisericii Stavropoleos 
 
+{% include image-gallery.html folder="/images/travel/bucuresti/stavropoleus" sursa="https://www.instagram.com/explore/locations/616811055/stavropoleos-monastery/" %}
+
 <span class="drop">B</span>iserica Stavrostopol este un exemplu uluitor al stilului arhitectural ortodox românesc, situată în inima orașului vechi. 
 
 Construită în 1724, această biserică mică, dar decorată bogat, este unul dintre cele mai importante și îndrăgite repere ale orașului. 
@@ -85,6 +87,8 @@ Biserica Stavropoleos este o destinație populară pentru turiștii care vizitea
 
 ---
 ## Muzeul Satului, o experiență culturală unică
+
+{% include image-gallery.html folder="/images/travel/bucuresti/satului" sursa="https://www.instagram.com/p/CiDfu4Cjx6w/" %}
 
 <span class="drop">Î</span>n inima Bucureștiului se află uimitorul Muzeu al Satului, un tezaur cultural și arheologic plin de istorie și farmec. Muzeul, care a fost fondat în 1936, este primul muzeu în aer liber din lume și prezintă peste 300 de clădiri tradiționale românești din toată țara.
 
@@ -107,6 +111,8 @@ Dacă doriți să vă cufundați în cultura românească, atunci nu Muzeul Satu
 
 ### Parcul Herăstrău - o oază de calm și frumusețe
 
+{% include image-gallery.html folder="/images/travel/bucuresti/herastrau" sursa="https://www.instagram.com/parcul_herastrau/" %}
+
 <span class="drop">S</span>ituat în partea de nord a orașului, Parcul Herastrau este unul dintre cele mai mari și mai populare parcuri din București. Acesta găzduiește o mare varietate de copaci și plante, precum și multe specii de păsări.
 
 Parcul Herăstrău se întinde pe o suprafață de peste 400 de hectare și are un lac mare, mai multe grădini și multe poteci pentru mers pe jos sau cu bicicleta. 
@@ -120,6 +126,9 @@ Există, de asemenea, câteva sculpturi amplasate în tot parcul care comemoreaz
 Pe lângă frumusețea sa naturală și abundența de activități oferite pe teritoriul său, Parcul Herăstrău are o moștenire culturală bogată care îl face un loc minunat pentru a explora o parte din istoria României. Cu verdeața luxuriantă și priveliștile uimitoare ale orizontului Bucureștiului, este ușor de înțeles de ce acest parc întins rămâne atât de popular printre turiști.
 
 ### Parcul IOR
+
+{% include image-gallery.html folder="/images/travel/bucuresti/ior" sursa="https://www.instagram.com/p/CWI2MqIIt6-/" %}
+
 
 <span class="drop">P</span>arcul IOR a fost inaugurat în 2015 și de atunci a devenit una dintre cele mai vizitate zone din București. Se intinde pe o suprafata de 11 hectare, cu o suprafata totala amenajata de 8 hectare. Parcul este împărțit în mai multe zone, fiecare oferind ceva pentru a se bucura toată lumea.
 
@@ -137,6 +146,8 @@ Așa că, dacă vizitezi vreodată Bucureștiul, asigură-te că vezi ce are de 
 
 ### Parcul Carol - frumusețea naturii fără a părăsi orașul
 
+{% include image-gallery.html folder="/images/travel/bucuresti/carol" sursa="https://www.instagram.com/p/CkrKdQvNxBf/" %}
+
 <span class="drop">P</span>arcul Carol din București este o locație emblematică atât pentru localnici, cât și pentru turiști. Situat în inima orașului, oferă o experiență diversă și vibrantă pentru toți cei care vizitează.
 
 Indiferent dacă doriți să vă relaxați sau să explorați, Carol Park are ceva pentru toată lumea. Parcul este format din mai multe poteci de mers pe jos, grădini și paturi de flori care sunt perfecte pentru a face o plimbare pe îndelete. 
@@ -150,6 +161,8 @@ De asemenea, vă puteți bucura de plimbări pe carusel sau puteți lua parte la
 Desigur, nicio vizită nu ar fi completă fără a încerca bucătăria tradițională românească la unul dintre numeroasele restaurante situate în jurul parcului. Aici puteți gusta mâncăruri din întreaga lume în timp ce vă bucurați de priveliști frumoase ale Bucureștiului din orice unghi.
 
 ### Grădina Cișmigiu
+
+<img src="/assets/images/travel/bucuresti/cismigiu.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">G</span>rădina Cișmigiu a fost înființată în 1847 de regele Carol I, care a dorit să creeze un loc în care oamenii să se poată reuni pentru a se relaxa și a se bucura de frumusețea naturii. 
 
@@ -167,6 +180,9 @@ Grădina Cișmigiu surprinde cu adevărat esența frumuseții Bucureștiului cu 
 
 ---
 ## Centrul Vechi 
+
+<img src="/assets/images/travel/bucuresti/oldtown.jpg" alt="{{ page.keyword }}">
+
 
 <span class="drop">C</span>entrul Vechi al Bucureștiului este una dintre cele mai emblematice și vibrante zone ale orașului. Situat în inima capitalei, Orașul Vechi găzduiește un amestec de cultură, istorie și modernitate care îl fac o destinație unică. 
 
@@ -187,6 +203,8 @@ Există și o mulțime de baruri din care să alegeți, ceea ce face ca acesta s
 ---
 ## Muzeul Cotroceni
 
+{% include image-gallery.html folder="/images/travel/bucuresti/muzeucotroceni" sursa="https://www.instagram.com/p/CHSj3xBJaz1/" %}
+
 <span class="drop">M</span>uzeul Cotroceni este situat in Palatul Cotroceni și reuseste sa atragă vizitatori din întreaga lume prin arhitectura sa impresionantă și bogatele colecții culturale și istorice.
 
 Muzeul a fost înființat în 1938 de regele Carol al II-lea al României, care a dorit să creeze un loc în care vizitatorii să exploreze istoria și cultura românească. Palatul propriu-zis a fost construit în 1679 ca și cabană de vânătoare pentru Matei Basarab, domnitor al Țării Românești între 1632-1654. A fost extins ulterior de Constantin Brâncoveanu pentru a-i servi drept reședinta de vară. În 1883, a devenit reședința regală când România și-a câștigat independența.
@@ -204,6 +222,8 @@ Muzeul Cotroceni este un loc uimitor pentru oricine este interesat să învețe 
 ---
 ### Palatul Mogoșoaia
 
+{% include image-gallery.html folder="/images/travel/bucuresti/mogosoaia" sursa="https://www.instagram.com/palatulmogosoaia/" %}
+
 <span class="drop">S</span>ituat chiar în afara Bucureștiului, uimitorul Palat Mogoșoaia este o destinație obligatorie pentru oricine vizitează această zonă.
 
 Istoria Parcului și a Palatului datează din secolul al XVII-lea când a fost comandat de Constantin Brâncoveanu, domnitorul Țării Românești la acea vreme. Moșia a servit atât ca reședință de vară, cât și drept teren de vânătoare pentru familia lui Brâncoveanu. 
@@ -219,6 +239,9 @@ Pe lângă explorarea frumuseții sale naturale, vizitatorii pot afla și despre
 ---
 ## Mănăstirea Cernica
 
+<img src="/assets/images/travel/bucuresti/cernica.jpg" alt="{{ page.keyword }}">
+
+
 <span class="drop">S</span>ituată la doar 20 de kilometri de București, această frumoasă mănăstire este unul dintre centrele spirituale importante din țară. Construită în secolul al XVII-lea, mănăstirea a fost un refugiu pentru multe generații de călugări și vizitatori deopotrivă.
 
 Mănăstirea Cernica a fost ctitorită de Constantin Brâncoveanu, domnitorul Țării Românești, în anul 1678. Planul inițial era de a construi o capelă mică, dar în curând a devenit un complex mai mare pe măsură ce mai mulți oameni veneau să viziteze și să caute îndrumări spirituale de la călugării care locuiau acolo. 
@@ -233,6 +256,8 @@ Vizitatorii pot găsi și alte câteva biserici în cadrul complexului, inclusiv
 
 ---
 ## Piața Unirii
+
+<img src="/assets/images/travel/bucuresti/punirii.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">P</span>iața își are rădăcinile în epoca medievală, când a servit drept loc de întâlnire important pentru negustori și comercianți. 
 
@@ -261,6 +286,8 @@ Indiferent când vizitați Piața Unirii din București, puteți fi sigur că va
 ---
 ## Muzeul Național de Artă Contemporană
 
+<img src="/assets/images/travel/bucuresti/contart.jpg" alt="{{ page.keyword }}">
+
 <span class="drop">M</span>uzeul Național de Artă Contemporană București (MNAC) este o vizită obligatorie pentru oricine este interesat de artă și cultură. Situat în inima capitalei României, acest muzeu adăpostește unele dintre cele mai importante lucrări de artă contemporană din întreaga lume.
 
 Muzeul a fost fondat în 2004 și acum găzduiește o colecție impresionantă care include peste 5000 de piese de la peste 150 de artiști. Lucrările variază de la pictură și sculptură la fotografie, instalații video și alte medii. 
@@ -275,6 +302,8 @@ Muzeul are și un centru de educație unde studenții pot afla mai multe despre 
 
 ---
 ## Palatul Primăverii
+
+<img src="/assets/images/travel/bucuresti/primaverii.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">P</span>alatul Primăverii sau „Casa Ceaușescu”, este un exemplu uimitor de arhitectură modernistă situat în București. Construită la mijlocul anilor 1960 de dictatorul de atunci al României Nicolae Ceaușescu, ea stă ca o mărturie a puterii și opulenței Partidului Comunist Român.
 
@@ -291,6 +320,8 @@ Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României su
 ---
 ## Casa Melik - Muzeul Theodor Pallady
 
+<img src="/assets/images/travel/bucuresti/melik.webp" alt="{{ page.keyword }}">
+
 <span class="drop">A</span>scunsă în inima Bucureștiului se află Casa Melik, un muzeu unic dedicat conservării operei renumitului pictor român Theodor Pallady. Situat într-una dintre cele mai vechi clădiri din orașul istoric istoric al Bucureștiului, vizitatorii pot explora lucrările fascinante ale acestui maestru artist și pot explora viața și cariera lui.
 
 Muzeul conține unele dintre cele mai faimoase piese ale sale, inclusiv „Interior cu flori” și „Autoportret cu model”. Aceste lucrări sunt expuse alături de fotografii și documente care oferă o perspectivă asupra vieții lui Pallady, inclusiv numeroasele sale călătorii la Paris și Italia, unde a fost influențat atât de impresionism, cât și de expresionism.
@@ -301,6 +332,8 @@ Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cu
 
 ---
 ## Descoperiți comorile culturii Române la Casa Memorială Anton Pann
+
+<img src="/assets/images/travel/bucuresti/pann.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">C</span>asa Memorială Anton Pann București este un monument istoric care aduce un omagiu vieții și operelor renumitului scriitor și compozitor român din secolul al XIX-lea, Anton Pann. 
 
@@ -318,6 +351,8 @@ Pe lângă faptul că pot explora artefactele fascinante aflate aici, vizitatori
 
 ---
 ##  Parcul Național Văcărești
+
+<img src="/assets/images/travel/bucuresti/vacaresti.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">S</span>ituat la marginea Bucurestiului, Parcul Natural Vacaresti este un reper unic care serveste drept sanctuar atat pentru fauna salbatica cat si pentru oameni deopotriva. Acest frumos parc găzduiește peste 200 de specii de păsări, inclusiv specii rare, precum stilul cu aripi negre și vulturul cu coadă albă. De asemenea, găzduiește mai multe specii de mamifere, reptile, amfibieni și pești. Parcul se mândrește cu o bogată diversitate de floră și faună, ceea ce îl face unul dintre cele mai importante puncte fierbinți de biodiversitate din România.
 
