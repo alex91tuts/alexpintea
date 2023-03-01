@@ -6,7 +6,7 @@ date: 2023-02-28
 categorie: FINANCIAR
 tags: ['DCA', 'BUGET', 'INVESTITII']
 nume: dollar cost average
-author: "Radu Ivan"
+author: "Happy Money"
 scor-intro: DCA este o strategie care implică investirea unei sume fixe de bani într-un activ sau într-un grup de active la intervale regulate, indiferent de condițiile actuale de piață.
 
 description: DCA este o strategie care implică investirea unei sume fixe de bani într-un activ sau într-un grup de active la intervale regulate, indiferent de condițiile actuale de piață.

@@ -6,7 +6,7 @@ date: 2023-02-28
 categorie: FINANCIAR
 tags: ['FIRE', 'BUGET', 'INVESTITII']
 nume: Independenta financiara
-author: "Radu"
+author: "Happy Money"
 scor-intro: Independența financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit.
 
 description: Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit

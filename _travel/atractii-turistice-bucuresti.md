@@ -17,8 +17,6 @@ tags: ['București', 'capitale', 'atractii']
 
 **_București...de la străzile pline de viață ale orașului, până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș românesc plin de viață. Vizitați emblematicul Palat al Parlamentului, o clădire uimitoare care este a doua cea mai mare clădire administrativă din lume. Faceți o plimbare prin Piața Revoluției și explorați numeroasele muzee și galerii ale orașului. Bucurați-vă de aromele bucătăriei tradiționale românești la unul dintre numeroasele restaurante și cafenele ale orașului. Nu lipsesc lucrurile de făcut în București, așa că asigurați-vă că vă faceți timp pentru a explora tot ce are de oferit acest oraș vibrant!_**
 
-{% include image-gallery.html folder="/images/travel/bucuresti/bucharest" sursa="fara" %}
-
 ## Gradina Botanica o evadare din agitația vieții orașului
 ---
 
