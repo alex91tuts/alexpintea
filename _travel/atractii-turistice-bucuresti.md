@@ -20,7 +20,7 @@ tags: ['București', '', '']
 ## Gradina Botanica o evadare din agitația vieții orașului
 ---
 
-{% include image-gallery.html folder="/images/travel/bucuresti/gradina" %}
+{% include image-gallery.html folder="/images/travel/bucuresti/gradina" sursa="https://www.instagram.com/gradina.botanica.din.bucuresti/" %}
 
 <span class="drop">G</span>radina Botanică este un sanctuar natural uimitor situat în capitala României. Înființată în 1891, oferă o oază pentru localnici și vizitatori deopotrivă pentru a se bucura de o evadare liniștită din agitația vieții de zi cu zi. Grădina are peste 10.000 de specii de floră răspândite pe cele 18 hectare de teren ale sale, ceea ce o face una dintre cele mai mari grădini de acest gen din Europa.
 
@@ -34,13 +34,10 @@ Grădina găzduiește un herbar extins cu peste 150.000 de exemplare de plante c
 
 Fie că sunteți în căutarea unei evadari liniștite sau a unei experiențe educaționale despre botanică – Grădina Botanica București va oferi cu siguranță ceva special pentru toți cei care o vizitează!
 
-<img src="/assets/images/travel/cheilebicazului/pic3.jpg" alt="{{ page.keyword }}">
-
-
 ---
 ## Descoperă istoria fastuoasă a Palatului Parlamentului
 
-<img src="/assets/images/travel/bucuresti/palatulparlamentului.jpg" alt="{{ page.keyword }}">
+{% include image-gallery.html folder="/images/travel/bucuresti/parlament" sursa="https://www.instagram.com/explore/locations/321634471623842/casa-poporului/" %}
 
 <span class="drop">P</span>alatul Parlamentului din București sau Casa Poporului este o structură incredibilă, simbol al trecutului și prezentului României. Construită între 1984 și 1989 sub conducerea fostului dictator comunist Nicolae Ceaușescu, este una dintre cele mai mari clădiri din lume cu o suprafață totală de 365.000 de metri pătrați. 
 
