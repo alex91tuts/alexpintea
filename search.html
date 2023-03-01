@@ -1,23 +1,136 @@
 ---
+
 layout: default
-title: search
+title: test
+
 ---
-<!-- HTML elements for search -->
-<div class="row justify-content-md-center">
-<input id="search-input" type="search" placeholder="Cauta produse aici...">
+
+<section>
+	
+    <div class="row section-title">
+			<div class="col-lg-6">
+        <h2><span>CAUTĂ AICI:</span></h2>
+			</div>
+			<div class="col-lg-6">
+				<input type="text" id="search-input" placeholder="Scrie aici..">
+			</div>
+    </div>
+    
+    <div class="article-post">
+ 		<div class="row reviews-wrapper" style="flex-direction: column; flex-wrap: nowrap;">
+			<div id="results-container" class="row">
+				
+				
+				
+			</div>
 </div>
-<div id="results-container" class="row listrecent res"></div>
+    
+	
+		</div>
+       
+</section>
 
-<!-- Script pointing to search-script.js -->
-<script src="{{ site.baseurl }}/assets/js/search-script.js" type="text/javascript"></script>
 
 
-<!-- Configuration -->
+
+
+<!-- or without installing anything -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
 <script>
-SimpleJekyllSearch({
+
+var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '{{ site.baseurl }}/search.json'
+  json: '/search.json',
+	searchResultTemplate: '<div class="card-wrapper col-lg-4"><div class="for-style"><div class="imagine-post" style="background-image: url({image})"><a href="{{site.url }}/{ category}/index.html"><span class="categ">{category}</span></a></div><div class="footer-post"><h4>{title}</h4><p>{description}</p><hr><a href="{{ internet.url }}"><button>Citeste</button></a><div class="author-thumb" style="background-image: url(/assets/images/logo.png)"></div></div></div></div>'
 })
+
 </script>
+<style>
+	.categ {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+		color: white;
+		font-weight: 500;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+		margin-top: 5px;
+		font-size: 13px;
+	}
+	.author-thumb {
+		width: 50px;
+    height: 50px;
+    float: right;
+    background-size: 81%;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    box-shadow: 0 0 8px lightgrey;
+    border: solid #41dcab;
+    position: relative;
+    bottom: 7px;
+    background-position: center;
+	}
+	.for-style {
+		border: 1px solid #dddddd7d;
+    box-shadow: 0 0 20px #F0F0F0;
+		border-radius: 4px;
+	}
+	.card-wrapper {
+		padding-left: 10px;
+		padding-bottom: 20px;
+	}
+	.for-style:hover {
+		box-shadow: 0 0 0 0 white;
+		transition: all 0.5s;
+	}
+	.imagine-post {
+		height: 215px;
+		background-size: cover;
+		background-repeat: no-repeat;
+		border-top-left-radius: 3px;
+		border-top-right-radius: 3px;
+		background-position: center;
+	}
+	.imagine-post a:hover {
+		text-decoration: none;
+	}
+	.footer-post {
+		padding: 15px;
+	}
+	.footer-post hr {
+		margin-top: 0;
+	}
+	.footer-post h4 {
+		font-size: 18px;
+		font-weight: 700;
+    overflow: hidden;
+	}
+	
+	.footer-post p {
+		margin-bottom: 10px;
+		height: 44px;
+		overflow: hidden;
+		line-height: 1.7;
+    font-size: 13px;
+		font-style: italic;
+	}
+	.footer-post button {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+    text-decoration: none;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+		border: none;
+		color: white;
+		border-radius: 3px;
+		text-transform: uppercase;
+		padding: 7px 16px;
+		font-weight: 600;
+	}
+	.footer-post button:hover {
+		box-shadow: none;
+	}
+
+</style>
 
