@@ -12,8 +12,15 @@
 @import "animate";
 @import "mobile";
 @import "general";
+@import "bootstrap.min";
 
 
+
+
+// Link hover no underlin
+a:hover {
+	text-decoration: none !important;
+}
 // Lightbox CSS
 #lightbox {width: 100%; height: 100%; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.85); z-index: 9999999; line-height: 0; cursor: pointer; display: none;}
 #lightbox .img {
