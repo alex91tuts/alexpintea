@@ -251,16 +251,15 @@ License: https://www.wowthemes.net/freebies-license/
      color:rgba(0,0,0,.8);
 }
  .article-post {
-     font-family:Montserrat;
-     font-size:1.1rem;
-     line-height:1.84;
-     color:rgba(0,0,0,.8);
+    font-family: verdana;
+    font-size: 16px;
+    line-height: 1.84;
+	 	color: #4d545a;
+    font-family: Andale mono,monospace;
+    /* font-family: Snell Roundhand, cursive; */
 }
  blockquote {
-     border-left:4px solid #00ab6b;
-     padding:0 20px;
-     font-style:italic;
-     color:rgba(0,0,0,.5);
+   
 }
  .article-post p,.article-post blockquote {
      margin:0 0 1.5rem 0;
