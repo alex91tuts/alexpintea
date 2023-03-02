@@ -286,7 +286,8 @@ Indiferent când vizitați Piața Unirii din București, puteți fi sigur că va
 ---
 ## Muzeul Național de Artă Contemporană
 
-<img src="/assets/images/travel/bucuresti/contart.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/contart.jpg" alt="{{ page.keyword }}">
+
 
 <span class="drop">M</span>uzeul Național de Artă Contemporană București (MNAC) este o vizită obligatorie pentru oricine este interesat de artă și cultură. Situat în inima capitalei României, acest muzeu adăpostește unele dintre cele mai importante lucrări de artă contemporană din întreaga lume.
 
@@ -303,7 +304,7 @@ Muzeul are și un centru de educație unde studenții pot afla mai multe despre 
 ---
 ## Palatul Primăverii
 
-<img src="/assets/images/travel/bucuresti/primaverii.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/primaverii.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">P</span>alatul Primăverii sau „Casa Ceaușescu”, este un exemplu uimitor de arhitectură modernistă situat în București. Construită la mijlocul anilor 1960 de dictatorul de atunci al României Nicolae Ceaușescu, ea stă ca o mărturie a puterii și opulenței Partidului Comunist Român.
 
@@ -320,7 +321,7 @@ Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României su
 ---
 ## Casa Melik - Muzeul Theodor Pallady
 
-<img src="/assets/images/travel/bucuresti/melik.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/melik.webp" alt="{{ page.keyword }}">
 
 <span class="drop">A</span>scunsă în inima Bucureștiului se află Casa Melik, un muzeu unic dedicat conservării operei renumitului pictor român Theodor Pallady. Situat într-una dintre cele mai vechi clădiri din orașul istoric istoric al Bucureștiului, vizitatorii pot explora lucrările fascinante ale acestui maestru artist și pot explora viața și cariera lui.
 
@@ -333,7 +334,7 @@ Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cu
 ---
 ## Descoperiți comorile culturii Române la Casa Memorială Anton Pann
 
-<img src="/assets/images/travel/bucuresti/pann.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/pann.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">C</span>asa Memorială Anton Pann București este un monument istoric care aduce un omagiu vieții și operelor renumitului scriitor și compozitor român din secolul al XIX-lea, Anton Pann. 
 
@@ -352,7 +353,7 @@ Pe lângă faptul că pot explora artefactele fascinante aflate aici, vizitatori
 ---
 ##  Parcul Național Văcărești
 
-<img src="/assets/images/travel/bucuresti/vacaresti.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/vacaresti.jpg" alt="{{ page.keyword }}">
 
 <span class="drop">S</span>ituat la marginea Bucurestiului, Parcul Natural Vacaresti este un reper unic care serveste drept sanctuar atat pentru fauna salbatica cat si pentru oameni deopotriva. Acest frumos parc găzduiește peste 200 de specii de păsări, inclusiv specii rare, precum stilul cu aripi negre și vulturul cu coadă albă. De asemenea, găzduiește mai multe specii de mamifere, reptile, amfibieni și pești. Parcul se mândrește cu o bogată diversitate de floră și faună, ceea ce îl face unul dintre cele mai importante puncte fierbinți de biodiversitate din România.
 
