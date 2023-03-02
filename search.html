@@ -42,7 +42,7 @@ var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
-	searchResultTemplate: '<div class="card-wrapper col-lg-4"><div class="for-style"><div class="imagine-post" style="background-image: url({image})"><a href="{{site.url }}/{ category}/index.html"><span class="categ">{category}</span></a></div><div class="footer-post"><h4>{title}</h4><p>{description}</p><hr><a href="{{ internet.url }}"><button>Citeste</button></a><div class="author-thumb" style="background-image: url(/assets/images/logo.png)"></div></div></div></div>'
+	searchResultTemplate: '<div class="card-wrapper col-lg-4"><div class="for-style"><div class="imagine-post" style="background-image: url({image})"><a href="{{site.url }}/{ category}/index.html"><span class="categ">{category}</span></a></div><div class="footer-post"><h4>{title}</h4><p>{description}</p><hr><a href="{url}"><button>Citeste</button></a><div class="author-thumb" style="background-image: url(/assets/images/logo.png)"></div></div></div></div>'
 })
 
 </script>
