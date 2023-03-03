@@ -158,7 +158,7 @@ Lipsa unui magazin de aplicații de renume și utilizarea de către acesta a unu
 <!-- Oferta Mate 50 pro-->
 <div style="padding: 10px" class="col-6">
 	<div class="price-box row">
-		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/vexio.png" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">vexio.ro</p>
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/vexio.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">vexio.ro</p>
 		</div>
 		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Mate 50 PRO</p>
 		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11490233" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
@@ -220,7 +220,7 @@ Când utilizați zoom-ul pe Huawei P50 Pro, acuratețea culorilor nu este cea ma
 <!-- Oferta Mate 50 pro-->
 <div style="padding: 10px" class="col-6">
 	<div class="price-box row">
-		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/vexio.png" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">vexio.ro</p>
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/vexio.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">vexio.ro</p>
 		</div>
 		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">P 50 PRO</p>
 		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11490236" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
@@ -286,7 +286,7 @@ P50 Pocket costă o mulțime de bani. Prețurile sunt mult mai mari decât ceea 
 <!-- Oferta Mate 50 pro-->
 <div style="padding: 10px" class="col-6">
 	<div class="price-box row">
-		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/vexio.png" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">vexio.ro</p>
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/vexio.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">vexio.ro</p>
 		</div>
 		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">P 50 Pocket</p>
 		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11490238" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
