@@ -3,8 +3,8 @@ layout: travel
 title: "Explorând Cheile Bicazului | Lacul Roșu | Lacul Bicaz"
 descriere: Canionul Bicazului este o minune naturală uluitoare, cu chei  adânci, cascadele maiestuoase și viața sălbatică vibrantă. 
 description: Canionul Bicazului este o minune naturală uluitoare, cu chei  adânci, cascadele maiestuoase și viața sălbatică vibrantă. 
-meta_image: assets/images/travel/cheilebicazului/main.jpg 
-image: /assets/images/travel/cheilebicazului/main.jpg
+meta_image: assets/images/travel/cheilebicazului/main.webp 
+image: /assets/images/travel/cheilebicazului/main.webp
 author: "Cultural Nomad"
 tara: ROMÂNIA
 oras: BICAZ
@@ -24,11 +24,11 @@ tags: ['BICAZ', 'chei', 'lac']
 
 Canionul a fost sculptat de apele râului Bicaz de-a lungul a mii de ani. Are o lungime impresionantă de 17 km și în unele părți 200 de metri adâncime, cu diverse formațiuni stâncoase precum pereți, arcade și stâlpi. Părțile laterale ale canionului sunt căptușite cu vegetație groasă, inclusiv fagi, brazi și pini, care se adaugă la frumusețea sa uluitoare.
 
-<img src="/assets/images/travel/cheilebicazului/pic2.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/cheilebicazului/pic2.webp" alt="{{ page.keyword }}">
 
 Un alt punct culminant al acestei minuni naturale spectaculoase este abundența sa de specii sălbatice. Vizitatorii se pot aștepta să vadă o varietate de păsări, cum ar fi vulturi aurii, șoimi și bufnițe, în timp ce observă și animale precum căprioarele sau lupii, dacă au noroc. Apele găzduiesc, de asemenea, o varietate de specii de pești de apă dulce, cum ar fi crapul și păstrăvul, care îl fac un loc minunat pentru pasionații de pescuit.
 
-<img src="/assets/images/travel/cheilebicazului/pic3.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/cheilebicazului/pic3.webp" alt="{{ page.keyword }}">
 
 Pentru cei care caută o aventură în România, explorarea Canionului Bicazului ar trebui să fie cu siguranță pe lista lor! Fie că sunteți interesat să admirați priveliștile sale panoramice sau să participați la activități precum drumeții sau pescuit, cu siguranță nu veți fi dezamăgiți!
 
@@ -39,7 +39,7 @@ Pentru cei care caută o aventură în România, explorarea Canionului Bicazului
 
 Lacul își trage numele de la orașul Bicaz din apropiere, care deține cheile pentru dezvăluirea misterelor din jurul acestui corp de apă remarcabil. Mulți cred că lacul s-a format printr-o mare inundație care a avut loc cu mii de ani în urmă, în timp ce alții atribuie crearea lui unei erupții vulcanice. În ambele cazuri, a fost mult timp o sursă de fascinație și uimire în rândul vizitatorilor care vin din aproape și de departe pentru a-i asista la frumusețe în mod direct direct.
 
-<img src="/assets/images/travel/cheilebicazului/pic4.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/cheilebicazului/pic4.webp" alt="{{ page.keyword }}">
 
 Lacul Roșu este cunoscut și sub numele de Lacul Ucigaș și există o legendă în spatele acestui nume. Se spune că atunci când panta s-a prăbușit peste satul din apropiere, alunecarea de teren a ucis majoritatea locuitorilor satului, precum și animalele. În apă era atât de mult sânge de la toate victimele, încât lacul a primit numele de Lacul Roșu sau Lacul Ucigaș.
 
@@ -52,7 +52,7 @@ Faptul că pădurea era acoperită de lac și au rămas doar cioturi de copaci o
 
 Cheile Sugaului găzduiesc unele dintre cele mai îndrăgite specii ale României, cum ar fi râși, urși, vulturi, capre și lupi. Vizitatorii se pot bucura de drumeții liniștite prin sălbăticia neatinsă sau pot aborda unele dintre traseele mai provocatoare care duc la puncte de vedere uimitoare cu vedere la parc și văile din jur. Cu o mulțime de oportunități pentru sporturi de aventură, cum ar fi ciclism montan, rafting și alpinism, Cheile Sugăului au cu adevărat ceva pentru toată lumea.
 
-<img src="/assets/images/travel/cheilebicazului/pic5.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/cheilebicazului/pic5.webp" alt="{{ page.keyword }}">
 
 Zona se mândrește, de asemenea, cu o moștenire culturală incredibil de bogată, cu multe situri arheologice fascinante răspândite în jurul parcului. Aici vizitatorii pot explora ruinele din așezările antice care datează de mii de ani sau pot lua parte la activități tradiționale, cum ar fi fabricarea brânzei la fermele locale. În timpul primăverii, Cheile Sugăului sunt pline de flori sălbatice vibrante, în timp ce toamna capătă o nuanță aurie datorită frunzișului în schimbare – făcându-l o locație ideală pentru pasionații de fotografie care doresc să-și surprindă frumusețea de altă lume pe film sau pânză.
 
@@ -63,7 +63,7 @@ Zona se mândrește, de asemenea, cu o moștenire culturală incredibil de bogat
 
 Lacul este înconjurat de munți uluitori și stânci abrupte, făcându-l o destinație ideală pentru cei care doresc să evadeze din viața urbană de zi cu zi și să exploreze natura în cele mai rafinate detalii. Lacul în sine este destul de adânc – ajungând la adâncimi de până la 35 de metri – și oferă o oportunitate minunată pentru înot, caiac, pescuit și alte activități acvatice.
 
-<img src="/assets/images/travel/cheilebicazului/pic6.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/cheilebicazului/pic6.webp" alt="{{ page.keyword }}">
 
 Zona din jurul lacului Bicaz are, de asemenea, multe de oferit vizitatorilor. Există multe situri de explorat cum ar fi Poiana lui Stechil, care prezintă o formațiune de stâncă unică, care seamănă cu un castel pe vârful unui munte.
 

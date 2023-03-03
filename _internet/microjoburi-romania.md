@@ -2,10 +2,10 @@
 layout: internet
 title: "Microjoburile în România | Bani pentru servicii online"
 descriere: Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale.
-meta_image: assets/images/internet/microjoburi/main.jpg 
-image: /assets/images/internet/microjoburi/main.jpg
-imageloop: /assets/images/internet/microjoburi/main.jpg
-imagesidebar: /assets/images/internet/microjoburi/main.jpg
+meta_image: assets/images/internet/microjoburi/main.webp 
+image: /assets/images/internet/microjoburi/main.webp
+imageloop: /assets/images/internet/microjoburi/main.webp
+imagesidebar: /assets/images/internet/microjoburi/main.webp
 categorie: INTERNET
 author: "totredus"
 topic: MICROJOBURI

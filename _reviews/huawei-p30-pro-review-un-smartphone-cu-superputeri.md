@@ -1,7 +1,7 @@
 ---
 title: Huawei P30 Pro | Pareri | Preturi | Review | Limba Romana
-image_path: huaweip30pro.jpg
-meta_image: assets/images/reviews/huaweip30pro.jpg
+image_path: huaweip30pro.webp
+meta_image: assets/images/reviews/huaweip30pro.webp
 layout: review
 date: 2019-04-25
 categorie-review: SMARTPHONE
@@ -65,7 +65,7 @@ sku: rev1
 
 Cu toate că în anul 2019 atenția va fi îndreptată în principal asupra noilor modele de telefoane pliabile - Huawei Mate X sau Galaxy Fold - și bineînțeles asupra fenomenului 5G, vom vedea și o mulțime de modele de smartphone tradiționale. Cu siguranță, P30Pro va fi unul dintre cele mai bune.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huaweip30pro elgance.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huaweip30pro elgance.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -82,7 +82,7 @@ P30 este fratele mai mic al lui P30Pro, o variantă lite cu un ecran mai mic. Cu
 
 Design-ul telefonului este un mixt între P20Pro și Mate 20Pro, telefoane care au apărut înainte. Marginile nu sunt așa ascuțite ca la Mate 20 Pro, însă destul de înguste încât să le poți simți în palmă. În cutie este inclusă o husă transparentă din silicon ce face telefonul mai confortabil și mai puțin alunecos. Transparența este importantă deoarece Huawei a depus mult efort să creeze poate cele mai interesante culori văzute până acum la un smartphone.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huaweip30colors.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huaweip30colors.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -95,7 +95,7 @@ Spre deosebire de Mate 20 Pro, P30 Pro se simte puțin mai greu în mână, în 
 
 Este construit din sticlă și metal, asemănător cu Galaxy S10 sau P20 Pro, însă nu este neapărat un lucru rău. Se simte bine în mână, însă dat fiind faptul că conține sticlă, nu ai vrea să îl scapi. În materie de protecție impotriva apei telefonul are un nivel IP68, care îl menține în siguranță în fața băuturilor vărsate. 
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huawei-p30-ip68.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huawei-p30-ip68.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -121,7 +121,7 @@ Huawei P30 Pro are 3 camere pe partea din spate:
 
 Camera de 8 megapixeli este concepută să funcționeze ca un periscop și de aceea are un zoom incredibil. Poate mări de nu numai de 5x ori dar de 10x fără mari pierderi de calitate. Acest nivel de zoom este foarte mare pentru un telefon și te lasă să te apropii de detalii unde în mod normal ai avea o imagine super pixelată.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huawei-p-30-pr-camera.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huawei-p-30-pr-camera.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -218,7 +218,7 @@ Temperatura culorilor la Huawei P30 Pro este destul de apropiată de cea ideală
 * Durata de viață a bateriei este excelentă; telefonul rezistă aproape 2 zile de utilizare normală;
 * Rezistă foarte mult la streaming media.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huawei-p30-battery.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p30-pro/huawei-p30-battery.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 

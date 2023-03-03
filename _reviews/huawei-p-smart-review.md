@@ -1,7 +1,7 @@
 ---
 title: Huawei P Smart 2019 Pareri | Pret | Specificatii | Review Limba Romana
-image_path: psmart/psmart-main.jpg
-meta_image: assets/images/reviews/psmart/psmart-main.jpg
+image_path: psmart/psmart-main.webp
+meta_image: assets/images/reviews/psmart/psmart-main.webp
 layout: review
 date: 2019-12-31
 categorie-review: SMARTPHONE

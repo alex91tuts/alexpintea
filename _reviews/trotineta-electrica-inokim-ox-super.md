@@ -9,7 +9,6 @@ tags: ['Inokim', 'Premium', '2023']
 nume: Inokim OX Super
 scoreb:
 topic: review
-youtubeId: ScGJ7IlyCGQ
 author: Tudor Stan
 rating-value: 8.6
 opt:
@@ -98,7 +97,7 @@ Acesta nu este atașat la tijă ca majoritatea celorlalte scutere electrice, ci 
 Cei de la INOKIM utilizează CNC-ul în procesul de producere a trotinetelor. Asta înseamnă că INOKIM deține toate componentele utilizate, iar părțile precum tija și baza sunt forjate dintr-o singură bucată de aliaj de aluminiu. Acest lucru are ca rezultat o finisare de înaltă precizie și zero suduri, ceea ce înseamnă zero puncte slabe. În cele din urmă, acest lucru face trotinetele durabile și mai durabile, perfecte pentru utilizarea de zi cu zi.
 
 
-<img src="{{ site.url }}/assets/images/reviews/inokimoxsuper/dezmembrare.jpg"
+<img src="{{ site.url }}/assets/images/reviews/inokimoxsuper/dezmembrare.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; width: 100%;" />
 
@@ -144,8 +143,6 @@ Scuterul Ox Super vine cu suspensie joasă instalată, care este proiectată pen
 
 Viteza maxima a trotinetelor este limitata conform legislației. Procesul de limitare este electronic și se poate schimba conform instrucțiunilor producătorului, astfel:
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
 ---
 ### Franare
 
@@ -184,7 +181,7 @@ Dimensiunea bateriei este singurul dezavantaj cu care vine autonomia lungi a lui
 Procesul de încărcare al scuterului este simplu și direct, cu un port de încărcare montat central pe punte, care este protejat de un capac de plastic atunci când nu este utilizat. Timpul curent de încărcare este afișat pe afișajul ghidonului, așa cum v-ați fi așteptat.
 
 
-<img src="{{ site.url }}/assets/images/reviews/inokimoxsuper/incarcare.jpeg"
+<img src="{{ site.url }}/assets/images/reviews/inokimoxsuper/incarcare.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; width: 100%;" />
 
@@ -205,7 +202,7 @@ Ox Super are același cockpit de bază ca și celelalte modele de la Inokim. Are
 Afișajul vă permite să personalizați luminozitatea ecranului, să controlați viteza maximă, să activați și să opriți controlul croaziei, să schimbați unitățile de afișare (km sau mile) și să reglați când luminile scuterului se aprind automat.
 
 
-<img src="{{ site.url }}/assets/images/reviews/inokimoxsuper/ghidon.jpeg"
+<img src="{{ site.url }}/assets/images/reviews/inokimoxsuper/ghidon.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; width: 100%;" />
 

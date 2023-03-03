@@ -1,7 +1,7 @@
 ---
 title: Huawei P20 Lite | Pareri | Preturi | Review | Limba Romana
-image_path: huawei-p20-lite.jpg
-meta_image: assets/images/reviews/huawei-p20-lite.jpg
+image_path: huawei-p20-lite.webp
+meta_image: assets/images/reviews/huawei-p20-lite.webp
 layout: review
 date: 2019-05-13
 categorie-review: SMARTPHONE
@@ -68,7 +68,7 @@ Deși poartă același nume, P20 Lite nu se aseamănă foarte mult cu fratele ma
 
 Telefonul vine cu recunoaștere facială, o atingere inteligentă pentru un telefon ieftin.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h1.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h1.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -83,7 +83,7 @@ Toate butoanele de control ale smartphone-ului sunt poziționate de-a lungul lat
 
 Slotul hibrid SIM poate se regăsește pe partea stângă. Acesta oferă posibilitatea de a folosi fie o cartelă nano-SIM și un card micro-SD, fie două cartele nano-SIM. 
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h2.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h2.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -104,7 +104,7 @@ Huawei P20 Lite oferă un display mai mare decât P20 (5,84 inch vs 5,80 inch), 
 
 Notch-ul (decuparea ecranului în partea de sus pentru cameră), ca și dimensiuni este pe jumătate față de cel al lui Iphone X. Astfel, rămâne destul de mult spațiu pentru pentru diferiți indicatori și notificări de la sistemul de operare. În cazul în care nu îți place notch-ul, Huawei a inclus o opțiune de software prin care îl poți ascunde, prin colorarea barei de notificări în negru.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h3.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h3.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -124,7 +124,7 @@ Procesorul este ajutat de 4GB RAM, care, cel puțin pe hârtie, fac o treabă de
 
 În practică, este o combinație care se traduce prin mișcări fluente atunci când treci prin interfață. Este asemănător cu oricare alt flagship, dar problemele încep să apară când deschizi și schimbi mai multe aplicații în mod frecvent.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h5.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h5.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -155,7 +155,7 @@ La modelul Lite, apare o combinație duală de 16 și 2 megapixeli, cel de-al do
 
 Acestea fiind spuse, pe lângă modurile uzuale de fotografiere precum control manual, panorama și HDR, Lite mai are un mod portret ce facilitează adăugare de blur în jurul conturului subiectului, precum și o apertură mare ce permite focusul pe zona dintre prim-plan și background. 
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h4.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h4.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 
@@ -181,7 +181,7 @@ Huawei a cochetat cu ecrane de rezoluții mari la dispozitivele high-end, însă
 
 Pe partea de software, există posibilități de a minimiza scurgerea excesivă a bateriei. Poți automatiza oprirea și pornirea, ajusta dinamic rezoluția ecranului și preveni rularea aplicațiilor în background fără acordul tău.
 
-<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h6.jpg"
+<img src="{{ site.url }}/assets/images/reviews/huawei-p20-lite/h6.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 

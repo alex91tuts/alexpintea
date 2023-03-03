@@ -3,8 +3,8 @@ layout: travel
 title: "Locuri de vizitat in Bucuresti | top 20 atractii turistice"
 descriere: De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș plin de viață. 
 description: De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș plin de viață. 
-meta_image: assets/images/travel/bucuresti/main.jpg 
-image: /assets/images/travel/bucuresti/main.jpg
+meta_image: assets/images/travel/bucuresti/main.webp 
+image: /assets/images/travel/bucuresti/main.webp
 author: "Cultural Nomad"
 tara: ROMÂNIA
 oras: BUCUREȘTI
@@ -162,7 +162,7 @@ Desigur, nicio vizită nu ar fi completă fără a încerca bucătăria tradiți
 
 ### Grădina Cișmigiu
 
-<img src="/assets/images/travel/bucuresti/cismigiu.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/bucuresti/cismigiu.webp" alt="{{ page.keyword }}">
 
 <span class="drop">G</span>rădina Cișmigiu a fost înființată în 1847 de regele Carol I, care a dorit să creeze un loc în care oamenii să se poată reuni pentru a se relaxa și a se bucura de frumusețea naturii. 
 
@@ -181,7 +181,7 @@ Grădina Cișmigiu surprinde cu adevărat esența frumuseții Bucureștiului cu 
 ---
 ## Centrul Vechi 
 
-<img src="/assets/images/travel/bucuresti/oldtown.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/bucuresti/oldtown.webp" alt="{{ page.keyword }}">
 
 
 <span class="drop">C</span>entrul Vechi al Bucureștiului este una dintre cele mai emblematice și vibrante zone ale orașului. Situat în inima capitalei, Orașul Vechi găzduiește un amestec de cultură, istorie și modernitate care îl fac o destinație unică. 
@@ -239,7 +239,7 @@ Pe lângă explorarea frumuseții sale naturale, vizitatorii pot afla și despre
 ---
 ## Mănăstirea Cernica
 
-<img src="/assets/images/travel/bucuresti/cernica.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/bucuresti/cernica.webp" alt="{{ page.keyword }}">
 
 
 <span class="drop">S</span>ituată la doar 20 de kilometri de București, această frumoasă mănăstire este unul dintre centrele spirituale importante din țară. Construită în secolul al XVII-lea, mănăstirea a fost un refugiu pentru multe generații de călugări și vizitatori deopotrivă.
@@ -257,7 +257,7 @@ Vizitatorii pot găsi și alte câteva biserici în cadrul complexului, inclusiv
 ---
 ## Piața Unirii
 
-<img src="/assets/images/travel/bucuresti/punirii.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/bucuresti/punirii.webp" alt="{{ page.keyword }}">
 
 <span class="drop">P</span>iața își are rădăcinile în epoca medievală, când a servit drept loc de întâlnire important pentru negustori și comercianți. 
 
@@ -286,7 +286,7 @@ Indiferent când vizitați Piața Unirii din București, puteți fi sigur că va
 ---
 ## Muzeul Național de Artă Contemporană
 
-<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/contart.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/contart.webp" alt="{{ page.keyword }}">
 
 
 <span class="drop">M</span>uzeul Național de Artă Contemporană București (MNAC) este o vizită obligatorie pentru oricine este interesat de artă și cultură. Situat în inima capitalei României, acest muzeu adăpostește unele dintre cele mai importante lucrări de artă contemporană din întreaga lume.
@@ -304,7 +304,7 @@ Muzeul are și un centru de educație unde studenții pot afla mai multe despre 
 ---
 ## Palatul Primăverii
 
-<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/primaverii.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/primaverii.webp" alt="{{ page.keyword }}">
 
 <span class="drop">P</span>alatul Primăverii sau „Casa Ceaușescu”, este un exemplu uimitor de arhitectură modernistă situat în București. Construită la mijlocul anilor 1960 de dictatorul de atunci al României Nicolae Ceaușescu, ea stă ca o mărturie a puterii și opulenței Partidului Comunist Român.
 
@@ -321,7 +321,7 @@ Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României su
 ---
 ## Casa Melik - Muzeul Theodor Pallady
 
-<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/melik.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/melik.webp" alt="{{ page.keyword }}">
 
 <span class="drop">A</span>scunsă în inima Bucureștiului se află Casa Melik, un muzeu unic dedicat conservării operei renumitului pictor român Theodor Pallady. Situat într-una dintre cele mai vechi clădiri din orașul istoric istoric al Bucureștiului, vizitatorii pot explora lucrările fascinante ale acestui maestru artist și pot explora viața și cariera lui.
 
@@ -334,7 +334,7 @@ Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cu
 ---
 ## Descoperiți comorile culturii Române la Casa Memorială Anton Pann
 
-<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/pann.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/pann.webp" alt="{{ page.keyword }}">
 
 <span class="drop">C</span>asa Memorială Anton Pann București este un monument istoric care aduce un omagiu vieții și operelor renumitului scriitor și compozitor român din secolul al XIX-lea, Anton Pann. 
 
@@ -353,7 +353,7 @@ Pe lângă faptul că pot explora artefactele fascinante aflate aici, vizitatori
 ---
 ##  Parcul Național Văcărești
 
-<img src="/assets/images/blank.jpg" data-echo="/assets/images/travel/bucuresti/vacaresti.jpg" alt="{{ page.keyword }}">
+<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/vacaresti.webp" alt="{{ page.keyword }}">
 
 <span class="drop">S</span>ituat la marginea Bucurestiului, Parcul Natural Vacaresti este un reper unic care serveste drept sanctuar atat pentru fauna salbatica cat si pentru oameni deopotriva. Acest frumos parc găzduiește peste 200 de specii de păsări, inclusiv specii rare, precum stilul cu aripi negre și vulturul cu coadă albă. De asemenea, găzduiește mai multe specii de mamifere, reptile, amfibieni și pești. Parcul se mândrește cu o bogată diversitate de floră și faună, ceea ce îl face unul dintre cele mai importante puncte fierbinți de biodiversitate din România.
 

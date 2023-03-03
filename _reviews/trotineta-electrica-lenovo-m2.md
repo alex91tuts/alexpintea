@@ -1,7 +1,7 @@
 ---
 title: Trotineta Lenovo M2 | Review | Română
-image_path: lenovom2/lenovo4.jpg
-meta_image: assets/images/reviews/lenovom2/lenovo4.jpg
+image_path: lenovom2/lenovo4.webp
+meta_image: assets/images/reviews/lenovom2/lenovo4.webp
 layout: review
 date: 2023-02-20
 categorie-review: TROTINETA
@@ -9,7 +9,6 @@ tags: ['Lenovo', 'M2', '2023']
 nume: Lenovo M2
 scoreb:
 topic: review
-youtubeId: IUVDjjzfjWM
 author: Tudor Stan
 rating-value: 8.9
 opt:
@@ -139,4 +138,3 @@ Trotinetele electrice sunt și astăzi o noutate și sunt foarte atrăgătoare p
 
 Aglomerația din orașe face ca Lenovo M2 să fie ideal pentru oamenii care locuiesc în apartamente, care nu au garaje sau suficiente spații de parcare. Puteți să le ridicați cu ușurință pentru a intra în clădiri și a le aduce în lifturi. Pentru cei care fac naveta la serviciu, nu ar trebui să fie o problemă să o introducă în spațiul de lucru și să-l ascundă sub un birou pe timpul zilei.
 
-{% include youtubePlayer.html id=page.youtubeId %}

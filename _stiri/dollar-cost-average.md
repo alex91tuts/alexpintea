@@ -1,6 +1,6 @@
 ---
 title: Cum te ajuta Dollar Cost Average (DCA) să îți crești portofoliul 
-image_path: stiri/dca/main.jpg
+image_path: stiri/dca/main.webp
 layout: stiri
 date: 2023-02-28
 categorie: FINANCIAR

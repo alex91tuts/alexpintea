@@ -31,3 +31,5 @@ collections:
     output: true     
     permalink: /internet/:path/
 
+exclude: ['node_modules']
+

@@ -1,6 +1,6 @@
 ---
 title: Independența financiară | Ce inseamnă? | Cum se ajunge acolo? 
-image_path: stiri/independentafinanciara/main.jpg
+image_path: stiri/independentafinanciara/main.webp
 layout: stiri
 date: 2023-02-28
 categorie: FINANCIAR
@@ -49,7 +49,7 @@ Primul pas în obținerea independenței financiare este bugetarea. Trebuie să 
 
 Odată ce aveți un plan pus la punct, începeți să vă investiți banii cu înțelepciune și să vă diversificați portofoliul. Investiția în acțiuni, obligațiuni, ETF-uri, fonduri mutuale, imobiliare și alte investiții vă poate ajuta să construiți bogăție în timp și să creați un flux de venit pasiv care vă permite să trăiți din profit, mai degrabă decât să lucrați pentru un salariu.
 
-<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/pic1.jpg"
+<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/pic1.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
@@ -139,7 +139,7 @@ Este important să cercetați fiecare tip de acțiuni înainte de a investi, ast
 
 De asemenea, este important să luați în considerare ce tip de strategie de tranzacționare doriți să utilizați atunci când investiți în acțiuni. Există mai multe strategii disponibile, cum ar fi buy-and-hold, day trading, swing trading sau investiții de valoare. 
 
-<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/stock.jpg"
+<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/stock.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
@@ -230,7 +230,7 @@ Unul dintre cele mai mari avantaje ale investiției în imobiliare este că ofer
 
 În plus, proprietățile de închiriere oferă un flux de numerar constant de la chiriașii care plătesc chiria în fiecare lună. Investitorii pot beneficia, de asemenea, de deduceri fiscale pentru dobânda ipotecară și alte cheltuieli legate de deținerea proprietății închiriate.
 
-<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/rs.jpg"
+<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/rs.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
@@ -272,7 +272,7 @@ Investiția în diferite instrumente financiare este unul dintre cele mai import
 
 Datoriile includ orice tip de imprumut sau obligatii pe care le-ai facut in trecut si trebuie sa le platesti in prezent. Pentru a face aceste calcule, pot fi necesare informații cu privire la veniturile tale și la diferitele tipuri de active pe care le îngrijesc deții și datorii pe care le ai.
 
-<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/plan.jpg"
+<img src="{{ site.url }}/assets/images/stiri/independentafinanciara/plan.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 

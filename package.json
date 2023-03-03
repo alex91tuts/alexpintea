@@ -1,0 +1,15 @@
+{
+  "name": "uncss-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "uncss": "jekyll build && node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^5.0.10",
+    "uncss": "^0.12.1"
+  }
+}

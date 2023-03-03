@@ -1,6 +1,6 @@
 ---
 title: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
-image_path: stiri/riflaj/main.jpg
+image_path: stiri/riflaj/main.webp
 layout: stiri
 date: 2023-02-26
 categorie: DESIGN INTERIOR
@@ -18,7 +18,7 @@ colors: ['red', 'green', 'blue', 'orange']
 ---
 _Printre ultimele trenduri în amenajarea spatiilor interioare este riflajul decorativ test. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și capătă un aer modern._
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic1.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/pic1.webp"
 alt="\{{ page.title }}"
 style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
@@ -110,7 +110,7 @@ Cel mai dificil este să găsești șipcile din lemn. De obicei acestea se regă
 	
 	- Varianta 2: Mai ales în stuația în care șipcile nu sunt chiar drepte recomand lipirea acestora pe o placă suport. Această soluție ajută și în cazul în care pereții au defecte sau nu sunt tocmai drepți. Placa suport poate fi din PAL la culoarea dorită, chiar de grosimi sub standardul de 18 mm, PFL (3 mm și mai dificil de găsit în toate culorile, însă există alb și negru) sau Placaj de lemn (plywood) de diferite grosimi și se poate vopsi. Utilizarea unei plăci îți dă posibilitatea să prinzi fiecare șipcă dinspre spate cu șuruburi sau cuie (și în cazul lipirii direct pe perete poți folosi dibluri și suruburi, 3 pe șipcă, iar ulterior poți diblui și slefui lemnul). Dacă sipcile nu sunt finisate acestea trebuie șlefuite înainte de montare. Holzsuruburile pe care trebuie să le folosești trebuie sa fie mai scurte cu câțiva mm decât suma grosimii plăcii suport și lamela de lemn. Înainte de prindere pregăurește cu un burghiu mai subțire decât grosimea șuruburilor. Folosește și suruburi dar și adeziv. 
 	
-<img src="{{ site.url }}/assets/images/stiri/riflaj/lemnpal.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/lemnpal.webp"
 alt="\{{ page.title }}"
 style="float: left; margin-right: 10px; margin-bottom: 10px; width: 100%" />
 		 
@@ -135,7 +135,7 @@ Pentru realizarea unui riflaj DIY (în regie proprie), putem utiliza numai MDF b
 
 - MDF-ul brut se poate debita în șipci și se poate prelucra exact ca lemnul. În mod normal, acesta se vopsește sau se înfoliază de către firmele specializate. Dar în cazul nostru, unde vrem să economisim jumatate din costuri, avem o singură opțiune și anume, să îl vopsim. Așadar, după ce am obținut lamelele urmărim un tutorial pe youtube despre cum se vopseșt MDF-ul, cumpărăm grund și vopsea și trecem la treabă. Fie vosim lamelă cu lamelă fie le montăm pe perete sau pe placa suport prin metodele descrise la lemn și le vopsim cu totul (inclusiv suportul obținând așadar un riflaj de aceeași culoare). Există de asemenea și soluția frezării CNC a întregii plăci cu formă de riflaj și ulterior vopsirea sau înfolierea acesteia. 
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/mdfvopsit.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/mdfvopsit.webp"
 alt="\{{ page.title }}"
 style="float: left; margin-right: 10px; margin-bottom: 10px; width: 100%;" />
 
@@ -181,7 +181,7 @@ Aici întâmpinăm o mică dificultate, mașinile care aplică PAL ul nu pot prn
 
 După debitare aducem șipcile acasă și le lipim conform procedurilor descrise la lemn și la MDF. 
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/lemnpal.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/lemnpal.webp"
 alt="\{{ page.title }}"
 style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
@@ -195,19 +195,19 @@ Placaj este un tip de produs din lemn de inginerie realizat din foi subțiri de 
 Placajul este mai scump decât PAL-ul, poate și decât anumite finisaje de MDF. De asemenea, se poate comanda debitare direct de la furnizor.
 
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/debitareplywood.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/debitareplywood.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 
 După ce vin șipcile debitate le finisăm conform preferințelor (lac, ceară sau vopsea). Placajul, deoarece este făcut din lemn poate fi finisat exact ca și lemnul spre deosebire de MDF. 
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/finisareplaywood.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/finisareplaywood.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 
 După finisare le montăm fie direct pe perete fie pe o placă suport.
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/finalplaywood.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/finalplaywood.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 
@@ -215,32 +215,32 @@ După finisare le montăm fie direct pe perete fie pe o placă suport.
 ## Idei de riflaje
 
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic2.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/pic2.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 		 
 ---
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic3.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/pic3.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 
 ---
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic4.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/pic4.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 
 ---
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic5.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/pic5.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 		 
 ---
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic6.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/pic6.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 		 
 ---
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic7.jpg"
+<img src="{{ site.url }}/assets/images/stiri/riflaj/pic7.webp"
      alt="\{{ page.title }}"
      style="margin-right: 10px; width: 100%" />
 

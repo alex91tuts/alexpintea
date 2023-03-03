@@ -3,8 +3,8 @@ layout: travel
 title: "Lisabona obiective turistice - top 20"
 descriere: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase și cosmopolitane orașe ale Europei. Orașul atrage o multitudine de turiști din mai multe motive.
 description: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase și cosmopolitane orașe ale Europei. Orașul atrage o multitudine de turiști din mai multe motive.
-meta_image: assets/images/travel/lisabona/obiective-lisabona-featured.jpg 
-image: /assets/images/travel/lisabona/obiective-lisabona-featured.jpg
+meta_image: assets/images/travel/lisabona/obiective-lisabona-featured.webp 
+image: /assets/images/travel/lisabona/obiective-lisabona-featured.webp
 author: "Cultural Nomad"
 tara: PORTUGALIA
 oras: LISABONA
@@ -32,7 +32,7 @@ Ani mai târziu, a fost transformat în far și casă de oaspeți. Este situat f
 
 Turnul a fost construit de arhitectul și sculptorul Francisco de Arruda în stil Manuelian și în 1983 a fost inclus în patrimoniu mondial de UNESCO.  
 
-<img src="/assets/images/travel/lisabona/belem-tower-2.jpg" alt="{{ page.keyword }} turnul belem">
+<img src="/assets/images/travel/lisabona/belem-tower-2.webp" alt="{{ page.keyword }} turnul belem">
 
 ### Ce găsim la interior
 
@@ -48,7 +48,7 @@ Etajele sunt denumite dinspre parter spre ultimul etaj, astfel:
 - Capela
 - Acoperisul Terasă.
 
-<img src="/assets/images/travel/lisabona/belem-tower.jpg" alt="{{ page.keyword }} turnul belem">
+<img src="/assets/images/travel/lisabona/belem-tower.webp" alt="{{ page.keyword }} turnul belem">
 
 Pe fațada vestică a turnului este amplasat un balaur în forma unui rinocer. Interesant este faptul că în anul 1513, Portughezii au văzut pentru prima dată un rinocer ce a fost adus din india.
 
@@ -58,13 +58,13 @@ Pe fațada vestică a turnului este amplasat un balaur în forma unui rinocer. I
 
 <span class="drop">S</span>an Francisco este popular pentru troilebuze, Londra pentru autobuzele roșii cu etaj iar **Lisabona** este populară pentru tramvaiele sale. Linia 28, care se întinde de la Martim Moniz la Campo Ourique, are un traseu foarte frumos pentru turiști. 
 
-<img src="/assets/images/travel/lisabona/tram-28.jpg" alt="{{ page.keyword }} tramvai 28">
+<img src="/assets/images/travel/lisabona/tram-28.webp" alt="{{ page.keyword }} tramvai 28">
 
 Nu numai că traversează unele dintre cele mai populare cartiere, incluzând aici Graca, Baixa și Bairro Alto, dar trece în revistă și câteva obiective turistice precum Castelul St. George și Alfama. 
 
 Odată cu ruta, tramvaiele în sine fac parte din experiență. Multe dintre tramvaiele Lisabonei sunt aceleași care au fost folosite în cel de-al doilea război mondial. Așadar, nu vă așteptați la aer condiționat sau la o călătorie lină de-alungul colinelor. Însă, stați fără grijă, vizitatorii consideră totul parte din șarmul tramvaielor.
 
-<img src="/assets/images/travel/lisabona/tram-28-1.jpg" alt="{{ page.keyword }} tramvai 28">
+<img src="/assets/images/travel/lisabona/tram-28-1.webp" alt="{{ page.keyword }} tramvai 28">
 
 ### Ponturi și trucuri utile
 
@@ -89,7 +89,7 @@ Linia lui 28 este una importantă din rețeaua de transport a **Lisabonei** fapt
 
 Tramvaiele sunt adesea întârziate în trafic pe străzile înguste sau chiar de multe ori forțate să oprească din cauza mașinilor parcate neregulamentar. 
 
-<img src="/assets/images/travel/lisabona/tram-28-2.jpg" alt="{{ page.keyword }} tramvai 28">
+<img src="/assets/images/travel/lisabona/tram-28-2.webp" alt="{{ page.keyword }} tramvai 28">
 
 Ruta: **Martim Moniz – Graca – Portas de Sol – Se Cathedral – Rua Conceição (southern Baixa) – Chiado – Sao Bento – Estrela - Campo Ourique și retur.**
 
@@ -100,7 +100,7 @@ Cea mai aglomerată parte este între Baixa și Alfama, însă în sezon toată 
 
 <span class="drop">A</span>mplasat pe vârful celei mai înalte coline din **Lisabona**, São Jorge, castelul cu același nume este unul dintre cele mai emblematice simboluri ale orașului. 
 
-<img src="/assets/images/travel/lisabona/sao-jorge-2.jpg" alt="{{ page.keyword }} Castelul São Jorge">
+<img src="/assets/images/travel/lisabona/sao-jorge-2.webp" alt="{{ page.keyword }} Castelul São Jorge">
 
 Siliueta castelului iese în evidență atât pe timp de zi cât și pe timp de noapte când este luminată. Pe aceeași colină mai sunt găzduite și două dintre cartierele orașului, Alfama și Castelo.
 
@@ -110,7 +110,7 @@ O mică fortăreață construită de către vizigoți, a fost cetate de scaun î
 
 Există două secțiuni distincte ale castelului; Castelul Moorish construit îninte de secolul 12 și Palatul Royal construit undeva între secolele 13 și 14. Din Palatul Royal nu a mai rămas aproape nimic după ce a fost convertit în bază militară și distrus apoi de cutremurul din 1755. Întergul castel a fost distrus dar restaurat extensiv în anul 1920 de către guvernul republicii.
 
-<img src="/assets/images/travel/lisabona/sao-jorge-1.jpg" alt="{{ page.keyword }} Castelul São Jorge">
+<img src="/assets/images/travel/lisabona/sao-jorge-1.webp" alt="{{ page.keyword }} Castelul São Jorge">
 
 Nu trebuie să ratați uriașul desen ce reprezintă **Lisabona** înainte de cutremurul din 1755. Acesta este găzduit în Nucleo Museologico în clădirile din vechiul palat. Pictura este fascinantă deoarece arată catedrala Se cu un turn, vechea biserică Igreja Antonio, vechile ziduri Moorish și cum castelul era singura construcție de pe deal.
  
@@ -121,7 +121,7 @@ O vizită completă a castelului va dura aproximativ toată dimineața, având �
 După castel poți face o plimbare pe străzile din vecinătate. Pe dealul Sao Jorge este amplasată și **Catedrala Lisabona**.
 
 Fortăreața oferă cea mai bună vedere asupra zonei de est a Lisabonei.
-<img src="/assets/images/travel/lisabona/sao-jorge.jpg" alt="{{ page.keyword }} Castelul São Jorge">
+<img src="/assets/images/travel/lisabona/sao-jorge.webp" alt="{{ page.keyword }} Castelul São Jorge">
 
 ### Program și prețuri
 
@@ -131,7 +131,7 @@ Prețul biletului de intrare este de **8.5 Euro** iar pentru copii sub 10 ani es
 
 Fiind unul dintre cele mai populare **obiective turistice din Lisabona** de obicei sunt cozi foarte mari la bilete și aglomerație mare în jurul orelor de prânz. Pentru o vizită mai relaxată ia în considerare orele dimineții sau cele de după masă.
 
-<img src="/assets/images/travel/lisabona/sao-jorge-3.jpg" alt="{{ page.keyword }} Castelul São Jorge8">
+<img src="/assets/images/travel/lisabona/sao-jorge-3.webp" alt="{{ page.keyword }} Castelul São Jorge8">
 
 Monumentul oferă tururi informative și gratuite. Dacă prinzi unul dintre aceste tururi este recomandat să te alături. 
 
@@ -187,7 +187,7 @@ Mănăstire:
 
 <span class="drop">P</span>iața Rossio este cea mai plină de viața zonă a **Lisabonei**, inundată de baruri și restaurante. Denumită oficial Praça de D. Pedro IV, piața este sufletul Lisabonei unde își petrec timpul relaxându-se atât locuitorii cât și turiștii. 
 
-<img src="/assets/images/travel/lisabona/rossio-2.jpg" alt="{{ page.keyword }} piata rossio">
+<img src="/assets/images/travel/lisabona/rossio-2.webp" alt="{{ page.keyword }} piata rossio">
 
 Situată în cartierul Baxia, foarte aproape de Restauradores Square, nu duce lipsă de monumente și obiective turistice:
 
@@ -195,7 +195,7 @@ Situată în cartierul Baxia, foarte aproape de Restauradores Square, nu duce li
 
 În centrul pieței este așezată columna lui Pedro IV al Portugaliei, cunoscut și ca Regele Soldat. La baza acesteia sunt 4 statuiete femei, ce reprezintă calități ale regelui: Justiție, Înțelepciune, Putere și Temperare.
 
-<img src="/assets/images/travel/lisabona/rossio-3.jpg" alt="{{ page.keyword }} piata rossio">
+<img src="/assets/images/travel/lisabona/rossio-3.webp" alt="{{ page.keyword }} piata rossio">
 
 ### Teatrul Național D. Maria 
 
@@ -205,7 +205,7 @@ Teatrul Național D. Maria a fost construit în 1842 în locul palatului Estaus,
 
 Pe partea stângă a teatrului Național regăsim stația de tren, construită în 1887. Nu numai că este unul dintre cele mai atrăgătoare repere arhitecturale din Lisabona, dar este și una dintre cele mai intrigante stații de tren din Europa. 
 
-<img src="/assets/images/travel/lisabona/rossio-4.jpg" alt="{{ page.keyword }} piata rossio">
+<img src="/assets/images/travel/lisabona/rossio-4.webp" alt="{{ page.keyword }} piata rossio">
 
 Stația, denumită în trecut Stația Centrală, face legătura între Lisabona și Sintra. Tunelul prin care trenul trebuie să treacă pentru a ajunge la stația Rossio a fost considerat, la momentul construirii (chiar și în zilele noastre), o minune a ingineriei, cel puțin la nivel național. 
 

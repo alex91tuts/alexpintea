@@ -1,6 +1,6 @@
 ---
 title: Galaxy s10 Lite, Galaxy Note 10 Lite Pareri | Specificatii | Culori 
-image_path: stiri/s10lite-note10lite/main.jpg
+image_path: stiri/s10lite-note10lite/main.webp
 layout: stiri
 date: 2020-01-04
 categorie: STIRI
@@ -42,11 +42,11 @@ Galaxy Note 10 Lite vine de asemenea și cu un S Pen.
 
 În ceea ce privește culorile, S10 Lite va fi disponibil pe alb, negru și albastru iar  Note 10 Lite pe negru, roșu și Aurora Glow (argintiu cu o nuanță de albastru).
 
-<img src="{{ site.url }}/assets/images/reviews/s10lite-note10lite/s10lite.jpg"
+<img src="{{ site.url }}/assets/images/reviews/s10lite-note10lite/s10lite.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 		 
-<img src="{{ site.url }}/assets/images/reviews/s10lite-note10lite/note10lite.jpg"
+<img src="{{ site.url }}/assets/images/reviews/s10lite-note10lite/note10lite.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px;" />
 		 

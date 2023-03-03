@@ -1,6 +1,6 @@
 ---
 title: "Înțelegerea ratei totale de costuri: Ce trebuie să știți despre taxele de investiție" 
-image_path: stiri/ter/main.jpg
+image_path: stiri/ter/main.webp
 layout: stiri
 date: 2023-02-28
 categorie: FINANCIAR
@@ -74,7 +74,7 @@ De asemenea, trebuie în principal să vă uitați la alte valori, cum ar fi ist
 ## Cum se calculeaza Raportul de Cheltuieli Totale
 
 
-<img src="{{ site.url }}/assets/images/stiri/ter/calcul.jpg"
+<img src="{{ site.url }}/assets/images/stiri/ter/calcul.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 

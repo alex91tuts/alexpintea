@@ -1,7 +1,7 @@
 ---
 title: Pareri Telefoane Huawei | Top 2023 | Android 
-image_path: pareri-huawei/logo-huawei.jpg
-meta_image: assets/images/reviews/pareri-huawei/logo-huawei.jpg
+image_path: pareri-huawei/logo-huawei.webp
+meta_image: assets/images/reviews/pareri-huawei/logo-huawei.webp
 layout: review
 date: 2020-01-06
 categorie-review: SMARTPHONE
@@ -312,7 +312,7 @@ P50 Pocket costă o mulțime de bani. Prețurile sunt mult mai mari decât ceea 
 
 Există două moduri principale prin care smartphone-urile se pot îmbunătăți în continuare: camera foto și bateria. HUAWEI P30 Pro face ambele lucruri mai bine decât orice alt telefon. Avantajele sale sunt aproape nedrepte în comparație cu alte telefoane.
 
-<img src="{{ site.url }}/assets/images/reviews/pareri-huawei/p30pro.jpg"
+<img src="{{ site.url }}/assets/images/reviews/pareri-huawei/p30pro.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; width: 100%;" />
 
@@ -351,7 +351,7 @@ Seria de telefoane P30 este ultima pe care o recomandăm pentru cea mai largă g
 
 În războiul telefoanelor pliabile, Huawei nu ia prizoniri. Acesta copiază stilul flexibil al telefonului Samsung și îl îmbunătățește cu ecrane mai mari, camere foto mai bune și o carcasă elegantă.
 
-<img src="{{ site.url }}/assets/images/reviews/pareri-huawei/matex2.jpg"
+<img src="{{ site.url }}/assets/images/reviews/pareri-huawei/matex2.webp"
      alt="\{{ page.title }}"
      style="float: left; margin-right: 10px; width: 100%;" />
 
