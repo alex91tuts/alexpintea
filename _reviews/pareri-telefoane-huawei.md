@@ -44,6 +44,46 @@ Pe lângă toate aceste caracteristici grozave, telefoanele Huawei sunt, de asem
 
 În general, dacă sunteți în căutarea unui smartphone de încredere, care să nu vă spargă contul bancar, atunci telefoanele Huawei ar trebui să fie în fruntea listei dvs.!
 
+<div class="row">
+<!-- Oferta Mate 50 pro-->
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/totalconvert.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">totalconvert.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513563" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/flanco.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">flanco.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513565" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mobino.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mobino.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513566" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/badabum.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">flip.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513568" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+</div>
+
 ---
 ## Sancțiuni impuse de SUA
 
@@ -114,6 +154,46 @@ Din cauza diversității mari de telefoane poate fi dificil să îți alegi unul
 7. Huawei P40
 8. Huawei P40 Pro Plus
 9. Huawei Nova 10 Pro
+
+<div class="row">
+<!-- Oferta Mate 50 pro-->
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/totalconvert.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">totalconvert.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513563" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/flanco.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">flanco.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513565" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mobino.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mobino.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513566" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/badabum.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">flip.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513568" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+</div>
 
 ---	
 ## Huawei Mate 50 Pro
@@ -561,3 +641,43 @@ Principala competiție pentru HUAWEI nova 10 este nova 9 anterior, care are un p
 Principala diferență dintre cele două este noua cameră ultrawide de 60 de megapixeli de pe nova 10, în timp ce nova 9 are o cameră selfie lată de 32 de megapixeli. Cât de mult cântăresc aceste diferențe în decizia finală de cumpărare va varia de la persoană la persoană.
 
 Deși sunt disponibile multe alte dispozitive cu 5G și GMS, Nova 10 are încă o serie de specificații fiabile care îl fac un competitor puternic.
+
+<div class="row">
+<!-- Oferta Mate 50 pro-->
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/totalconvert.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">totalconvert.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513563" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/flanco.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">flanco.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513565" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mobino.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mobino.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513566" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+<div style="padding: 10px" class="col-6">
+	<div class="price-box row">
+		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/badabum.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">flip.ro</p>
+		</div>
+		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Telefoane Huawei</p>
+		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11513568" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
+		</div>
+	</div>
+</div>
+</div>
