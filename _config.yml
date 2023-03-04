@@ -30,6 +30,9 @@ collections:
   internet:
     output: true     
     permalink: /internet/:path/
+  calculator:
+    output: true     
+    permalink: /calculator/:path/
 
 exclude: ['node_modules']
 

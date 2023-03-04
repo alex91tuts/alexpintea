@@ -7,7 +7,7 @@
 	{% for travel in travels limit:4 %}
 		<a href="{{ travel.url }}">
 		<div class="small-post">
-	<img class="small-post-image" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" height="41px">
+	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" height="41px" width="79px">
 		{{ travel.title }}
 		</div>
 		<span class="small-post-meta"><i class="ti-user" aria-hidden="true"></i> {{travel.author}} </span>

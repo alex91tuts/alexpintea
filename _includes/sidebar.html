@@ -7,7 +7,7 @@
 	{% for review in reviews limit:2 %}
 		<a href="{{ review.url }}">
 		<div class="small-post">
-		<img class="small-post-image" alt="{{ review.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/reviews/{{ review.image_path }}&h=41&output=jpg&q=65" height="41px">
+		<img class="small-post-image" alt="{{ review.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/reviews/{{ review.image_path }}&h=41&output=jpg&q=65" height="41px" width="79px">
 		{{ review.title }}
 		</div>
 		<span class="small-post-meta"><i class="ti-user" aria-hidden="true"></i> {{review.author}} </span>
@@ -19,7 +19,7 @@
 	{% for stire in stiri limit:2 %}
 		<a href="{{ stire.url }}">
 		<div class="small-post">
-		<img class="small-post-image" alt="{{ stire.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/{{ stire.image_path }}&h=41&output=jpg&q=65" height="41px">
+		<img class="small-post-image" alt="{{ stire.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/{{ stire.image_path }}&h=41&output=jpg&q=65" height="41px"  width="79px">
 		{{ stire.title }}
 		</div>
 		<span class="small-post-meta"><i class="ti-user" aria-hidden="true"></i> {{stire.author}} </span>

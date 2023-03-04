@@ -7,7 +7,7 @@
 	{% for trip in travel reversed %}
 	<a href="{{ review.url }}">
 	<div class="small-post">
-	<img class="small-post-image" src="http://images.weserv.nl/?url={{ site.url }}{{ trip.imagesidebar }}&h=41&output=jpg&q=65">
+	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ trip.imagesidebar }}&h=41&output=jpg&q=65">
 	{{ trip.title }}
 	</div>
 	<span class="small-post-meta"><i class="tiuser" aria-hidden="true"></i> totredus </span>
