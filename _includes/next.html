@@ -1,0 +1,113 @@
+<hr>
+<div class="PageNavigation">
+  {% if page.previous.url %}
+   		<div class="postcard">
+				<div class="tit">
+					<p>{{page.previous.title}}</p>
+				</div >
+				<div  class="lin">
+					<a class="prev" href="{{page.previous.url}}">&laquo; VEZI</a>
+				</div>
+			</div>
+	{% endif %}
+  {% if page.next.url %}
+		<div class="postcard-next">
+				<div class="tit">
+					<p>{{page.next.title}}</p>
+				</div >
+				<div  class="lin-next">
+					<a class="prev" href="{{page.next.url}}">VEZI &raquo;</a>
+				</div>
+			</div>
+  {% endif %}
+</div>
+
+
+
+
+
+
+<style>
+	
+@media (max-width: 767px) {
+ 	.tit p {
+		font-size: small;
+		line-height: normal;
+	}
+	}
+	
+.PageNavigation {
+display: flex;
+flex-direction: row;
+}
+
+.postcard-next {
+	flex: 1;
+	background-color: #ffffff;
+	border-radius: 5px;
+	box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	max-width: 400px;
+	margin-top: 20px;
+	margin: 5px;	
+	}
+.postcard {
+		flex: 1;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);
+		display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    margin-top: 20px;
+		margin: 5px;
+	}
+.tit {
+	flex: 1;
+	padding: 10px;
+	}
+.tit p {
+	margin: 0;
+	overflow: hidden;
+  max-height: 58px;
+	}
+.lin {
+	display: flex;
+  height: 100%;
+	background: linear-gradient(to right, #07d79c 0%, #3aba85 100%);
+	padding-left: 10px;
+	padding-right: 10px;
+	align-items: center;
+  border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	}
+.lin-next {
+	display: flex;
+  height: 100%;
+	background: linear-gradient(to right, #07d79c 0%, #3aba85 100%);
+	padding-left: 10px;
+	padding-right: 10px;
+	align-items: center;
+  border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	}
+.postcard a {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+	color: white;
+}
+
+.postcard-next a {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+	color: white;
+}
+
+</style>

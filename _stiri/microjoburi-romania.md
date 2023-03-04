@@ -3,7 +3,8 @@
 title: "Microjoburile în România | Bani pentru servicii online"
 description: Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale.
 layout: stiri
-image_path: internet/microjoburi/main.jpg
+image_path: internet/microjoburi/main.webp
+meta_image: assets/images/microjoburi/main.webp
 categorie: INTERNET
 author: "Damian"
 tags: ['gig', 'fiverr','bani']

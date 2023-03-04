@@ -2,8 +2,8 @@
 title: "Cum sa faci un site? Un ghid complet | Postează primul tău blog"
 description:  Cum sa faci un site fără să fii programator? Cu ce să începi? Care este diferența dintre Blog și Site? Răspunsuri potrivite pentru începători găsești aici.
 layout: stiri
-image_path: internet/faciunsite/main.jpg
-meta_image: assets/images/internet/faciunsite/main.jpg
+image_path: internet/faciunsite/main.webp
+meta_image: assets/images/internet/faciunsite/main.webp
 categorie: INTERNET
 author: "Damian"
 lang: ro_RO
