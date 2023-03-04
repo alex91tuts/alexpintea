@@ -18,6 +18,26 @@
 
 
 // Link hover no underlin
+.pros ul li:before {
+	content: "\e64d"; /* FontAwesome Unicode */
+	font-family: themify;
+	display: inline-block;
+	margin-left: -1.3em; /* same as padding-left set on li */
+	width: 1.3em;
+	color: green;
+	font-weight: 900;
+	font-size: 15px;
+}
+.cons ul li:before {
+	content: "\e620"; /* FontAwesome Unicode */
+	font-family: themify;
+	display: inline-block;
+	margin-left: -1.3em; /* same as padding-left set on li */
+	width: 1.3em;
+	color: red;
+	font-weight: 900;
+	font-size: 15px;
+}
 a:hover {
 	text-decoration: none !important;
 }
