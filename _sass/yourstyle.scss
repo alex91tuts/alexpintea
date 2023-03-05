@@ -398,7 +398,9 @@ Header 17
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex; 
+	justify-content: space-between;
+}
   .header17 .h17-nav .call-info {
     padding-left: 20px;
     border-left: 1px solid rgba(120, 130, 140, 0.13);

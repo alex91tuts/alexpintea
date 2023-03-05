@@ -10,9 +10,9 @@
 	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" height="41px" width="79px">
 		{{ travel.title }}
 		</div>
-		<span class="small-post-meta"><i class="ti-user" aria-hidden="true"></i> {{travel.author}} </span>
-		<span class="small-post-meta"><i class="ti-calendar" aria-hidden="true"></i> {{ travel.date | date_to_string }} </span>
-		<hr class="line-sub">
+		<span class="small-post-meta"><img src="/assets/images/svg/author.svg"> {{travel.author}} </span>
+		<span class="small-post-meta"><img src=/assets/images/svg/calendar.svg/> {{ travel.date | date_to_string }} </span>
+		<hr style="border: 0; margin: 0;">
 		</a>
 	{% endfor %}
 	</div>
@@ -24,7 +24,7 @@
 		{% for item in tari reversed %}
 		<a href="{{ site.url }}/travel" onclick="window.name = '{{ item }}';" style="color: black;">
 			{{ item }}
-		<hr class="line-sub-cat">
+		<hr style="border: 0;">
 		</a>
 	{% endfor %}
 </div>
@@ -74,7 +74,7 @@
 		font-weight: 900;
 		display: inline;
     border-bottom: solid black;
-    padding-bottom: 17px;
+    padding-bottom: 11px;
 	}
 	
 </style>

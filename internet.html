@@ -15,7 +15,7 @@ permalink: /internet/
 		{% include internet.html %}
 	{% endfor %}
 	</div>
-	{% include sidebar-general.html %}
+	{% include sidebar.html %}
 </div>
 
 <style>
@@ -83,9 +83,9 @@ permalink: /internet/
 		border-radius: 3px;
 	}
 	#categorie-selectata:after {
-		content: "\e646"; /* FontAwesome Unicode */
-    font-family: themify;
+		content: url('/assets/images/svg/cons.svg'); /* FontAwesome Unicode */
 		margin-left: 10px;
+		margin-top: 2px;
 	}
 	.cat-small {
 		margin-bottom: 10px;

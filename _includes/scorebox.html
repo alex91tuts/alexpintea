@@ -28,15 +28,15 @@
 	</div>
 	<div class="col">
 			{% for item in page.opt %}
-				<div class="progress" style="height: 6px;">
+				<div class="progress-div;" style="background: lightgrey; 	border-radius: 0.25rem;">
 						{% if item.value <= 25 %}
-								<div class="progress-bar bg-danger" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background-color: #dc3545;"></div>
 						{% elsif item.value > 25 and item.value <= 50 %}
-								<div class="progress-bar bg-warning" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background-color: #ffc107;"></div>
 						{% elsif item.value > 50 and item.value <= 75 %}
-								<div class="progress-bar bg-info" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background: #17a2b8"></div>
 						{% elsif item.value > 75 %}
-								<div class="progress-bar bg-success" role="progressbar" style="width: {{ item.value }}%" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100"></div>
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background-color: #28a745;"></div>
 						{% endif %}
 			</div>
 			<p class="features-score">{{ item.name | upcase }}<span style="float: right;">{{ item.value }}</span></p>
@@ -84,7 +84,7 @@
 		<h3>SPECIFICATII</h3>
 		<div id="read-table" class="table-trunc">
 		<div class="table-responsive">
-		<table class="table table-bordered table-sm table-hover table-dark">
+		<table class="table table-spec">
 			<tbody>
 				{% for item in specs %}
 				<tr>
@@ -102,7 +102,27 @@
 </div>
 
 <style>
-	#read-table-btn {
+.progress-div {
+  height: 1rem;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  background: lightgrey;
+	border-radius: 0.25rem;
+}
+
+.progress-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  transition: width 0.6s ease;
+  background-color: #007bff;
+	border-radius: 0.25rem;
+}
+
+#read-table-btn {
 		background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
     background: linear-gradient(to right,#ff8a00,#da1b60);
     width: 100%;

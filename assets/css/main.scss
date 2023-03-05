@@ -6,37 +6,95 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "syntax";
 @import "yourstyle";
-@import "aos";
-@import "style";
 @import "screen";
-@import "animate";
 @import "mobile";
 @import "general";
-@import "bootstrap.min";
 
 
-
-
-// Link hover no underlin
-.pros ul li:before {
-	content: "\e64d"; /* FontAwesome Unicode */
-	font-family: themify;
-	display: inline-block;
-	margin-left: -1.3em; /* same as padding-left set on li */
-	width: 1.3em;
-	color: green;
-	font-weight: 900;
-	font-size: 15px;
+.table-spec {
+	overflow-x: auto;
+	display: block;
+	word-wrap: break-word;
+	border: 1px solid lightgray;
+  border-radius: 5px;
+	border-collapse: collapse;
 }
-.cons ul li:before {
-	content: "\e620"; /* FontAwesome Unicode */
-	font-family: themify;
+.table-spec tr {
+	border-bottom: 1px solid lightgray;
+	
+}
+
+.table-spec tr td {
+	padding-left: 5px;
+	background-color: #32383e;
+	color: white;
+}
+
+.left-td {
+	border-right: 1px solid lightgray;
+	background-color: #32383e;
+	color: white;
+}
+
+hr {
+	border-top: 1px;
+}
+.mobile-toc-trig::before {
+	content: url('/assets/images/svg/dots.svg');
 	display: inline-block;
-	margin-left: -1.3em; /* same as padding-left set on li */
+	}
+
+.btn-success-gradiant span {
+	margin: 8px;
+	margin-left: 13px;
+	margin-right: 13px;
+	font-size: larger;
+	font-weight: bold;
+}
+
+.footer-post h4 {
+	line-height: 23px;
+}
+
+.footer-post button {
+	width: 100%;
+}
+
+#categorie-selectata {
+	background: black;
+}
+	.line-sub {
+		margin-top: -17px;
+    margin-bottom: 17px;
+		color: lightgray !important;
+	}
+	.line-sub-cat {
+		margin-bottom: 15px;
+    margin-top: 0px;
+}
+.review-side a {
+	color: none !important;
+}
+
+.small-svg {
+	margin-right: 2px;
+	vertical-align: baseline;
+}
+
+.pros ul li:before {
+    content: url(/assets/images/svg/pros.svg);
+    display: inline-block;
+    margin-left: -1.3em;
+    width: 1.3em;
+    vertical-align: -10%;
+}
+
+.cons ul li:before {
+ content: url(/assets/images/svg/cons.svg);
+	display: inline-block;
+	margin-left: -1.3em;
 	width: 1.3em;
-	color: red;
-	font-weight: 900;
-	font-size: 15px;
+	vertical-align: -10%;
 }
 a:hover {
 	text-decoration: none !important;

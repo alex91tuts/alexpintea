@@ -19,3 +19,67 @@
     
 {% include footer.html %}  
 
+<script>
+let list = ['Scor'],x = [], continut, he, outputList = '', bottom, rect;
+
+function getScrollDistance() {
+	bottom = document.getElementById('bottom')
+	rect = bottom.getBoundingClientRect().top;
+	rect = rect + 200;
+	}getScrollDistance();
+	
+function changeClass(){
+	var scrollPosY = window.pageYOffset | document.body.scrollTop,
+			cuprins = document.getElementById('tocid');
+
+	if(scrollPosY > 500 && scrollPosY < rect) {
+			 cuprins.style.position = "fixed";
+			 cuprins.style.top = "90px";
+		   cuprins.style.bottom = null;
+		
+	} else if(scrollPosY <= 500) {
+			 cuprins.style.position = "absolute";
+			 cuprins.style.top = null;
+		   cuprins.style.bottom = null;
+		
+	} else {
+		cuprins.style.position = 'absolute';
+    cuprins.style.bottom = '14px';
+		cuprins.style.top = null;
+	}
+}
+
+function toggleShow() {
+	var toc = document.getElementById('tocid');
+	if (toc.style.marginLeft === "-106px") {
+    toc.style.marginLeft = "-9px";
+  } else {
+    toc.style.marginLeft = "-106px";
+  }
+
+}
+
+	
+	
+	function getAllHeadings() {
+	continut = document.getElementById('continut');
+	he = continut.getElementsByTagName('h2');
+	for (i=0; i<he.length; i++) {
+	list.push(he[i].innerHTML);
+	}
+		
+		list.forEach(function(prod){
+			outputList += `
+		<!-- begin post -->
+				<a href="#${prod.split(' ').join('-').toLowerCase()}"><li>${prod}</li></a>
+		<!-- end post -->`	
+		});
+	document.getElementById('outputList').innerHTML = outputList;
+}
+window.onload = getAllHeadings();
+
+window.onbeforeunload = function () {
+  window.scrollTo(0, 0);
+}
+
+</script>

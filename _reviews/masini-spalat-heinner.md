@@ -48,7 +48,7 @@ Cu toate acestea, în general, compania Heinner este apreciată de mulți clien�
 
 <div class="row">
 <!-- Oferta Mate 50 pro-->
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/emag.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">emag.ro</p>
 		</div>
@@ -57,7 +57,7 @@ Cu toate acestea, în general, compania Heinner este apreciată de mulți clien�
 		</div>
 	</div>
 </div>
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/badabum.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">badabum.ro</p>
 		</div>
@@ -174,7 +174,7 @@ Modelul HWM-VF2610SD de la Heinner este o mașină de spălat cu încărcare fro
 
 <div class="row" style="display: flex; justify-content: center;">
 <!-- Oferta Mate 50 pro-->
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/emag.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">emag.ro</p>
 		</div>
@@ -185,7 +185,7 @@ Modelul HWM-VF2610SD de la Heinner este o mașină de spălat cu încărcare fro
 </div>
 <!-- Sfarsit-->
 <!-- 
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
 		</div>
@@ -231,7 +231,7 @@ HWM-V7414D+++ este un model de mașină de spălat de la Heinner cu încărcare 
 
 <div class="row" style="display: flex; justify-content: center;">
 <!-- Oferta Mate 50 pro-->
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/emag.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">emag.ro</p>
 		</div>
@@ -242,7 +242,7 @@ HWM-V7414D+++ este un model de mașină de spălat de la Heinner cu încărcare 
 </div>
 <!-- Sfarsit-->
 <!-- 
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
 		</div>
@@ -289,7 +289,7 @@ HWM-5080 este un model de mașină de spălat de la Heinner cu încărcare front
 
 <div class="row" style="display: flex; justify-content: center;">
 <!-- Oferta Mate 50 pro-->
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/emag.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">emag.ro</p>
 		</div>
@@ -300,7 +300,7 @@ HWM-5080 este un model de mașină de spălat de la Heinner cu încărcare front
 </div>
 <!-- Sfarsit-->
 <!-- 
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
 		</div>
@@ -346,7 +346,7 @@ HWM-V914TD+++ este un model de mașină de spălat de la Heinner cu încărcare 
 În general, HWM-V914TD+++ este o mașină de spălat cu o capacitate mare de încărcare, foarte eficientă din punct de vedere energetic și cu o gamă largă de programe de spălare. Tehnologia Heinner DualJet asigură o spălare mai eficientă și uniformă, iar funcția de pornire întârziată și indicatorul de timp rămas adaugă mai multă flexibilitate și ușurință de utilizare. Cu toate acestea, prețul poate fi un dezavantaj pentru unii utilizatori și poate fi nevoie să verifice dacă se potrivește spațiului disponibil în locuință.
 
 <div class="row" style="display: flex; justify-content: center;">
-<div style="padding: 10px" class="col-6">
+<div style="padding: 10px" class="col-lg-6">
 	<div class="price-box row">
 		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/emag.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">emag.ro</p>
 		</div>

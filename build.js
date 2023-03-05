@@ -9,7 +9,7 @@ var stylesheetName = 'bootstrap.min.scss'
 var jekyllUncss = function() {
   var css = fs.readFileSync(stylesheetLocation + stylesheetName, 'utf8')
 
-  glob('_site/**/*.html', function(err, files) {
+  glob('_site/**/*.html', 'https://totredus.ro', function(err, files) {
     if (err) {
       console.log(err)
     }

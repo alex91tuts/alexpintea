@@ -49,7 +49,7 @@ fetch(url)
 							<div class="tags">
 								<span class="bottom-tag">${prod.tag1}</span>
 								<span class="bottom-tag">${prod.tag2}</span>
-								<a href="${prod.link}" class="read-more">CITESTE <i class="ti-angle-double-right"></i></a>
+								<a href="${prod.link}" class="read-more">CITESTE </a>
 							</div>
 						</div>
 					</div>
@@ -148,9 +148,9 @@ document.getElementById('categorie-selectata').addEventListener('click', functio
 		border-radius: 3px;
 	}
 	#categorie-selectata:after {
-		content: "\e646"; /* FontAwesome Unicode */
-    font-family: themify;
+		content: url('/assets/images/svg/cons.svg'); /* FontAwesome Unicode */
 		margin-left: 10px;
+		margin-top: 2px;
 	}
 	.cat-small {
 		margin-bottom: 10px;
