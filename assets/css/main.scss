@@ -11,6 +11,38 @@
 @import "general";
 
 
+@media only screen and (min-width: 1200px) {
+	.toc {
+		position: sticky;
+		position: -webkit-sticky;
+    margin-left: -106px;
+    background: none;
+		z-index: 19;
+		width: auto;
+		padding: 0;
+		top: 58px;
+		float: left;
+	}
+	#sidebar {
+		position: sticky;
+		position: -webkit-sticky;
+		top: 90px;
+	}
+}
+
+@media only screen and (max-width: 1200px) {
+	.toc {
+    margin-left: -106px;
+    background: white;
+    z-index: 19;
+    width: auto;
+    padding: 0;
+    float: left;
+    position: sticky;
+		position: -webkit-sticky;
+    top: 20px;
+	}
+}
 .table-spec {
 	overflow-x: auto;
 	display: block;
@@ -29,7 +61,10 @@
 	background-color: #32383e;
 	color: white;
 }
-
+.table-spec tbody {
+	width: 100%;
+  display: table;
+}
 .left-td {
 	border-right: 1px solid lightgray;
 	background-color: #32383e;

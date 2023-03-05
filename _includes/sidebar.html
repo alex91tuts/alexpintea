@@ -11,7 +11,7 @@
 		{{ review.title }}
 		</div>
 		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" /> {{review.author}} </span>
-		<span class="small-post-meta"><img src=/assets/images/svg/calendar.svg/> {{ review.date | date_to_string }} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" /> {{ review.date | date_to_string }} </span>
 		</a>
 	{% endfor %}
 	{% assign stiri = site.stiri | sort: 'date' | reverse  %}
@@ -22,7 +22,7 @@
 		{{ stire.title }}
 		</div>
 		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" > {{stire.author}} </span>
-		<span class="small-post-meta"><img src=/assets/images/svg/calendar.svg/> {{ stire.date | date_to_string }} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" /> {{ stire.date | date_to_string }} </span>
 		</a>
 	{% endfor %}
 	</div>

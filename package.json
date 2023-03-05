@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "glob": "^5.0.10",
+    "sticky-js": "^1.3.0",
     "uncss": "^0.12.1"
   }
 }

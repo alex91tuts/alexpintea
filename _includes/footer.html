@@ -1,6 +1,6 @@
 <!-- Begin Footer
 ================================================== -->
-<footer class="footer">
+<footer class="footer" id="footer-sticky">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
@@ -24,65 +24,87 @@
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
     
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<style>
+.sticky {
+  
+}
 
-<script src="/assets/js/bootstrap.bundle.min.js" async></script>
+</style>
    
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js" async></script>
-    
-<script src="{{ site.baseurl }}/assets/js/mediumish.js" async></script>
-
-<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
-
-<script src="{{ site.baseurl }}/assets/js/aos.js"></script>
-
-<script src="{{ site.baseurl }}/assets/js/type.js" async></script>
 
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/lightbox.js" async></script>
 
+
 <script type="text/javascript">
-    $('.tgl-cl').on('click', function() {
-        $('body .h17-main-nav').toggleClass("show");
-    });
-	
-			
-	
-	$(function() {
-  $('a[href*="#"]:not([href="#"])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-      if (target.length) {
-        $('html, body').animate({
-          scrollTop: target.offset().top
-        }, 1000);
-        return false;
-      }
+// Scroll to top when arrow up clicked
+window.addEventListener('scroll', function() {
+    var back2Top = document.querySelector('#back2Top');
+    var height = window.scrollY;
+    if (height > 100) {
+        back2Top.style.display = 'block';
+    } else {
+        back2Top.style.display = 'none';
     }
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    var back2Top = document.querySelector('#back2Top');
+    back2Top.addEventListener('click', function(event) {
+        event.preventDefault();
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+});
+
+
+/*Scroll to top when category or tag click*/
+function scrollToTop() {
+window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+})
+}
+	
+// Deschide si inchide meniul
+var tglCl = document.querySelector(".tgl-cl");
+var h17MainNav = document.querySelector(".h17-main-nav");
+tglCl.addEventListener("click", function() {
+  h17MainNav.classList.toggle("show");
+});
+	
+var tglCl = document.querySelector(".tgl-close");
+var h17MainNav = document.querySelector(".h17-main-nav");
+tglCl.addEventListener("click", function() {
+  h17MainNav.classList.remove("show");
+});
+	
+
+// Smooth scroll pentru elementele din aceeasi pagina
+document.addEventListener("DOMContentLoaded", function() {
+  var links = document.querySelectorAll('a[href*="#"]:not([href="#"])');
+  links.forEach(function(link) {
+    link.addEventListener("click", function() {
+      if (location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'') && location.hostname === this.hostname) {
+        var target = document.querySelector(this.hash);
+        target = target ? target : document.querySelector('[name=' + this.hash.slice(1) +']');
+        if (target) {
+          window.scrollTo({
+            top: target.getBoundingClientRect().top + window.pageYOffset,
+            behavior: "smooth"
+          });
+          return false;
+        }
+      }
+    });
   });
 });
 
-if ($(window).width() > 1024) {
-   $("#sidebar, #tocid").stick_in_parent({offset_top: 90});
-}
-else if ($(window).width() < 1023 && $(window).width() > 990 ) {
-   $("#sidebar, #tocid").stick_in_parent({offset_top: 15});
-}
-else if ($(window).width() < 990) {
-   $("#tocid").stick_in_parent({offset_top: 60});
-}
-	
-///////////////////////////////////////
-// Cool author small box/////
-///////////////////////////////////////////
-(function() {
-  $('.btn').click(function() {
-    $(this).toggleClass('active');
-    return $('.box').toggleClass('open');
-  });
 
-}).call(this);
-/////////////////////////////////////////////
+
+
 </script>
  
 

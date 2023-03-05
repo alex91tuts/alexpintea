@@ -16,11 +16,13 @@
     
 
 </div>
-    
 {% include footer.html %}  
 
 <script>
-let list = ['Scor'],x = [], continut, he, outputList = '', bottom, rect;
+	
+	
+// Sticky elements for the menu
+let list = ['Meniu'],x = [], continut, he, outputList = '', bottom, rect;
 
 function getScrollDistance() {
 	bottom = document.getElementById('bottom')
@@ -48,6 +50,8 @@ function changeClass(){
 		cuprins.style.top = null;
 	}
 }
+	
+
 
 function toggleShow() {
 	var toc = document.getElementById('tocid');
