@@ -1,7 +1,7 @@
 <div class="col-lg-4 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
 <div id="sidebar">
 <div class="col review-side">
-  <h5 class="title-section-sidebar">RECENT</h5>
+  <span class="title-section-sidebar">RECENT</span>
 	<hr>
 	{% assign travels = site.travel | sort: 'date' | reverse %}
 	{% for travel in travels limit:4 %}
@@ -10,15 +10,15 @@
 	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" height="41px" width="79px">
 		{{ travel.title }}
 		</div>
-		<span class="small-post-meta"><img src="/assets/images/svg/author.svg"> {{travel.author}} </span>
-		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg"/> {{ travel.date | date_to_string }} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
 		<hr style="border: 0; margin: 0;">
 		</a>
 	{% endfor %}
 	</div>
 
 <div class="col review-side">
-<h5 class="title-section-sidebar">ȚĂRI</h5>
+<span class="title-section-sidebar">ȚĂRI</span>
 	<hr>
 		{% assign tari = site.travel | map: 'tara' | uniq %}
 		{% for item in tari reversed %}

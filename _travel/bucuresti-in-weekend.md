@@ -27,7 +27,7 @@ Vezi [aici un top atracții turistice în București](https://totredus.ro/travel
 Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul. Indiferent dacă sunteți un rezident de lungă durată sau un vizitator, există o mulțime de lucruri distractive de făcut. Iată câteva activități pe care le poți face în București aproape în orice weekend:
 
 ---
-<img src="/assets/images/travel/weekendbuc/1.webp" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/weekendbuc/1.webp" width="740" height="439" alt="{{ page.keyword }};">
 
 ### Mergeți la o drumeție: 
 
@@ -49,14 +49,14 @@ Bucureștiul are o mulțime de atracții despre care nici măcar nu ați auzit! 
  
  - Templul Coral Evreiesc din București: este o destinație emblematică care stă ca o mărturie a bogatei istorii culturale a țării. Templul, care datează de la sfârșitul secolului al XIX-lea, este cea mai mare sinagogă din România și una dintre cele mai mari din toată Europa. Situat pe Strada Sfântul Iosif, servește ca o amintire a cât de adânc înrădăcinat este iudaismul în cultura românească.
 
-<img src="/assets/images/travel/weekendbuc/2.webp" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/weekendbuc/2.webp" width="740" height="736" alt="{{ page.keyword }};">
 
 ### Ascultați muzică live: 
 
 Odată cu creșterea serviciilor de streaming, poate fi ușor să uiți de puterea muzicii live. Dar participarea la concerte și evenimente de muzică live poate oferi o experiență unică care vine cu beneficii atât pentru sănătatea fizică, cât și pentru cea mentală. Iată câteva dintre motivele pentru care ar trebui să-ți faci timp pentru muzică live în viața ta:
 
 
-<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/weekendbuc/3.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/weekendbuc/3.webp" width="740" height="439" alt="{{ page.keyword }}">
 
 
 1. Reducerea stresului: Cercetările au arătat că ascultarea muzicii poate reduce semnificativ nivelul de stres. Iar atunci când participi la un concert live, energia mulțimii amplifică și mai mult acest efect. Combinația de sunet și emoție într-un spectacol live este propice pentru un sentiment de relaxare, făcându-l o modalitate ideală de a te relaxa după o zi stresantă.
@@ -90,7 +90,7 @@ Când vine vorba de mâncare în oraș, Bucureștiul nu duce lipsă de restauran
 
 Sunt șanse ca în București să aibă loc un eveniment în fiecare weekend - de la festivaluri alimentare la târguri stradale - așa că asigurați-vă că le verificați înainte de a pleca! Aceste evenimente nu numai că vor oferi o mulțime de divertisment, dar vă pot oferi și o perspectivă asupra culturii locale. Unele dintre cele mai populare evenimente includ Bucharest International Jazz Festival, Bucharest Street Arts Festival și Bucharest Street Food Festival. Există, de asemenea, multe evenimente culturale mai mici, cum ar fi expoziții de artă, spectacole de teatru și proiecții de filme. Pe lângă aceste festivaluri, există o mulțime de muzee și galerii de explorat în București, care prezintă cultura și istoria românească.
 
-<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/weekendbuc/4.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/weekendbuc/4.webp" width="740" height="439" alt="{{ page.keyword }}">
 
 ---
 ## Concluzie 

@@ -1,7 +1,7 @@
 <div class="col-lg-4 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
 <div id="sidebar">
 <div class="col review-side">
-  <h5 class="title-section-sidebar">RECENT</h5>
+  <span class="title-section-sidebar">RECENT</span>
 	<hr>
 	{% assign reviews = site.reviews | sort: 'date' | reverse %}
 	{% for review in reviews limit:2 %}
@@ -10,8 +10,8 @@
 		<img class="small-post-image" alt="{{ review.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/reviews/{{ review.image_path }}&h=41&output=jpg&q=65" height="41px" width="79px">
 		{{ review.title }}
 		</div>
-		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" /> {{review.author}} </span>
-		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" /> {{ review.date | date_to_string }} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{review.author}} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ review.date | date_to_string }} </span>
 		</a>
 	{% endfor %}
 	{% assign stiri = site.stiri | sort: 'date' | reverse  %}
@@ -28,7 +28,7 @@
 	</div>
 
 <div class="col review-side">
-<h5 class="title-section-sidebar">CATEGORII</h5>
+<span class="title-section-sidebar">CATEGORII</span>
 	<hr>
 		{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
 		{% for item in cat reversed %}

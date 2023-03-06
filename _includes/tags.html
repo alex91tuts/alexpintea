@@ -1,5 +1,5 @@
 {% for tag in page.tags %}
-	<a href="{{ site.url }}/review" class="tag" onclick="window.name = '{{ tag | upcase }}';" style="background: {% cycle '#FF851B', '#FF4136', '#0074D9', '#3D9970' %}";>{{ tag | upcase }}</a>
+	<a href="{{ site.url }}/review" class="tag" onclick="window.name = '{{ tag | upcase }}';" style="background: black; color: white;">{{ tag | upcase }}</a>
 {% endfor %}
 
 <style>
