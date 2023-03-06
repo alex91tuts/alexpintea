@@ -9,8 +9,9 @@ author: "Cultural Nomad"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
-keyword: de vizitat bucuresti
+keyword: ce sa faci in Bucuresti in weekend
 date: 01.03.2023
+date-modified:
 tags: ['București', 'capitale', 'atractii']
 
 ---

@@ -5,6 +5,36 @@ archive: false
 post_class: post-template
 
 ---
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "Article",
+ "headline": "{{ page.title }}",
+ "alternativeHeadline": "{{ page.title }}",
+ "image": "{{ site.utl }}{{ page.image }}",
+ "author": "{{ page.author }}", 
+ "genre": "travel", 
+ "keywords": "{{ page.keyword }}", 
+"publisher": {
+    "@type": "Organization",
+    "name": "Totredus",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/assets/images/log-tr.webp"
+    }
+  },
+ "url": "{{ page.baseurl }}",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}/travel"
+  },
+ "datePublished": "{{ page.date }}",
+ "dateCreated": "{{ page.date }}",
+ "dateModified": "{{ page.date-modified }}",
+ "description": "{{ page.description }}",
+ "articleBody": "{{ page.content | strip_html }}"
+ }
+</script>
+
 
 <!-- Begin Article
 ================================================== -->

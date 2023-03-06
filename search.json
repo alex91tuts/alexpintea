@@ -1,5 +1,6 @@
 ---
 layout: null
+robots: YES
 ---
 [
   {% for post in site.travel %}

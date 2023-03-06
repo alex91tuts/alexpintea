@@ -3,6 +3,7 @@ title: Cum te ajuta Dollar Cost Average (DCA) să îți crești portofoliul
 image_path: stiri/dca/main.webp
 layout: stiri
 date: 2023-02-28
+date-modified: 
 categorie: FINANCIAR
 tags: ['DCA', 'BUGET', 'INVESTITII']
 nume: dollar cost average
