@@ -7,29 +7,28 @@ post_class: post-template
 ---
 
 <script type="application/ld+json">
+
 {
-  "@context": "https://schema.org/",
-  "@type": "Product",
-  "image": "{{ site.url }}/{{ page.meta_image }}",
-  "name": "{{ page.title }}",
-  "review": {
-    "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "{{ page.rating-value }}"
-    },
-    "name": "{{ page.title }}",
-    "author": {
-      "@type": "Person",
-      "name": "{{ page.author }}"
-    },
-    "datePublished": "{{ page.date }}",
-    "reviewBody": "{{ page.content | strip_html }}",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Totredus"
-    }
-  }
+	"@context": "https://schema.org/",
+	"@type": "Product",
+	"name": "{{page.title}}",
+	"image": "{{site.url}}/{{page.meta_image}}",
+	"description": "{{page.description}}",
+	"review": {
+		"@type": "Review",
+		"datePublished": "{{page.date}}",
+		"reviewBody": "{{ page.content | strip_html }}",
+    "name": "{{ page.nume }}",
+		"reviewRating": {
+			"@type": "Rating",
+			"ratingValue": "{{page.rating-value}}",
+			"bestRating": "10"
+		},
+		"author": {
+			"@type": "Person",
+			"name": "{{page.author}}"
+		}
+	}
 }
 </script>
 <!-- Begin Article
