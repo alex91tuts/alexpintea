@@ -11,7 +11,7 @@ post_class: post-template
 <div class="container review-cont" itemscope itemtype="http://schema.org/Review">
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}{{page.image}}"></meta>
-<div id="top-featured" class="banner-review row" style="background-image:url({{ site.url }}{{ page.image}}); background-size: cover; background-position: center;">
+<div id="top-featured" class="banner-review row" style="background-image:url({{ site.url }}{{ page.image}}); background-size: 1110px 500px; background-position: center;">
   <div class="gradient">
     <div class="bread-crumbs">
 				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>
@@ -39,7 +39,7 @@ post_class: post-template
 			
 		
  <div>
-	 <div style="text-align: center;"><img class="" src="/assets/images/reviews/text.png" alt="review"></div>
+	 <div style="text-align: center;"><img class="" src="/assets/images/svg/reading.svg" alt="{{ page.title }}" width="100" height="100"></div>
 	 <div itemprop="reviewBody" id="continut">
    	{{content}}
 		 <hr>
@@ -67,14 +67,7 @@ post_class: post-template
 	blockquote::before {
 		content: url('/assets/images/reviews/quote.png');
 	}
-	.toc {
-		position: absolute;
-    margin-left: -106px;
-    background: white;
-		z-index: 19;
-		width: auto;
-		padding: 0;
-	}
+
 	#outputList {
 		list-style-type: none;
     padding: 0;
@@ -214,17 +207,7 @@ post_class: post-template
 	padding-left: 25px; 
 	padding-right: 0;	
 	}
-	.banner-review {
-	height: 500px;
-	margin-top: 90px;
-	display: flex;
-	align-items: left;
-	justify-content: left;
-	margin-bottom: 25px;
-    border-radius: 8px;
-    position: relative;
-		z-index: 19;
-	}
+
     .continut-imagine {
     position: absolute;
     width: 100%;

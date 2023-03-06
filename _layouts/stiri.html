@@ -11,7 +11,7 @@ post_class: post-template
 <div class="container review-cont">
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}/assets/images/{{ page.image_path }}"></meta>
-<div id="top-featured" class="banner-review row" style="background-image:url({{ site.url }}/assets/images/{{ page.image_path }}); background-size: cover; background-position: center;">
+<div id="top-featured" class="banner-review row" style="background-image:url({{ site.url }}/assets/images/{{ page.image_path }}); background-size: 1110 500; background-position: center;">
   <div class="gradient">
     <div class="bread-crumbs">
 				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>
@@ -38,7 +38,7 @@ post_class: post-template
 		<div id="tocid" class="toc col"><span class="mobile-toc-trig" onclick='toggleShow()'; id="mobileActivate"></span><ul id="outputList"></ul></div>
 
  <div>
-	 <div style="text-align: center;"><img class="" src="/assets/images/reviews/text.png" alt="review"></div>
+<div style="text-align: center;"><img class="" src="/assets/images/svg/reading.svg" alt="{{ page.title }}" width="100" height="100"></div>
 	 <div itemprop="reviewBody" id="continut">
    	{{content}}
 	 </div>
@@ -121,14 +121,7 @@ post_class: post-template
 	blockquote::before {
 		content: url('/assets/images/reviews/quote.png');
 	}
-	.toc {
-		position: absolute;
-    margin-left: -106px;
-    background: white;
-		z-index: 19;
-		width: auto;
-		padding: 0;
-	}
+
 	#outputList {
 		list-style-type: none;
     padding: 0;
@@ -267,17 +260,7 @@ post_class: post-template
 	padding-left: 25px; 
 	padding-right: 0;	
 	}
-	.banner-review {
-	height: 500px;
-	margin-top: 90px;
-	display: flex;
-	align-items: left;
-	justify-content: left;
-	margin-bottom: 25px;
-    border-radius: 8px;
-    position: relative;
-		z-index: 19;
-	}
+
     .continut-imagine {
     position: absolute;
     width: 100%;

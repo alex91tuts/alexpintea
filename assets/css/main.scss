@@ -10,6 +10,37 @@
 @import "mobile";
 @import "general";
 
+.icons-cont {
+}
+.ul-nav {
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.list-nav {
+	float: left;
+	list-style: none;
+	padding: 8px;
+	
+}
+.list-nav a {
+	display: block;
+}
+.banner-review {
+	height: 500px;
+	margin-top: 0px;
+	display: flex;
+	align-items: left;
+	justify-content: left;
+	border-radius: 8px;
+	position: relative;
+	z-index: 19;
+	}
+.gradient {
+	background-color: #ffffff00;
+	background-image:  linear-gradient(black,#d3d3d300, #00000091, black);
+	height: 100%;
+	border-radius: 8px;
+	}
 
 @media only screen and (min-width: 1200px) {
 	.toc {
