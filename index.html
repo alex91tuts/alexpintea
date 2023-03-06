@@ -20,8 +20,8 @@ title: Home
         <!-- Row  -->
         <div class="row">
             <!-- Column -->
-            <div class="col-md-5 align-self-center">
-                <h1 class="title">RECENZII<span class="text-megna">.</span></h1>
+            <div class="col-md-5 align-self-center fly-in">
+                <h1 class="title fade-in">RECENZII<span class="text-megna">.</span></h1>
                 <h6 class="subtitle">Citește recenzii, păreri, vezi specificații și imagini, află cele mai recente informații despre produsele de top de pe piață!</h6>
                 <a class="btn btn-success-gradiant btn-md btn-arrow m-t-20 m-b-10" href="/review/"><span>CITEȘTE ➤</span></a>
             </div>
@@ -121,3 +121,32 @@ title: Home
                 <!-- ============================================================== -->
                 <!-- End Contact 2  -->
                 <!-- ============================================================== -->
+<style>
+.fade-in {
+  opacity: 0; /* Set initial opacity to 0 */
+  animation-name: fadeIn; /* Set the animation name */
+  animation-duration: 1s; /* Set the animation duration */
+  animation-fill-mode: forwards; /* Set the final animation state */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0; /* Start with opacity 0 */
+  }
+  to {
+    opacity: 1; /* End with opacity 1 */
+  }
+}
+
+	.fly-in {
+  position: relative;
+  left: -100%;
+  animation: fly-in 1s ease-out forwards;
+}
+
+@keyframes fly-in {
+  to {
+    left: 0;
+  }
+}
+</style>
