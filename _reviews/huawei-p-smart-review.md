@@ -118,6 +118,12 @@ Privind calitatea apelurilor, cei care primesc au câteva mici probleme legate d
 
 Claritatea nu are foarte mult de suferit dar este fără discuție puțin inconfortabil, fără să mai menționăm faptul că persoanle din jurul tău probabil vor auzi tot ce auzi și tu în timpul unei convorbiri.
 
+<!-- Start ProfitShare Zone 11365336 -->
+<script type="text/javascript">
+if("undefined"==typeof profitshare_id)var profitshare_id={};
+if("undefined"!=typeof profitshare_id["11365336"]?profitshare_id["11365336"]++:profitshare_id["11365336"]=1,document.write('<div id="profitshare-11365336-'+profitshare_id["11365336"]+'" style="width:740px; heigh:150px;"></div>'),1==profitshare_id["11365336"]){var c=document.createElement("script");c.type="text/javascript",c.async=!0,c.src=("https:"==document.location.protocol?"https://":"http://")+"w.profitshare.ro/a/SDGL",document.getElementsByTagName("head")[0].appendChild(c)}
+</script>
+<!-- End ProfitShare Zone 11365336 -->
 
 ---
 ## Pareri utilizatori
