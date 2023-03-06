@@ -10,7 +10,8 @@
 @import "mobile";
 @import "general";
 
-.icons-cont {
+img {
+	max-width: 100%;
 }
 .ul-nav {
 margin-top: 10px;
@@ -62,6 +63,15 @@ margin-bottom: 10px;
 }
 
 @media only screen and (max-width: 1200px) {
+	.header-push {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.icons-cont {
+		padding: initial;
+	}
 	.toc {
     margin-left: -106px;
     background: white;
@@ -72,6 +82,9 @@ margin-bottom: 10px;
     position: sticky;
 		position: -webkit-sticky;
     top: 20px;
+	}
+	.header-push {
+		display: none;
 	}
 }
 .table-spec {
@@ -372,8 +385,8 @@ transform-origin: 50% 50%;
     -ms-transform: rotate(270deg);
     transform: rotate(270deg);
     position: fixed;
-    bottom: 50px;
-    right: 0;
+    bottom: 20px;
+    right: 5px;
     background: linear-gradient(to right, #67b26f, #4ca2cd);
     color: white;
     text-align: center;
