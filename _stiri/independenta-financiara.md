@@ -43,7 +43,7 @@ colors: ['red', 'green', 'blue', 'orange']
 
 _Conceptul de independență financiară devine din ce în ce mai popular pe măsură ce oamenii caută să preia controlul asupra vieții și finanțelor lor. Dar ce înseamnă exact să fii independent financiar?_
 
-<span class="drop-caps">I</span>ndependenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit. Înseamnă să ai destui bani economisiți sau investiți, astfel încât să poți trăi confortabil fără a fi nevoie să lucrezi pentru altcineva. Mulți oameni se străduiesc pentru a atinge acest obiectiv, deoarece le oferă libertatea de a-și urma pasiunile, de a călători, de a-și asuma riscuri și de a-și urmări visele fără a-și face griji pentru bani.
+<span class="drop-caps">I</span>ndependența financiară este capacitatea de a te întreține financiar fără a te baza pe un salariu tradițional sau pe o sursă de venit. Înseamnă să ai destui bani economisiți sau investiți, astfel încât să poți trăi confortabil fără a fi nevoie să lucrezi pentru altcineva. Mulți oameni se străduiesc pentru a atinge acest obiectiv, deoarece le oferă libertatea de a-și urma pasiunile, de a călători, de a-și asuma riscuri și de a-și urmări visele fără a-și face griji pentru bani.
 
 Primul pas în obținerea independenței financiare este bugetarea. Trebuie să știi unde se duc banii tăi pentru a te asigura că iei decizii inteligente cu finanțele tale. De asemenea, ar trebui să creați un fond de urgență, astfel încât cheltuielile neașteptate să nu vă împiedice progresul către libertatea financiară.
 
@@ -54,7 +54,7 @@ Odată ce aveți un plan pus la punct, începeți să vă investiți banii cu î
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 
-O altă parte importantă a obținerii independenței financiare este să trăiești în limitele posibilităților tale. Deși este tentant să te răsfoi cu articole de lux atunci când ai un flux de numerar suplimentar, rezistă nevoii! În schimb, folosiți bani în plus pentru investiții sau economii, astfel încât să puteți continua să vă construiți bogăție în timp și să nu ajungeți să vă îndatorați încercând să țineți pasul cu obiceiurile de cheltuieli ale tuturor celorlalți.
+Un alt pas sau strategie în vederea obținerii independenței financiare este traiul în limitele posibilităților tale. Deși este tentant să te răsfeți cu articole de lux atunci când ai un flux de numerar suplimentar, rezistă nevoii! În schimb, folosește banii în plus pentru investiții sau economii, astfel încât să poți continua să îți construiești bogăție în timp și să nu ajungi să te îndatorezi încercând să ții pasul cu obiceiurile de cheltuieli ale tuturor celorlalți.
 
 În sfârșit, rămâi concentrat pe obiectivul tău! Poate dura ceva timp înainte de a ajunge la independența financiară deplină – dar dacă rămâi disciplinat cu bugetarea și investițiile, atunci în cele din urmă va da roade! Cu dăruire și determinare oricine poate atinge acest obiectiv – așa că începe acum!
 
