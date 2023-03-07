@@ -391,6 +391,9 @@ post_class: post-template
 		.formDIv h2 {
 			font-size: 20px;
 		}
+		.panel h2 {
+			font-size: 20px;
+		}
 }
 	
 	
@@ -426,7 +429,8 @@ table {
   border-radius: 2px;
   box-shadow: 0px 0px 5px 2px lightgrey;
   padding: 20px;
-  margin: 3vw;
+  margin: 15px;
+	margin-bottom: 30px;
 }
 	
 
@@ -449,7 +453,13 @@ function calculate(e) {
   const duration = parseInt(formItems[7].value);
   const monthlyReturn = expReturn/12;
   
-  if(!startingBal || !expReturn || !monthlyDep || !duration) {
+  if(startingBal === null || startingBal === undefined ||
+     expReturn === null || expReturn === undefined ||
+     monthlyDep === null || monthlyDep === undefined ||
+     duration === null || duration === undefined) {
+    return;
+  }
+  if(monthlyDep < 0) {
     return;
   }
   
@@ -481,5 +491,6 @@ function calculate(e) {
   }
   document.getElementById("submitinv").innerHTML = "Re-Calculează"
 }
+
 
 </script>

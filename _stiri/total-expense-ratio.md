@@ -40,7 +40,7 @@ colors: ['red', 'green', 'blue', 'orange']
 </div>
 
 
-_Dacă sunteți investitor sau aí mai cochetat cu investiíile, probabil ați mai auzit de termenul „raport total costuri” (TER), dar știți ce este și cum vă afectează investițiile? Raportul cheltuielilor totale, sau pe scurt TER, este un concept important de înțeles atunci când vine vorba de investiții. Este o măsură a procentului activelor dvs. care sunt preluate în comisioane de administrare, cheltuieli de exploatare și alte costuri asociate cu gestionarea unui fond mutual sau a unui fond tranzacționat la bursă (ETF)._
+_Dacă sunteți investitor sau aț mai cochetat cu investițile, probabil ați mai auzit de termenul „raport total costuri” (TER), dar știți ce este și cum vă afectează investițiile? Raportul cheltuielilor totale, sau pe scurt TER, este un concept important de înțeles atunci când vine vorba de investiții. Este o măsură a procentului activelor dvs. care sunt preluate în comisioane de administrare, cheltuieli de exploatare și alte costuri asociate cu gestionarea unui fond mutual sau a unui fond tranzacționat la bursă (ETF)._
 
 ---
 
