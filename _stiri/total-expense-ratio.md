@@ -39,6 +39,7 @@ colors: ['red', 'green', 'blue', 'orange']
 </div>
 </div>
 
+[Vezi aici și un Calculator Rambursare Anticipata Credit]({{ site.url }}/calculator/calculator-plata-anticipata)
 
 _Dacă sunteți investitor sau aț mai cochetat cu investițile, probabil ați mai auzit de termenul „raport total costuri” (TER), dar știți ce este și cum vă afectează investițiile? Raportul cheltuielilor totale, sau pe scurt TER, este un concept important de înțeles atunci când vine vorba de investiții. Este o măsură a procentului activelor dvs. care sunt preluate în comisioane de administrare, cheltuieli de exploatare și alte costuri asociate cu gestionarea unui fond mutual sau a unui fond tranzacționat la bursă (ETF)._
 

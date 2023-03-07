@@ -40,6 +40,7 @@ colors: ['red', 'green', 'blue', 'orange']
 </div>
 </div>
 
+[Vezi aici și un Calculator Rambursare Anticipata Credit]({{ site.url }}/calculator/calculator-plata-anticipata)
 
 _Căutați o modalitate fiabilă de a vă crește investițiile în timp? Medierea costului (DCA) ar putea fi strategia perfectă pentru dvs. În timp, această metodă de investiție vă poate ajuta să vă creșteți investițiile și să reduceți riscul volatilității pieței._
 

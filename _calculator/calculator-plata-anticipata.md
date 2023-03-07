@@ -1,13 +1,12 @@
 ---
 
 layout: page
-title: Calculator Plati Anticipate
+title: CALCULATOR PLĂȚI ANTICIPATE CU SCĂDEREA PERIOADEI
 
 ---
 
-<div class="container">
-  <div class="calculator">
-    <h2>Calculator de plati anticipate</h2>
+<div class="container row">
+  <div class="calculator col-lg-6 col-12">
     <form>
       <label for="currentBalance">Soldul curent al împrumutului:</label>
       <input type="number" id="currentBalance" min="0" step="0.01" required>
@@ -21,8 +20,8 @@ title: Calculator Plati Anticipate
     </form>
   </div>
 
-  <div class="results">
-    <table id="results">
+  <div class="results col-lg-6 col-12 table-responsive">
+    <table id="results" class="table">
       <thead>
         <tr>
           <th>Lună</th>
@@ -38,36 +37,40 @@ title: Calculator Plati Anticipate
 </div>
 
 <style>
+	@media only screen and (max-width: 600px) {
+		.results {
+			padding-left: 5px;
+			}
+		.results table th {
+			font-size: 10px !important;
+			padding: 1px;
+			}
+		.results tbody tr {
+			font-size: 13px;
+			}
+		}	
 .container {
   margin: 0 auto;
-  display: flex;
 }
-
 .calculator {
-  flex: 0.5;
-  margin-right: 20px;
 }
-
 .calculator h2 {
   text-align: center;
   margin-bottom: 20px;
   font-size: 28px;
   font-weight: bold;
 }
-
 .calculator form {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 20px;
 }
-
 .calculator label {
   display: block;
   margin-bottom: 5px;
   font-size: 16px;
 }
-
 .calculator input {
   width: 100%;
   padding: 10px;
@@ -76,11 +79,10 @@ title: Calculator Plati Anticipate
   border: 1px solid #ccc;
   border-radius: 5px;
 }
-
 .calculator button[type="submit"] {
   width: 100%;
   padding: 10px;
-  background-color: #007bff;
+  background-color: #12787b;
   color: #fff;
   font-size: 18px;
   font-weight: bold;
@@ -89,34 +91,27 @@ title: Calculator Plati Anticipate
   cursor: pointer;
   transition: background-color 0.2s ease-in-out;
 }
-
 .calculator button[type="submit"]:hover {
   background-color: #0062cc;
 }
-
 .results {
-  flex: 1.5;
 }
-
 .results table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
 }
-
 .results table th,
 .results table td {
   padding: 10px;
   text-align: center;
   border: 1px solid #ccc;
 }
-
 .results table th {
-  background-color: #007bff;
+  background-color: #12787b;
   color: #fff;
   font-size: 16px;
 }
-
 .results table tbody tr:nth-child(even) {
   background-color: #f2f2f2;
 	}
@@ -129,22 +124,17 @@ const minimumPaymentInput = document.getElementById("minimumPayment");
 const extraPaymentInput = document.getElementById("extraPayment");
 const calculateBtn = document.getElementById("calculateBtn");
 const resultsTable = document.getElementById("results");
-
 calculateBtn.addEventListener("click", function(e) {
   e.preventDefault();
-
   const currentBalance = parseFloat(currentBalanceInput.value);
   const interestRate = parseFloat(interestRateInput.value) / 100 / 12;
   const minimumPayment = parseFloat(minimumPaymentInput.value);
   const extraPayment = parseFloat(extraPaymentInput.value);
-
   let balance = currentBalance;
   let month = 0;
   let totalInterestPaid = 0;
   let totalAmountPaid = 0;
-
   resultsTable.querySelector("tbody").innerHTML = "";
-
   while (balance > 0) {
     month++;
     const interest = balance * interestRate;
@@ -153,16 +143,14 @@ calculateBtn.addEventListener("click", function(e) {
     balance -= principal;
     totalInterestPaid += interest;
     totalAmountPaid += totalPayment;
-
     const row = `
       <tr>
         <td>${month}</td>
-        <td>${balance.toFixed(2)}</td>
-        <td>${totalAmountPaid.toFixed(2)}</td>
-        <td>${totalInterestPaid.toFixed(2)}</td>
+        <td>${balance.toFixed(0)}</td>
+        <td>${totalAmountPaid.toFixed(0)}</td>
+        <td>${totalInterestPaid.toFixed(0)}</td>
       </tr>
     `;
-
     resultsTable.querySelector("tbody").innerHTML += row;
   }
 });
