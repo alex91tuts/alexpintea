@@ -27,8 +27,6 @@ description: Ce consum are o plită pe inducție? Alegem varianta pe inducție s
 
 _Plitele de inducție sunt din ce în ce mai populare în gospodării, deoarece sunt mai eficiente și mai sigure decât plitele tradiționale cu gaz sau electric. Cu toate acestea, atunci când vine vorba de consumul de energie, mulți oameni sunt interesați de cât de mult costă să folosească o placă de inducție timp de o lună întreagă._
 
-<img src="/assets/images/stiri/container/1.webp" width="740" height="629" alt="{{ page.title }}" >
-
 ---
 ## Consum plita inductie
 
