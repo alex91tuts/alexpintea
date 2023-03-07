@@ -55,7 +55,7 @@ Plitele pe inducție nu utilizează flacără deschise, ceea ce le face mult mai
 ### Control precis al temperaturii: 
 Plitele pe inducție permit ajustarea precisă a temperaturii, ceea ce le face ideale pentru gătitul la temperaturi scăzute și controlul perfect al gătitului.
 
-## Ușor de curățat: 
+### Ușor de curățat: 
 Deoarece suprafața plitelor pe inducție nu se încălzește, alimentele care se varsă pe ea nu se ard și nu se prăjesc, motiv pentru care curățarea plitei mult mai ușoară. de asemenea, suprafața plană fără ochiuri sau grilaje face ca plita să fie mult mai ușor de curățat.
 
 ## Dejavantaje
