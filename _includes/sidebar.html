@@ -28,6 +28,11 @@
 	</div>
 
 <div class="col review-side">
+ {% include widget-profitshare.html %}
+</div>
+	
+	
+<div class="col review-side">
 <span class="title-section-sidebar">CATEGORII</span>
 	<hr>
 		{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
