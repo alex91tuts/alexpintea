@@ -17,6 +17,8 @@ nume: Microjoburi în România
 
 **_Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale._**
 
+{% include fiverrcta.html %}
+
 ## Microjoburi
 ---
 
@@ -87,6 +89,8 @@ Fiecare nivel vine cu beneficii legate de numărul de microjoburi pe care le po�
 * Dificil la început
 * Poate fi frustrant să lucrezi cu unii cumpărători
 * Joburile se primesc automat
+
+{% include fiverrcta.html %}
 
 ## Românii pe Fiverr
 ---
@@ -199,3 +203,5 @@ De asemenea, ei recomandă să îți faci și un profil normal, să îți faci u
 Așadar, dacă vrei să îți rotunjești veniturile sau chiar să lucrezi pe bani frumoși ca freelancer începe-ți acum povestea pe Fiverr.
 
 Disclaimer: informațiile sunt valabile în anul 2020, în timp anumite aspecte se pot schimba...
+
+{% include fiverrcta.html %}
