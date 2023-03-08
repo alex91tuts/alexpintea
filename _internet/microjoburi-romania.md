@@ -18,6 +18,8 @@ canonical: htttps://totredus.ro/stiri/microjoburi-romania/
 
 **_Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale._**
 
+{% include fiverrcta.html %}
+
 ## Microjoburi
 ---
 
@@ -47,6 +49,8 @@ De asemenea, platforma de plăți cere comision, un certificat SSL profesional e
 
 ## Apelam la marile platforme
 ---
+
+{% include fiverrcta.html %}
 
 <span class="drop-caps">N</span>e putem folosi de puterea [Fiverr](https://track.fiverr.com/visit/?bta=25034&brand=fiverrcpa). Dacă te pricepi să faci anumite lucruri pe care alte persoane le-ar putea găsi valoroase, atunci începe să câștigi bani online pe această platformă.
 
@@ -137,6 +141,8 @@ Apropo, recenziile mari ajută la poziționarea microjobului în motorul de cău
 
 Mai departe, spor la TREABĂ!!!
 
+{% include fiverrcta.html %}
+
 ## Față în față cu profesioniștii
 ---
 
@@ -200,3 +206,5 @@ De asemenea, ei recomandă să îți faci și un profil normal, să îți faci u
 Așadar, dacă vrei să îți rotunjești veniturile sau chiar să lucrezi pe bani frumoși ca freelancer începe-ți acum povestea pe Fiverr.
 
 Disclaimer: informațiile sunt valabile în anul 2020, în timp anumite aspecte se pot schimba...
+
+{% include fiverrcta.html %}
