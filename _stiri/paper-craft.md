@@ -15,7 +15,7 @@ description: Dacă îți place să creezi cu mâinile tale, cu puțină hârtie 
 
 ---
 
->**Știați că? există o comunitate întreagă de artiști care se dedică realizării de modele intricate și realiste din hârtie, numită "papercrafting". Acești artiști folosesc adesea modelele pentru a crea replici ale vehiculelor, clădirilor sau chiar personajelor de filme și jocuri video. Unele dintre modelele lor pot fi extrem de complexe, necesitând zile de muncă meticuloasă pentru a le realiza.**
+>Știați că? există o comunitate întreagă de artiști care se dedică realizării de modele intricate și realiste din hârtie, numită "papercrafting". Acești artiști folosesc adesea modelele pentru a crea replici ale vehiculelor, clădirilor sau chiar personajelor de filme și jocuri video. Unele dintre modelele lor pot fi extrem de complexe, necesitând zile de muncă meticuloasă pentru a le realiza.
 
 <img src="/assets/images/stiri/paper/1.webp" width="740" height="738" alt="{{ page.title }}">
 

@@ -11,6 +11,16 @@
 @import "general";
 
 
+blockquote {
+border-left: solid 6px;
+padding-left: 16px;
+font-variant: all-small-caps;
+font-weight: bold;
+color: teal;
+font-size: 17px;
+}
+
+
 .review-post h2::before {
 	content: "⛆";
 	background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
@@ -99,6 +109,11 @@ margin-bottom: 10px;
 }
 
 @media only screen and (max-width: 600px) {
+	
+	blockquote {
+		border-left: 0 !important;
+	}
+	
 	h2 {
 	font-size: x-large;
 	}

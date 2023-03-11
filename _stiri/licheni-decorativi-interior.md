@@ -15,7 +15,7 @@ description: Lichenii stabilizați, organisme minuscule care cresc pe pietre, sc
 
 ---
 
-_**Știați că?** Lichenii decorativi pot fi utilizați și pentru a evalua nivelul poluării dintr-o zonă. Deoarece lichenii absorb substanțe din aer, cum ar fi metalele grele și alte substanțe poluante, studiile pot utiliza prezența și concentrația acestor substanțe în licheni pentru a evalua nivelul de poluare dintr-o anumită zonă. Această metodă de evaluare a poluării folosind licheni se numește biomonitorizare și poate fi folosită pentru a identifica zonele cu poluare ridicată și pentru a lua măsuri pentru a reduce efectele poluării._
+>**Știați că?** Lichenii decorativi pot fi utilizați și pentru a evalua nivelul poluării dintr-o zonă. Deoarece lichenii absorb substanțe din aer, cum ar fi metalele grele și alte substanțe poluante, studiile pot utiliza prezența și concentrația acestor substanțe în licheni pentru a evalua nivelul de poluare dintr-o anumită zonă. Această metodă de evaluare a poluării folosind licheni se numește biomonitorizare și poate fi folosită pentru a identifica zonele cu poluare ridicată și pentru a lua măsuri pentru a reduce efectele poluării.
 
 În ultimii ani, tot mai mulți oameni sunt interesați de alternativele ecologice și sustenabile în ceea ce privește decorarea casei. Una dintre opțiunile mai puțin cunoscute, dar foarte interesante, sunt lichenii decorativi. Aceste organisme minuscule care cresc pe pietre, scoarțe de copaci și alte suprafețe, pot fi aduși în casă pentru a crea un aspect natural și plăcut.
 
