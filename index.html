@@ -185,7 +185,7 @@ title: Home
 		 <div class="col-12">
       <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">CALĂTORII<span class="text-megna">.</span></h2>
       <div class="row">
-				<div class="col-lg-6 col post">
+				<div class="col-lg-6 col-12 post">
 					{% assign stiri = site.travel | sort: 'date' | reverse %}
 					{% for post in stiri offset:2 limit:1 %}
           <div class="post-content rowing" style="background-image: url({{ post.image }});">
@@ -196,7 +196,7 @@ title: Home
           </div>
 					{% endfor %}
         </div>
-        <div class="col-lg-6 col post">
+        <div class="col-lg-6 col-12 post">
 					{% assign stiri = site.travel | sort: 'date' | reverse %}
 					{% for post in stiri offset:3 limit:1 %}
           <div class="post-content rowing" style="background-image: url({{ post.image }});">
@@ -207,7 +207,7 @@ title: Home
           </div>
 					{% endfor %}
         </div>
-  			<div class="col-lg-6 col post">
+  			<div class="col-lg-6 col-12 post">
 					{% assign stiri = site.travel | sort: 'date' | reverse %}
 					{% for post in stiri offset:4 limit:1 %}
           <div class="post-content rowing" style="background-image: url({{ post.image }});">
@@ -218,7 +218,7 @@ title: Home
           </div>
 					{% endfor %}
         </div>
-       <div class="col-lg-6 col post">
+       <div class="col-lg-6 col-12 post">
 					{% assign stiri = site.travel | sort: 'date' | reverse %}
 					{% for post in stiri offset:5 limit:1 %}
           <div class="post-content rowing" style="background-image: url({{ post.image }});">
@@ -347,6 +347,9 @@ title: Home
                 <!-- ============================================================== -->
 <style>
 @media only screen and (max-width: 600px) {
+	.rowf4 {
+		height: 280px !important;	
+	}
 	.container {
 		min-width: 100%;
 	}
@@ -383,7 +386,7 @@ title: Home
 	border-radius: 5px;
 	}
 .rowf4 {
-	height: 380px !important;	
+	height: 380px;	
 	}
 .post-content {
 	text-align: left;
