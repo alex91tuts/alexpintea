@@ -7,7 +7,7 @@ title: Home
 <div class="static-slider2 spacer" style="background-color: white!important; padding: 20px;">
  
 <div class="container" style="max-width: 70%;">
-<h2 class="title fade-in">RECENTE<span class="text-megna">.</span></h2>
+<h2 class="title fade-in" style="margin-left: -10px;line-height: 45px;">RECENTE<span class="text-megna">.</span></h2>
   <div class="row">
     <div class="col-md-6">
       <div class="row">
@@ -87,6 +87,152 @@ title: Home
         </div>
       </div>
     </div>
+		
+		
+		
+		 <div class="col">
+      <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">DESIGN INTERIOR<span class="text-megna">.</span></h2>
+      <div class="row">
+        <div class="col-lg-4 post">
+					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
+					{% for post in stiri limit:1 %}
+          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+  			<div class="col-lg-4 post">
+					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
+					{% for post in stiri limit:1 offset:1 %}
+          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+        <div class="col-lg-4 post">
+					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
+					{% for post in stiri offset:2 limit:1 %}
+          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+      </div>
+    </div>
+		
+		
+		
+		
+		 <div class="col-12">
+      <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">REVIEW<span class="text-megna">.</span></h2>
+      <div class="row">
+				<div class="col-lg-3 col-6 post">
+					{% assign stiri = site.reviews | sort: 'date' | reverse %}
+					{% for post in stiri offset:2 limit:1 %}
+          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+        <div class="col-lg-3 col-6 post">
+					{% assign stiri = site.reviews | sort: 'date' | reverse %}
+					{% for post in stiri offset:3 limit:1 %}
+          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+  			<div class="col-lg-3 col-6 post">
+					{% assign stiri = site.reviews | sort: 'date' | reverse %}
+					{% for post in stiri offset:4 limit:1 %}
+          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+       <div class="col-lg-3 col-6 post">
+					{% assign stiri = site.reviews | sort: 'date' | reverse %}
+					{% for post in stiri offset:5 limit:1 %}
+          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+      </div>
+    </div>	
+		
+		 <div class="col-12">
+      <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">CALĂTORII<span class="text-megna">.</span></h2>
+      <div class="row">
+				<div class="col-lg-6 col post">
+					{% assign stiri = site.travel | sort: 'date' | reverse %}
+					{% for post in stiri offset:2 limit:1 %}
+          <div class="post-content rowing" style="background-image: url({{ post.image }});">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+        <div class="col-lg-6 col post">
+					{% assign stiri = site.travel | sort: 'date' | reverse %}
+					{% for post in stiri offset:3 limit:1 %}
+          <div class="post-content rowing" style="background-image: url({{ post.image }});">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+  			<div class="col-lg-6 col post">
+					{% assign stiri = site.travel | sort: 'date' | reverse %}
+					{% for post in stiri offset:4 limit:1 %}
+          <div class="post-content rowing" style="background-image: url({{ post.image }});">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+       <div class="col-lg-6 col post">
+					{% assign stiri = site.travel | sort: 'date' | reverse %}
+					{% for post in stiri offset:5 limit:1 %}
+          <div class="post-content rowing" style="background-image: url({{ post.image }});">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+      </div>
+    </div>	
+		
+		
   </div>
 </div>
 
@@ -99,7 +245,7 @@ title: Home
         <div class="row">
             <!-- Column -->
             <div class="col-md-5 align-self-center fly-in">
-                <h1 class="title fade-in">RECENZII<span class="text-megna">.</span></h1>
+                <h1 class="title">RECENZII<span class="text-megna">.</span></h1>
                 <h6 class="subtitle">Citește recenzii, păreri, vezi specificații și imagini, află cele mai recente informații despre produsele de top de pe piață!</h6>
                 <a class="btn btn-success-gradiant btn-md btn-arrow m-t-20 m-b-10" href="/review/"><span>CITEȘTE ➤</span></a>
             </div>
@@ -202,7 +348,10 @@ title: Home
 <style>
 @media only screen and (max-width: 600px) {
 	.container {
-		min-width: 95%;
+		min-width: 100%;
+	}
+	.static-slider2 {
+		padding: 5px !important;
 	}
 	.post-content {
 		height: 200px !important;
@@ -218,11 +367,14 @@ title: Home
 		padding: 3px !important;
 	}
 }
+.rowing {
+	height: 250px !important;	
+	}
 .post {
 	padding: 10px;
 }
 .grad-back {
-	background: linear-gradient(#0000006e,#3638385e, #00000021, #00000069);
+	background: linear-gradient(#000000,#363838e6, #00000021, #00000069);
 	min-height: 100%;
 	position: absolute;
 	top: 0;
@@ -230,11 +382,14 @@ title: Home
 	width: 100%;
 	border-radius: 5px;
 	}
+.rowf4 {
+	height: 380px !important;	
+	}
 .post-content {
 	text-align: left;
 	background-color: #ffff;
 	border-radius: 5px;
-  box-shadow: 0 0 22px -8px lightgrey;
+  box-shadow: 0 0 21px -5px #000000;
 	height: 350px;
 	position: relative;
 	transition: 0.3s;
