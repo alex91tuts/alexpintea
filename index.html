@@ -3,18 +3,96 @@
 layout: empty
 title: Home
 ---
-<!--
-<div class="static-slider7" style="background-image:url(assets/images/reduceri-banner.jpeg); background-size: cover; background-position: center;">
-    <div class="container">
-        <div class="row justify-content-center ">
-            <div class="col-md-8 align-self-center text-center">
-                <h1 class="title text-white">TOT REDUS</h1>
-                <h4 class="title text-white">”DE CE?”-ul dinainte de a cumpăra! Dă valoare banilor tăi!</h4>
-            </div>           
+
+<div class="static-slider2 spacer" style="background-color: white!important; padding: 20px;">
+ 
+<div class="container" style="max-width: 70%;">
+<h2 class="title fade-in">RECENTE<span class="text-megna">.</span></h2>
+  <div class="row">
+    <div class="col-md-6">
+      <div class="row">
+        <div class="col-12 post">
+					{% assign stiri = site.stiri | sort: 'date' | reverse %}
+					{% for post in stiri limit:1 %}
+          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
         </div>
+      </div>
+      <div class="row">
+        <div class="col-6 post">
+					{% assign stiri = site.travel | sort: 'date' | reverse %}
+					{% for post in stiri limit:1 %}
+          <div class="post-content" style="background-image: url('{{ post.image }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+        <div class="col-6 post">
+					{% assign stiri = site.travel | sort: 'date' | reverse %}
+					{% for post in stiri offset:1 limit:1 %}
+          <div class="post-content" style="background-image: url('{{ post.image }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+      </div>
     </div>
+    <div class="col-md-6">
+      <div class="row">
+        <div class="col-6 post">
+					{% assign stiri = site.reviews | sort: 'date' | reverse %}
+					{% for post in stiri limit:1 %}
+          <div class="post-content" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{post.url}}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+       <div class="col-6 post">
+					{% assign stiri = site.reviews | sort: 'date' | reverse %}
+					{% for post in stiri offset:1 limit:1 %}
+          <div class="post-content" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{post.url}}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+      </div>
+      <div class="row">
+         <div class="col-12 post">
+					{% assign stiri = site.stiri | sort: 'date' | reverse %}
+					{% for post in stiri offset:1 limit:1 %}
+          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
+            <div class="grad-back">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
+            </div>
+          </div>
+					{% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
--->
+
+
+
+</div>
 <div class="static-slider2 spacer" style="background-color: rgb(244, 248, 250) !important;">
     <div class="container">
         <!-- Row  -->
@@ -122,6 +200,71 @@ title: Home
                 <!-- End Contact 2  -->
                 <!-- ============================================================== -->
 <style>
+@media only screen and (max-width: 600px) {
+	.container {
+		min-width: 95%;
+	}
+	.post-content {
+		height: 200px !important;
+	}
+	.post-title {
+		font-size: 11px !important;
+		padding-top: 3px !important;
+	}
+	.post-btn {
+		font-size: 14px;
+	}
+	.post {
+		padding: 3px !important;
+	}
+}
+.post {
+	padding: 10px;
+}
+.grad-back {
+	background: linear-gradient(#0000006e,#3638385e, #00000021, #00000069);
+	min-height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	border-radius: 5px;
+	}
+.post-content {
+	text-align: left;
+	background-color: #ffff;
+	border-radius: 5px;
+  box-shadow: 0 0 22px -8px lightgrey;
+	height: 350px;
+	position: relative;
+	transition: 0.3s;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	}
+	.post-content:hover {
+		box-shadow: none;
+	}
+.post-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+		padding: 5px;
+		padding-top: 20px;
+}
+
+.post-btn {
+  margin-top: 20px;
+	position: absolute;
+	bottom: 15px;
+	left: 15px;
+	font-weight: bold;
+}
+	.post-btn:hover {
+		left: 12px;
+	}
+	
 .fade-in {
   opacity: 0; /* Set initial opacity to 0 */
   animation-name: fadeIn; /* Set the animation name */
