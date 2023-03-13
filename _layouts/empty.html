@@ -74,7 +74,7 @@ function toggleShow() {
 		list.forEach(function(prod){
 			outputList += `
 		<!-- begin post -->
-				<a href="#${prod.split(' ').join('-').toLowerCase()}"><li>${prod}</li></a>
+				<li><a href="#${prod.split(' ').join('-').toLowerCase()}">${prod}</a></li>
 		<!-- end post -->`	
 		});
 	document.getElementById('outputList').innerHTML = outputList;

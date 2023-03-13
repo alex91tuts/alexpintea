@@ -282,3 +282,55 @@ Datoriile includ orice tip de imprumut sau obligatii pe care le-ai facut in trec
 Una dintre cele mai bune modalitati prin care o persoana poate evalua situatia financiara este prin cresterea gradului de constientizare asupra modului in care cheltuieste bani si pastrarea unei urmariri stricte a banilor pe care ii cheltuieste lunar. Acest lucru va permite persoanelor sa vada unde isi cheltuiesc bani, cat ar trebui sa fie economisiti lunar pentru investitii si cat ar trebui alocat pentru plata ratelor lunare ale imprumuturilor. Avand grija de aceste lucruri, vei putea monitoriza evolutia financiara si vei putea calcula mai usor avea neta personala.
 
 In concluzie, evaluarea corecta a averii nete personale este esentială pentru oricine doreste sa-si gestioneze situatia financiara. Este foarte important ca fiecare persoana sa inteleaga ce anume include aceasta masuratoare, cum se calculeaza corect, unde gasim informatiile necesare precum si cum putem folosi aceasta masuratoare pentru imbunatati situatia financiara actuala.
+
+<script>
+// Create event listener on submit button CALCULATOR DE INVESTITII
+document.getElementById("submitinv").addEventListener("click", (e) => calculate(e))
+// Function to make calculations and build table
+function calculate(e) {
+  e.preventDefault();
+  let labels = [];
+  let balances = [];
+  // Take form input and assign them to variables 
+  const formItems = document.querySelector("form").children;
+  let startingBal = parseInt(formItems[1].value);
+  const expReturn = parseInt(formItems[3].value)/100;
+  const monthlyDep = parseInt(formItems[5].value);
+  const duration = parseInt(formItems[7].value);
+  const monthlyReturn = expReturn/12;
+  if(startingBal === null || startingBal === undefined ||
+     expReturn === null || expReturn === undefined ||
+     monthlyDep === null || monthlyDep === undefined ||
+     duration === null || duration === undefined) {
+    return;
+  }
+  if(monthlyDep < 0) {
+    return;
+  }
+  // Create formatter for USD
+  const formatter = new Intl.NumberFormat('ro-RO', {
+  style: 'currency',
+  currency: 'RON',
+  minimumFractionDigits: 2
+  })
+  // Loop through items to update starting balance and build out table rows
+  for(let i = 1; i <= duration*12; i++) {
+    startingBal = (startingBal * (1 + monthlyReturn)) + monthlyDep;
+    if(i % 12 === 0) {
+      const year = i/12;
+      balances.push(startingBal.toFixed(2));
+      labels.push(`Year ${year}`);
+    }
+  }
+  // Make table and chart appear and have the total presented at the bottom of the screen
+  if(document.querySelector("#finalValue")) {
+    document.querySelector("#finalValue").innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
+  } else {
+    const finalValue = document.createElement("h3");
+    finalValue.setAttribute("id", "finalValue");
+    finalValue.innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
+    document.querySelector(".chartDiv").appendChild(finalValue);
+  }
+  document.getElementById("submitinv").innerHTML = "Re-Calculează"
+}
+</script>

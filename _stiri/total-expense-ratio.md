@@ -100,3 +100,55 @@ Cu toate acestea,  există și unele taxe, cum ar fi comisioanele, comisioanele 
 <span class="drop-caps">C</span>ând vine vorba de investiții, este important să luați în considerare raportul total al cheltuielilor. Asigurați-vă că faceți cercetări și aflați raportul total al cheltuielilor oricărei investiții înainte de a lua o decizie.
 
 Raportul total al cheltuielilor este suma tuturor cheltuielilor asociate cu o investiție, cum ar fi taxele de administrare, costurile administrative și cheltuielile de funcționare ale fondului. Este important să înțelegeți pentru ce plătiți atunci când investiți și cât va costa pe termen lung.
+
+<script>
+// Create event listener on submit button CALCULATOR DE INVESTITII
+document.getElementById("submitinv").addEventListener("click", (e) => calculate(e))
+// Function to make calculations and build table
+function calculate(e) {
+  e.preventDefault();
+  let labels = [];
+  let balances = [];
+  // Take form input and assign them to variables 
+  const formItems = document.querySelector("form").children;
+  let startingBal = parseInt(formItems[1].value);
+  const expReturn = parseInt(formItems[3].value)/100;
+  const monthlyDep = parseInt(formItems[5].value);
+  const duration = parseInt(formItems[7].value);
+  const monthlyReturn = expReturn/12;
+  if(startingBal === null || startingBal === undefined ||
+     expReturn === null || expReturn === undefined ||
+     monthlyDep === null || monthlyDep === undefined ||
+     duration === null || duration === undefined) {
+    return;
+  }
+  if(monthlyDep < 0) {
+    return;
+  }
+  // Create formatter for USD
+  const formatter = new Intl.NumberFormat('ro-RO', {
+  style: 'currency',
+  currency: 'RON',
+  minimumFractionDigits: 2
+  })
+  // Loop through items to update starting balance and build out table rows
+  for(let i = 1; i <= duration*12; i++) {
+    startingBal = (startingBal * (1 + monthlyReturn)) + monthlyDep;
+    if(i % 12 === 0) {
+      const year = i/12;
+      balances.push(startingBal.toFixed(2));
+      labels.push(`Year ${year}`);
+    }
+  }
+  // Make table and chart appear and have the total presented at the bottom of the screen
+  if(document.querySelector("#finalValue")) {
+    document.querySelector("#finalValue").innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
+  } else {
+    const finalValue = document.createElement("h3");
+    finalValue.setAttribute("id", "finalValue");
+    finalValue.innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
+    document.querySelector(".chartDiv").appendChild(finalValue);
+  }
+  document.getElementById("submitinv").innerHTML = "Re-Calculează"
+}
+</script>
