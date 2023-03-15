@@ -10,7 +10,14 @@
 @import "mobile";
 @import "general";
 
-
+.intro {
+	font-size: 15px;
+	font-weight: bold;
+	border: solid 1px lightgray;
+	border-radius: 5px;
+	padding: 25px;
+	box-shadow: 0 0 15px 3px #0000000d;
+}
 blockquote {
 border-left: solid 6px;
 padding-left: 16px;
