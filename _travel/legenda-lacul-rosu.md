@@ -19,6 +19,7 @@ tags: ['Lacul Roșu', 'Legenda', '2023']
 
 Lacul Roșu, aflat în județul Harghita, este una dintre cele mai frumoase atracții turistice din România. Pe lângă peisajele spectaculoase, acest lac a fost sursa multor legende care au fascinat populația și turiștii de-a lungul anilor.
 
+[Explorează Cheile Bicazului](https://totredus.ro/travel/cheile-bicazului/)
 
 ---
 ## Legendele care au făcut cunoscut Lacul Roșu

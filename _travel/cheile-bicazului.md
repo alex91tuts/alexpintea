@@ -17,6 +17,8 @@ tags: ['BICAZ', 'chei', 'lac']
 
 **_Dacă sunteți în căutarea unui loc de vacanță uluitor, nu vă uitați foarte departe, încercați România. Această țară frumoasă este plină de peisaje uimitoare, cultură vibrantă și experiențe unice care nu pot fi găsite nicăieri în lume. De la Munții Carpați până la coasta Mării Negre, România oferă o varietate de activități în aer liber, cum ar fi drumeții, schi și rafting. Există, de asemenea, o mulțime de situri istorice de explorat, de la cetăți antice la biserici medievale. Pentru cei care preferă o experiență mai urbană, există orașe diverse, cum ar fi București și Cluj-Napoca, care au viață de noapte interesantă și o mulțime de atracții. Indiferent ce căutați într-un loc de vacanță, România vă va oferi cu siguranță o experiență de neuitat._**
 
+[Legendele Lacului Roșu](https://totredus.ro/travel/legenda-lacul-rosu/)
+
 ## Drumeții în Cheile Bicazului: O aventură de neuitat în România
 ---
 

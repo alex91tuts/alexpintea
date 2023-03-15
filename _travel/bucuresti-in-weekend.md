@@ -22,7 +22,7 @@ Explorați centrul vechi al orașului, vizitați Palatul Parlamentului, faceți 
 ## Ce să faci în București în weekend
 ---
 
-Vezi [aici un top atracții turistice în București](https://totredus.ro/travel/atractii-turistice-bucuresti/).
+[Top atracții turistice în București](https://totredus.ro/travel/atractii-turistice-bucuresti/).
 
 Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul. Indiferent dacă sunteți un rezident de lungă durată sau un vizitator, există o mulțime de lucruri distractive de făcut. Iată câteva activități pe care le poți face în București aproape în orice weekend:
 

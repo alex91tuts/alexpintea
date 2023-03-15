@@ -18,7 +18,7 @@ nume: Cum sa faci un site
 ## Website versus Blog
 ---
 
-<img src="/assets/images/internet/faciunsite/blog-vs-website.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/blog-vs-website.webp" alt="{{ page.title }}">
 
 ### Diferențe
 ---
@@ -55,7 +55,7 @@ Deși cele două sunt în general utilizate cu scopuri diferite, o abordare prac
 ## Fă-ți și tu un blog
 ---
 
-<img src="/assets/images/internet/faciunsite/make-a-blog.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/make-a-blog.webp" alt="{{ page.title }}">
 
 <span class="drop-caps">U</span>na dintre concepțiile greșite legate de începerea unui blog este că trebuie să fii un scriitor foarte bun pentru a avea succes. Nimic mai greșit. Oamenii citesc bloguri pentru a vedea o perspectivă personală asupra unui subiect. Așadar, majoritatea celor care scriu bloguri adoptă un stil informal și conversațional.
 
@@ -66,7 +66,7 @@ Mai mult de atât, nu trebuie să fii un expert în topicul pe care l-ai ales. D
 ## Uite de ce
 ---
 
-<img src="/assets/images/internet/faciunsite/de-ce-sa-te-obosesti.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/de-ce-sa-te-obosesti.webp" alt="{{ page.title }}">
 
 Probabil te întrebi: de ce sa depun efortul de a crea un blog? Uite de ce:
 
@@ -89,7 +89,7 @@ Probabil te întrebi: de ce sa depun efortul de a crea un blog? Uite de ce:
 ## Decide despre ce vrei să scrii
 ---
 
-<img src="/assets/images/internet/faciunsite/despre-ce-vrei-sa-scrii.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/despre-ce-vrei-sa-scrii.webp" alt="{{ page.title }}">
 
 <span class="drop-caps">D</span>acă faci parte dintr-o companie sau organizație, probabil vei scrie  despre produsele/ serviciile pe care compania ta le oferă sau cauza pentru care militezi.
 
@@ -103,7 +103,7 @@ Dacă ești independent, ai mult mai multă flexibilitate în alegerea unui subi
 ## Alege platforma potrivită
 ---
 
-<img src="/assets/images/internet/faciunsite/platforma.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/platforma.webp" alt="{{ page.title }}">
 
 <span class="drop-caps">W</span>ordpress.com? Wordpress.org? Wix? Weebly? Blogger? Joomla? Ce sa alegi?
 
@@ -119,7 +119,7 @@ Dacă începi cu platforma greșită, cel mai probabil va fi foarte dificil să 
 
  **Aici intra în joc Wordpress.org (nu fă confuzie cu Wordpress.com):** 
 
-<img src="/assets/images/internet/faciunsite/wodpress.org_.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/wodpress.org_.webp" alt="{{ page.title }}">
 
 Wordpress.org este cel mai popular soft pentru blogging din lume. Este o platformă de tip open-source ce iți oferă posibilitatea să iți construiești un website sau un blog pe cont propriu.
 
@@ -161,7 +161,7 @@ Numele domeniului este un element crucial pentru succesul site-ului tău. Să ve
 ### Cum să alegi domeniul?
 ---
 
-<img src="/assets/images/internet/faciunsite/alege-domeniu.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/alege-domeniu.webp" alt="{{ page.title }}">
 
 <span class="drop-caps">I</span>ată câteva principii după care să te ghidezi atunci când trebuie să-ți alegi domeniul:
 
@@ -175,7 +175,7 @@ Ai putea să petreci ore sau să iți alegi numele de domeniu în câteva minute
 ### Alege serverul (gazduirea)
 ---
 
-<img src="/assets/images/internet/faciunsite/host.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/host.webp" alt="{{ page.title }}">
 
 Sunt foarte mulți factori care determină dacă un server este bun sau nu. Procesul poate fi copleșitor pentru un începător însă voi enumera câteva principii importante. De asemenea, voi  face și un articol separat pe această temă.
 
@@ -234,13 +234,13 @@ Ca și începător este de asemenea indicat să cumperi domeniul și hostul de l
 
 <span class="drop-caps">N</span>e-am hotărât la WordPress, ne-am luat domeniu și gazdă, acum putem începe să lucrăm la site. Considerăm că gazda ne oferă posibilitatea să instalăm WordPress.org cu un singur click pe domeniul ales de noi.
 
-<img src="/assets/images/internet/faciunsite/wordpress-instaler.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/wordpress-instaler.webp" alt="{{ page.title }}">
 
 De obicei propagarea unui domeniu poate dura până la 24 de ore, așa că, există posibilitatea să nu avem imediat acces la el. Eu am achiziționat ultimele 3 domenii de la Romarg și s-au propagat imediat.
 
 Odată instalat, poți accesa bordul de control WordPress la adresa domeniultău.ro/wp-admin. Pe parcursul instalării ți se va cere să setezi numele de utilizator și parola. Notează-le sau asigurăte că nu le uiți deoarece cu ajutorul lor te vei putea loga în panoul de control WordPress.
 
-<img src="/assets/images/internet/faciunsite/login.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/login.webp" alt="{{ page.title }}">
 
 ### Alege o temă
 ---
@@ -251,7 +251,7 @@ Dacă site-ul tău este în limba română ar fi indicat prima dată să schimbi
 
 Pentru a schimba tema te duci la (considerând că acum site-ul este în limba română) ASPECT > TEME > ADAUGĂ TEMĂ apoi folosind căsuța de căutare găsește o temă care ți se potrivește cel mai bine.
 
-<img src="/assets/images/internet/faciunsite/alege-tema.jpg" alt="{{ page.title }}">
+<img src="/assets/images/internet/faciunsite/alege-tema.webp" alt="{{ page.title }}">
 
 Odată ce ai găsit o temă care răspunde nevoilor tale este indicat să verifici dacă are note bune și dacă a fost updatată cu regularitate.
 

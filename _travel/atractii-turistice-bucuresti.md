@@ -18,6 +18,8 @@ tags: ['București', 'capitale', 'atractii']
 
 **_București...de la străzile pline de viață ale orașului, până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș românesc plin de viață. Vizitați emblematicul Palat al Parlamentului, o clădire uimitoare care este a doua cea mai mare clădire administrativă din lume. Faceți o plimbare prin Piața Revoluției și explorați numeroasele muzee și galerii ale orașului. Bucurați-vă de aromele bucătăriei tradiționale românești la unul dintre numeroasele restaurante și cafenele ale orașului. Nu lipsesc lucrurile de făcut în București, așa că asigurați-vă că vă faceți timp pentru a explora tot ce are de oferit acest oraș vibrant!_**
 
+[Ce poți face în weekend în București?](https://totredus.ro/travel/bucuresti-in-weekend/)
+
 ## Gradina Botanica o evadare din agitația vieții orașului
 ---
 
@@ -287,7 +289,7 @@ Indiferent când vizitați Piața Unirii din București, puteți fi sigur că va
 ---
 ## Muzeul Național de Artă Contemporană
 
-<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/contart.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/blanks.webp" data-echo="/assets/images/travel/bucuresti/contart.webp" alt="{{ page.keyword }}">
 
 
 <span class="drop">M</span>uzeul Național de Artă Contemporană București (MNAC) este o vizită obligatorie pentru oricine este interesat de artă și cultură. Situat în inima capitalei României, acest muzeu adăpostește unele dintre cele mai importante lucrări de artă contemporană din întreaga lume.
@@ -305,7 +307,7 @@ Muzeul are și un centru de educație unde studenții pot afla mai multe despre 
 ---
 ## Palatul Primăverii
 
-<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/primaverii.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/blanks.webp" data-echo="/assets/images/travel/bucuresti/primaverii.webp" alt="{{ page.keyword }}">
 
 <span class="drop">P</span>alatul Primăverii sau „Casa Ceaușescu”, este un exemplu uimitor de arhitectură modernistă situat în București. Construită la mijlocul anilor 1960 de dictatorul de atunci al României Nicolae Ceaușescu, ea stă ca o mărturie a puterii și opulenței Partidului Comunist Român.
 
@@ -322,7 +324,7 @@ Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României su
 ---
 ## Casa Melik - Muzeul Theodor Pallady
 
-<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/melik.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/blanks.webp" data-echo="/assets/images/travel/bucuresti/melik.webp" alt="{{ page.keyword }}">
 
 <span class="drop">A</span>scunsă în inima Bucureștiului se află Casa Melik, un muzeu unic dedicat conservării operei renumitului pictor român Theodor Pallady. Situat într-una dintre cele mai vechi clădiri din orașul istoric istoric al Bucureștiului, vizitatorii pot explora lucrările fascinante ale acestui maestru artist și pot explora viața și cariera lui.
 
@@ -335,7 +337,7 @@ Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cu
 ---
 ## Descoperiți comorile culturii Române la Casa Memorială Anton Pann
 
-<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/pann.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/blanks.webp" data-echo="/assets/images/travel/bucuresti/pann.webp" alt="{{ page.keyword }}">
 
 <span class="drop">C</span>asa Memorială Anton Pann București este un monument istoric care aduce un omagiu vieții și operelor renumitului scriitor și compozitor român din secolul al XIX-lea, Anton Pann. 
 
@@ -354,7 +356,7 @@ Pe lângă faptul că pot explora artefactele fascinante aflate aici, vizitatori
 ---
 ##  Parcul Național Văcărești
 
-<img src="/assets/images/blank.webp" data-echo="/assets/images/travel/bucuresti/vacaresti.webp" alt="{{ page.keyword }}">
+<img src="/assets/images/blanks.webp" data-echo="/assets/images/travel/bucuresti/vacaresti.webp" alt="{{ page.keyword }}">
 
 <span class="drop">S</span>ituat la marginea Bucurestiului, Parcul Natural Vacaresti este un reper unic care serveste drept sanctuar atat pentru fauna salbatica cat si pentru oameni deopotriva. Acest frumos parc găzduiește peste 200 de specii de păsări, inclusiv specii rare, precum stilul cu aripi negre și vulturul cu coadă albă. De asemenea, găzduiește mai multe specii de mamifere, reptile, amfibieni și pești. Parcul se mândrește cu o bogată diversitate de floră și faună, ceea ce îl face unul dintre cele mai importante puncte fierbinți de biodiversitate din România.
 

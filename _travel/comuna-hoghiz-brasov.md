@@ -120,7 +120,7 @@ Biserica Unitariană din Hoghiz este o clădire istorică în stil gotic, situat
 
 Aceasta a fost construită în secolul al XIV-lea și a fost folosită în trecut de către catolici, dar după Reforma Protestantă, a fost transformată într-o biserică unitariană.
 
-<img src="/assets/images/travel/hoghiz/unitară.webp" width="740" height="491" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/unitara.webp" width="740" height="491" alt="{{ page.title }}">
 
 Biserica are o fațadă impresionantă cu un portal gotic și o rozetă deasupra acestuia, iar în interior se pot observa numeroase elemente arhitecturale interesante, cum ar fi bolți ogivale, arcade și console sculptate. 
 

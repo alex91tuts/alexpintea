@@ -2,14 +2,15 @@
 title: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
 image_path: stiri/riflaj/main.webp
 layout: stiri
-date: 2023-02-26
+date: 2023-03-15
 categorie: DESIGN INTERIOR
 tags: ['Riflaj', 'DIY', 'Lemn']
 nume: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
 author: "Radu"
-scor-intro: Ultimul trend în amenajarea spatiilor interioare este riflajul decorativ. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și prinde un aer modern.
+scor-intro: Riflajul din lemn apare printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv și se poate să îl faci și singur, mult mai ieftin decât în comerț. 
 
-description: Ultimul trend în amenajarea spatiilor interioare este riflajul decorativ. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și prinde un aer modern.
+description: Riflajul din lemn apare printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv și se poate să îl faci și singur, mult mai ieftin decât în comerț. 
+
 
 colors: ['red', 'green', 'blue', 'orange']
 
@@ -90,7 +91,7 @@ Lamelele din lemn pot fi folosite ca opțiune de finisare exterioară sau interi
 
 Această semi-confidențialitate este o caracteristică decorativă și funcțională excelentă pentru planurile de etaj deschise în case și spații de birou.
 
-#### Lemnul izolează
+#### Lemnul izolează termic
 
 Unul dintre principalele motive pentru care șipcile de lemn sunt atât de populare este faptul că lemnul este un izolator natural excelent. Pe măsură ce tot mai multe clădiri se străduiesc să obțină scor net-zero energie, arhitecții și constructorii acordă o atenție mai mare sistemelor, design-urilor și materialelor eficiente din punct de vedere energetic.
 
