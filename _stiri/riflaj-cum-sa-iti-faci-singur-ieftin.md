@@ -7,10 +7,9 @@ categorie: DESIGN INTERIOR
 tags: ['Riflaj', 'DIY', 'Lemn']
 nume: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
 author: "Radu"
-scor-intro: Riflajul din lemn apare printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv și se poate să îl faci și singur, mult mai ieftin decât în comerț. 
+scor-intro: Riflajul din lemn - printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv. 
 
-description: Riflajul din lemn apare printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv și se poate să îl faci și singur, mult mai ieftin decât în comerț. 
-
+description: Riflajul din lemn - printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv. 
 
 colors: ['red', 'green', 'blue', 'orange']
 
@@ -20,46 +19,23 @@ colors: ['red', 'green', 'blue', 'orange']
 _Printre ultimele trenduri în amenajarea spatiilor interioare este riflajul decorativ test. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și capătă un aer modern._
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic1.webp"
-alt="\{{ page.title }}"
-style="float: left; margin-right: 10px; margin-bottom: 10px;" />
+alt="\{{ page.title }}" width="740" height="475" style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 ---
-<!-- Oferta Magazin-->
-<div style="padding: 10px" class="col-12">
-	<div class="price-box row">
-		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
-		</div>
-		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Riflaje MDF ieftine</p>
-		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11487473" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
-		</div>
-	</div>
-</div>
-<!-- Sfarsit-->
+{% include cta.html link="https://l.profitshare.ro/l/11487473" %}
 
 ---
 ## RIFLAJUL - o istorie lungă
 
 <span class="drop-caps">I</span>ndustria decorului casei a cunoscut recent o creștere a popularității, deoarece oamenii caută modalități de a-și face casele mai confortabile și mai plăcute din punct de vedere estetic. 
 
-Printre numeroasele tendințe care au apărut se numără și utilizarea riflajului decorativ, un tip de panou decorativ din lemn sau metal. Riflajele devin din ce în ce mai populare pentru proiectele de design interior datorită aspectului și versatilității lor unice.
+Printre numeroasele tendințe care au apărut se numără și utilizarea riflajului decorativ, un tip de **panou decorativ** din lemn sau metal. Riflajele devin din ce în ce mai populare pentru proiectele de design interior datorită aspectului și versatilității lor unice.
 
 Aceste panouri decorative sunt realizate din bucăți subțiri de lemn sau metal care sunt tăiate în modele simple sau complicate și apoi asamblate cu grijă împreună într-un mod unic. 
 
 Modelul este adesea complicat, cu forme și dimensiuni diferite care pot fi aranjate în multe moduri diferite pentru a crea efecte interesante. 
 
 Rezultatul final este un panou care poate adăuga interes vizual oricărei încăperi, făcându-l perfect pentru utilizare în proiecte de design interior.
-
-Riflajele pot fi folosite in moduri diferite in proiectele de design interior, precum: folosite ca artă de perete, agățate deasupra paturilor sau canapelelor sau folosite ca despărțitor între două camere. 
-
-De asemenea, funcționează excelent ca tăblie de pat sau piese de accent pe mobilier, cum ar fi dulapuri și rafturi. În plus, sunt perfecte pentru utilizarea pe grinzile de tavan și alte caracteristici arhitecturale în care modelele lor unice pot ieși cu adevărat în evidență.
-
-Acestea oferă un contrast interesant între design-urile tradiționale și elementele moderne atunci când sunt utilizate în proiecte de design interior. 
-
-Ele oferă textură și profunzime spațiilor, adăugând în același timp un punct focal atrăgător, fără a fi prea ornamentate sau strălucitoare. 
-
-Acest lucru le face ideale pentru modelele minimaliste în care pot adăuga subtil interes vizual fără a copleși atractivitatea estetică generală a camerei.
-
-În general, panourile decorative de tip riflaj devin rapid una dintre cele mai populare alegeri în rândul designerilor de interior datorită versatilității, unicității și capacității lor de a aduce interes vizual în orice spațiu, fără a fi prea invadatoare sau distrage atenția de la alte elemente din atractivitatea estetică generală a camerei.
 
 ---
 ## De ce sunt asa de populare
@@ -79,51 +55,31 @@ Lamelele sunt utilizate în mod obișnuit de către producătorii de mobilier î
 
 <span class="drop-caps">L</span>emnul este un material versatil și popular pentru decorarea casei datorită atractivității sale naturale. Există multe moduri de a folosi lemnul pentru a adăuga caracter și căldură unui spațiu interior, iar oamenii din întreaga lume profită de potențialul său. 
 
-În timp ce folosirea lemnului pentru placare sau pardoseală este obișnuită, există multe alte moduri inovatoare de a-l încorpora în designul casei tale. Cu puțină imaginație, lemnul poate fi folosit în moduri nesfârșite pentru a crea un spațiu unic și elegant.
+În timp ce folosirea **lemnului** pentru placare sau pardoseală este obișnuită, există multe alte moduri inovatoare de a-l încorpora în designul casei tale. Cu puțină imaginație, lemnul poate fi folosit în moduri nesfârșite pentru a crea un spațiu unic și elegant.
 
 De exemplu, lambriurile din lemn pot adăuga mult caracter unei camere. Puteți să-l utilizați pentru partea inferioară a pereților sau să acoperiți întregul perete cu el. Există multe stiluri și culori diferite, astfel încât să puteți găsi ceva care se potrivește cu adevărat gusturilor dvs.
 
 Sau, dacă sunteți în căutarea unei modalități de a vă face casa mai confortabilă și mai primitoare, de ce să nu încercați să instalați un tavan din lemn? Există multe stiluri diferite din care puteți alege, astfel încât să puteți găsi aspectul perfect care să se potrivească cu decorul existent al casei dvs. 
 
-Indiferent dacă optați pentru bușteni rustici sau panouri elegante din lemn sau riflaje, un tavan din lemn va oferi casei tale senzația confortabilă, asemănătoare unei cabane, pe care o căutați.
-
-Lamelele din lemn pot fi folosite ca opțiune de finisare exterioară sau interioară a pereților. Poate servi drept separator între două spații adiacente, fără a bloca complet vederea, lumina și ventilația. 
-
-Această semi-confidențialitate este o caracteristică decorativă și funcțională excelentă pentru planurile de etaj deschise în case și spații de birou.
-
-#### Lemnul izolează termic
+### Lemnul izolează termic
 
 Unul dintre principalele motive pentru care șipcile de lemn sunt atât de populare este faptul că lemnul este un izolator natural excelent. Pe măsură ce tot mai multe clădiri se străduiesc să obțină scor net-zero energie, arhitecții și constructorii acordă o atenție mai mare sistemelor, design-urilor și materialelor eficiente din punct de vedere energetic.
 
-Lemnul are o valoare R mai mare decât multe alte materiale de construcție, ceea ce înseamnă că este mai bun la absorbția și reținerea căldurii. Acest lucru face clădirile cu din lemn mai eficiente din punct de vedere energetic decât cele realizate din alte materiale precum aluminiu sau beton.
-
-Instalarea pereților din șipci de lemn poate ajuta la reglarea temperaturii proprietății dvs., ceea ce duce la economii de energie și costuri mai mici de încălzire și răcire. 
-
-Acest lucru face din pereții din șipci din lemn o alegere înțeleaptă pentru proprietarii de case sau afaceri care doresc să-și îmbunătățească eficiența energetică.
-
-#### Absoarbe sunetul
+### Absoarbe sunetul
 
 Deoarece panourile din lemn sunt bune la absorbția sunetului, pot îmbunătăți acustica unei încăperi. Acest lucru face din pereții din șipci de lemn o alegere excelentă pentru cei care doresc mai multă intimitate și liniște. 
 
-Când undele sonore lovesc lemnul, acestea sunt împrăștiate, rezultând un efect de amortizare a sunetului. Peretele nostru din șipci de lemn va face o diferență semnificativă în mediile cu multe suprafețe netede, cum ar fi gips-carton sau gresie.
-
-Utilizarea panourilor de perete din șipci de lemn oferă beneficii funcționale și vizuale. Aceste soluții elegante de absorbție a sunetului vor beneficia de multe săli de întâlnire, cafenele, restaurante, birouri și magazine.
-
-#### Este durabil
+### Este durabil
 
 Lamelele din lemn de perete pot fi destul de durabile, în funcție de tipul lemnului, de calitatea manoperi și de cât de bine sunt îngrijite. 
 
 Lemnul de cedru este cel mai durabil, cu o durată de viață de până la 30 de ani. Molidul are o durată de viață de 6 până la 7 ani, în timp ce pinul are o durată de viață de până la 12 ani.
 
-Amintiți-vă că alegerea furnizorului potrivit, a materialelor și a protecției este esențială. Utilizarea lemnului tratat pentru a prelungi durata de viață a șipcilor din lemn de perete este o modalitate eficientă de a face acest lucru. 
-
 Durează mai mult, este estetic și este mai ușor de întreținut.
 
-#### Ușor de instalat
+### Ușor de instalat
 
 Instalarea șipcilor de lemn pe pereții tăi este un proces simplu care poate fi finalizat cu ușurință urmând câteva instrucțiuni DIY disponibile online; totuși, vă recomandăm să angajați profesioniști pentru a evita eventualele întârzieri sau probleme care ar putea apărea din lipsa de experiență sau din cauza utilizării instrumentelor greșite.
-
-Dacă intenționați să instalați singur, asigurați-vă că luați măsuri de siguranță, urmați procedurile corecte și consultați instrucțiunile producătorului. Vizionarea videoclipurilor care ilustrează procesul poate fi de asemenea utilă.
 
 ---
 ## Fă singur riflaj din lemn
@@ -131,7 +87,7 @@ Dacă intenționați să instalați singur, asigurați-vă că luați măsuri de
 Cel mai dificil este să găsești șipcile din lemn. De obicei acestea se regăsesc la magazinele de bricolaj în diferite dimensiuni, materiale și prețuri. Desigur, există și alte surse poate mai exclusiviste de unde puteți comanda lemnul. Avantajul magazinelor de bricolaj este că puteți merge personal și alege bucată cu bucată.
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/cherestearind.webp"
-     alt="\{{ page.title }}"
+     alt="\{{ page.title }}"  width="740" height="493"
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 ### 1. Stabilește necesarul de materiale. 
@@ -155,17 +111,17 @@ Cel mai dificil este să găsești șipcile din lemn. De obicei acestea se regă
 - Înainte de prindere pregăurește cu un burghiu mai subțire decât grosimea șuruburilor. Folosește și suruburi dar și adeziv. 
 	
 <img src="{{ site.url }}/assets/images/stiri/riflaj/lemnpal.webp"
-alt="\{{ page.title }}"
-style="float: left; margin-right: 10px; margin-bottom: 10px; width: 100%" />
+alt="\{{ page.title }}"  width="740" height="679"
+style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 		 
 ---
 ## Riflaj de MDF
 
-<span class="drop-caps">A</span>vând în vedere că sunteți în căutare de idei de renovare, probabil ați întâlnit termenul de placă fibroasă de densitate medie sau MDF. Este un tip de lemn prelucrat care a devenit din ce în ce mai popular în ultimii ani. 
+<span class="drop-caps">A</span>vând în vedere că sunteți în căutare de idei de renovare, probabil ați întâlnit termenul de placă fibroasă de densitate medie sau **MDF**. Este un tip de lemn prelucrat care a devenit din ce în ce mai popular în ultimii ani. 
 
 MDF-ul este un produs din lemn de inginerie care este creat prin descompunerea fibrelor din lemn de esență tare și din lemn de esență moale în particule mici înainte de a le combina cu ceară și lianți de rășină sub presiune și căldură ridicate. 
 
-Rezultatul este un material dens, dar uniform, care poate fi tăiat în diferite forme, dimensiuni și grosimi. Versatilitatea sa îl face o alegere ideală pentru fabricarea de mobilier, precum și pentru alte aplicații, cum ar fi dulapuri, panouri de perete, muluri, rafturi, uși și multe altele.
+Rezultatul este un material dens, dar uniform, care poate fi tăiat în diferite forme, dimensiuni și grosimi. Versatilitatea sa îl face o alegere ideală pentru fabricarea de mobilier, precum și pentru alte aplicații, cum ar fi dulapuri, **panouri** de perete, muluri, rafturi, uși și multe altele.
 
 
 Unul dintre cele mai mari avantaje ale MDF-ului față de produsele din lemn masiv este accesibilitatea acestuia. 
@@ -183,36 +139,26 @@ MDF-ul vine cu garanția că este drept. Așadar, șipcile obținute prin debita
 
 Recomamndat este ca debitarea să fie realizată cu un circular special care fie este atașat unor șine, fie au o punte mobilă și au un calculator în spate. Astfel ne asigurăm că toate lamelele sunt perfect drepte. 
 
-Pentru realizarea unui riflaj DIY (în regie proprie), putem utiliza numai MDF brut. 
+Pentru realizarea unui **riflaj DIY** (în regie proprie), putem utiliza numai MDF brut. 
 
 MDF-ul brut se poate debita în șipci și se poate prelucra exact ca lemnul. În mod normal, acesta se vopsește sau se înfoliază de către firmele specializate. Dar în cazul nostru, unde vrem să economisim jumatate din costuri, avem o singură opțiune și anume, să îl vopsim. 
 
 Așadar, după ce am obținut lamelele urmărim un tutorial pe youtube despre cum se vopseșt MDF-ul, cumpărăm grund și vopsea și trecem la treabă. 
 
-Fie vosim lamelă cu lamelă fie le montăm pe perete sau pe placa suport prin metodele descrise la lemn și le vopsim cu totul (inclusiv suportul obținând așadar un riflaj de aceeași culoare). 
+Fie vosim lamelă cu lamelă fie le montăm pe perete sau pe placa suport prin metodele descrise la lemn și le vopsim cu totul (inclusiv suportul obținând așadar un **riflaj** de aceeași culoare). 
 
 Există de asemenea și soluția frezării CNC a întregii plăci cu formă de riflaj și ulterior vopsirea sau înfolierea acesteia. 
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/mdfvopsit.webp"
-alt="\{{ page.title }}"
-style="float: left; margin-right: 10px; margin-bottom: 10px; width: 100%;" />
+alt="\{{ page.title }}"  width="740" height="745"
+style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 În concluzie, din MDF brut nu putem obține efecte cu nervuri de lemn decât prin înfoliere.
 
 Dacă totuși sună mult prea complicat vezi mai jos lamele de MDF înfoliat la un preț foarte bun:
 
----
-<!-- Oferta Magazin-->
-<div style="padding: 10px" class="col-12">
-	<div class="price-box row">
-		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
-		</div>
-		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Riflaje MDF ieftine</p>
-		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11487473" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
-		</div>
-	</div>
-</div>
-<!-- Sfarsit-->
+{% include cta.html link="https://l.profitshare.ro/l/11487473" %}
+
 ---
 ### Riflajul din PAL
 
@@ -222,7 +168,7 @@ Suprafețele din PAL pot fi tratate cu folii de melamină, furnir sau diverse la
 
 Spre deosebire de MDF acesta este mai ieftin și de calitate puțin mai slabă. Însă pentru un riflaj este perfect. 
 
-Pentru relizarea unui riflaj din PAL nu putem utiliza PAL brut. Palul brut nu arată în exteror la fel de fin precum MDF-ul. Vom utiliza metoda micilor și marilor fabricanți de mobilă. 
+Pentru relizarea unui **riflaj din PAL** nu putem utiliza PAL brut. Palul brut nu arată în exteror la fel de fin precum MDF-ul. Vom utiliza metoda micilor și marilor fabricanți de mobilă. 
 
 Acesta ajunge la distribuitori în plăci de 2 x 2.8 m și de obicei se vinde la plăci întregi. Adică, daca tu ai nevoie de 2/3 dintr-o placă va trebui să cumperi toată placa. 
 
@@ -240,7 +186,7 @@ Aici întâmpinăm o mică dificultate, mașinile care aplică PAL ul nu pot prn
 După debitare aducem șipcile acasă și le lipim conform procedurilor descrise la lemn și la MDF. 
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/lemnpal.webp"
-alt="\{{ page.title }}"
+alt="\{{ page.title }}"  width="740" height="679"
 style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 ---
@@ -260,65 +206,56 @@ Placajul este mai scump decât PAL-ul, poate și decât anumite finisaje de MDF.
 
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/debitareplywood.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="551"
+     style="margin-right: 10px;"/>
 
 După ce vin șipcile debitate le finisăm conform preferințelor (lac, ceară sau vopsea). Placajul, deoarece este făcut din lemn poate fi finisat exact ca și lemnul spre deosebire de MDF. 
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/finisareplaywood.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="616"
+     style="margin-right: 10px;"/>
 
 După finisare le montăm fie direct pe perete fie pe o placă suport.
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/finalplaywood.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="480"
+     style="margin-right: 10px;"/>
 
 ---
 ## Idei de riflaje
 
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic2.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="1250"
+     style="margin-right: 10px;"/>
 		 
 ---
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic3.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="921"
+     style="margin-right: 10px;" />
 
 ---
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic4.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="1077"
+     style="margin-right: 10px;" />
 
 ---
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic5.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="1249"
+     style="margin-right: 10px;" />
 		 
 ---
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic6.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="1024"
+     style="margin-right: 10px;" />
 		 
 ---
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic7.webp"
-     alt="\{{ page.title }}"
-     style="margin-right: 10px; width: 100%" />
+     alt="\{{ page.title }}"  width="740" height="1045"
+     style="margin-right: 10px;" />
 
 ---
-<!-- Oferta Magazin-->
-<div style="padding: 10px" class="col-12">
-	<div class="price-box row">
-		<div class="col-4" style="padding: 6px; border-right: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375; border-left: solid 1px #d3d3d375;  text-align: center;"><img class="logo-shop" src="/assets/images/reviews/logo-magazine/mathaus.webp" alt="{{ page.title }}"><p style="margin: 0; font-size: 11px;">mathaus.ro</p>
-		</div>
-		<div class="col-8 pl-1 div-pret" ><p class="p-new-price" style="margin: 0;font-weight: 700;">Riflaje MDF ieftine</p>
-		<a target="_blank" class="btn-preturi" href="https://l.profitshare.ro/l/11487473" onclick="ga('send', 'event', 'Blog Actions', 'click', 'Vezi Produs');">VEZI PRETURI</a>
-		</div>
-	</div>
-</div>
-<!-- Sfarsit-->
+{% include cta.html link="https://l.profitshare.ro/l/11487473" %}
+
 
 
