@@ -35,7 +35,7 @@ Aceste panouri decorative sunt realizate din bucăți subțiri de lemn sau metal
 
 Modelul este adesea complicat, cu forme și dimensiuni diferite care pot fi aranjate în multe moduri diferite pentru a crea efecte interesante. 
 
-Rezultatul final este un panou care poate adăuga interes vizual oricărei încăperi, făcându-l perfect pentru utilizare în proiecte de design interior și [exterior]({{site.url}}/stiri/riflaje-exterior/).
+Rezultatul final este un panou care poate adăuga interes vizual oricărei încăperi, făcându-l perfect pentru utilizare în proiecte de design interior și **[exterior]({{site.url}}/stiri/riflaje-exterior/)**.
 
 ---
 ## De ce sunt asa de populare
@@ -50,7 +50,7 @@ Conceptul lor simplu permite o multitudine de soluții interesante din punct de 
 
 Lamelele sunt utilizate în mod obișnuit de către producătorii de mobilier în proiectarea pereților despărțitori, a fronturilor de mobilier, a pereților din spate, a pereților separatori la terase sau la placarea pereților exteriori. În funcție de situație, lamelele pot ajuta la îmbunătățirea acusticii camerei.
 
-Materialele din care pot fi construite riflajele sunt diverse, în funcție de destinația aplicării. Printre cele mai populare în aplicările interioare regăsim lemnul, palul, MDF-ul sau PVC-ul iar când vorbim despre aplicările la exterior: [aluminiul]({{site.url}}/stiri/riflaj-aluminiu/), tabla și wpc-ul.
+Materialele din care pot fi construite riflajele sunt diverse, în funcție de destinația aplicării. Printre cele mai populare în aplicările interioare regăsim lemnul, palul, MDF-ul sau PVC-ul iar când vorbim despre aplicările la exterior **[aluminiul]({{site.url}}/stiri/riflaj-aluminiu/)**, tabla și **[wpc-ul]({{site.url}}/stiri/riflaj-wpc/)**.
 
 ---
 ## Riflajul de lemn

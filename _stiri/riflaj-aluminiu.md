@@ -19,7 +19,7 @@ description: Riflajul din aluminiu, un material modern și durabil pentru amenaj
 
 <img src="/assets/images/stiri/riflajalum/2.webp" width="740" height="370" alt="{{ page.title }}">
 
-Riflajul de aluminiu reprezintă o soluție modernă și durabilă pentru amenajarea spațiilor exterioare și interioare. 
+Riflajul de aluminiu reprezintă o soluție modernă și durabilă pentru amenajarea spațiilor exterioare și **[interioare]({{site.url}}/stiri/riflaj-cum-sa-iti-faci-singur-ieftin/)**. 
 
 Cu proprietăți remarcabile și un aspect estetic atrăgător, acest material a câștigat popularitate în designul arhitectural și în amenajările rezidențiale. 
 

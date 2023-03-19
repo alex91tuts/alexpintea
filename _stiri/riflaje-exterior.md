@@ -30,7 +30,7 @@ Acest articol va explora materialele potrivite pentru riflaje exterioare, avanta
 
 **Lemn:** Lemnul este un material tradițional și popular pentru riflaje exterioare datorită aspectului său natural și cald. 
 
-Există numeroase specii de lemn potrivite pentru exterior, precum cedru, pin, stejar sau lemn exotic. Lemnul tratat termic sau impregnat este de obicei recomandat pentru a rezista mai bine la intemperii și insecte.
+Există numeroase specii de **[lemn]({{site.url}}/stiri/riflaj-cum-sa-iti-faci-singur-ieftin/)** potrivite pentru exterior, precum cedru, pin, stejar sau lemn exotic. Lemnul tratat termic sau impregnat este de obicei recomandat pentru a rezista mai bine la intemperii și insecte.
 
 ---
 
