@@ -44,11 +44,13 @@ Rezultatul final este un panou care poate adăuga interes vizual oricărei înc�
 
 Cele cu curbe sunt și mai pronunțate din cauza jocului de lumini și umbre. Le găsești și pe bufete sau mici piese de mobilier.
 
-Motivel principal pentru care riflajele sunt populare printre designerii de interior și arhitecți, este versatilitatea. 
+Motivele principal pentru care riflajele sunt populare printre designerii de interior și arhitecți, este versatilitatea. 
 
 Conceptul lor simplu permite o multitudine de soluții interesante din punct de vedere al formei și al utilității. În funcție de proporții, șipcile pot fi folosite ca accente în interioare sau încorporate pentru a crea un întreg fundal de lumină și umbră.
 
-Lamelele sunt utilizate în mod obișnuit de către producătorii de mobilier în proiectarea pereților despărțitori, a fronturilor de mobilier sau a pereților din spate. În funcție de situație, lamelele pot ajuta la îmbunătățirea acusticii camerei.
+Lamelele sunt utilizate în mod obișnuit de către producătorii de mobilier în proiectarea pereților despărțitori, a fronturilor de mobilier, a pereților din spate, a pereților separatori la terase sau la placarea pereților exteriori. În funcție de situație, lamelele pot ajuta la îmbunătățirea acusticii camerei.
+
+Materialele din care pot fi construite riflajele sunt diverse, în funcție de destinația aplicării. Printre cele mai populare în aplicările interioare regăsim lemnul, palul, MDF-ul sau PVC-ul iar când vorbim despre aplicările la exterior: [aluminiul]({{site.url}}/stiri/riflaj-aluminiu/), tabla și wpc-ul.
 
 ---
 ## Riflajul de lemn
