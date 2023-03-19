@@ -16,7 +16,7 @@ colors: ['red', 'green', 'blue', 'orange']
 
 
 ---
-_Printre ultimele trenduri în amenajarea spatiilor interioare este riflajul decorativ test. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și capătă un aer modern._
+_Printre ultimele trenduri în amenajarea spatiilor interioare este riflajul decorativ. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și capătă un aer modern._
 
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic1.webp"
 alt="\{{ page.title }}" width="740" height="475" style="float: left; margin-right: 10px; margin-bottom: 10px;" />
@@ -35,7 +35,7 @@ Aceste panouri decorative sunt realizate din bucăți subțiri de lemn sau metal
 
 Modelul este adesea complicat, cu forme și dimensiuni diferite care pot fi aranjate în multe moduri diferite pentru a crea efecte interesante. 
 
-Rezultatul final este un panou care poate adăuga interes vizual oricărei încăperi, făcându-l perfect pentru utilizare în proiecte de design interior.
+Rezultatul final este un panou care poate adăuga interes vizual oricărei încăperi, făcându-l perfect pentru utilizare în proiecte de design interior și [exterior]({{site.url}}/stiri/riflaje-exterior/).
 
 ---
 ## De ce sunt asa de populare
