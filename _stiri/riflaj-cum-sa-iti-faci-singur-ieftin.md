@@ -147,7 +147,7 @@ MDF-ul brut se poate debita în șipci și se poate prelucra exact ca lemnul. Î
 
 Așadar, după ce am obținut lamelele urmărim un tutorial pe youtube despre cum se vopseșt MDF-ul, cumpărăm grund și vopsea și trecem la treabă. 
 
-Fie vosim lamelă cu lamelă fie le montăm pe perete sau pe placa suport prin metodele descrise la lemn și le vopsim cu totul (inclusiv suportul obținând așadar un **riflaj** de aceeași culoare). 
+Fie vopsim lamelă cu lamelă fie le montăm pe perete sau pe placa suport prin metodele descrise la lemn și le vopsim cu totul (inclusiv suportul obținând așadar un **riflaj** de aceeași culoare). Lipirea în alte forme decât cele paralele și vopsirea întregii suprafețe ulterior se numește **[board and batten]({{site.url}}/stiri/board-and-batten/)** 
 
 Există de asemenea și soluția frezării CNC a întregii plăci cu formă de riflaj și ulterior vopsirea sau înfolierea acesteia. 
 
