@@ -33,7 +33,7 @@ Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de d
 ---
 ## Locuri istorice de vizitat
 
-București, capitala României, este un oraș bogat în istorie și cultură, cu o moștenire arhitecturală fascinantă și o multitudine de locuri istorice care așteaptă să fie descoperite. 
+București, capitala României, este un oraș bogat în istorie și cultură, cu o moștenire arhitecturală fascinantă și o multitudine de [locuri istorice](https://totredus.ro/travel/locuri-istorice-bucuresti/) care așteaptă să fie descoperite. 
 
 De-a lungul anilor, București a fost supranumit "Micul Paris" datorită numeroaselor sale monumente și clădiri impunătoare, precum și influențelor culturale europene.
 
