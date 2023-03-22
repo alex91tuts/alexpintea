@@ -236,7 +236,9 @@ Construită în secolul al XIX-lea, Biserica Sfântul Ștefan este o biserică o
 <img src="/assets/images/travel/locuriistorice/case.webp" width="740" height="370" alt="{{ page.keyword }};">
 
 ### Casa Melik
-Casa Melik este o importantă clădire istorică din centrul Bucureștiului, construită în stil neoromânesc în secolul al XIX-lea. Aceasta a fost reședința familiei Melik, o familie de comercianți turci, și găzduiește astăzi o galerie de artă.
+[Casa Melik](https://totredus.ro/travel/locuri-istorice-bucuresti/) este o importantă clădire istorică din centrul Bucureștiului, construită în stil neoromânesc în secolul al XIX-lea. Aceasta a fost reședința familiei Melik, o familie de comercianți turci, și găzduiește astăzi o galerie de artă.
+
+<img src="/assets/images/travel/locuriistorice/melik.webp" width="740" height="555" alt="{{ page.keyword }};">
 
 ---
 ### Casa Capsa
