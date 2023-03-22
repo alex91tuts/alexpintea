@@ -1,16 +1,16 @@
 ---
 layout: travel
 title: "Locuri istorice Bucuresti | 65 cele mai populare"
-descriere: Aici un top 65 cele mai populare palate, biserici, catedrale, case memoriale, piețe, străzi și bulevarde. Întreaga moșternire culturală a Bucureștiului.  
-description: Aici un top 65 cele mai populare palate, biserici, catedrale, case memoriale, piețe, străzi și bulevarde. Întreaga moșternire culturală a Bucureștiului.
+descriere: Descoperă Casa Melik din București, o bijuterie arhitecturală în stil neoromânesc, ce găzduiește Muzeul Theodor Pallady și oferă o incursiune în istoria și cultura românească. Vizitează și trăiește o experiență culturală inedită!  
+description: Descoperă Casa Melik din București, o bijuterie arhitecturală în stil neoromânesc, ce găzduiește Muzeul Theodor Pallady și oferă o incursiune în istoria și cultura românească. Vizitează și trăiește o experiență culturală inedită!
 meta_image: assets/images/travel/locuriistorice/main.webp 
 image: /assets/images/travel/locuriistorice/main.webp
 author: "Cultural Nomad"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
-keyword: locuri istorice Bucuresti
-date: 21.03.2023
+keyword: casa Melik
+date: 22.03.2023
 tags: ['București', 'Istorice', '2023']
 
 ---
