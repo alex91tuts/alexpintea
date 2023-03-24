@@ -15,14 +15,18 @@ tags: ['București', 'capitale', 'weekend']
 
 ---
 
+În weekend în București poți vizita centrul vechi al orașului, Palatul Parlamentului, faceți un tur al Muzeului Național de Artă sau relaxați-vă într-unul dintre numeroasele sale parcuri și grădini. 
+
+Există, de asemenea, o mulțime de restaurante și cafenele grozave de vizitat, precum și o varietate de alte opțiuni de divertisment, cum ar fi teatre, locuri de muzică, galerii de artă și multe altele.
+
+Fie că sunteți în căutarea unui weekend romantic sau pentru o experiență culturală interesantă, Bucureștiul are ceva de oferit fiecărui călător sau locuitor.
+
+
 **_Dacă sunteți în căutarea unei escapade de weekend sau dacă sunteți chiar din București și vă plictisiți, capitala este o opțiune excelentă. Orașul oferă o mulțime de activități și atracții interesante de explorat iar prețurile sale accesibile fac din aceasta o destinație ideală pentru călătorii cu buget redus. Există ceva pentru toată lumea în București, de la viața de noapte vibrantă și bucătăria tradițională românească până la monumente istorice și arhitectură unică._** 
 
-Explorați centrul vechi al orașului, vizitați Palatul Parlamentului, faceți un tur al Muzeului Național de Artă sau relaxați-vă într-unul dintre numeroasele sale parcuri și grădini. Există, de asemenea, o mulțime de restaurante și cafenele grozave de vizitat, precum și o varietate de alte opțiuni de divertisment, cum ar fi teatre, locuri de muzică, galerii de artă și multe altele. Fie că sunteți în căutarea unui weekend romantic sau pentru o experiență culturală interesantă, Bucureștiul are ceva de oferit fiecărui călător sau locuitor.
 
 ## Ce să faci în București în weekend
 ---
-
-[Top atracții turistice în București](https://totredus.ro/travel/atractii-turistice-bucuresti/).
 
 Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul. Indiferent dacă sunteți un rezident de lungă durată sau un vizitator, există o mulțime de lucruri distractive de făcut. Iată câteva activități pe care le poți face în București aproape în orice weekend:
 
@@ -39,7 +43,7 @@ Puteți chiar să închiriați biciclete sau quad-uri pentru a traversa drumuril
 
 ### Vizitați atracțiile locale: 
 
-Bucureștiul are o mulțime de atracții despre care nici măcar nu ați auzit! Faceți câteva cercetări și aflați ce locuri interesante sunt în apropiere pe care le puteți explora în acest weekend. De la muzee la galerii de artă, există ceva de care să se bucure toată lumea. Iată câteva exemple:
+**[Bucureștiul](https://totredus.ro/travel/atractii-turistice-bucuresti/)** are o mulțime de atracții despre care nici măcar nu ați auzit! Faceți câteva cercetări și aflați ce locuri interesante sunt în apropiere pe care le puteți explora în acest weekend. De la muzee la galerii de artă, există ceva de care să se bucure toată lumea. Iată câteva exemple:
 	
 - Strada Xenofon: este situată în apropierea Fântânii Zodiac și este unică, din mai multe puncte de vedere. Unul dintre ele ar fi faptul că este construită numai din trepte și, astfel, nu a fost călcată niciodată de roțile unei mașini;
 
