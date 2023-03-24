@@ -40,6 +40,8 @@ De asemenea, pot fi utilizați pentru a decora un fel de mâncare sau o băutur�
 
 Un alt mod de a utiliza lichenii decorativi este de a-i așeza pe o placa decorativă care poate fi agățată pe un perete sau pe tavan. Placa poate fi de lemn, sticlă sau alte materiale, iar lichenii pot fi așezați în orice formă sau stil. Acest mod de prezentare poate adăuga un accent natural și rustic la orice cameră.
 
+Cu siguranță, lichenii pot fi combinați cu un **[riflaj]({{site.url}}/stiri/riflaj-cum-sa-iti-faci-singur-ieftin/)** iar rezultatul poate fi excepțional.
+
 Lichenii pot fi, de asemenea, așezați direct pe perete sau pe tavan pentru a crea un decor cu un aspect natural și texturat. Aceasta poate fi o opțiune excelentă pentru spațiile cu ferestre limitate sau cu iluminare slabă, unde nu pot fi crescute plantele naturale. 
 
 O altă metodă așezarea lichenilor într-un cadru și agățarea acestuia pe un perete pentru a crea un tablou interesant.

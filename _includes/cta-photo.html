@@ -1,51 +1,31 @@
 <div id="outputReview" class="row col-lg-12" style="margin-top:30px;">
- {% if page.previous.url %}
+
 <div class="card-wrapper col-lg-6 col-6">
 	<div class="for-style">
-	{% if page.previous.collection == "travel"%}
-	<div class="imagine-post" style="background-image: url( {{page.previous.image}} )">
-		<a href="{{page.previous.url}}"><span class="categ">{{page.previous.tara}}</span></a>
+	<div class="imagine-post" style="background-image: url({{include.imagine1}})">
+		<a href="{{site.url }}/{{ post.category }}/index.html"><span class="categ">{{ include.badge1 }}</span></a>
 	</div>
-	{% elsif page.previous.collection == "reviews" %}
-	<div class="imagine-post" style="background-image: url(/{{page.previous.meta_image}})">
-		<a href="{{page.previous.url}}"><span class="categ">{{page.previous.categorie-review}}</span></a>
-	</div>
-	{% elsif page.previous.collection == "stiri" %}
-	<div class="imagine-post" style="background-image: url(/assets/images/{{page.previous.image_path}})">
-		<a href="{{page.previous.url}}"><span class="categ">{{page.previous.categorie}}</span></a>
-	</div>
-	{% endif %}
 	<div class="footer-post">
-		<p class="">{{page.previous.title}}</p>
-		<a href="{{ page.previous.url }}"><button>CITEȘTE &raquo;</button></a>
+		<p class="">{{include.titlu1}}</p>
+		<a href="{{ include.url1 }}"><button>VEZI PREȚURI</button></a>
 	</div>
 	</div>
 </div>
-  {% endif %}
+
+
+<div class="card-wrapper col-lg-6 col-6">
+	<div class="for-style">
+	<div class="imagine-post" style="background-image: url({{include.imagine2}})">
+		<a href="{{site.url }}/{{ post.category }}/index.html"><span class="categ">{{include.badge2}}</span></a>
+	</div>
+	<div class="footer-post">
+		<p class="">{{include.titlu2}}</p>
+		<a href="{{ include.url2 }}"><button>VEZI PREȚURI</button></a>
+	</div>
+	</div>
+</div>
 	
-{% if page.next.url %}
-<div class="card-wrapper col-lg-6 col-6">
-	<div class="for-style">
-	{% if page.nex.collection == "travel"%}
-	<div class="imagine-post" style="background-image: url( {{page.next.image}} )">
-		<a href="{{page.next.url}}"><span class="categ">{{page.next.tara}}</span></a>
-	</div>
-	{% elsif page.next.collection == "reviews" %}
-	<div class="imagine-post" style="background-image: url(/{{page.next.meta_image}})">
-		<a href="{{page.next.url}}"><span class="categ">{{page.next.categorie-review}}</span></a>
-	</div>
-	{% elsif page.next.collection == "stiri" %}
-	<div class="imagine-post" style="background-image: url(/assets/images/{{page.next.image_path}})">
-		<a href="{{page.next.url}}"><span class="categ">{{page.next.categorie}}</span></a>
-	</div>
-	{% endif %}
-	<div class="footer-post">
-		<p class="">{{page.next.title}}</p>
-		<a href="{{ page.next.url }}"><button>CITEȘTE &raquo;</button></a>
-	</div>
-	</div>
-</div>
-  {% endif %}
+	
 </div>
 <style>
 	@media only screen and (max-width: 600px) {
@@ -157,6 +137,3 @@
 	}
 
 </style>
-
-
-

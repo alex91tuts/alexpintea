@@ -18,11 +18,10 @@ colors: ['red', 'green', 'blue', 'orange']
 ---
 _Printre ultimele trenduri în amenajarea spatiilor interioare este riflajul decorativ. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui riflaj, capătă mai multa personalitate și capătă un aer modern._
 
-<img src="{{ site.url }}/assets/images/stiri/riflaj/pic1.webp"
-alt="\{{ page.title }}" width="740" height="475" style="float: left; margin-right: 10px; margin-bottom: 10px;" />
-
 ---
-{% include cta.html link="https://l.profitshare.ro/l/11487473" %}
+{% include cta-photo.html imagine1="/assets/images/stiri/riflaj/linea.webp" badge1="IEFTINE" titlu1="Panou decorativ Linea Slim, 265 x 15 cm" url1="https://l.profitshare.ro/l/11602290" 
+
+imagine2="/assets/images/stiri/riflaj/profil.webp" badge2="Ieftine" titlu2="Riflaj, MDF, montare cu profil de montaj, 2800 x 30 x 20 mm" url2="https://l.profitshare.ro/l/11602292" %}
 
 ---
 ## RIFLAJUL - o istorie lungă
@@ -40,7 +39,7 @@ Rezultatul final este un panou care poate adăuga interes vizual oricărei înc�
 ---
 ## De ce sunt asa de populare
 
-<span class="drop-caps">N</span>u este de mirare că decorațiunile cu șipci /lamele nu s-au demodat niciodată. În unele locuri, acestea își recâștigă popularitatea. Ele pot fi găsite împodobind fronturi întregi de bucătărie, elemente de cameră sau piese de mobilier. 
+<span class="drop-caps">N</span>u este de mirare că decorațiunile cu șipci /lamele nu s-au demodat niciodată. Ele pot fi regăsite împodobind fronturi întregi de bucătărie, elemente de cameră sau piese de mobilier sau în combinații cu alte elemente cum ar fi **riflaj cu [licheni decorativi]({{site.url}}/stiri/licheni-decorativi-interior/)**. 
 
 Cele cu curbe sunt și mai pronunțate din cauza jocului de lumini și umbre. Le găsești și pe bufete sau mici piese de mobilier.
 
@@ -62,6 +61,15 @@ Materialele din care pot fi construite riflajele sunt diverse, în funcție de d
 De exemplu, lambriurile din lemn pot adăuga mult caracter unei camere. Puteți să-l utilizați pentru partea inferioară a pereților sau să acoperiți întregul perete cu el. Există multe stiluri și culori diferite, astfel încât să puteți găsi ceva care se potrivește cu adevărat gusturilor dvs.
 
 Sau, dacă sunteți în căutarea unei modalități de a vă face casa mai confortabilă și mai primitoare, de ce să nu încercați să instalați un tavan din lemn? Există multe stiluri diferite din care puteți alege, astfel încât să puteți găsi aspectul perfect care să se potrivească cu decorul existent al casei dvs. 
+
+---
+
+{% include cta-photo.html imagine1="/assets/images/stiri/riflaj/lambriu.webp" badge1="LAMBRIU" titlu1="Lambriu tip Riflaj Decorativ, pin nordic" url1="https://l.profitshare.ro/l/11602296" 
+
+imagine2="/assets/images/stiri/riflaj/panou.webp" badge2="PANOU" titlu2="RPanou Riflaj Despartitor Pin Termotratat" url2="https://l.profitshare.ro/l/11602301" %}
+
+
+---
 
 ### Lemnul izolează termic
 
@@ -159,7 +167,6 @@ style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 Dacă totuși sună mult prea complicat vezi mai jos lamele de MDF înfoliat la un preț foarte bun:
 
-{% include cta.html link="https://l.profitshare.ro/l/11487473" %}
 
 ---
 ### Riflajul din PAL
@@ -243,7 +250,7 @@ După finisare le montăm fie direct pe perete fie pe o placă suport.
 
 ---
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic5.webp"
-     alt="\{{ page.title }}"  width="740" height="1249"
+     alt="riflaje cu oglindă"  width="740" height="1249"
      style="margin-right: 10px;" />
 		 
 ---
@@ -253,11 +260,11 @@ După finisare le montăm fie direct pe perete fie pe o placă suport.
 		 
 ---
 <img src="{{ site.url }}/assets/images/stiri/riflaj/pic7.webp"
-     alt="\{{ page.title }}"  width="740" height="1045"
+     alt="riflaj televizor"  width="740" height="1045"
      style="margin-right: 10px;" />
 
 ---
-{% include cta.html link="https://l.profitshare.ro/l/11487473" %}
+
 
 
 
