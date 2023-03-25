@@ -79,24 +79,33 @@ Așadar, dacă doriți să vă reduceți nivelul de stres, să creșteți nivelu
 Când vine vorba de mâncare în oraș, Bucureștiul nu duce lipsă de restaurante unice. De la mâncăruri tradiționale românești până la mâncăruri internaționale, orașul are o mare varietate de localuri care oferă experiențe de neuitat. Fie că cauți o cină romantică sau o seară distractivă cu prietenii, iată câteva dintre cele mai inedite restaurante din București care cu siguranță vor impresiona.
 
 
+1. **Caru cu Bere:** Acest restaurant iconic este situat în inima orașului vechi al Bucureștiului și este unul dintre cele mai vechi restaurante din oraș. Meniul oferă mâncăruri tradiționale românești, precum mititei și sarmale, precum și preparate internaționale precum pizza și paste. Pe lângă mâncarea sa delicioasă, Caru cu Bere este cunoscut pentru decorul său frumos în stil art nouveau și spectacolele de muzică live pe timp de noapte.
 
-1. Caru cu Bere: Acest restaurant iconic este situat în inima orașului vechi al Bucureștiului și este unul dintre cele mai vechi restaurante din oraș. Meniul oferă mâncăruri tradiționale românești, precum mititei și sarmale, precum și preparate internaționale precum pizza și paste. Pe lângă mâncarea sa delicioasă, Caru cu Bere este cunoscut pentru decorul său frumos în stil art nouveau și spectacolele de muzică live pe timp de noapte.
+2. **Hanu' lui Manuc:** Acest han vechi de secole a fost construit de Manuc Bey, un bogat negustor armean care a locuit in Bucuresti in secolul al XIX-lea. Restaurantul servește preparate gustoase tradiționale românești, cum ar fi ciorbă de burtă și mămăligă. Atmosfera din interior este confortabilă și primitoare, cu pereți cu lambriuri din lemn împodobiți cu fotografii vechi din epoca lui Manuc Bey.
 
-2. Hanu' lui Manuc: Acest han vechi de secole a fost construit de Manuc Bey, un bogat negustor armean care a locuit in Bucuresti in secolul al XIX-lea. Restaurantul servește preparate gustoase tradiționale românești, cum ar fi ciorbă de burtă și mămăligă. Atmosfera din interior este confortabilă și primitoare, cu pereți cu lambriuri din lemn împodobiți cu fotografii vechi din epoca lui Manuc Bey.
+3. **Little Texas:** Dacă ești în căutarea unei experiențe culinare în stil american în București, atunci Little Texas ar trebui să fie în fruntea listei tale! Situat într-un vechi depozit de cărămidă, lângă Piața Universității, acest restaurant oferă mâncăruri clasice, cum ar fi burgeri și cartofi prăjiți, alături de preparate locale, cum ar fi mititei și sarmale. În weekend se cântă adesea și muzică country live!
 
-3. Little Texas: Dacă ești în căutarea unei experiențe culinare în stil american în București, atunci Little Texas ar trebui să fie în fruntea listei tale! Situat într-un vechi depozit de cărămidă, lângă Piața Universității, acest restaurant oferă mâncăruri clasice, cum ar fi burgeri și cartofi prăjiți, alături de preparate locale, cum ar fi mititei și sarmale. În weekend se cântă adesea și muzică country live!
-
-4. Bistro Gușterița: Fondat de doi prieteni pasionați de gătit mâncăruri tradiționale românești folosind doar ingrediente naturale, acest bistro este absolut uimitor! Meniul prezinta preparate clasice precum ardei umpluti sau mamaliga cu branza dar si cateva surprize precum inghetata de macaroon sau chiar caracatita la gratar! În plus, selecția lor de beri artizanale locale îl face un loc ideal și pentru băuturi după muncă!
+4. **Bistro Gușterița:** Fondat de doi prieteni pasionați de gătit mâncăruri tradiționale românești folosind doar ingrediente naturale, acest bistro este absolut uimitor! Meniul prezinta preparate clasice precum ardei umpluti sau mamaliga cu branza dar si cateva surprize precum inghetata de macaroon sau chiar caracatita la gratar! În plus, selecția lor de beri artizanale locale îl face un loc ideal și pentru băuturi după muncă!
 
 
 
 ### Participați la un eveniment: 
 
-Sunt șanse ca în București să aibă loc un eveniment în fiecare weekend - de la festivaluri alimentare la târguri stradale - așa că asigurați-vă că le verificați înainte de a pleca! Aceste evenimente nu numai că vor oferi o mulțime de divertisment, dar vă pot oferi și o perspectivă asupra culturii locale. Unele dintre cele mai populare evenimente includ Bucharest International Jazz Festival, Bucharest Street Arts Festival și Bucharest Street Food Festival. Există, de asemenea, multe evenimente culturale mai mici, cum ar fi expoziții de artă, spectacole de teatru și proiecții de filme. Pe lângă aceste festivaluri, există o mulțime de muzee și galerii de explorat în București, care prezintă cultura și istoria românească.
+Sunt șanse ca în București să aibă loc un eveniment în fiecare weekend - de la festivaluri alimentare la târguri stradale - așa că asigurați-vă că le verificați înainte de a pleca! 
+
+Aceste evenimente nu numai că vor oferi o mulțime de divertisment, dar vă pot oferi și o perspectivă asupra culturii locale. Unele dintre cele mai populare evenimente includ Bucharest International Jazz Festival, Bucharest Street Arts Festival și Bucharest Street Food Festival. 
+
+Există, de asemenea, multe evenimente culturale mai mici, cum ar fi expoziții de artă, spectacole de teatru și proiecții de filme. 
+
+Pe lângă aceste festivaluri, există o mulțime de muzee și galerii de explorat în București, care prezintă cultura și istoria românească.
 
 <img src="/assets/images/travel/weekendbuc/4.webp" width="740" height="439" alt="{{ page.keyword }}">
 
 ---
 ## Concluzie 
 
-Concluzia este că, Bucureștiul oferă o multime de lucruri de facut în weekend. De la plimbari relaxante la evenimente și activități distractive, exista ceva pentru toata lumea. Daca vrei sa experimentezi ceva nou, poți încerca unele dintre activitățile menționate mai sus. De asemenea, vei găsi multe restaurante și cafenele locale unde să petreci timpul cu prietenii și să savurezi mâncare delicioasa. Mai mult decat atat, orasul are o mulțime de parcuri și grădini minunate care merita explorate!
+Concluzia este că, Bucureștiul oferă o multime de lucruri de facut în weekend. De la plimbari relaxante la evenimente și activități distractive, exista ceva pentru toata lumea. 
+
+Daca vrei sa experimentezi ceva nou, poți încerca unele dintre activitățile menționate mai sus. De asemenea, vei găsi multe restaurante și cafenele locale unde să petreci timpul cu prietenii și să savurezi mâncare delicioasa. 
+
+Mai mult decat atat, orasul are o mulțime de parcuri și grădini minunate care merita explorate!
