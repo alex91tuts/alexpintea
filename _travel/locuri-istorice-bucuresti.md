@@ -284,7 +284,9 @@ Situată în apropiere de București, în comuna Mogoșoaia și este dedicată p
 <img src="/assets/images/travel/locuriistorice/bulevarde.webp" width="740" height="370" alt="{{ page.keyword }};">
 
 ### Pasajul Macca-Vilacrosse
-Pasajul Macca-Vilacrosse este o galerie comercială acoperită construită în secolul al XIX-lea. Acesta este un loc istoric și pitoresc în centrul Bucureștiului, cu numeroase cafenele și magazine.
+[Pasajul Macca-Vilacrosse](https://totredus.ro/travel/pasajul-macca-villacrosse/) este o galerie comercială acoperită construită în secolul al XIX-lea. Acesta este un loc istoric și pitoresc în centrul Bucureștiului, cu numeroase cafenele și magazine.
+
+<img src="/assets/images/travel/macca/1.webp" width="740" height="492" alt="{{ page.keyword }}">
 
 ---
 ### Piața Amzei
