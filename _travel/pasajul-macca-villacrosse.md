@@ -36,7 +36,7 @@ Acest articol va explora istoria, arhitectura și cultura din jurul Pasajului Ma
 ## Istoria Pasajului Macca-Vilacrosse
 ---
 
-## Începuturile
+### Începuturile
 
 Pasajul Macca-Vilacrosse a fost construit între anii 1890-1891, după planurile arhitectului Felix Xenopol. A fost conceput ca un spațiu comercial și de promenadă, inspirat de pasajele acoperite din Paris. 
 
@@ -44,7 +44,7 @@ Inițial, pasajul a fost numit Pasajul Vilacrosse, după numele inginerului fran
 
 În 1925, pasajul a fost redenumit Pasajul Macca-Vilacrosse, în onoarea lui Mihail Macca, un avocat și om politic român care a deținut proprietăți în zonă.
 
-## Evoluția de-a lungul timpului
+### Evoluția de-a lungul timpului
 
 De-a lungul anilor, Pasajul Macca-Vilacrosse a fost martorul unor evenimente istorice importante și a trecut prin numeroase transformări. 
 
