@@ -4,7 +4,7 @@
   <span class="title-section-sidebar">RECENT</span>
 	<hr>
 	{% assign travels = site.travel | sort: 'date' | reverse %}
-	{% for travel in travels limit:4 %}
+	{% for travel in travels limit:5 %}
 		<a href="{{ travel.url }}">
 		<div class="small-post">
 	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" height="41px" width="79px">
