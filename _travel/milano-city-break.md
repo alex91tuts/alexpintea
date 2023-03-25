@@ -3,8 +3,8 @@ layout: travel
 title: "3 zile în Milano: Cum să profiți la maxim de un city break"
 descriere: Dacă ai doar 3 zile pentru a explora orașul Milano, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are de oferit.  
 description: Dacă ai doar 3 zile pentru a explora orașul Milano, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are de oferit.   
-meta_image: assets/images/travel/citybreak/milano/main.webp 
-image: /assets/images/travel/citybreak/milano/main.webp
+meta_image: assets/images/travel/citybreak/Milano/main.webp 
+image: /assets/images/travel/citybreak/Milano/main.webp
 author: "Cultural Nomad"
 tara: ITALIA
 oras: MILANO
@@ -53,17 +53,17 @@ Bun venit în Milano, capitala modei și a designului! Dacă ai doar 3 zile la d
 
 Începe-ți aventura în Milano cu o vizită la impresionanta Piazza del Duomo, centrul istoric și cultural al orașului. 
 
-<img src="/assets/images/travel/citybreak/milano/domo.webp" width="740" height="488" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/Milano/domo.webp" width="740" height="488" alt="{{ page.keyword }}">
 
 Aici vei găsi și magnifica Catedrală din Milano (Duomo di Milano), care este cel mai mare simbol al orașului. Nu uita să urci pe terasa Catedralei pentru a te bucura de o priveliște panoramică asupra orașului și a Alpilor în zare.
 
-<img src="/assets/images/travel/citybreak/milano/cathedrala.webp" width="740" height="488" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/Milano/cathedrala.webp" width="740" height="488" alt="{{ page.keyword }}">
 
 ### După-amiaza: Galleria Vittorio Emanuele II și Teatro alla Scala
 
 Odată ce ai explorat Catedrala, fă o plimbare relaxantă prin Galleria Vittorio Emanuele II, unul dintre cele mai frumoase centre comerciale din lume. Aici vei găsi magazine de lux, cafenele și restaurante elegante. Nu uita să calci pe mozaicul cu taurul, se spune că aduce noroc!
 
-<img src="/assets/images/travel/citybreak/milano/vittorio.webp" width="740" height="488" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/Milano/vittorio.webp" width="740" height="488" alt="{{ page.keyword }}">
 
 Continuă-ți turul orașului cu o vizită la Teatro alla Scala, una dintre cele mai faimoase opere din lume. Chiar dacă nu ai timp să asistă la un spectacol, merită să explorezi muzeul său și să admiri interiorul somptuos.
 
@@ -86,7 +86,7 @@ Aici vei admira opere de artă de la maeștri precum Caravaggio, Raphael și Tiz
 
 Continuă-ți traseul cultural spre Castello Sforzesco, o fortăreață istorică care găzduiește numeroase muzee și colecții de artă. 
 
-<img src="/assets/images/travel/citybreak/milano/Sforzesco.webp" width="740" height="488" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/Milano/Sforzesco.webp" width="740" height="488" alt="{{ page.keyword }}">
 
 Nu uita să arunci o privire asupra frescei "Ultima Cină" de Leonardo da Vinci, una dintre cele mai faimoase opere de artă din lume.
 
@@ -115,7 +115,7 @@ Pentru a începe ultima zi în Milano, fă o plimbare în Parco Sempione, cel ma
 
 Nu uita să te oprești la Arco della Pace, un monument istoric situat la marginea parcului, care impresionează prin arhitectura sa neoclasică.
 
-<img src="/assets/images/travel/citybreak/milano/arcodellapace.webp" width="740" height="369" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/Milano/arcodellapace.webp" width="740" height="369" alt="{{ page.keyword }}">
 
 ### După-amiaza: Excursie la Lago di Como
 
