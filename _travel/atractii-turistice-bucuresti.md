@@ -28,7 +28,11 @@ Ce să vizitezi?
 - Excursii în jurul Bucureștiului: Palatul Mogoșoaia, Mânăstirea Snagov, Parcul Natural Comana sau Cetatea Poenari;
 
 
-Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar un [weekend](https://totredus.ro/travel/bucuresti-in-weekend/) în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o viață de noapte vibrantă în capitala României.
+Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar un [weekend](https://totredus.ro/travel/bucuresti-in-weekend/) în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o viață de noapte vibrantă în capitala României. 
+
+Desigur, chiar dacă ai o singuă zi la dispoziție, poți alege cu ușurință o serie de obiective pe care să le vizitezi 
+
+Chiar dacă ai la dispoziție doar [o singură zi](https://totredus.ro/travel/excursii-zi-bucuresti/), tot poți explora unele dintre cele mai frumoase atracții turistice din București. O opțiune este să vizitezi centrul istoric al orașului, care găzduiește unele dintre cele mai importante clădiri și monumente ale Bucureștiului, cum ar fi Palatul Parlamentului, Catedrala Patriarhală, Muzeul Național de Istorie a României sau Biserica Stavropoleos.
 
 ---
 ## Locuri istorice de vizitat
