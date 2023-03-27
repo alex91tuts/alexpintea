@@ -15,6 +15,8 @@ tags: ['București', 'Istorice', '2023']
 
 ---
 
+Locuri istorice București: **palate, cetăți și situri** precum Palatul Parlamentului, Palatul Cantacuzino, Palatul CEC; **biserici și mănăstiri:** biserica Stravolpoleos, catedrala Patriarhală; pițe și străzi: Piața Unirii, Bulevardul Victoriei, Arcul de Triumf; case memoriale: casa Capșa, casa Melik. 
+
 ---
 ## De ce să vizităm locuri istorice
 
