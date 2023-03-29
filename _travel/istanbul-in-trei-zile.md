@@ -1,13 +1,13 @@
 ---
 layout: travel
 title: "Ce să faci în Istanbul 3 zile: Ghid pentru o călătorie memorabilă"
-descriere: În Istambul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.  
-description: În Istambul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.   
+descriere: În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.  
+description: În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.   
 meta_image: assets/images/travel/citybreak/istanbul/main.webp 
 image: /assets/images/travel/citybreak/istanbul/main.webp
 author: "Cultural Nomad"
 tara: TURCIA
-oras: ISTAMBUL
+oras: ISTAnBUL
 categorie: CITY BREAK
 lang: ro_RO
 keyword: ce sa faci in istanbul 3 zile
@@ -16,7 +16,7 @@ tags: ['Istanbul', 'CityBreak', '2023']
 
 ---
 
-În Istambul 3 zile poți vizita cele mai importante atractii turistice, precum: Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele. Vezi propunerea nostră de city-break și alte informații utile.
+În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum: Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele. Vezi propunerea nostră de city-break și alte informații utile.
 
 ---
 
@@ -325,7 +325,7 @@ Plimbă-te pe promenada de-a lungul Bosforului și bucură-te de atmosfera lini�
 Aceasta este o oportunitate perfectă pentru a reflecta asupra aventurilor tale din ultimele trei zile și pentru a-ți lua rămas-bun de la Istanbul.
 
 ---
-## Lucruri bine de știut în Istambul
+## Lucruri bine de știut în Istanbul
 
 1. Moneda: Moneda locală este lira turcească (TRY). Este recomandat să ai la dispoziție atât numerar, cât și un card de credit sau debit pentru a face plăți în diverse locuri.
 
