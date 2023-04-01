@@ -23,9 +23,9 @@ opt:
   - name: preț/calitate 
     value: 85
 
-scor-intro: Cu un preț de numai 750 lei, Huawwei P Smart 2019 oferă o experiență surprinzătoare, un design curat și simplu și un set de caracteristici impresionant de robust.
+scor-intro: Cu un design compact și elegant, compatibilitate extinsă și integrare cu sistemele smart home, acest produs se dovedește a fi o alegere excelentă pentru cei care doresc să-și simplifice viața.
 
-description: Huawwei P Smart 2019 Pareri, Pret, Specificatii - Un smartphone ce oferă o experiență surprinzătoare, un design curat și simplu și un set impresionant de caracteristici.
+description: Cu un design compact și elegant, compatibilitate extinsă și integrare cu sistemele smart home, acest produs se dovedește a fi o alegere excelentă pentru cei care doresc să-și simplifice viața.
 
 
 pro: ['Design compact și elegant', 'Compatibilitate cu o varietate de dispozitive', 'Integrare cu Google Home, Alexa și IFTTT','Aplicație ușor de folosit și personalizabilă', 'Senzor de temperatură și umiditate încorporat']
