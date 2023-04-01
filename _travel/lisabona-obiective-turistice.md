@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Ce vizitezi in Lisabona? | Ponturi City Break "
+title: "Ce vizitezi in Lisabona? | Ponturi City Break"
 descriere: În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului.
 description: În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului.
 meta_image: assets/images/travel/lisabona/obiective-lisabona-featured.webp 
@@ -10,8 +10,8 @@ tara: PORTUGALIA
 oras: LISABONA
 lang: ro_RO
 keyword: ce vizitezi in lisabona
-date: 02.04.2023
-tags: ['LISABONA', 'CITY BREAK', 'Atractii']
+date: 01.04.2023
+tags: ['LISABONA', 'CITY BREAK', '2023']
 
 ---
 
