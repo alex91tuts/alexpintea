@@ -15,6 +15,8 @@ tags: ['București', 'Excursii', '2023']
 
 ---
 
+
+
 Într-o excursie de o zi in București poți vizita: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc.
 
 ---

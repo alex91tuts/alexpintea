@@ -7,7 +7,7 @@ meta_image: assets/images/travel/citybreak/istanbul/main.webp
 image: /assets/images/travel/citybreak/istanbul/main.webp
 author: "Cultural Nomad"
 tara: TURCIA
-oras: ISTAnBUL
+oras: ISTANBUL
 categorie: CITY BREAK
 lang: ro_RO
 keyword: ce sa faci in istanbul 3 zile

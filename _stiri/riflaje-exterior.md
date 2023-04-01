@@ -68,7 +68,7 @@ Acestea sunt o opțiune potrivită pentru cei care caută un material ușor de i
 
 **1.Fațade:** Riflajele pot fi utilizate pentru a placarea fațadelor clădirilor, oferind un aspect modern și atrăgător, în același timp protejând structura de efectele intemperiilor.
 
-**2.Terase:** Riflajele pot fi folosite pentru a construi terase durabile și estetice, care oferă o suprafață confortabilă pentru relaxare și divertisment.
+**2.Terase:** Riflajele pot fi folosite pentru a construi **[terase]({{site.url}}/stiri/terasa-lipita-casa/)** durabile și estetice, care oferă o suprafață confortabilă pentru relaxare și divertisment.
 
 **3.Balustrade și garduri:** Riflajele exterioare pot fi utilizate pentru a crea balustrade și garduri atrăgătoare, care îmbunătățesc aspectul și siguranța spațiilor exterioare.
 
