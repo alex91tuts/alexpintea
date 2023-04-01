@@ -1,27 +1,51 @@
 ---
 layout: travel
-title: "Lisabona obiective turistice - top 20"
-descriere: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase și cosmopolitane orașe ale Europei. Orașul atrage o multitudine de turiști din mai multe motive.
-description: Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase și cosmopolitane orașe ale Europei. Orașul atrage o multitudine de turiști din mai multe motive.
+title: "Ce vizitezi in Lisabona? | Ponturi City Break "
+descriere: În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului.
+description: În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului.
 meta_image: assets/images/travel/lisabona/obiective-lisabona-featured.webp 
 image: /assets/images/travel/lisabona/obiective-lisabona-featured.webp
 author: "Cultural Nomad"
 tara: PORTUGALIA
 oras: LISABONA
 lang: ro_RO
-keyword: lisabona obiective turistice
-date: 29.12.2019
-tags: ['LISABONA', 'chei', 'lac']
+keyword: ce vizitezi in lisabona
+date: 02.04.2023
+tags: ['LISABONA', 'CITY BREAK', 'Atractii']
 
 ---
 
-## Lisabona - Obiective Turistice  
 ---
+## Ce vizitezi in Lisabona
 
-**_Lisabona, capitala Portugaliei, este unul dintre cele mai frumoase și cosmopolitane orașe ale Europei. Orașul atrage o multitudine de turiști din mai multe motive. În timp ce unii vor să admire arhitectura, alții vor să stea cu picioarele în apă sau să încerce un stil diferit de bucătărie. Și Lisabona le oferă pe toate..._**
+**_În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului._**
 
 Este o destinație vibrantă și plină de culori. Renumit pentru dispoziția călduroasă și însorită, orașul este binecuvântat cu o multitudine de monumente istorice, muzee de nivel mondial și alte lucruri uimitoare. Haideți să vedem cele mai interesante obiective turistice din Lisabona.
 
+---
+## Ponturi Lisabona
+
+Iată câteva ponturi pentru a te bucura la maximum de vizita ta în Lisabona:
+
+- Folosește transportul public: Lisabona are o rețea de transport public bine dezvoltată, care include metrou, tramvaie, autobuze și trenuri. Tramvaiul 28 este o alegere populară pentru a explora cartierele istorice.
+
+- Achiziționează un card turistic: Cardul Lisboa permite accesul gratuit sau cu reducere la diverse atracții turistice și mijloace de transport. Este disponibil pentru perioade de 24, 48 sau 72 de ore.
+
+- Optează pentru o plimbare pe jos: Lisabona este un oraș cu dealuri, dar o plimbare pe jos îți va permite să descoperi străduțele înguste, azulejos și detaliile arhitecturale care fac orașul unic.
+
+- Poartă încălțăminte comodă: Datorită străzilor pavate și dealurilor, este esențial să ai încălțăminte comodă și potrivită pentru a explora orașul.
+
+- Explorează cartierele: Fiecare cartier are un caracter distinct. Nu rata o plimbare prin Bairro Alto, Alfama, Chiado sau Baixa.
+
+- Savurează gastronomia locală: Încearcă specialitățile portugheze, precum pasteis de nata (plăcinte cu cremă), bacalhau (cod) și vinho verde (vin verde).
+
+- Apreciază cultura Fado: Fado este un gen muzical tradițional portughez, caracterizat prin melancolie și emoție profundă. Există numeroase localuri în Lisabona unde poți experimenta o noapte de fado autentic.
+
+- Alege o excursie de o zi: Dacă ai timp, vizitează Sintra, Cascais sau Costa da Caparica, care se află în apropiere și oferă atracții naturale și culturale unice.
+
+- Fii atent la buzunare: Ca în orice oraș turistic, furturile din buzunare pot fi o problemă. Ai grijă de bunurile tale și evită să afișezi obiecte de valoare în locuri aglomerate.
+
+- Planifică-ți vizita în funcție de sezon: Lisabona are un climat mediteranean, cu veri calde și ierni blânde. Primăvara și toamna sunt cele mai bune perioade pentru a vizita orașul, când vremea este plăcută și aglomerația este mai redusă.
 
 ## Turnul Belem
 ---
@@ -215,7 +239,67 @@ Conform celor de la [lisbon.net](https://www.lisbon.net/rossio-square), Piața R
 
 ---
 ## Monumentul Descoperirilor 
+
+Monumentul Descoperirilor (în portugheză: Padrão dos Descobrimentos) este un monument impresionant situat pe malul râului Tejo, în cartierul Belem al Lisabonei. 
+
+A fost construit în 1960 pentru a celebra 500 de ani de la moartea lui Infante Dom Henrique (Henric Navigatorul), un personaj important în epoca marilor descoperiri geografice ale Portugaliei.
+
+Monumentul reprezintă o caravelă cu o înălțime de 52 de metri și este încoronat de o statuie a lui Infante Dom Henrique.
+
+Pe părțile laterale ale monumentului se află 33 de statui care reprezintă personalități marcante din acea perioadă, precum exploratori, cartografi, regi, misionari și scriitori, printre care se numără Vasco da Gama, Pedro Álvares Cabral și Luís de Camões.
+
+De la baza monumentului, poți urca pe terasa de observație pentru a te bucura de vederi panoramice asupra râului Tejo, Turnului Belem și Mosteiro dos Jerónimos.
+
+Monumentul Descoperirilor este o atracție turistică populară și un loc important pentru a înțelege istoria și influența marilor explorări portugheze în lume.
+
 ---
+## 4 zile in Lisabona - City Break 
 
-Monumentul închinat descoperirilor a fost construit în 1939 în onoarea descoperirilor din secolele XV și XVI în care Portugalia domina comerțul pe mare. Este cunoscut și ca ”Monumentul Navigatorilor” și a fost proiectat de arhitectul portughez José Angelo Cottinelli Telmo. 
+Un city break de 4 zile în Lisabona este suficient pentru a explora principalele atracții și a te bucura de atmosfera orașului. Iată o propunere de itinerariu pentru a profita la maximum de vizita ta:
 
+**Ziua 1: Centrul orașului și Chiado**
+
+- Plimbă-te prin cartierele Baixa și Chiado pentru a admira arhitectura și magazinele locale.
+- Explorează Praça do Comércio, Arco da Rua Augusta și ridica-te cu liftul Santa Justa pentru vederi panoramice.
+- Vizitează Convento do Carmo, un monument istoric impresionant.
+- Seara, ia cina într-un restaurant local și savurează specialitățile portugheze.
+
+**Ziua 2: Belem și Monumentul Descoperirilor**
+
+- Mergi în cartierul Belem pentru a explora Turnul Belem, Mosteiro dos Jerónimos și Monumentul Descoperirilor.
+- Vizitează Muzeul Coleção Berardo pentru a admira arta modernă și contemporană.
+- Nu uita să încerci delicioasele pasteis de nata de la Pastéis de Belém.
+- Seara, ia cina într-un restaurant local și experimentează o noapte de fado autentic.
+
+**Ziua 3: Alfama, Castelo de São Jorge și Bairro Alto**
+
+- Începe ziua cu o plimbare prin cartierul Alfama și explorează străduțele sale întortocheate.
+- Urcă la Castelo de São Jorge pentru a admira vederile panoramice și a explora fortificațiile.
+- Plimbă-te prin Bairro Alto și apreciază atmosfera boemă și străduțele pavate.
+- Seara, ia cina într-un restaurant din Bairro Alto și bucură-te de viața de noapte animată.
+
+**Ziua 4: Parcul Națiunilor și Oceanário de Lisboa**
+
+- Explorează Parcul Națiunilor, o zonă modernă și reabilitată, cu multe spații verzi și de recreere.
+- Vizitează Oceanário de Lisboa, unul dintre cele mai mari acvarii din Europa.
+- Plimbă-te pe promenada lungă de-a lungul râului Tejo.
+- Seara, ia cina într-un restaurant din zonă și savurează ultima noapte în oraș.
+
+Pe lângă acest itinerariu, asigură-te că iei în considerare ponturile menționate anterior pentru a te bucura de o experiență autentică în Lisabona. 
+
+Dacă ai timp, poți lua în considerare și o excursie de o zi în apropiere, cum ar fi Sintra, Cascais sau Costa da Caparica.
+
+---
+## Concluzii
+
+Lisabona este un oraș vibrant și plin de istorie, oferind numeroase atracții turistice și culturale pentru vizitatori. 
+
+Un city break de 4 zile îți permite să explorezi principalele obiective, precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, și să te bucuri de Oceanário de Lisboa.
+
+De asemenea, nu uita să te plimbi prin străduțele pietonale, să savurezi gastronomia locală și să participi la o noapte de fado autentic.
+
+Lisabona oferă o experiență memorabilă pentru toți vizitatorii și te încurajează să descoperi frumusețea și cultura portugheză. 
+
+În plus, orașul servește ca punct de plecare pentru excursii în apropiere, cum ar fi Sintra sau Cascais, care merită să fie explorate dacă timpul permite. 
+
+Planifică-ți vizita cu grijă, ținând cont de ponturile și itinerariul propus, și bucură-te de o aventură de neuitat în Lisabona.
