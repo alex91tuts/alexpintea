@@ -10,17 +10,7 @@ post_class: post-template
  "@type": "Article",
  "headline": "{{ page.title }}",
  "alternativeHeadline": "{{ page.title }}",
- "image": "{{ site.url }}{{ page.image }}",
- "image":
- 	{% assign my_array = "" | split: ", " %}
- 	{% assign images = site.static_files %}
-	{% for image in images %}
-	{% assign cale = page.image | replace: 'main.webp', '' %}
-	{% if image.path contains cale %}
-	{% assign my_array = my_array | push: image.path %}
-	{% endif %}
-	{% endfor %}
-	{{ my_array | jsonify }},
+ "image":{% assign my_array = "" | split: ", " %}{% assign images = site.static_files %}{% for image in images %}{% assign cale = page.image | replace: 'main.webp', '' %}{% if image.path contains cale %}{% assign my_array = my_array | push: image.path %}{% endif %}{% endfor %}{{ my_array | jsonify }},
  "author": "{{ page.author }}", 
  "genre": "travel", 
  "keywords": "{{ page.keyword }}", 
