@@ -1,5 +1,5 @@
 ---
-title: Cea mai buna placa de par Remington | Review | Pareri
+title: Cea mai buna placa de par Remington | Review | Pareri | Top 6
 image_path: remington/main.webp
 meta_image: assets/images/reviews/remington/main.webp
 layout: review
