@@ -10,7 +10,11 @@
 @import "mobile";
 @import "general";
 
-
+.stars-full {
+	color: orange;
+  font-size: 24px;
+  font-weight: bold;
+}
 .intro {
 	font-size: 15px;
 	font-weight: bold;
@@ -29,31 +33,27 @@ font-size: 17px;
 }
 
 
-.review-post h2::before {
-	content: "";
-	background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
-	background: linear-gradient(to right,#ff8a00,#da1b60);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	-webkit-box-decoration-break: clone;
-	box-decoration-break: clone;
-	display: inline-block;
-	margin-right: .25rem;
-	text-decoration: none;
-	font-weight: 900;
+.review-post h2::after {
+		content: " ";
+    display: block;
+    height: 5px;
+    width: 30%;
+    position: absolute;
+    left: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+    background: #4cb6c5;
 	}
 
-	#continut h3::before {
-	background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
-	background: linear-gradient(to right,#ff8a00,#da1b60);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	-webkit-box-decoration-break: clone;
-	box-decoration-break: clone;
-	display: inline-block;
-	margin-right: .25rem;
-	text-decoration: none;
-	font-weight: 900;
+	#continut h3::after {
+		content: " ";
+    display: block;
+    height: 5px;
+    width: 5%;
+    position: absolute;
+    left: 0;
+    border-radius: 5px;
+    background: #4cb6c5;
 }
 
 img {
