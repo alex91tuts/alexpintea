@@ -69,7 +69,7 @@ Indiferent de modul în care alegi să-l experimentezi - fie prin vizitarea lui 
 ---
 ## Biserica Stavropoleos - frumusețe atemporală
 
-<img src="/assets/images/travel/bucuresti/stavropoleus.webp" width="740" height="628" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/bucuresti/stravropoleus.webp" width="740" height="628" alt="{{ page.keyword }};">
 
 <span class="drop">B</span>iserica Stavrostopol este un exemplu uluitor al stilului arhitectural ortodox românesc, situată în inima orașului vechi. 
 
@@ -84,7 +84,7 @@ Biserica Stavropoleos este o destinație populară pentru turiștii care vizitea
 ---
 ## Palatul Primăverii
 
-<img src="/assets/images/travel/bucuresti/primăverii.webp" width="740" height="492" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/bucuresti/primaverii.webp" width="740" height="492" alt="{{ page.keyword }};">
 
 <span class="drop">P</span>alatul Primăverii sau „Casa Ceaușescu”, este un exemplu uimitor de arhitectură modernistă situat în București. Construită la mijlocul anilor 1960 de dictatorul de atunci al României Nicolae Ceaușescu, ea stă ca o mărturie a puterii și opulenței Partidului Comunist Român.
 
@@ -387,7 +387,7 @@ Există și o mulțime de baruri din care să alegeți, ceea ce face ca acesta s
 ---
 ## Piața Unirii
 
-<img src="/assets/images/travel/bucuresti/satului.webp" width="740" height="366" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/bucuresti/punirii.webp" width="740" height="366" alt="{{ page.keyword }};">
 
 <span class="drop">P</span>iața își are rădăcinile în epoca medievală, când a servit drept loc de întâlnire important pentru negustori și comercianți. 
 
