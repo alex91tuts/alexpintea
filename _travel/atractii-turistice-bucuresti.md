@@ -27,7 +27,6 @@ Ce să vizitezi?
 - Evenimete și festivaluri: Festivalul George Enescu, București Jazz Festival, Festivalul Internațional de Film București (BIFFF) sau Street Food Festival București.
 - Excursii în jurul Bucureștiului: Palatul Mogoșoaia, Mânăstirea Snagov, Parcul Natural Comana sau Cetatea Poenari;
 
-
 Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar un [weekend](https://totredus.ro/travel/bucuresti-in-weekend/) în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o viață de noapte vibrantă în capitala României. 
 
 Desigur, chiar dacă ai o singuă zi la dispoziție, poți alege cu ușurință o serie de obiective pe care să le vizitezi 
