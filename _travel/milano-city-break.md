@@ -73,9 +73,9 @@ data_actualizare_pret: 09 aprilie 2023
 Bun venit în Milano, capitala modei și a designului! Dacă te întrebi ce sa faci in Milano 3 zile și doar atât ai la dispoziție pentru a explora acest oraș plin de viață, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are Milano de oferit.
 
 ---
-## Ziua 1 - centrul orașului și marile sale atracții
+** Ziua 1 - centrul orașului și marile sale atracții**
 
-### Dimineața: Piazza del Duomo și Catedrala din Milano
+## Dimineața: Piazza del Duomo și Catedrala din Milano
 
 Începe-ți aventura în Milano cu o vizită la impresionanta Piazza del Duomo, centrul istoric și cultural al orașului. 
 
@@ -85,7 +85,7 @@ Aici vei găsi și magnifica Catedrală din Milano (Duomo di Milano), care este 
 
 <img src="/assets/images/travel/citybreak/Milano/cathedrala.webp" width="740" height="488" alt="{{ page.keyword }}">
 
-### După-amiaza: Galleria Vittorio Emanuele II și Teatro alla Scala
+## După-amiaza: Galleria Vittorio Emanuele II și Teatro alla Scala
 
 Odată ce ai explorat Catedrala, fă o plimbare relaxantă prin Galleria Vittorio Emanuele II, unul dintre cele mai frumoase centre comerciale din lume. Aici vei găsi magazine de lux, cafenele și restaurante elegante. Nu uita să calci pe mozaicul cu taurul, se spune că aduce noroc!
 
@@ -93,7 +93,7 @@ Odată ce ai explorat Catedrala, fă o plimbare relaxantă prin Galleria Vittori
 
 Continuă-ți turul orașului cu o vizită la Teatro alla Scala, una dintre cele mai faimoase opere din lume. Chiar dacă nu ai timp să asistă la un spectacol, merită să explorezi muzeul său și să admiri interiorul somptuos.
 
-### Seara: Navigli și Aperitivo
+## Seara: Navigli și Aperitivo
 
 După o zi plină de explorări, merită să te relaxezi în zona Navigli, un cartier plin de canale, baruri și restaurante. 
 
@@ -102,9 +102,9 @@ Aici vei putea savura faimosul aperitivo milanez, o tradiție culinară care com
 Este o modalitate perfectă de a te bucura de atmosfera locală și de a socializa cu localnicii și alți turiști.
 
 ---
-## Ziua 2 - Artă, istorie și cumpărături
+** Ziua 2 - Artă, istorie și cumpărături **
 
-### Dimineața: Pinacoteca di Brera și Castello Sforzesco
+## Dimineața: Pinacoteca di Brera și Castello Sforzesco
 
 Începe-ți a doua zi în Milano cu o vizită la Pinacoteca di Brera, unul dintre cele mai importante muzee de artă din Italia. 
 
@@ -116,7 +116,7 @@ Continuă-ți traseul cultural spre Castello Sforzesco, o fortăreață istoric�
 
 Nu uita să arunci o privire asupra frescei "Ultima Cină" de Leonardo da Vinci, una dintre cele mai faimoase opere de artă din lume.
 
-### După-amiaza: Cumpărături în Quadrilatero della Moda
+## După-amiaza: Cumpărături în Quadrilatero della Moda
 
 Acum că te-ai delectat cu arta și istoria milaneză, este timpul să te îndrepți către Quadrilatero della Moda, inima industriei modei din Milano. 
 
@@ -124,7 +124,7 @@ Aici vei găsi cele mai renumite magazine de lux, precum Gucci, Prada și Versac
 
 Chiar dacă bugetul tău nu permite să faci cumpărături extravagante, o plimbare prin acest cartier îți oferă o imagine asupra stilului de viață milanez.
 
-### Seara: Brera și Corso Como
+## Seara: Brera și Corso Como
 
 Pentru a te relaxa după o zi aglomerată, explorează cartierul Brera și strada Corso Como. 
 
@@ -133,9 +133,9 @@ Aici vei găsi o varietate de baruri, restaurante și cluburi în care să te bu
 Poți savura o cină delicioasă într-un restaurant tradițional italian sau poți alege să te alături petrecăreților într-unul dintre cluburile locale.
 
 ---
-## Ziua 3 - O escapadă în natură și o experiență culinară
+** Ziua 3 - O escapadă în natură și o experiență culinară **
 
-### Dimineața: Parco Sempione și Arco della Pace
+## Dimineața: Parco Sempione și Arco della Pace
 
 Pentru a începe ultima zi în Milano, fă o plimbare în Parco Sempione, cel mai mare parc al orașului, unde te poți bucura de natură și de aer proaspăt. 
 
@@ -143,13 +143,13 @@ Nu uita să te oprești la Arco della Pace, un monument istoric situat la margin
 
 <img src="/assets/images/travel/citybreak/Milano/arcodellapace.webp" width="740" height="369" alt="{{ page.keyword }}">
 
-### După-amiaza: Excursie la Lago di Como
+## După-amiaza: Excursie la Lago di Como
 
 Dacă timpul și bugetul îți permit, ia în considerare o excursie de o jumătate de zi la Lago di Como, situat la doar o oră distanță de Milano. 
 
 Aici te vei bucura de peisaje spectaculoase, vei explora orașele pitorești de pe malurile lacului și te vei relaxa într-un cadru natural idilic.
 
-### Seara: Experiență culinară în zona Porta Romana
+## Seara: Experiență culinară în zona Porta Romana
 
 Încheie-ți city break-ul de 3 zile în Milano cu o experiență culinară de neuitat în zona Porta Romana. 
 
@@ -200,7 +200,7 @@ Dacă totuși alegi să închiriezi o mașină, asigură-te că respecți reguli
 Pentru a economisi bani și a te bucura de flexibilitate în timpul city break-ului tău de 3 zile în Milano, poți lua în considerare achiziționarea unui abonament de transport. Există opțiuni de abonamente pentru 1, 2 sau 3 zile, care îți permit acces nelimitat la metrou, tramvaie și autobuze în întregul oraș.
 
 ---
-## Bine de șiut 
+## Ponturi pentru calatoria in Milano
 
 ### Moneda și schimbul valutar
 Moneda oficială în Milano, ca în toată Italia, este euro (EUR). Asigură-te că ai suficienți bani schimbați în euro înainte de a pleca sau că ai o modalitate de a-i schimba la sosire. 
