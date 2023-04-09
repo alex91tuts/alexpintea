@@ -1,8 +1,8 @@
 ---
 layout: travel
-title: "3 zile în Milano: Cum să profiți la maxim de un city break"
-descriere: Dacă ai doar 3 zile pentru a explora orașul Milano, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are de oferit.  
-description: Dacă ai doar 3 zile pentru a explora orașul Milano, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are de oferit.   
+title: "Ce sa faci in Milano 3 zile? Un ghid detaliat!"
+descriere: În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele.  
+description: În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele.   
 meta_image: assets/images/travel/citybreak/Milano/main.webp 
 image: /assets/images/travel/citybreak/Milano/main.webp
 author: "Cultural Nomad"
@@ -10,7 +10,7 @@ tara: ITALIA
 oras: MILANO
 categorie: CITY BREAK
 lang: ro_RO
-keyword: 3 zile in milano
+keyword: ce sa faci in milano 3 zile
 date: 25.03.2023
 tags: ['Milano', 'CityBreak', '2023']
 
@@ -37,6 +37,8 @@ link_cazare: https://booking.tp.st/alz7Z70h
 data_actualizare_pret: 09 aprilie 2023
 
 ---
+
+În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele. 
 
 {% include cta-flight.html %}
 
@@ -66,7 +68,9 @@ data_actualizare_pret: 09 aprilie 2023
 
 ---
 
-Bun venit în Milano, capitala modei și a designului! Dacă ai doar 3 zile la dispoziție pentru a explora acest oraș plin de viață, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are Milano de oferit.
+## Ce sa faci in Milano 3 zile
+
+Bun venit în Milano, capitala modei și a designului! Dacă te întrebi ce sa faci in Milano 3 zile și doar atât ai la dispoziție pentru a explora acest oraș plin de viață, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are Milano de oferit.
 
 ---
 ## Ziua 1 - centrul orașului și marile sale atracții
