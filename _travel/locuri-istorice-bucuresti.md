@@ -29,7 +29,7 @@ Pe lângă asta, vizitarea locurilor istorice poate fi și distractivă. Când m
 ---
 ## Bucureștiul din perspectivă istorică
 
-Bucureștiul are o istorie bogată și fascinantă care se întinde pe mai mult de cinci secole. Orașul a fost fondat în jurul anului 1459 de către domnitorul Vlad Țepeș, iar de atunci și până în prezent, a trecut prin multe transformări istorice, culturale și politice.
+[Bucureștiul](https://totredus.ro/travel/atractii-turistice-bucuresti/) are o istorie bogată și fascinantă care se întinde pe mai mult de cinci secole. Orașul a fost fondat în jurul anului 1459 de către domnitorul Vlad Țepeș, iar de atunci și până în prezent, a trecut prin multe transformări istorice, culturale și politice.
 
 În timpul Evului Mediu, Bucureștiul a fost un important centru comercial și cultural din Europa de Sud-Est. Acesta a fost în continuă dezvoltare sub conducerea domnitorilor români, care au construit multe biserici și mănăstiri, precum și palate și clădiri importante.
 

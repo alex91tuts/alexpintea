@@ -110,6 +110,8 @@ Pe lângă colecția permanentă, Casa Melik – Muzeul Theodor Pallady găzduie
 
 Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cuprinzătoare asupra vieții și operei lui Pallady. Aceste excursii includ adesea vizite la bisericile din apropiere, unde unele dintre picturile sale religioase sunt expuse permanent, precum și prelegeri despre aspecte specifice ale carierei sau artistice.
 
+[vezi un articol complet](https://totredus.ro/travel/casa-melik/)
+
 ---
 ## Descoperiți comori ale culturii Române la Casa Memorială Anton Pann
 
@@ -411,6 +413,30 @@ Fântânile din Piața Unirii au fost declarate de World Record Academy drept ce
 Jeturile dansează pe ritmuri muzicale, adăugând un elemente mai dinamice și mai vizuale celor mai incitante momente ale spectacolului. În momente muzicale speciale, jeturi mari de apă sunt lansate sus exploziv prin aer comprimat. Este un efect extraordinar!
 
 Indiferent când vizitați Piața Unirii din București, puteți fi sigur că va fi plină de activitate - fie că este în timpul zilei sau în timpul nopții! Această piață vibrantă este pur și simplu unul dintre acele locuri în care nu poți să nu te simți în viață!
+
+---
+## Pasajul Macca-Vilacrosse: Bijuteria ascunsă a Bucureștiului
+
+<img src="/assets/images/travel/macca/1.webp" width="740" height="492" alt="{{ page.keyword }}">
+
+Pasajul Macca-Vilacrosse, un ansamblu de două străzi pietonale acoperite, reprezintă un exemplu de arhitectură neoclasică și eclectică. 
+
+Proiectat de arhitectul Felix Xenopol, pasajul a fost inaugurat în 1891 și a fost numit după inginerul Eugeniu Vilacrosse, care a contribuit la dezvoltarea urbană a Bucureștiului.
+
+Străduțele acoperite cu o cupolă din sticlă colorată oferă o atmosferă aparte și plăcută, protejând trecătorii de vremea capricioasă. 
+
+Pasajul Macca-Vilacrosse găzduiește astăzi o varietate de cafenele, baruri și restaurante, fiind un loc ideal pentru socializare și relaxare.
+
+Una dintre atracțiile principale ale pasajului este Cărturești Carusel, o librărie elegantă ce atrage atât iubitorii de lectură, cât și pe cei interesați de arhitectură. 
+
+Cu un design interior impresionant, Cărturești Carusel este un loc perfect pentru a savura o cafea, a răsfoi cărți sau a participa la evenimente culturale.
+
+Pasajul Macca-Vilacrosse este o oază de liniște și frumusețe în centrul Bucureștiului, un loc perfect pentru a te bucura de atmosfera boemă și a te îndepărta de agitația urbană. 
+
+Dacă vizitați capitala României, nu ratați ocazia de a explora această bijuterie arhitecturală și de a vă bucura de atmosfera sa deosebită.
+
+[vezi un articol complet](https://totredus.ro/travel/pasajul-macca-villacrosse/)
+
 
 ---
 ## Locuri vizitat lângă Bucuresti

@@ -73,7 +73,7 @@ data_actualizare_pret: 09 aprilie 2023
 Bun venit în Milano, capitala modei și a designului! Dacă te întrebi ce sa faci in Milano 3 zile și doar atât ai la dispoziție pentru a explora acest oraș plin de viață, nu-ți face griji, căci îți vom oferi un ghid pas cu pas pentru a-ți petrece timpul cât mai eficient și a te bucura de tot ce are Milano de oferit.
 
 ---
-** Ziua 1 - centrul orașului și marile sale atracții**
+**Ziua 1 - centrul orașului și marile sale atracții**
 
 ## Dimineața: Piazza del Duomo și Catedrala din Milano
 
@@ -102,7 +102,7 @@ Aici vei putea savura faimosul aperitivo milanez, o tradiție culinară care com
 Este o modalitate perfectă de a te bucura de atmosfera locală și de a socializa cu localnicii și alți turiști.
 
 ---
-** Ziua 2 - Artă, istorie și cumpărături **
+**Ziua 2 - Artă, istorie și cumpărături**
 
 ## Dimineața: Pinacoteca di Brera și Castello Sforzesco
 
@@ -133,7 +133,7 @@ Aici vei găsi o varietate de baruri, restaurante și cluburi în care să te bu
 Poți savura o cină delicioasă într-un restaurant tradițional italian sau poți alege să te alături petrecăreților într-unul dintre cluburile locale.
 
 ---
-** Ziua 3 - O escapadă în natură și o experiență culinară **
+**Ziua 3 - O escapadă în natură și o experiență culinară**
 
 ## Dimineața: Parco Sempione și Arco della Pace
 
