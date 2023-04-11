@@ -479,6 +479,8 @@ De asemenea, găzduiește câteva piese de artă unice, cum ar fi statuia din le
 
 Vizitatorii pot găsi și alte câteva biserici în cadrul complexului, inclusiv cele dedicate Sfântului Gheorghe, Sfântului Dimitrie și Theotokos (Maica Domnului).
 
+Vezi si [ce sa faci duminica in Bucuresti](https://totredus.ro/travel/duminica-in-bucuresti/)
+
 ---
 ## De final
 

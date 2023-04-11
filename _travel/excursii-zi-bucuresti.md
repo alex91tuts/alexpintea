@@ -1,8 +1,8 @@
 ---
 layout: travel
 title: "Ce să faci o zi in Bucuresti: aventură urbană!"
-descriere: În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc.  
-description: În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc. 
+descriere: "În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc."  
+description: "În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc."
 meta_image: assets/images/travel/ozi/main.webp 
 image: /assets/images/travel/ozi/main.webp
 author: "Cultural Nomad"
