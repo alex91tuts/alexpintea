@@ -21,6 +21,7 @@ Există, de asemenea, o mulțime de restaurante și cafenele grozave de vizitat,
 
 Fie că sunteți în căutarea unui weekend romantic sau pentru o experiență culturală interesantă, Bucureștiul are ceva de oferit fiecărui călător sau locuitor.
 
+{% include cta-cazare.html %}
 
 **_Dacă sunteți în căutarea unei escapade de weekend sau dacă sunteți chiar din București și vă plictisiți, capitala este o opțiune excelentă. Orașul oferă o mulțime de activități și atracții interesante de explorat iar prețurile sale accesibile fac din aceasta o destinație ideală pentru călătorii cu buget redus. Există ceva pentru toată lumea în București, de la viața de noapte vibrantă și bucătăria tradițională românească până la monumente istorice și arhitectură unică._** 
 

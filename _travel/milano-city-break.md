@@ -14,33 +14,11 @@ keyword: ce sa faci in milano 3 zile
 date: 25.03.2023
 tags: ['Milano', 'CityBreak', '2023']
 
-data_plecare: Vineri 12 mai 2023
-data_retur: Luni 15 mai 2023
-aeroport_plecare: Bucuresti
-aeroport_destinatie: Milano
-ora_plecare_destinatie: "09:00"
-ora_aterizare: "10:20"
-ora_plecare_retur: "05:45"
-ora_aterizare_retur: "09:00"
-durata_zbor_dus: 2h 25m
-durata_zbor_retur: 2h 15m
-escale_dus: DIRECT
-escale_retur: DIRECT
-pret: 59
-link_zbor: https://wayaway.tp.st/7aN2V8vY
-
-nume_hotel: Apartament - Porta Romana
-link_toate_cazarile: https://booking.tp.st/WjvVTuIV
-pret_cazare: 361
-link_cazare: https://booking.tp.st/alz7Z70h
-
-data_actualizare_pret: 09 aprilie 2023
-
 ---
 
 În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele. 
 
-{% include cta-flight.html %}
+{% include cta-cazare.html %}
 
 **Pe scurt, ce poți face în 3 zile în Milano:**
 

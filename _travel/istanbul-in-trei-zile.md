@@ -18,6 +18,8 @@ tags: ['Istanbul', 'CityBreak', '2023']
 
 În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum: Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele. Vezi propunerea nostră de city-break și alte informații utile.
 
+{% include cta-cazare.html %}
+
 ---
 
 **Puncte cheie:**

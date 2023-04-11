@@ -1,10 +1,57 @@
-<div><span class="titlu-flight">Calendar zboruri<span class="text-megna">.</span></span></div>
+<div><span class="titlu-flight">OFERTE<span class="text-megna">.</span></span></div>
+<div class="card-wrapper col-lg-12 col-12" style="margin-top: 0px; margin-bottom: 10px;">
+	<div class="for-style row">
+	<div class="imagine-flight col-lg-4 col-12">
+		<span class="flight-date">{{ page.data_plecare }}</span>
+		<div><img src="/assets/images/svg/plane.svg" height="15px" width="15px" alt="plane" style="margin-right: 10px;" ><span>{{ page.ora_plecare_destinatie }} {{ page.aerorport_destinatie }}</span></div>
+		<div style="margin-top: 5px; margin-bottom: 5px;">
+		<span style="margin-right: 10px;">⇣</span>
+		<span class="bula">{{ page.durata_zbor_dus }}</span>
+		<span class="bula">{{ page.escale_dus }}</span>
+		</div>
+		<div><img src="/assets/images/svg/plane.svg" height="15px" width="15px" alt="plane" style="transform: rotate(64deg); margin-right: 10px;"><span>{{ page.ora_aterizare }} {{page.aeroport_destinatie}}</span></div>
+	</div>
+	
+	<div class="imagine-flight col-lg-4 col-12">
+		<span class="flight-date">{{ page.data_retur }}</span>
+		<div><img src="/assets/images/svg/plane.svg" height="15px" width="15px" alt="plane" style="margin-right: 10px;" ><span>{{ page.ora_plecare_retur }} {{ page.aeroport_destinatie }}</span></div>
+		<div style="margin-top: 5px; margin-bottom: 5px;">
+		<span style="margin-right: 10px;">⇣</span>
+		<span class="bula">{{ page.durata_zbor_retur}}</span>
+		<span class="bula">{{ page.escale_retur }}</span>
+		</div>
+		<div><img src="/assets/images/svg/plane.svg" height="15px" width="15px" alt="plane" style="transform: rotate(64deg); margin-right: 10px;"><span>{{ page.ora_aterizare_retur }} {{ page.aeroport_plecare }}</span></div>
+	</div>	
+		
+	<div class="footer-flight col-lg-4 col-12">
+		<p class="">{{ page.pret }} €</p>
+		<div class=""><a href="{{page.link_zbor}}" target="_blank"><button>VEZI OFERTA</button></a></div>
+	</div>
+	</div>
+</div>
 
+<div class="card-wrapper col-lg-12 col-12" style="margin-bottom: 10px;">
+	<div class="for-style row">
+	<div class="col-lg-8 col-12 align"><span class="hotel-n">{{ page.nume_hotel }}</span><hr style="margin-top: 0;">
+	<span class="flight-date">{{ page.data_plecare }}</span>→
+	<span class="flight-date">{{ page.data_retur }}</span><hr>
+	<a href="{{ page.link_toate_cazarile }}" target="_blank">VEZI TOATE OPTIUNILE DE CAZARE</a>
+	</div>
+	
+	<div class="footer-flight cazare col-lg-4 col-12">
+		<p class="">{{ page.pret_cazare }} €</p>
+		<span class="nopti">pentru 3 nopți</span>
+		<div class=""><a href="{{ page.link_cazare }}" target="_blank"><button>VEZI OFERTA</button></a></div>
+		</div>
+	</div>
+</div>
+
+<hr style="border: dashed 1px lightgray;">
+<div style="text-align: right;"><span class="disclaimer">actualizate in: {{ page.data_actualizare_pret }}</span><span class="totals">TOTAL: {{ page.pret | plus: page.pret_cazare }} €</span></div>
 
 <div class="footer-flight calendar col-12" style="margin-bottom: 20px;">
-	<img src="/assets/images/calendar.webp">
-	<img src="/assets/images/svg/plane.svg" height="15px" width="15px" alt="plane" style="margin-right: 10px;" >
-	<span style="margin-bottom: 15px;">Un calendar în care poți vedea care este cel mai ieftin zbor din lună spre destinația aleasa de tine</span>
+	<span class="calendar-p">Calendar de zboruri</span><br>
+	<span style="margin-bottom: 15px;">Un calendar în care poți descoperi cele mai ieftine zboruri din fiecare lună spre destinatia aleasa de tine</span>
 	<div class=""><a href="/calculator/calendar-zboruri/" target="_blank"><button>DESCHIDE</button></a></div>
 </div>
 
@@ -82,9 +129,6 @@
 	
 		.footer-flight {
 			padding: 7px;
-		}
-		.titlu-flight {
-			font-size: 30px !important;
 		}
 }
 		.disclaimer {
