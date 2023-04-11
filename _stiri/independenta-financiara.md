@@ -1,5 +1,5 @@
 ---
-title: Independența financiară | Ce inseamnă? | Cum se ajunge acolo? 
+title: Independența financiară | Ce inseamnă? | Calculator 
 image_path: stiri/independentafinanciara/main.webp
 layout: stiri
 date: 2023-02-28
