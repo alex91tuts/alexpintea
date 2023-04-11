@@ -1,15 +1,15 @@
 ---
 layout: travel
-title: "Excursii de o zi in Bucuresti: aventură urbană!"
-descriere: În acest articol, îți voi prezenta câteva dintre cele mai interesante și incitante excursii de o zi pe care le poți face în capitala României.  
-description: În acest articol, îți voi prezenta câteva dintre cele mai interesante și incitante excursii de o zi pe care le poți face în capitala României. 
+title: "Ce să faci o zi in Bucuresti: aventură urbană!"
+descriere: În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc.  
+description: În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc. 
 meta_image: assets/images/travel/ozi/main.webp 
 image: /assets/images/travel/ozi/main.webp
 author: "Cultural Nomad"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
-keyword: excursii de o zi in bucuresti
+keyword: ce sa faci o zi in Bucuresti
 date: 27.03.2023
 tags: ['București', 'Excursii', '2023']
 
@@ -17,7 +17,7 @@ tags: ['București', 'Excursii', '2023']
 
 
 
-Într-o excursie de o zi in București poți vizita: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc.
+În București, într-o singură zi poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc.
 
 ---
 
