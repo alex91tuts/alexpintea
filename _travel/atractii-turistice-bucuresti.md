@@ -67,6 +67,8 @@ Marea sală de bal poate găzdui până la 6500 de persoane, ceea ce o face un l
 
 Indiferent de modul în care alegi să-l experimentezi - fie prin vizitarea lui sau participarea la un eveniment - nu se poate nega că Palatul Parlamentului din București este o priveliște uimitoare care te va lăsa cu gura căscată!
 
+[Palatul Parlamentului - vezi un articol complet](https://totredus.ro/travel/palatul-parlamentului/)
+
 ---
 ## Biserica Stavropoleos - frumusețe atemporală
 
@@ -100,8 +102,6 @@ Interiorul este plin de mobilier de lux, cum ar fi covoare importate din Turcia,
 Palatul are, de asemenea, o piscină înconjurată de grădini luxuriante pline cu plante exotice aduse din toată lumea. Există și câteva terase private unde Ceaușescu își putea distra oaspeții departe de privirile curioșilor.
 
 Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României sub comunism, oferind totuși vizitatorilor o privire interesantă asupra vieții unuia dintre cei mai infami lideri ai săi.
-
-[Palatul Parlamentului - vezi un articol complet](https://totredus.ro/travel/palatul-parlamentului/)
 
 ---
 ## Casa Melik - Muzeul Theodor Pallady
