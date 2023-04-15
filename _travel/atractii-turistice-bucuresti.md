@@ -99,6 +99,8 @@ Palatul are, de asemenea, o piscină înconjurată de grădini luxuriante pline 
 
 Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României sub comunism, oferind totuși vizitatorilor o privire interesantă asupra vieții unuia dintre cei mai infami lideri ai săi.
 
+[Palatul Parlamentului - vezi un articol complet](https://totredus.ro/travel/palatul-parlamentului/)
+
 ---
 ## Casa Melik - Muzeul Theodor Pallady
 
@@ -112,7 +114,7 @@ Pe lângă colecția permanentă, Casa Melik – Muzeul Theodor Pallady găzduie
 
 Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cuprinzătoare asupra vieții și operei lui Pallady. Aceste excursii includ adesea vizite la bisericile din apropiere, unde unele dintre picturile sale religioase sunt expuse permanent, precum și prelegeri despre aspecte specifice ale carierei sau artistice.
 
-[vezi un articol complet](https://totredus.ro/travel/casa-melik/)
+[Casa Melik - vezi un articol complet](https://totredus.ro/travel/casa-melik/)
 
 ---
 ## Descoperiți comori ale culturii Române la Casa Memorială Anton Pann
@@ -437,7 +439,7 @@ Pasajul Macca-Vilacrosse este o oază de liniște și frumusețe în centrul Buc
 
 Dacă vizitați capitala României, nu ratați ocazia de a explora această bijuterie arhitecturală și de a vă bucura de atmosfera sa deosebită.
 
-[vezi un articol complet](https://totredus.ro/travel/pasajul-macca-villacrosse/)
+[Pasajul Macca - vezi un articol complet](https://totredus.ro/travel/pasajul-macca-villacrosse/)
 
 
 ---
