@@ -211,6 +211,29 @@ Pentru a programa o vizită, puteți accesa site-ul oficial al Palatului Parlame
 Țineți cont că, în calitate de clădire guvernamentală, este necesar să aveți un act de identitate valid pentru a putea participa la tururi.
 
 ---
+## Proiecte în desfasurare
+
+Palatul Parlamentului este încă un proiect în desfășurare, cu multe zone ale clădirii rămase în continuare neterminate.
+
+Aripa vestică, o parte din aripa de est, o parte din al doilea nivel și nivelul 3 subsol, precum și alte spații sub acesta urmează a fi finalizate. 
+
+Aceste lucrări sunt esențiale pentru a asigura funcționalitatea completă a clădirii și pentru a oferi spații administrative și de lucru suplimentare.
+
+Unul dintre acestea este construirirea unor tunele care să lege Calea 13 Septembrie de subsolul Palatului Parlamentului este o inițiativă menită să faciliteze accesul și circulația în interiorul și în jurul complexului. 
+
+Acest proiect ar avea numeroase beneficii, atât pentru angajații și vizitatorii Palatului, cât și pentru locuitorii orașului București:
+
+- Fluidizarea traficului: Prin crearea unor conexiuni directe între Palatul Parlamentului și Calea 13 Septembrie, traficul în zonă ar putea fi fluidizat, reducând astfel ambuteiajele și creând un mediu mai prietenos pentru pietoni și bicicliști.
+
+- Îmbunătățirea accesului la Palat: Tunelele propuse ar facilita accesul angajaților și vizitatorilor la Palatul Parlamentului, oferind o intrare facilă și rapidă în complex. Acest lucru ar putea contribui la creșterea eficienței activităților desfășurate în clădire și la îmbunătățirea experienței vizitatorilor.
+
+- Conectarea cu infrastructura orașului: Proiectul ar îmbunătăți legăturile între Palatul Parlamentului și infrastructura urbană, facilitând astfel accesul la mijloacele de transport în comun și conexiunile cu alte zone ale orașului. Acest lucru ar putea stimula dezvoltarea economică și creșterea turismului în zonă.
+
+- Creșterea siguranței și securității: Tunelele ar putea oferi rute alternative de acces în cazul unor situații de urgență, precum incendii sau alte dezastre, contribuind astfel la creșterea siguranței și securității în interiorul și în jurul Palatului.
+
+- Potențialul pentru dezvoltare urbană: Crearea acestor tunele ar putea deschide noi oportunități de dezvoltare urbană în zonă, incluzând construcția de noi clădiri și facilități, precum centre comerciale, parcuri sau locuințe, care să completeze complexul Palatului Parlamentului și să îmbunătățească calitatea vieții în cartier.
+
+---
 ## Referințe și surse bibliografice
 
 - Asociația Istoricilor în Construcții (2005). Arhitectura românească în secolul XX. București: Editura Istoria Artei.
