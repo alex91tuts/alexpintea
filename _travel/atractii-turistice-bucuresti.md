@@ -82,6 +82,8 @@ Biserica mai conține și numeroase artefacte religioase, inclusiv un catapeteas
 
 Biserica Stavropoleos este o destinație populară pentru turiștii care vizitează Bucureștiul, deoarece oferă o perspectivă asupra culturii și istoriei bogate a orașului.
 
+[Biserica Stavropoleos - vezi un articol complet](https://totredus.ro/travel/biserica-stavropoleos/)
+
 ---
 ## Palatul Primăverii
 
