@@ -14,7 +14,7 @@
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
 <meta property="og:type" content="{% if page.topic %}{{ page.topic}}{% else %}article{% endif %}"/>
 <meta property="og:title" content="{{ page.title }}" />
-<meta property="og:image" content="{% if page.meta_image %}{{ site.url }}/{{ page.meta_image }}{% else %}{{ site.baseurl }}/assets/images/meta-image.jpg {% endif %}"/>
+<meta property="og:image" content="{% if page.meta_image %}{{ site.url }}/{{ page.meta_image }}{% elsif page.image_path %}{{site.url}}/assets/images/{{page.image_path}}{% endif %}"/>
  
 {% include criticalcss.html %}
 
