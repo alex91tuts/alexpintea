@@ -1,5 +1,5 @@
 ---
-title: Epilator Philips Lumea Seria 9000 Pareri | Review 
+title: Epilator IPL Philips Lumea Seria 9000 Pareri | Review 
 image_path: lumea/women.webp
 meta_image: assets/images/reviews/lumea/women.webp
 layout: review
