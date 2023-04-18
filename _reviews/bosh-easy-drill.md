@@ -141,17 +141,20 @@ După ce am analizat și părerile altor utilizatori, am observat că majoritate
 ---
 ### Recenzii pozitive:
 
+<div class="pareri-poz" markdown="1">
 **Ana**: _"Am cumpărat Bosch EasyDrill 1200 pentru a realiza diverse proiecte casnice și sunt foarte mulțumită de performanța sa. Este ușor de manevrat și suficient de puternic pentru toate nevoile mele. În plus, încărcarea rapidă a bateriei este un mare avantaj, deoarece nu trebuie să aștept mult timp pentru ca acumulatorul să fie gata de utilizare."_
 
 **Mihai**: _"Bosch EasyDrill 1200 este un instrument excelent pentru bricolaj și proiecte casnice. Îmi place cuplul reglabil, care îmi permite să înșurubez cu precizie în funcție de materialul pe care lucrez. De asemenea, valiza de transport este foarte utilă și facilitează depozitarea și transportul dispozitivului."_
-
+</div>
 
 ---
 ### Recenzii negative:
 
+<div class="pareri-neg" markdown="1">
 **Ion**: _"Deși Bosch EasyDrill 1200 este un instrument bun în general, nu este suficient de puternic pentru a găuri în beton. Am încercat să montez câteva rafturi pe peretele de beton și am avut dificultăți în a realiza găurile necesare. Aș recomanda un model mai puternic pentru astfel de sarcini."_
 
 **Maria:** _"Am achiziționat Bosch EasyDrill 1200 în speranța că va fi suficient pentru proiectele mele casnice, dar am observat că bateria se descarcă destul de repede atunci când lucrez la sarcini mai grele. Deși încărcarea rapidă a bateriei este un avantaj, aș prefera o durată de viață mai mare a bateriei pentru a evita întreruperile frecvente în timpul lucrului."_
+</div>
 
 ---
 

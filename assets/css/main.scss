@@ -10,6 +10,34 @@
 @import "mobile";
 @import "general";
 
+.pareri-neg p {
+	border: dashed 1px #f080805e;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+	position: relative;
+	padding-top: 4px;
+}
+.pareri-neg p::before {
+	content: "★☆☆☆";
+  position: absolute;
+  top: -15px;
+  color: orange;
+}
+.pareri-poz p {
+	border: dashed 1px #30c44c99;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+	padding-top: 4px;
+}
+.pareri-poz p::before {
+	content: "★★★★★";
+  position: absolute;
+  top: -15px;
+  color: orange;
+}
 .stars-full {
 	color: orange;
   font-size: 24px;

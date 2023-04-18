@@ -181,13 +181,19 @@ Dacă, în schimb, aveți nevoie doar de controlul dispozitivelor infraroșu și
 ---
 ## Pareri utilizatori
 
+<div class="pareri-poz" markdown="1">
 Majoritatea utilizatorilor au avut impresii pozitive despre BroadLink RM4 Pro, apreciind designul compact, compatibilitatea extinsă și integrarea cu sistemele smart home. 
 
 În plus, mulți au menționat că aplicația este ușor de folosit și personalizabilă, permițând controlul facil al dispozitivelor.
 
+</div>
+
 ---
 
+<div class="pareri-neg" markdown="1">
 Cu toate acestea, unii utilizatori au raportat probleme cu stabilitatea conexiunii Wi-Fi și au exprimat nemulțumiri în legătură cu lipsa suportului pentru unele protocoale wireless mai vechi. 
+</div>
+
 
 În ciuda acestor aspecte negative, majoritatea utilizatorilor consideră că RM4 Pro este o soluție inteligentă și eficientă pentru controlul dispozitivelor în casă.
 

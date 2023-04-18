@@ -211,6 +211,8 @@ Mulți utilizatori ai Philips Lumea Seria 9000 au avut experiențe pozitive cu d
 ---
 ### Recenzii pozitive:
 
+<div class="pareri-poz" markdown="1">
+	
 **Eficiența în îndepărtarea părului:** Majoritatea utilizatorilor au observat o reducere semnificativă a creșterii părului după câteva ședințe de tratament. Părul a devenit mai subțire, mai puțin vizibil și, în unele cazuri, a încetat să mai crească.
 
 **Ușurința în utilizare:** Utilizatorii au fost impresionați de cât de ușor este de folosit Philips Lumea Seria 9000. Designul ergonomic, accesoriile de precizie și posibilitatea de utilizare cu sau fără fir îl fac extrem de practic și confortabil în timpul tratamentului.
@@ -219,9 +221,12 @@ Mulți utilizatori ai Philips Lumea Seria 9000 au avut experiențe pozitive cu d
 
 **Economisirea timpului și banilor:** Unii utilizatori au menționat că Philips Lumea Seria 9000 le-a ajutat să economisească timp și bani, eliminând nevoia de a merge la saloanele de epilare și de a cheltui pe tratamente profesionale sau produse de epilare temporară.
 
+</div>
 
 ---
 ### Recenzii negative:
+
+<div class="pareri-neg" markdown="1">
 
 **Prețul ridicat:** Unul dintre cele mai frecvente aspecte negative menționate de utilizatori a fost prețul dispozitivului, care este destul de ridicat în comparație cu alte opțiuni de epilare de pe piață.
 
@@ -230,6 +235,8 @@ Mulți utilizatori ai Philips Lumea Seria 9000 au avut experiențe pozitive cu d
 **Timpul necesar pentru a obține rezultate:** Unii utilizatori au observat că este nevoie de mai multe ședințe de tratament pentru a obține rezultate vizibile. Acest lucru poate fi frustrant pentru cei care așteaptă rezultate rapide.
 
 **Ineficient pentru anumite tipuri de păr sau piele:** Deși Philips Lumea Seria 9000 funcționează bine pentru majoritatea utilizatorilor, unii au remarcat că dispozitivul nu a fost la fel de eficient pentru anumite tipuri de piele sau păr. În special, persoanele cu pielea foarte închisă la culoare sau părul foarte deschis pot constata că rezultatele sunt mai puțin impresionante.
+
+</div>
 
 ---
 

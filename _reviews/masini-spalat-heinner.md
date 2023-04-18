@@ -4,7 +4,7 @@ image_path: masinispheinner/main.webp
 meta_image: assets/images/reviews/masinispheinner/main.webp
 layout: review
 date: 2023-03-04
-categorie-review: MASINI DE SPALAT
+categorie-review: ELECTROCASNICE
 tags: ['heinner', 'masina de spalat', '2023']
 nume: Heinner
 scoreb: no

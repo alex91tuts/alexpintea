@@ -4,7 +4,7 @@ image_path: stiri/kinetice/main.webp
 layout: stiri
 date: 2023-03-13
 date-modified: 
-categorie: SMART HOME
+categorie: SMARTHOME
 tags: ['Smart', 'Kinetic', '2023']
 nume: întrerupător kinetic
 author: "Home Best"

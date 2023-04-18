@@ -4,7 +4,7 @@ image_path: stiri/simt/main.webp
 layout: stiri
 date: 2023-03-06
 date-modified: 
-categorie: CURIOZITATI
+categorie: ELECTROCASNICE
 tags: ['Electrocasnice', 'Tehnologii', '2023']
 nume: ce este al saselea simt la electrocasnice
 author: "Tech Consumer"
