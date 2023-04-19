@@ -3,7 +3,7 @@ layout: travel
 title: "Ce sa faci in Bucuresti in weekend"
 descriere: Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul, iar capitala este o opțiune excelentă.  
 description: Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul, iar capitala este o opțiune excelentă. 
-meta_image: assets/images/travel/bucuresti/main.webp 
+meta_image: assets/images/travel/weekendbuc/main.webp 
 image: /assets/images/travel/weekendbuc/main.webp
 author: "Cultural Nomad"
 tara: ROMÂNIA
