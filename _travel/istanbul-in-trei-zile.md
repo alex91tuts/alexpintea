@@ -5,7 +5,7 @@ descriere: În Istanbul 3 zile poți vizita cele mai importante atractii turisti
 description: În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.   
 meta_image: assets/images/travel/citybreak/istanbul/main.webp 
 image: /assets/images/travel/citybreak/istanbul/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: TURCIA
 oras: ISTANBUL
 categorie: CITY BREAK

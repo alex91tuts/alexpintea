@@ -33,6 +33,9 @@ collections:
   calculator:
     output: true     
     permalink: /calculator/:path/
+  autor:
+    output: true     
+    permalink: /autor/:path/
 
 exclude: ['node_modules']
 

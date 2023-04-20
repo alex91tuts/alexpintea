@@ -1,0 +1,540 @@
+---
+layout: default
+name: Pagina de autor
+---
+
+
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
+    
+<div class="container">
+<div class="row">
+  <div class="row-lg-4 stic">  	
+		<div class="card-container">
+			<span class="pro">TRAVEL</span>
+			<img class="round" src="/assets/images/fabrica.jpg" alt="profil fabrica cu amintiri" />
+			<h3>FABRICA CU AMINTIRI</h3>
+			<h4>Bucuresti</h6>
+	
+			<a href="https://www.youtube.com/@FabricaDeAmintiri"><img class="icon-so" src="/assets/images/svg/youtube.svg" alt="youtube icon-son" width="30" height="20" target="_blank"></a>
+			<a href="https://www.facebook.com/fabricadeamintiri02"><img class="icon-so" src="/assets/images/svg/facebook.svg" alt="youtube icon" width="30" height="20" target="_blank"></a>
+			<a href="https://www.instagram.com/fabricadeamintiri_insta/"><img class="icon-so" src="/assets/images/svg/instagram.svg" alt="youtube icon" width="30" height="20" target="_blank"></a>
+			<br>
+			
+			<div class="skills">
+				<h6>Locații</h6>
+				<ul>
+					<li>DUBAI</li>
+					<li>ROMANIA</li>
+					<li>MALDIVE</li>
+					<li>BUDAPESTA</li>
+					<li>ITALIA</li>
+					<li>GRECIA</li>
+					<li>SARDINIA</li>
+					<li>CATAMARAN</li>
+					<li>CINQUE TERRE</li>
+					<li>TURCIA</li>
+					<li>CIPRU</li>
+				</ul>
+			</div>
+		</div>
+ </div>
+	
+	<div class="col-lg-8">
+		<div class="article-post special">	
+    {{content}}
+    </div>
+	</div>
+	
+ </div>		  
+</div> 
+       
+</section>
+
+<style>
+
+	.p-desc {
+		font-weight: 600;
+	}
+* {
+	box-sizing: border-box;
+}
+
+	.icon-so {
+		width: 70px;
+	}
+
+h3 {
+	margin: 10px 0;
+}
+
+h6 {
+	margin: 5px 0;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.card-container {
+	background-color: #231E39;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
+	color: #B3B8CD;
+	padding-top: 30px;
+	position: sticky;
+	width: 350px;
+	max-width: 100%;
+	text-align: center;
+	margin-bottom: 30px;
+	top: 27px;
+}
+
+.card-container .pro {
+	color: #231E39;
+	background-color: #FEBB0B;
+	border-radius: 3px;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 3px 7px;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+
+.card-container .round {
+	border: 1px solid #03BFCB;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+button.primary {
+	background-color: #03BFCB;
+	border: 1px solid #03BFCB;
+	border-radius: 3px;
+	color: #231E39;
+	font-family: Montserrat, sans-serif;
+	font-weight: 500;
+	padding: 10px 25px;
+}
+
+button.primary.ghost {
+	background-color: transparent;
+	color: #02899C;
+}
+
+.skills {
+	background-color: #1F1A36;
+	text-align: left;
+	padding: 15px;
+	margin-top: 30px;
+}
+
+.skills ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.skills ul li {
+	border: 1px solid #2D2747;
+	border-radius: 2px;
+	display: inline-block;
+	font-size: 12px;
+	margin: 0 7px 7px 0;
+	padding: 7px;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer i {
+    color: red;
+}
+
+footer a {
+    color: #3c97bf;
+    text-decoration: none;
+}
+	
+
+	@media (max-width: 570px) {
+	.cat-small {
+		margin-left: 0;
+	}
+	.card-wrapper {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#outputReview {
+    padding-left: 0;
+		padding-right: 0;
+	}
+}
+	#outputReview {
+		margin-left: 0;
+		margin-right: 0;
+		padding-left: 0;
+	}
+	.reviews-wrapper {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.scor-scris {
+		color: white;
+		font-size: 14px;
+    font-weight: 600;
+    margin-left: 10px;
+	}
+	.layer1 {
+		color: lightgray;
+	}
+	.layer2 {
+		color: yellow;
+		position: absolute;
+    left: 0px;
+    overflow: hidden;
+	}
+	.rev-card-col {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.rev-card {
+		border: solid 1px whitesmoke;
+		border-radius: 3px;
+	}
+	.rev-title {
+		padding: 10px;
+	}
+	.rev-title h3 {
+		color: black;
+    font-size: 14px;
+    line-height: 1.5;
+    height: 44px;
+    overflow: hidden;
+	}
+	.rev-title a {
+		background: red;
+	}	
+	.box-pos {
+		background: black;
+		box-shadow: 0 0 10px 1px lightgray;
+		border-radius: 3px;
+	}
+	#categorie-selectata:after {
+		content: url('/assets/images/svg/cons.svg'); /* FontAwesome Unicode */
+		margin-left: 10px;
+		margin-top: 2px;
+	}
+	.cat-small {
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	.small-scor {
+		position: absolute;
+    top: 7px;
+    right: 7px;
+    border: solid;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    border-radius: 50px;
+    font-weight: 800;
+    background: white;
+	}
+	
+	
+	
+	.card-test {
+	background: #000;
+  overflow: hidden;
+  box-shadow: 0 5px 10px rgba(0,0,0, 0.5);
+  padding: 0;
+	}
+
+.card-test .poster {
+  position: relative;
+  overflow: hidden;
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+}
+
+.card-test .poster:before {
+  content: "";
+  position: absolute ;
+ 	bottom: -130px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(0deg,#000 50%, transparent);
+  transition: 0.5s;
+  z-index: 1;
+}
+
+.card-test:hover .poster:before {
+  bottom: 0;
+}
+
+.card-test .poster img {
+  width: 100%;
+  transition: 0.5s;
+}
+
+.card-test:hover .poster img {
+  filter: blur(2px);
+  transform: translateY(-30px);
+}
+
+.details {
+  position: absolute;
+  padding: 20px;
+  width: 100%;
+  height: 74%;
+  bottom: -133px;
+  left: 0;
+  box-sizing: border-box;
+  transition: 0.5s;
+  z-index: 2;
+}
+
+.card-test:hover .details {
+  bottom: 0;
+}
+
+.details h2 {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+	height: 73px;
+  overflow: hidden;
+}
+
+.rating-stars {
+ position: relative;
+ display: inline-block;
+}
+
+.rating .fa {
+  color: #f7f406;
+  margin-right: 2px;
+  font-size: 16px;
+}
+
+.rating span {
+  color: #fff;
+  padding: 0 5px;
+}
+
+.tags {
+  position: relative;
+  margin-top: 2px;
+}
+
+.tags span {
+  padding: 0 5px;
+  margin-right: 2px;
+	margin-left: 2px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tags span.fantasy {
+  background: black;
+}
+
+
+.info {
+  color: #fff;
+}
+
+.info p {
+  margin: 15px, 0, 10px;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 400;
+	margin-bottom: 3px;
+	height: 79px;
+  overflow: hidden;
+}
+
+.star {
+  position: relative;
+}
+
+.star h4 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  color: #f7f406
+}
+
+.star ul {
+  margin: 10px 0 0;
+  padding: 0;
+  display: flex;
+}
+
+.star ul li {
+  list-style: none;
+  width: 45px;
+  height: 45px;
+  background: #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 6px;
+  border: 2px solid #fff;
+}
+
+.star ul li img {
+  width: 100%;
+}
+	.author-small {
+	font-size: 14px;
+  color: #ff9800;
+	font-weight: 800;
+	}
+	.tags .bottom-tag {
+		color: black;
+	}
+	.bottom-tag {
+		background: white;
+    font-size: 11px;
+    font-weight: 500;
+	}
+	.read-more {
+		float: right;
+    background: goldenrod;
+    color: white !important;
+    font-size: 14px;
+    padding: 4px 21px;
+		font-weight: 800;
+	}
+	.read-more:hover i {
+		animation: pulse 1s ease-out infinite alternate;
+	}
+	@keyframes pulse {
+  0% {
+    transform: translateX(0px);
+  }
+	33% {
+    transform: translateX(3px);
+  }
+	66% {
+    transform: translateX(6px);
+  }
+  100% {
+    transform: translateX(3px);
+  }
+}
+	.card-wrapper {
+		padding-bottom: 15px;
+		padding-left: 0;
+	}
+		.categ {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+		color: white;
+		font-weight: 500;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+		margin-top: 5px;
+		font-size: 13px;
+	}
+	.author-thumb {
+		width: 50px;
+    height: 50px;
+    float: right;
+    background-size: 81%;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    box-shadow: 0 0 8px lightgrey;
+    border: solid #41dcab;
+    position: relative;
+    bottom: 7px;
+    background-position: center;
+	}
+	.for-style {
+		border: 1px solid #dddddd7d;
+    box-shadow: 0 0 20px #F0F0F0;
+		border-radius: 4px;
+	}
+	.card-wrapper {
+		padding-left: 10px;
+		padding-bottom: 20px;
+	}
+	.for-style:hover {
+		box-shadow: 0 0 0 0 white;
+		transition: all 0.5s;
+	}
+	.imagine-post {
+		height: 215px;
+		background-size: cover;
+		background-repeat: no-repeat;
+		border-top-left-radius: 3px;
+		border-top-right-radius: 3px;
+		background-position: center;
+	}
+	.imagine-post a:hover {
+		text-decoration: none;
+	}
+	.footer-post {
+		padding: 15px;
+	}
+	.footer-post hr {
+		margin-top: 0;
+	}
+	.footer-post h4 {
+		font-size: 18px;
+		font-weight: 700;
+    overflow: hidden;
+		margin-top: 0;
+		height: 46px;
+		margin-bottom: 3px;
+	}
+	
+	.footer-post p {
+		margin-bottom: 10px;
+		height: 44px;
+		overflow: hidden;
+		line-height: 1.7;
+    font-size: 13px;
+		font-style: italic;
+	}
+	.footer-post button {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+    text-decoration: none;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+		border: none;
+		color: white;
+		border-radius: 3px;
+		text-transform: uppercase;
+		padding: 7px 16px;
+		font-weight: 600;
+	}
+	.footer-post button:hover {
+		box-shadow: none;
+	}
+
+</style>

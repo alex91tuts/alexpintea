@@ -5,7 +5,7 @@ descriere: Pasajul Macca-Vilacrosse este un loc emblematic în București, care 
 description: Pasajul Macca-Vilacrosse este un loc emblematic în București, care oferă o fereastră spre atmosfera vibrantă și istoria bogată a orașului.. 
 meta_image: assets/images/travel/macca/main.webp 
 image: /assets/images/travel/macca/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

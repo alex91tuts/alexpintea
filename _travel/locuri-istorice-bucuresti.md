@@ -5,7 +5,7 @@ descriere: Descoperă Casa Melik din București, o bijuterie arhitecturală în 
 description: Descoperă Casa Melik din București, o bijuterie arhitecturală în stil neoromânesc, ce găzduiește Muzeul Theodor Pallady și oferă o incursiune în istoria și cultura românească. Vizitează și trăiește o experiență culturală inedită!
 meta_image: assets/images/travel/locuriistorice/main.webp 
 image: /assets/images/travel/locuriistorice/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

@@ -5,7 +5,7 @@ descriere: Canionul Bicazului este o minune naturală uluitoare, cu chei  adânc
 description: Canionul Bicazului este o minune naturală uluitoare, cu chei  adânci, cascadele maiestuoase și viața sălbatică vibrantă. 
 meta_image: assets/images/travel/cheilebicazului/main.webp 
 image: /assets/images/travel/cheilebicazului/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BICAZ
 lang: ro_RO

@@ -5,7 +5,7 @@ descriere: În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano
 description: În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele.   
 meta_image: assets/images/travel/citybreak/Milano/main.webp 
 image: /assets/images/travel/citybreak/Milano/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ITALIA
 oras: MILANO
 categorie: CITY BREAK

@@ -5,7 +5,7 @@ descriere: Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora
 description: Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul, iar capitala este o opțiune excelentă. 
 meta_image: assets/images/travel/melik/main.webp 
 image: /assets/images/travel/melik/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

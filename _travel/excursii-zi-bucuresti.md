@@ -5,7 +5,7 @@ descriere: "În București, într-o singură zi in București poți vizita cele 
 description: "În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc."
 meta_image: assets/images/travel/ozi/main.webp 
 image: /assets/images/travel/ozi/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

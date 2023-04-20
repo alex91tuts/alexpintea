@@ -5,7 +5,7 @@ descriere: Descoperă 10 idei inedite și captivante pentru a petrece duminica �
 description:
 meta_image: assets/images/travel/duminica/main.webp 
 image: /assets/images/travel/duminica/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

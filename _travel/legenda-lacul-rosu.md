@@ -5,7 +5,7 @@ descriere: Lacul Roșu, o minune a naturii și una dintre cele mai frumoase atra
 description: Lacul Roșu, o minune a naturii și una dintre cele mai frumoase atracții din romania este sursa mai multor legende spectaculoase.   
 meta_image: assets/images/travel/legende/main.webp 
 image: /assets/images/travel/legende/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: HARGHITA
 lang: ro_RO

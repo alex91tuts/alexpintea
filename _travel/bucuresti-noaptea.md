@@ -5,7 +5,7 @@ descriere: Descoperă Bucureștiul de noapte, un oraș vibrant și plin de energ
 description: Descoperă Bucureștiul de noapte, un oraș vibrant și plin de energie, explorând atracțiile sale, cluburile, parcurile și evenimentele culturale care îi dau viață după lăsarea întunericului. 
 meta_image: assets/images/travel/noaptea/main.webp 
 image: /assets/images/travel/noaptea/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

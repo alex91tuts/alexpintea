@@ -5,7 +5,7 @@ descriere: Descoperiți Palatul Parlamentului din București, o capodoperă arhi
 description: Descoperiți Palatul Parlamentului din București, o capodoperă arhitectonică și istorică, într-un articol de blog detaliat care explorează istoria, designul și controversele legate de această clădire emblematică. 
 meta_image: assets/images/travel/melik/main.webp 
 image: /assets/images/travel/palatulparl/palatul.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

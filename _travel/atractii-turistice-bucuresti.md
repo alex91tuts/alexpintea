@@ -5,7 +5,7 @@ descriere: De la străzile pline de viață până la situri istorice uluitoare 
 description: De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș plin de viață. 
 meta_image: assets/images/travel/bucuresti/main.webp 
 image: /assets/images/travel/bucuresti/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

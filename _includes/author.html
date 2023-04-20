@@ -1,77 +1,145 @@
-<div class="row author-box">
-	<div class="col-2 img-author">	<img src="/assets/images/reviews/author.png"><a href="#"><span>DETALII</span></a></div>
-	<div class="col-10 detail-author">
-		<span class="author-name">TotRedus</span>
-		<p class="author-bio">Administratorul, editorul și dezvoltatorul platformei TotRedus.ro</p>
-	</div>
-</div>
+<div class="card">
+    <div class="img">
+      <img src="/assets/images/fabrica.webp" alt="poza profil fabrica cu amintiri" width="100" height="100">
+    </div>
+    <div class="infos">
+      <div class="name">
+				<h2>FABRICA DE AMINTIRI</h2>
+        <a href="https://www.youtube.com/@FabricaDeAmintiri"><h3><img class="ico" src="/assets/images/svg/youtube.svg" alt="youtube icon" width="30" height="20" target="_blank">@FabricaDeAmintiri</h3></a>
+				
+      </div>
+      <p class="text">
+        👫 Salutare! Noi suntem Damian și Simina, un cuplu de îndrăgostiți, îndrăgostit de călătorii. 😜
+				
+      </p>
+      <div class="links">
+        <a href="{{ site.url }}/autor/fabrica-de-amintiri/"><button class="view">PROFIL</button></a>
+      </div>
+    </div>
+  </div>
 
 <style>
-	.author-box {
-		border-radius: 3px;
-	  box-shadow: 0 0 10px 0 #0e0e0e33;
-		background-image: url('/assets/images/reviews/author-background.jpg');
-		background-size: cover;
-		margin-bottom: 15px;
+	/* Utilities */
+.card::after,
+.card img {
+  border-radius: 50%;
+}
+.card,
+.stats {
+  display: flex;
+}
+
+.ico {
+	width: 30px !important;	
+	min-width: auto !important;
 	}
-	.img-author {
-		padding: 0;
-    border-radius: 5px;
-  	}
-	.img-author span {
-		position: absolute;
-    left: 0;
-    bottom: 0;
-    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
-    background: linear-gradient(to right,#ff8a00,#da1b60);
-    width: 100%;
-    text-align: center;
-		color: white;
-		font-weight: 600;
-		transition: all 1s;
+.card {
+  padding: 2.5rem 2rem;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, .5);
+  box-shadow: 0 0 30px rgba(0, 0, 0, .15);
+  margin: 1rem;
+  position: relative;
+  transform-style: preserve-3d;
+  overflow: hidden;
+}
+.card::before,
+.card::after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+}
+.card::before {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #FFF;
+  border-radius: 10px;
+  top: -.7rem;
+  left: -.7rem;
+}
+.card::after {
+  height: 15rem;
+  width: 15rem;
+  background-color: #4172f5aa;
+  top: -8rem;
+  right: -8rem;
+  box-shadow: 2rem 6rem 0 -3rem #FFF
+}
+
+.card img {
+  width: 8rem;
+  min-width: 80px;
+  box-shadow: 0 0 0 5px #FFF;
+}
+
+.infos {
+  margin-left: 1.5rem;
+}
+
+.name {
+  margin-bottom: 1rem;
+}
+.name h2 {
+  font-size: 1.3rem;
+}
+	.name h2::after {
+		display: none;
 	}
-	.img-author span:hover {
-	 letter-spacing: 2px;
-		font-weight: 900;
-		transition: all 1s;
-		transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
-	}
-	.img-author img {
-		border-radius: 3px 0 0 3px;
-	}
-	.author-bio {
-		margin: 0 !important;
-		padding: 0;
-	}
-	.author-name {
-		margin: 0;
-		display: block;
-		font-size: 26px;
-    font-weight: 800;		
-	}
-	
-	
-	
-	@media (max-width: 574px) {
-		.img-author span {
-		font-size: 12px;
-    font-weight: 500;
-		}
-		.author-box {
-			height: 77px;
-    	overflow: hidden;
-		}
-		.author-name {
-		font-size: 15px;		
-	 }
-		.author-bio {
-		font-size: 10px;
-			line-height: 1.6;
-			padding: 0;
-			
-	 }
-		.img-author {
-			max-height: 77px;
-		}
-	}
+.name h4 {
+  font-size: .8rem;
+  color: #333
+}
+
+.text {
+  font-size: .9rem;
+  margin-bottom: 1rem;
+}
+
+.stats {
+  margin-bottom: 1rem;
+}
+.stats li {
+  min-width: 5rem;
+}
+.stats li h3 {
+  font-size: .99rem;
+}
+.stats li h4 {
+  font-size: .75rem;
+}
+
+.links button {
+  font-family: 'Poppins', sans-serif;
+  min-width: 120px;
+  padding: .5rem;
+  border: 1px solid #222;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all .25s linear;
+}
+.links .follow,
+.links .view:hover {
+  background-color: #222;
+  color: #FFF;
+}
+.links .view,
+.links .follow:hover{
+  background-color: transparent;
+  color: #222;
+}
+
+@media screen and (max-width: 450px) {
+  .card {
+    display: block;
+  }
+  .infos {
+    margin-left: 0;
+    margin-top: 1.5rem;
+  }
+  .links button {
+    min-width: 100px;
+  }
+}
+
 </style>

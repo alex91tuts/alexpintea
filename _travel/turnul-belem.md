@@ -5,7 +5,7 @@ descriere: Turnul Belem este o atracție turistică populară din Lisabona și e
 description: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝ 
 meta_image: assets/images/travel/bucuresti/main.webp 
 image: /assets/images/travel/belem/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: PORTUGALIA
 oras: LISABONA
 lang: ro_RO

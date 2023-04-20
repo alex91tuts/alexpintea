@@ -5,7 +5,7 @@ descriere: Situată la poalele munților Carpați, comuna Hoghiz oferă vizitato
 description: Situată la poalele munților Carpați, comuna Hoghiz oferă vizitatorilor săi o experiență unică, prin mixul dintre natură și tradiții.   
 meta_image: assets/images/travel/hoghiz/main.webp 
 image: /assets/images/travel/hoghiz/main.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BRAȘOV
 lang: ro_RO

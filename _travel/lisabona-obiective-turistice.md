@@ -5,7 +5,7 @@ descriere: În Lisabona se pot vizita numeroase obiective turistice fascinante p
 description: În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului.
 meta_image: assets/images/travel/lisabona/obiective-lisabona-featured.webp 
 image: /assets/images/travel/lisabona/obiective-lisabona-featured.webp
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: PORTUGALIA
 oras: LISABONA
 lang: ro_RO

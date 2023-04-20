@@ -5,7 +5,7 @@ descriere: Cu arhitectura sa unică și impresionantă, biserica Stavropoleos re
 description: Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o oază de liniște și spiritualitate în mijlocul agitației urbane. 
 meta_image: assets/images/travel/stavropoleos/stavropoleos.webp 
 image: /assets/images/travel/stavropoleos/stavropoleos.webp 
-author: "Cultural Nomad"
+author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
