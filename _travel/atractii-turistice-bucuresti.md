@@ -103,6 +103,12 @@ Palatul are, de asemenea, o piscină înconjurată de grădini luxuriante pline 
 
 Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României sub comunism, oferind totuși vizitatorilor o privire interesantă asupra vieții unuia dintre cei mai infami lideri ai săi.
 
+{% include youtube.html 
+link="https://www.youtube.com/embed/02JjC1LCP5g"
+image="/assets/images/travel/bucuresti/video_primaverii.webp"
+alt="AM INTRAT ÎN CASA CEAUȘESCU ȘI ÎN BAIA LUI DE AUR"
+%}
+
 ---
 ## Casa Melik - Muzeul Theodor Pallady
 
@@ -119,7 +125,7 @@ Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cu
 [Casa Melik - vezi un articol complet](https://totredus.ro/travel/casa-melik/)
 
 ---
-## Descoperiți comori ale culturii Române la Casa Memorială Anton Pann
+## Comori ale culturii Române la Casa Memorială Anton Pann
 
 <img src="/assets/images/travel/bucuresti/pann.webp" width="740" height="485" alt="{{ page.keyword }};">
 
@@ -136,6 +142,32 @@ Clădirea în sine este destul de simplă, dar în interior vei găsi o colecți
 Există fotografii, manuscrise, instrumente muzicale folosite de Anton Pann în timpul vieții sale, precum și diverse suveniruri, cum ar fi medalii care i-au fost prezentate de diverși monarhi europeni de-a lungul carierei sale.
 
 Pe lângă faptul că pot explora artefactele fascinante aflate aici, vizitatorii pot viziona și scurtmetraje despre viața și lucrările lui Anton Pann la teatrul din interiorul casei sau pot participa la ateliere concepute pentru copiii care doresc să afle mai multe despre viața acestui artist incredibil.
+
+---
+## Ultima linie de apărare a Bucureștiului
+
+{% include youtube.html 
+link="https://www.youtube.com/embed/UfuMUZ8EiJ8"
+image="/assets/images/travel/bucuresti/video_ultima.webp"
+alt="ULTIMA LINIE DE APĂRARE BUCUREȘTIULUI ÎN CAZUL UNEI INVAZII"
+%}
+
+"Ultima linie de aparare a Bucureștiului" se referă la o serie de fortificații și structuri defensive concepute pentru a proteja capitala în caz de atac.
+
+De-a lungul istoriei, Bucureștiul a avut diverse sisteme de apărare, dar cea mai cunoscută este probabil sistemul de fortificații construit în perioada Regatului României (1866-1947). 
+
+Acest sistem era format dintr-un inel de forturi și baterii de artilerie amplasate în jurul capitalei, cunoscut sub numele de Fortăreața București. 
+
+Aceste fortificații au fost construite în mare parte la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, pentru a proteja Bucureștiul de eventualele invazii străine.
+
+În timpul celui de-al Doilea Război Mondial, Bucureștiul a fost bombardat și ocupat de forțele Axei, iar fortificațiile nu au fost capabile să oprească invazia. 
+
+După război, în timpul regimului comunist, s-au realizat alte lucrări de apărare și s-au dezvoltat planuri pentru a proteja Bucureștiul în cazul unui atac.
+
+În prezent, România este membră a NATO, iar apărarea Bucureștiului depinde în mare măsură de cooperarea și sprijinul strategic al aliaților. 
+
+Apariția rachetelor balistice și a altor tehnologii avansate de război a făcut ca sistemul tradițional de fortificații să fie în mare parte învechit, dar unele elemente ale sistemului de apărare pot fi încă observate în jurul capitalei.
+
 
 ---
 ## Parcuri și grădini de vizitat în București
