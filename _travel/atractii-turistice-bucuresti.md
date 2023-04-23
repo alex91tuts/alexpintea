@@ -14,7 +14,12 @@ keyword: locuri de vizitat in bucuresti
 date: 21.03.2023
 date-modified:
 tags: ['București', 'capitale', 'atractii']
-video: "no"
+video: "yes"
+video_thumb: "/assets/images/travel/bucuresti/video_primaverii.webp"
+video_name: "Locuri de vizitat in București - Palatul Primăverii"
+video_description: "Printre cele mai interesante locuri de vizitat în București regăsim Palatul Primăverii sau Casa Ceaușescu. Această clădire este un exemplu uimitor de arhitectură modernistă situat în capitală. Construită la mijlocul anilor 1960 de dictatorul de atunci al României Nicolae Ceaușescu, ea stă ca o mărturie a puterii și opulenței Partidului Comunist Român"
+video_update: "2023-04-20"
+video_url: "https://www.youtube.com/embed/02JjC1LCP5g"
 
 ---
 
