@@ -14,6 +14,7 @@ keyword: locuri de vizitat in bucuresti
 date: 21.03.2023
 date-modified:
 tags: ['București', 'capitale', 'atractii']
+video: "no"
 
 ---
 
@@ -31,8 +32,6 @@ Ce să vizitezi?
 {% include cta-cazare.html %}
 
 Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar un [weekend](https://totredus.ro/travel/bucuresti-in-weekend/) în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o **[viață de noapte](https://totredus.ro/travel/bucuresti-noaptea/)** vibrantă în capitala României. 
-
-Desigur, chiar dacă ai o singuă zi la dispoziție, poți alege cu ușurință o serie de obiective pe care să le vizitezi 
 
 Chiar dacă ai la dispoziție doar [o singură zi](https://totredus.ro/travel/excursii-zi-bucuresti/), tot poți explora unele dintre cele mai frumoase atracții turistice din București. O opțiune este să vizitezi centrul istoric al orașului, care găzduiește unele dintre cele mai importante clădiri și monumente ale Bucureștiului, cum ar fi Palatul Parlamentului, Catedrala Patriarhală, Muzeul Național de Istorie a României sau Biserica Stavropoleos.
 
@@ -118,11 +117,8 @@ Palatul are, de asemenea, o piscină înconjurată de grădini luxuriante pline 
 
 Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României sub comunism, oferind totuși vizitatorilor o privire interesantă asupra vieții unuia dintre cei mai infami lideri ai săi.
 
-{% include youtube.html 
-link="https://www.youtube.com/embed/02JjC1LCP5g"
-image="/assets/images/travel/bucuresti/video_primaverii.webp"
-alt="AM INTRAT ÎN CASA CEAUȘESCU ȘI ÎN BAIA LUI DE AUR"
-%}
+<iframe width="740" height="416" src="https://www.youtube.com/embed/02JjC1LCP5g" title="AM INTRAT ÎN CASA CEAUȘESCU ȘI ÎN BAIA LUI DE AUR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
 ---
 ## Casa Melik - Muzeul Theodor Pallady
