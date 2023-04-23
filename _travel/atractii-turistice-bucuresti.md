@@ -122,8 +122,11 @@ Palatul are, de asemenea, o piscină înconjurată de grădini luxuriante pline 
 
 Astăzi, Palatul Primăverii servește ca o reamintire a trecutului României sub comunism, oferind totuși vizitatorilor o privire interesantă asupra vieții unuia dintre cei mai infami lideri ai săi.
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/02JjC1LCP5g" title="AM INTRAT ÎN CASA CEAUȘESCU ȘI ÎN BAIA LUI DE AUR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+{% include youtube.html 
+link="https://www.youtube.com/embed/02JjC1LCP5g"
+image="/assets/images/travel/bucuresti/video_primaverii.webp"
+alt="Locuri de vizitat in București - Palatul Primăverii"
+%}
 
 ---
 ## Casa Melik - Muzeul Theodor Pallady
