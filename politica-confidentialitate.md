@@ -4,6 +4,7 @@ layout: post
 title: Politica de confidentialitate
 image: /assets/images/politica-confidentialitate.jpg
 robots: YES
+sitemap: "yes"
 
 ---
 

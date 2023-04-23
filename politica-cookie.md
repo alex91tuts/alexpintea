@@ -4,6 +4,7 @@ layout: post
 title: Politica de utilizare cookie
 image: /assets/images/cookie-policy.jpg
 robots: YES
+sitemap: "yes"
 
 ---
 
