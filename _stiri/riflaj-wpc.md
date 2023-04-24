@@ -15,9 +15,6 @@ description: Descoperă avantajele și aplicațiile riflajelor din WPC, un mater
 
 ---
 
->Știați că?  WPC-ul a fost inventat în anii '90 în Japonia, ca o soluție pentru reciclarea deșeurilor din lemn și plastic. Prin combinarea acestor materiale, a fost creat un produs durabil și eco-friendly, care s-a răspândit rapid în întreaga lume, fiind utilizat într-o varietate de aplicații, de la mobilier și decorațiuni interioare, până la terase și garduri..
-
-
 Riflajele din WPC sunt o soluție modernă și durabilă pentru amenajările exterioare și interioare, oferind o alternativă eco-friendly la riflajele tradiționale din lemn sau aluminiu.
 
 Cu o serie de avantaje și o durată de viață mai lungă decât cea a lemnului, riflajele din WPC sunt o alegere populară pentru designeri, arhitecți și proprietari de case. 

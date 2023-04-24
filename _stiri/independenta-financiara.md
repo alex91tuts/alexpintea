@@ -29,7 +29,7 @@ Da, se poate să devii independent financiar! Cum poți ajunge acolo? Iată paș
 
 6. Pregătește-te pentru neprevăzut: Ai un fond de urgență, să nu te ia prin surprindere dacă ai nevoie brusc de bani.
 
-7. Investește în tine: Învață noi abilități, dezvoltă-ți pasiunile și fă cursuri care te pot ajuta să avansezi în carieră.
+7. Investește în tine: Învață noi abilități, dezvoltă-ți pasiunile și fă cursuri care te pot ajuta să avansezi în carieră. De asemenea, investește și in [educația copiilor tăi](https://totredus.ro/).
 
 8. Automatizează economiile: Configurează plăți automate pentru contul de economii și investiții, ca să nu uiți să pui bani deoparte.
 
@@ -98,7 +98,7 @@ Așadar, investitorule, nu te lăsa descurajat și continuă să îți urmăreș
 ---
 ## Bugetarea sau bugetul personal
 
-<span class="drop-caps">S</span>Salutare, investitorule! Ai oare dificultăți în a-ți gestiona banii și cheltuielile? Ei bine, nu ești singurul, dar cu un buget personal poți lua controlul asupra finanțelor tale și evita cheltuielile costisitoare.
+<span class="drop-caps">S</span>Salutare, investitorule! Ai oare dificultăți în a-ți gestiona banii și cheltuielile? Ei bine, nu ești singurul, dar cu un [buget personal](https://totredus.ro/stiri/bugetul-personal/) poți lua controlul asupra finanțelor tale și evita cheltuielile costisitoare.
 
 Un buget personal este practic un plan care îți arată câți bani primești, cât trebuie să cheltuiești și unde ar trebui să meargă restul.
 
