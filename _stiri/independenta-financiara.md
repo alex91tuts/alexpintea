@@ -29,7 +29,7 @@ Da, se poate să devii independent financiar! Cum poți ajunge acolo? Iată paș
 
 6. Pregătește-te pentru neprevăzut: Ai un fond de urgență, să nu te ia prin surprindere dacă ai nevoie brusc de bani.
 
-7. Investește în tine: Învață noi abilități, dezvoltă-ți pasiunile și fă cursuri care te pot ajuta să avansezi în carieră. De asemenea, investește și in [educația copiilor tăi](https://totredus.ro/).
+7. Investește în tine: Învață noi abilități, dezvoltă-ți pasiunile și fă cursuri care te pot ajuta să avansezi în carieră. 
 
 8. Automatizează economiile: Configurează plăți automate pentru contul de economii și investiții, ca să nu uiți să pui bani deoparte.
 
@@ -72,6 +72,8 @@ Dar ce înseamnă mai exact să fii independent financiar? În principiu, însea
 
 În felul acesta, poți să trăiești confortabil fără să depinzi de munca pentru altcineva.
 
+Vezi și: **[Educație financiară pentru copiii tăi.](https://totredus.ro/stiri/educatie-financiara-copii/)**.
+
 Cum ajungi acolo? Primul pas este să îți faci un buget și să știi exact unde se duc banii tăi. Astfel, poți lua decizii mai bune și mai inteligente cu banii tăi. 
 
 De asemenea, ar trebui să îți creezi un fond de urgență pentru situațiile neprevăzute.
@@ -98,7 +100,7 @@ Așadar, investitorule, nu te lăsa descurajat și continuă să îți urmăreș
 ---
 ## Bugetarea sau bugetul personal
 
-<span class="drop-caps">S</span>Salutare, investitorule! Ai oare dificultăți în a-ți gestiona banii și cheltuielile? Ei bine, nu ești singurul, dar cu un [buget personal](https://totredus.ro/stiri/bugetul-personal/) poți lua controlul asupra finanțelor tale și evita cheltuielile costisitoare.
+<span class="drop-caps">S</span>Salutare, investitorule! Ai oare dificultăți în a-ți gestiona banii și cheltuielile? Ei bine, nu ești singurul, dar cu un **[buget personal](https://totredus.ro/stiri/bugetul-personal/)** poți lua controlul asupra finanțelor tale și evita cheltuielile costisitoare.
 
 Un buget personal este practic un plan care îți arată câți bani primești, cât trebuie să cheltuiești și unde ar trebui să meargă restul.
 
@@ -132,7 +134,7 @@ De aceea, este crucial să ne amintim cât de important este contextul personal 
 
 Și pentru că ai ajuns aici, haide să discutăm despre bugetul personal și cum anumite cunoștințe financiare pot face diferența dintre a te simți în control sau a te simți pierdut. 
 
-Să-ți prezint un instrument care poate fi un adevărat ajutor - Fondul de Urgență Personal.
+Să-ți prezint un instrument care poate fi un adevărat ajutor - **[Fondul de Urgență Personal](https://totredus.ro/stiri/fondul-de-urgenta/)**.
 
 Acest fond este un prieten de nădejde care te poate ajuta să îți gestionezi bugetul personal, oferindu-ți flexibilitatea necesară pentru a face față cheltuielilor neprevăzute.
 
@@ -282,7 +284,7 @@ Cu o cercetare atentă atât a istoricului managerului de fond, cât și a tipur
 
 <span class="drop-caps">I</span>nvestiția în ETF-uri (Exchange Traded Funds) a devenit din ce în ce mai populară în ultimii ani, deoarece investitorii au început să recunoască potențialele beneficii ale diversificării portofoliilor cu o varietate de active. 
 
-ETF-urile sunt fonduri de investiții care urmăresc coșuri de valori mobiliare, cum ar fi acțiuni, obligațiuni, mărfuri și valute.
+[ETF-urile](https://totredus.ro/stiri/ce-este-un-etf/) sunt fonduri de investiții care urmăresc coșuri de valori mobiliare, cum ar fi acțiuni, obligațiuni, mărfuri și valute.
 
 Ei tranzacționează pe bursele de valori, cum ar fi acțiunile și pot oferi investitorilor acces la o gamă largă de piețe la un cost mai mic decât cumpărarea de titluri individuale.
 
