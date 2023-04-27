@@ -3,6 +3,7 @@ title: "Înțelegerea ratei totale de costuri: Ce trebuie să știți despre tax
 image_path: stiri/ter/main.webp
 layout: stiri
 date: 2023-02-28
+date-modified: 
 categorie: FINANCIAR
 tags: ['TER', 'BUGET', 'INVESTITII']
 nume: total expense ratio

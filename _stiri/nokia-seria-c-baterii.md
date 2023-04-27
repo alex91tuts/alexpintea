@@ -3,6 +3,7 @@ title: Noile modele Nokia C22 si C32 - 3 zile de baterie
 image_path: stiri/nokiac22c32/main.webp
 layout: stiri
 date: 2022-02-24
+date-modified: 
 categorie: STIRI
 tags: ['Nokia', 'C22', 'C32']
 nume: Nokia C22 si C32

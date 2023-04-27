@@ -3,6 +3,7 @@ title: Galaxy s10 Lite, Galaxy Note 10 Lite Pareri | Specificatii | Culori
 image_path: stiri/s10lite-note10lite/main.webp
 layout: stiri
 date: 2020-01-04
+date-modified: 
 categorie: STIRI
 tags: ['S10 Lite', 'Samsung', 'Note Lite']
 nume: Galaxy S10 Lite

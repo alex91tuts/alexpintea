@@ -10,12 +10,10 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif page.date %}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {% if page.date-modified %}
+        <lastmod>{{ page.date-modified }}</lastmod>
       {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ page.date }}</lastmod>
       {% endif %}
       {% if page.sitemap.priority %}
         <priority>{{ page.sitemap.priority }}</priority>
@@ -28,12 +26,10 @@ sitemap:
 	{% for review in site.reviews %}
     <url>
       <loc>{{ site.url }}{{ review.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif review.date %}
-        <lastmod>{{ review.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% if page.date-modified %}
+        <lastmod>{{ page.date-modified | date: "%Y-%m-%d" }}</lastmod>
+      {% else  %}
+        <lastmod>{{ review.date | date: "%Y-%m-%d" }}</lastmod>
       {% endif %}
       {% if page.sitemap.priority %}
         <priority>{{ page.sitemap.priority }}</priority>
@@ -45,12 +41,10 @@ sitemap:
 	{% for blog in site.stiri %}
     <url>
       <loc>{{ site.url }}{{ blog.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif blog.date %}
-        <lastmod>{{ blog.date | date_to_xmlschema }}</lastmod>
+      {% if blog.date-modified %}
+        <lastmod>{{ blog.date-modified | date: "%Y-%m-%d" }}</lastmod>
       {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ blog.date | date: "%Y-%m-%d" }}</lastmod>
       {% endif %}
       {% if page.sitemap.priority %}
         <priority>{{ page.sitemap.priority }}</priority>
@@ -62,12 +56,10 @@ sitemap:
 	{% for trip in site.travel %}
     <url>
       <loc>{{ site.url }}{{ trip.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif blog.date %}
-        <lastmod>{{ travel.date | date_to_xmlschema }}</lastmod>
+      {% if trip.date-modified %}
+        <lastmod>{{ trip.date-modified | date: "%Y-%m-%d" }}</lastmod>
       {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ trip.date | date: "%Y-%m-%d" }}</lastmod>
       {% endif %}
       {% if page.sitemap.priority %}
         <priority>{{ page.sitemap.priority }}</priority>

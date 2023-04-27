@@ -5,6 +5,7 @@ title: Politica de confidentialitate
 image: /assets/images/politica-confidentialitate.jpg
 robots: YES
 sitemap: "yes"
+date: 2023-04-20
 
 ---
 

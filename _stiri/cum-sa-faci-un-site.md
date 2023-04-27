@@ -10,7 +10,8 @@ lang: ro_RO
 tags: ['website', 'blog', 'online']
 keyword: cum sa faci un site
 date: 2023-01-19
-nume: Cum sa faci un site
+date-modified: 
+nume: "Cum sa faci un site"
 
 ---
 

@@ -3,6 +3,7 @@ title: Independența financiară | Ce inseamnă? | Calculator
 image_path: stiri/independentafinanciara/main.webp
 layout: stiri
 date: 2023-02-28
+date-modified: 2023-04-27
 categorie: FINANCIAR
 tags: ['FIRE', 'BUGET', 'INVESTITII']
 nume: Independenta financiara
