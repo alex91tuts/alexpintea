@@ -194,7 +194,7 @@ Acestea îți oferă stabilitate, diversificare și acces la oportunități prof
 
 <span class="drop-caps">A</span>tunci când investești trebuie să-ți diversifici portofoliul și să obții o rentabilitate mai mare a banilor tăi iar investiția în acțiuni poate fi o opțiune bună pentru tine.
 
-Înainte să intri pe bursă, este important să înțelegi câteva elemente de bază ale investiției în acțiuni și cum funcționează acestea. Astfel, poți să iei decizii înțelepte și să minimizezi riscurile investiției tale.
+Înainte să intri pe bursă, este important să înțelegi câteva elemente de bază ale investiției în **[acțiuni](https://totredus.ro/stiri/ce-sunt-actiunile/)** și cum funcționează acestea. Astfel, poți să iei decizii înțelepte și să minimizezi riscurile investiției tale.
 
 Investiția în acțiuni înseamnă cumpărarea de acțiuni ale companiilor tranzacționate public pe burse de valori, cum ar fi Bursa de Valori București. 
 

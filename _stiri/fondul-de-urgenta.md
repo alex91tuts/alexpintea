@@ -101,7 +101,7 @@ Cu toate acestea, o regulă generală este să ai un fond de urgență suficient
 
 Acesta te-ar putea proteja în cazul unor evenimente neașteptate, precum pierderea locului de muncă sau probleme de sănătate care necesită cheltuieli semnificative.
 
-Vezi si: [independența financiară, ce este si cum se atinge]((https://totredus.ro/stiri/independenta-financiara/) 
+Vezi si: **[independența financiară, ce este? si cum se poate obține?](https://totredus.ro/stiri/independenta-financiara/)** 
 
 Pentru a stabili dimensiunea potrivită a fondului tău de urgență, urmează acești pași:
 
@@ -147,13 +147,13 @@ Totuși, cu planificare și disciplină, poți construi un fond de urgență sol
 
 	Acestea pot include un loc de muncă part-time, freelancing, închirierea unei camere din locuința ta sau vânzarea obiectelor pe care nu le mai folosești.
 
-Vezi aici:[ cum să faci bani online chiar dacă deții abilități speciale](https://totredus.ro/stiri/castiga-bani-fiverr-romania/)
-
 6. **Urmărește progresul**: Monitorizează regular progresul către obiectivul tău de fond de urgență și ajustează strategiile de economisire, dacă este necesar. 
 
 	Urmărirea progresului te poate ajuta să te menții responsabil(ă) și să te asiguri că rămâi pe drumul cel bun.
 
 Construirea unui fond de urgență poate necesita timp și efort, dar beneficiile pe termen lung, precum siguranța financiară și liniștea sufletească, merită efortul.
+
+Vezi aici:**[ cum să faci bani online chiar dacă nu deții abilități speciale](https://totredus.ro/stiri/castiga-bani-fiverr-romania/)**
 
 Prin urmărirea acestor pași și adaptarea strategiilor de economisire la situația ta financiară unică, vei putea să îți construiești un fond de urgență solid.
 

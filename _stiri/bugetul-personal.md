@@ -45,7 +45,7 @@ colors: ['red', 'green', 'blue', 'orange']
 
 Gestionarea eficientă a finanțelor personale este esențială pentru a trăi o viață echilibrată și fără stres. 
 
-Un buget personal bine structurat te poate ajuta să controlezi veniturile și cheltuielile, să atingi [obiectivele financiare](https://totredus.ro/stiri/independenta-financiara/) și să îți dezvolți abilități de economisire și investiție. 
+Un buget personal bine structurat te poate ajuta să controlezi veniturile și cheltuielile, să-ți atingi **[obiectivele financiare](https://totredus.ro/stiri/independenta-financiara/)** și să îți dezvolți abilități de economisire și investiție. 
 
 În acest articol, îți vom arăta cum să-ți creezi propriul buget personal și să-ți gestionezi finanțele într-un mod care să te susțină pe termen lung. 
 
