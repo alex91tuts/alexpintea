@@ -3,7 +3,7 @@ title: "Fondul de Urgență: Siguranța ta Financiară în Situații Neprevăzut
 image_path: stiri/urgenta/fond.webp
 layout: stiri
 date: 2023-04-24
-date-modified: 2023-27-04
+date-modified: 2023-04-27
 categorie: FINANCIAR
 tags: ['FOND', 'URGENTA', 'FINANTE']
 nume: "fondul de urgenta"
