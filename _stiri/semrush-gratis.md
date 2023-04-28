@@ -39,7 +39,7 @@ SEMrush este utilizat de profesioniștii din domeniul SEO, al marketingului de c
 	
 4. **După logare îți va apărea pagina de ofertă unde va trebui să adaugi datele cardului.** 
 
-	În dreapta, în cadranul sumar al plății vei vedea că în mod normal valoarea unei luni de abonament este de 142,74 $ însă astăzi vei beneficia de costuri zero. **Today's charge: 0.00$".
+	În dreapta, în cadranul sumar al plății vei vedea că în mod normal valoarea unei luni de abonament este de 142,74 $ însă astăzi vei beneficia de costuri zero. **Today's charge: 0.00$"**.
 	
 	<img src="/assets/images/stiri/semrush/gratis.webp" width="740" height="364" alt="{{ page.nume }}">
 	
