@@ -1,86 +1,72 @@
 ---
 
-layout: post
-title: magazine
+layout: page
+title: RECENZII MAGAZINE
 
 ---
 
  <div class="spacer feature20 up">
     <div class="container">
-        <!-- Row  -->
-        
-        <!-- Row  -->
-        <div class="row wrap-feature-20">
-			<!-- Column -->
-			<div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
+
+      <div class="row wrap-feature-20">
+			{% for post in site.posts %}
+			<!-- Magazin -->
+			<div class="col-lg-6 col-12">
                 <div class="card">
                     <div class="row">
-                        <div class="col-md-8">
+                        <div class="col-8">
                             <div class="card-body d-flex no-block" style="justify-content: space-between;">
-                                <div class="m-r-20"><img src="/assets/images/logo_fashiondays.png" height="50" class="rounded" /></div>
+                                <div class="m-r-20"><img src="{{ post.logo }}" height="50" class="rounded" /></div>
                                 <div>
-                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">fashiondays.ro</h5>
+                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">{{post.adresa}}</h5>
 									
 								</div>
                             </div>
                         </div>
-                        <div class="col-md-4 text-center">
-                            <a href="https://l.profitshare.ro/l/5549049" class="text-white linking bg-success-gradiant">MERGI <i class="ti-arrow-right"></i></a>
+                        <div class="col-4 text-center d-flex">
+                            <a href="{{ post.url }}" class="text-white">CITEȘTE »</a>
                         </div>
                     </div>
                 </div>
             </div>
-			<!-- Column -->
-			<!-- Column -->
-			<div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
-                <div class="card">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="card-body d-flex no-block" style="justify-content: space-between;">
-                                <div class="m-r-20"><img src="/assets/images/logo-emag.png" height="50" class="rounded" /></div>
-                                <div>
-                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">emag.ro</h5>
-									
-								</div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <a href="https://l.profitshare.ro/l/5532987" class="text-white linking bg-success-gradiant">MERGI <i class="ti-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-			<!-- Column -->
-            <!-- Column -->
-			{% assign afiliati = site.data.afiliati.programs %}
-			{% for afiliat in afiliati %}
-            <div class="col-lg-6" data-aos="flip-left" data-aos-duration="1200">
-                <div class="card">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="card-body d-flex no-block" style="justify-content: space-between;">
-                                <div class="m-r-20"><img src="{{ afiliat.logo_path }}" height="50" class="rounded" /></div>
-                                <div>
-                                    <h5 class="font-medium" style="line-height: 46px; font-weight: 900">{{ afiliat.name }}</h5>
-									
-								</div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <a href="{{ afiliat.main_url }}" class="text-white linking bg-success-gradiant">MERGI <i class="ti-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-			{% endfor %}
-            <!-- Column -->
-			
-    
+				{% endfor %}
+		   	<!-- Magazin -->
         </div>
         <!-- Row  -->
     </div>
 </div>
 
-<script src="https://cdn.2performant.com/l2/link2.js" id="linkTwoPerformant" data-id="l2/0/0/9/2/8/7/0/9/1/2" data-api-host="https://cdn.2performant.com"></script>
+<style>
 
-<script src="{{ site.baseurl }}/assets/js/type.js" async></script>
+	.spacer {
+		padding: 0;
+	}
+.card-body {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+		padding-left: 5px;
+}
+
+.text-center {
+		justify-content: center;
+    align-items: center;
+	}
+.text-white {
+    background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+    text-decoration: none;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    border: none;
+    color: white;
+    border-radius: 3px;
+    text-transform: uppercase;
+    padding: 7px 16px;
+    font-weight: 600;
+		text-align: center;
+}
+</style>
+
+
