@@ -4,7 +4,7 @@ image_path: stiri/dca/main.webp
 layout: stiri
 date: 2023-02-28
 date-modified: 
-categorie: FINANCIAR
+categorie: "FINANCIAR"
 tags: ['DCA', 'BUGET', 'INVESTITII']
 nume: dollar cost average
 author: "Happy Money"

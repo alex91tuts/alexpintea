@@ -1,7 +1,8 @@
 ---
 
-layout: page
+layout: calculator
 title: CALCULATOR PLĂȚI ANTICIPATE CU SCĂDEREA PERIOADEI
+categorie: "FINANCIAR"
 
 ---
 
@@ -35,6 +36,26 @@ title: CALCULATOR PLĂȚI ANTICIPATE CU SCĂDEREA PERIOADEI
     </table>
   </div>
 </div>
+
+---
+## Cum funcționează?
+
+Acest calculator de plăți anticipate vă ajută să înțelegeți impactul plăților suplimentare lunare asupra duratei împrumutului și a costurilor totale cu dobânda. 
+
+Calculatorul folosește următoarea metodologie pentru a estima efectul plăților suplimentare:
+
+1. Utilizatorul introduce soldul curent al împrumutului, rata dobânzii anuale, rata lunară curentă și plățile suplimentare pe care dorește să le efectueze în fiecare lună.
+
+2. Calculatorul estimează soldul rămas, plățile totale și dobânda totală plătită pentru fiecare lună, luând în considerare plățile suplimentare.
+
+3. În timpul fiecărei luni, dobânda este calculată pentru soldul rămas și adăugată la sold, în timp ce plățile curente și suplimentare sunt deduse din sold.
+
+4. Acest proces se repetă pentru fiecare lună până când soldul rămas al împrumutului ajunge la zero.
+
+5. Rezultatele sunt prezentate într-un tabel care arată evoluția soldului rămas, a plăților totale și a dobânzii totale plătite pe parcursul perioadei de împrumut.
+
+Calculatorul de plăți anticipate vă oferă o imagine clară a modului în care plățile suplimentare pot reduce durata împrumutului și costurile totale cu dobânda. Acesta vă permite să vedeți economiile potențiale și să luați decizii informate despre gestionarea datoriilor și a finanțelor personale.
+
 
 <style>
 	@media only screen and (max-width: 600px) {

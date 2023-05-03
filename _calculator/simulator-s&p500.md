@@ -1,55 +1,78 @@
 ---
 
-layout: page
+layout: calculator
 title: "CALCULATOR INVESTIȚIE ISTORICĂ S&P 500"
 date: 2023-04-27
+categorie: "FINANCIAR"
 
 ---
 
 <form id="investment-form">
-		<label for="startYear">Anul de început (1983):</label>
-		<input type="number" id="startYear" name="startYear" min="1983" required>
-
-		<label for="endYear">Anul de sfârșit:</label>
-		<input type="number" id="endYear" name="endYear" min="1983" required>
-
-		<label for="initialInvestment">Investiție inițială:</label>
-		<input type="number" id="initialInvestment" name="initialInvestment" min="0" step="0.01" required>
-
-		<label for="monthlyContribution">Contribuție lunară:</label>
-		<input type="number" id="monthlyContribution" name="monthlyContribution" min="0" step="0.01">
-
-		<button type="submit">Calculează</button>
-</form>
-<div id="results" style="display:none;">
-		<h2>Rezultate</h2>
-		<p class="rez">Valoarea finală a investiției: <span id="finalValue">0</span><span>   RON</span></p>
+        <label for="startYear">Anul de începere:</label>
+        <select id="startYear" name="startYear">
+            <!-- Anii vor fi generati din JavaScript -->
+        </select>
+        <label for="endYear">Anul de încheiere:</label>
+        <select id="endYear" name="endYear">
+            <!-- Anii vor fi generati din JavaScript -->
+        </select>
+        <label for="initialValue">Valoarea inițială a investiției:</label>
+        <input type="number" id="initialValue" name="initialValue" value="0" step="1">
+        <label for="monthlyContribution">Contribuția lunară:</label>
+        <input type="number" id="monthlyContribution" name="monthlyContribution" value="0" step="1">
+        <label for="annualIncrease">Creștere anuală a sumei investite (%):</label>
+        <input type="number" id="annualIncrease" name="annualIncrease" value="0" step="0.01">
+        <button type="submit">Calculează</button>
+   </form>
+ <div id="results" style="display: none;">
+		<p>Valoarea finală a investiției: <span id="finalValue">0</span></p>
+	  <p>Valoarea totală a sumei investite: <span id="totalInvested">0</span></p>
 		<canvas id="chart"></canvas>
 </div>
 
 <div markdown="1" style="margin-top: 60px;">
+
 ---
 ## Cum funcționează?
 
-Acest calculator este un instrument util conceput pentru a simula performanța investițiilor în indicele S&P 500 pe baza datelor istorice.
+Acest calculator vă permite să simulați o investiție istorică în S&P 500, un indice care urmărește performanța celor mai mari 500 de companii listate pe bursele din Statele Unite. Calculatorul ia în considerare randamentele anuale ale S&P 500, începând cu anul 1983 și până în prezent, pentru a estima evoluția unei investiții pe parcursul timpului.
 
-Este destinat celor interesați de investiții pe termen lung și poate ajuta utilizatorii să estimeze valoarea finală a investiției lor, ținând cont de contribuțiile lunare și de randamentele anuale ale S&P 500.
+**Pentru a utiliza acest calculator, urmați pașii de mai jos:**
 
-**Caracteristicile calculatorului includ:**
-	
-**Un formular de intrare care permite utilizatorilor să introducă următoarele valori:**
-- Anul de începere al investiției, 
-- Anul de încheiere al investiției, 
-- Valoarea inițială a investiției, 
-- Contribuția lunară
+1. Selectați anul de început al investiției din lista derulantă "Anul de început".
+2. Selectați anul de sfârșit al investiției din lista derulantă "Anul de sfârșit".
+3. Introduceți valoarea inițială a investiției în câmpul "Valoare inițială".
+4. Introduceți contribuția lunară "Contribuție lunară".
+5. Introduceți procentul anual cu care doriți să crească suma investită în câmpul "Creștere anuală a sumei investite (%)".
 
-**O secțiune de rezultate care afișează valoarea finală a investiției utilizând datele introduse de utilizator și randamentele anuale ale S&P 500.**
+După ce completați aceste câmpuri, apăsați butonul "Calculează" pentru a vedea rezultatele. 
 
-**Un grafic interactiv care ilustrează evoluția valorii investiției de-a lungul perioadei de timp specificate. Acesta vă ajută să vizualizați performanța investiției în timp.**
+Valoarea finală a investiției și valoarea totală a sumei investite vor fi afișate sub formular, iar un grafic cu evoluția investiției de-a lungul anilor va fi generat.
 
-Acest calculator este destinat să ofere o estimare a performanței investițiilor pe baza datelor istorice și nu trebuie considerat ca o garanție a performanței viitoare.
+Valoarea finală a investiției reprezintă suma totală pe care ați acumulat-o în urma investiției, în timp ce valoarea totală a sumei investite reprezintă suma totală pe care ați investit-o de-a lungul anilor, având în vedere creșterea anuală a sumei investite. 
 
-Cu toate acestea, poate servi ca un punct de plecare util pentru planificarea investițiilor pe termen lung și pentru a înțelege mai bine riscurile și recompensele asociate cu investițiile în S&P 500.
+Acest calculator vă poate ajuta să înțelegeți beneficiile investițiilor pe termen lung și să vă planificați strategia de investiții.
+
+---
+## Cum calculează?
+
+Acest calculator estimează valoarea finală a investiției și valoarea totală a sumei investite folosind următoarea metodologie:
+
+1. Începe cu valoarea inițială a investiției și adaugă contribuția lunară înmulțită cu 12 (pentru a obține contribuția anuală).
+
+2. Aplică randamentul anual al S&P 500 pentru anul respectiv la valoarea investiției, care este înmulțită cu (1 + randamentul anual).
+
+3. Adaugă contribuția anuală la valoarea investiției după aplicarea randamentului.
+
+4. Ajustează contribuția lunară (și, implicit, contribuția anuală) în funcție de procentul anual de creștere a sumei investite.
+
+5. Repetă pașii 2-4 pentru fiecare an între anul de început și anul de sfârșit al investiției.
+
+Rezultatul final este prezentat sub formă de valoare totală a investiției și valoare totală a sumei investite. Graficul generat prezintă evoluția acestor două valori pe parcursul anilor selectați. 
+
+Acest proces ajută la ilustrarea impactului randamentelor anuale și al contribuțiilor regulate asupra creșterii investiției pe termen lung.
+
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -59,7 +82,10 @@ body {
     max-width: 800px;
     margin: 0 auto;
 }
-
+	#results  {
+		margin-top: 20px;
+		font-weight: bold;
+		}
 	.rez {
 		font-size: larger;
 		font-weight: bold;
@@ -77,6 +103,14 @@ input {
     color: #6a6464;
     font-weight: bold;		
 	}
+select {
+		border: solid 1px lightgray;
+    border-radius: 5px;
+    padding: 5px;
+    color: #6a6464;
+    font-weight: bold;
+		font-size: large;
+}
 label {
     font-weight: bold;
 }
@@ -98,7 +132,7 @@ button {
 </style>
 
 <script>
-
+// Randamentele anuale ale S&P 500
 const sp500Returns = {
     1983: 0.2213,
     1984: 0.0613,
@@ -139,76 +173,108 @@ const sp500Returns = {
     2019: 0.3149,
     2020: 0.1844,
 		2021: 0.2689,
-		2022: -0.1944,
-		2023: 0.5640
+		2022: -0.1944
 };
+
+document.addEventListener("DOMContentLoaded", function () {
+    // Generarea anilor în dropdown-uri
+    const startYearSelect = document.getElementById("startYear");
+    const endYearSelect = document.getElementById("endYear");
+
+    for (let year = 1983; year <= 2022; year++) {
+        const option = document.createElement("option");
+        option.value = year;
+        option.text = year;
+        startYearSelect.add(option);
+
+        const endOption = document.createElement("option");
+        endOption.value = year;
+        endOption.text = year;
+        endYearSelect.add(endOption);
+    }
+});
+
 
 document.getElementById("investment-form").addEventListener("submit", function (event) {
     event.preventDefault();
 
     const startYear = parseInt(document.getElementById("startYear").value);
     const endYear = parseInt(document.getElementById("endYear").value);
-    const initialInvestment = parseFloat(document.getElementById("initialInvestment").value);
-    const monthlyContribution = parseFloat(document.getElementById("monthlyContribution").value);
-		
-    let investmentValue = initialInvestment;
-    const yearlyValues = [{ year: startYear, value: investmentValue, annualReturn: 0 }];
+    let investmentValue = parseFloat(document.getElementById("initialValue").value);
+    let monthlyContribution = parseFloat(document.getElementById("monthlyContribution").value);
+    const annualIncrease = parseFloat(document.getElementById("annualIncrease").value) / 100;
 
+    const yearlyValues = [{ year: startYear, value: investmentValue }];
+
+    let totalInvested = investmentValue;
     for (let year = startYear; year < endYear; year++) {
-        const annualReturn = sp500Returns[year];
+        const annualReturn = sp500Returns[year]; // Folosiți anul în sine ca și cheie
 
         investmentValue *= (1 + annualReturn);
         investmentValue += (monthlyContribution * 12);
+        totalInvested += (monthlyContribution * 12);
+        // Creșterea anuală a sumei investite
+        monthlyContribution *= (1 + annualIncrease);
 
-        yearlyValues.push({ year: year + 1, value: investmentValue, annualReturn: annualReturn });
+        yearlyValues.push({ year: year + 1, value: investmentValue });
     }
 
-     document.getElementById("finalValue").textContent = Math.floor(investmentValue).toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+    document.getElementById("finalValue").textContent = Math.floor(investmentValue).toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+    document.getElementById("totalInvested").textContent = Math.floor(totalInvested).toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
     document.getElementById("results").style.display = "block";
 
-    // Generarea graficului
-    const chartData = {
-        labels: yearlyValues.map(yv => yv.year),
-        datasets: [
-            {
-                label: 'Valoarea investiției',
-                data: yearlyValues.map(yv => yv.value),
-                yAxisID: 'y1',
-                borderColor: 'rgb(75, 192, 192)',
-                backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                borderWidth: 4
-            }
-        ]
-    };
+    // Crearea graficului
+    const ctx = document.getElementById("chart").getContext("2d");
+    if (window.myChart) {
+        window.myChart.destroy();
+    }
 
-    const chartConfig = {
-        type: 'line',
-        data: chartData,
+    window.myChart = new Chart(ctx, {
+        type: "line",
+        data: {
+            labels: yearlyValues.map(item => item.year),
+            datasets: [
+                {
+                    label: "Valoarea totală a investiției",
+                    data: yearlyValues.map(item => item.value),
+                    borderColor: "rgba(75, 192, 192, 1)",
+                    backgroundColor: "rgba(75, 192, 192, 0.2)",
+                    fill: false,
+                },
+                {
+                    label: "Valoarea totală a sumei investite",
+                    data: yearlyValues.map((item, index) => {
+                        if (index === 0) {
+                            return parseFloat(document.getElementById("initialValue").value);
+                        }
+                        let investedValueForYear = parseFloat(document.getElementById("initialValue").value) + monthlyContribution * 12 * index;
+                        investedValueForYear /= (1 + annualIncrease) ** index;
+                        return investedValueForYear;
+                    }),
+                    borderColor: "rgba(255, 99, 132, 1)",
+                    backgroundColor: "rgba(255, 99, 132, 0.2)",
+                    fill: false,
+                }
+            ],
+        },
         options: {
+            responsive: true,
             scales: {
-                y1: {
-                    type: 'linear',
-                    display: true,
-                    position: 'left',
+                x: {
                     title: {
-                        text: 'Valoarea investiției',
-                        display: true
+                        display: true,
+                        text: "Ani"
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: "Valoare"
                     }
                 }
-            },
-            plugins: {
-                legend: {
-                    display: true,
-                    position: 'top'
-                }
             }
-        }
-    };
-
-    const ctx = document.getElementById('chart').getContext('2d');
-    const myChart = new Chart(ctx, chartConfig);
+        },
+    });
 });
-
-
 
 </script>
