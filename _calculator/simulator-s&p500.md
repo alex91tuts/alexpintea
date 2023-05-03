@@ -207,12 +207,15 @@ document.getElementById("investment-form").addEventListener("submit", function (
     const yearlyValues = [{ year: startYear, value: investmentValue }];
 
     let totalInvested = investmentValue;
+    let contributions = [];
     for (let year = startYear; year < endYear; year++) {
         const annualReturn = sp500Returns[year]; // Folosiți anul în sine ca și cheie
 
         investmentValue *= (1 + annualReturn);
         investmentValue += (monthlyContribution * 12);
         totalInvested += (monthlyContribution * 12);
+        contributions.push(monthlyContribution * 12);
+
         // Creșterea anuală a sumei investite
         monthlyContribution *= (1 + annualIncrease);
 
@@ -247,8 +250,10 @@ document.getElementById("investment-form").addEventListener("submit", function (
                         if (index === 0) {
                             return parseFloat(document.getElementById("initialValue").value);
                         }
-                        let investedValueForYear = parseFloat(document.getElementById("initialValue").value) + monthlyContribution * 12 * index;
-                        investedValueForYear /= (1 + annualIncrease) ** index;
+                        let investedValueForYear = parseFloat(document.getElementById("initialValue").value);
+                        for (let i = 0; i < index; i++) {
+                            investedValueForYear += contributions[i];
+                        }
                         return investedValueForYear;
                     }),
                     borderColor: "rgba(255, 99, 132, 1)",
@@ -260,21 +265,22 @@ document.getElementById("investment-form").addEventListener("submit", function (
         options: {
             responsive: true,
             scales: {
-                x: {
-                    title: {
-                        display: true,
-                        text: "Ani"
-                    }
-                },
-                y: {
-                    title: {
-                        display: true,
-                        text: "Valoare"
-                    }
+               
+            x: {
+                title: {
+                    display: true,
+                    text: "Ani"
+                }
+            },
+            y: {
+                title: {
+                    display: true,
+                    text: "Valoare"
                 }
             }
-        },
-    });
+        }
+    },
+});
 });
 
 </script>
