@@ -1,8 +1,8 @@
 ---
 
 layout: calculator
-title: "CALCULATOR INVESTIȚIE ISTORICĂ S&P 500"
-date: 2023-04-27
+title: "CALCULATOR INVESTIȚIE ISTORICĂ MSCI WORLD"
+date: 2023-05-04
 categorie: "FINANCIAR"
 
 ---
@@ -14,6 +14,7 @@ categorie: "FINANCIAR"
         </select>
         <label for="endYear">Anul de încheiere:</label>
         <select id="endYear" name="endYear">
+				
             <!-- Anii vor fi generati din JavaScript -->
         </select>
 				<br>
@@ -37,82 +38,64 @@ categorie: "FINANCIAR"
 ---
 ## Cum funcționează?
 
-Acest calculator vă permite să simulați o investiție istorică în S&P 500, un indice care urmărește performanța celor mai mari 500 de companii listate pe bursele din Statele Unite. Calculatorul ia în considerare randamentele anuale ale S&P 500, începând cu anul 1983 și până în prezent, pentru a estima evoluția unei investiții pe parcursul timpului.
+Acest calculator de investiții este conceput pentru a estima valoarea unei investiții pe termen lung în MSCI World Index, având în vedere o sumă inițială investită, contribuții lunare, o creștere anuală a sumei investite și perioada de timp în care se fac investițiile. 
+	
+MSCI World Index este un indice bursier care urmărește performanța a peste 1.500 de acțiuni din 23 de țări dezvoltate, oferind o reprezentare largă a pieței globale de acțiuni.
 
-**Pentru a utiliza acest calculator, urmați pașii de mai jos:**
+Funcționare:
 
-1. Selectați anul de început al investiției din lista derulantă "Anul de început".
-2. Selectați anul de sfârșit al investiției din lista derulantă "Anul de sfârșit".
-3. Introduceți valoarea inițială a investiției în câmpul "Valoare inițială".
-4. Introduceți contribuția lunară "Contribuție lunară".
-5. Introduceți procentul anual cu care doriți să crească suma investită în câmpul "Creștere anuală a sumei investite (%)".
+1. Selectați anul de început și anul de sfârșit al perioadei de investiție. Ulterior introducerii anilor calculatorul vă va afișa care este numărul total de ani.
+2. Introduceți suma inițială investită în MSCI World Index.
+3. Introduceți contribuția lunară, care reprezintă suma pe care dorește să o investească în fiecare lună.
+4. Introduceți creșterea anuală a sumei investite, care reprezintă procentul cu care contribuția lunară va crește în fiecare an.
+5. Calculatorul estimează valoarea investiției pe baza datelor istorice de randament al MSCI World Index între anii 1979 și 2022.
+6. Rezultatele sunt afișate într-un grafic și un tabel care prezintă valoarea totală a investiției și valoarea totală a sumei investite de-a lungul anilor.
 
-După ce completați aceste câmpuri, apăsați butonul "Calculează" pentru a vedea rezultatele. 
+Acest calculator este doar un instrument estimativ și nu garantează rezultate exacte sau performanța viitoare a investiției. 
+	
+Performanța trecută a MSCI World Index nu este un indicator al performanței viitoare. Investițiile în acțiuni și pe piața bursieră sunt supuse riscurilor, iar valoarea investiției dvs. poate fluctua în funcție de condițiile pieței. 
+	
+---
+## Despre indicele bursier MSCI WORLD
+	
+Indicele MSCI World este un indice bursier internațional care măsoară performanța pieței de acțiuni din 23 de țări dezvoltate. 
 
-Valoarea finală a investiției și valoarea totală a sumei investite vor fi afișate sub formular, iar un grafic cu evoluția investiției de-a lungul anilor va fi generat.
+Acesta este unul dintre cei mai utilizați indici de piață pentru a evalua performanța globală a piețelor de acțiuni și a fondurilor de investiții. 
 
-Valoarea finală a investiției reprezintă suma totală pe care ați acumulat-o în urma investiției, în timp ce valoarea totală a sumei investite reprezintă suma totală pe care ați investit-o de-a lungul anilor, având în vedere creșterea anuală a sumei investite. 
+Indicele a fost creat de Morgan Stanley Capital International (MSCI) și reprezintă aproximativ 85% din capitalizarea bursieră liberă ajustată a pieței din țările dezvoltate.
 
-Acest calculator vă poate ajuta să înțelegeți beneficiile investițiilor pe termen lung și să vă planificați strategia de investiții.
+Indicele MSCI World include acțiuni din următoarele țări: Australia, Austria, Belgia, Canada, Danemarca, Finlanda, Franța, Germania, Hong Kong, Irlanda, Israel, Italia, Japonia, Norvegia, Noua Zeelandă, Olanda, Portugalia, Singapore, Spania, Suedia, Elveția, Regatul Unit și Statele Unite ale Americii.
+
+Indicele MSCI World este ponderat în funcție de capitalizarea bursieră, ceea ce înseamnă că acțiunile companiilor cu o capitalizare bursieră mai mare au o pondere mai mare în indice. 
+
+Acest lucru înseamnă că performanța acestor companii va avea un impact mai mare asupra valorii indicelui.
+
+Investitorii folosesc adesea MSCI World ca un benchmark pentru a evalua performanța portofoliilor lor, a fondurilor mutuale și a altor instrumente de investiții, deoarece acesta oferă o imagine de ansamblu a pieței globale de acțiuni. 
+
+În plus, există numeroase fonduri de investiții pasive, cum ar fi fondurile de investiții în acțiuni (ETF-uri), care urmăresc să replice performanța indicelui MSCI World, permițând investitorilor să obțină expunere pe piața globală de acțiuni prin intermediul unui singur instrument de investiții.
+
+Este important de menționat că, deși indicele MSCI World oferă o imagine largă a piețelor de acțiuni dezvoltate, nu include piețele emergente, cum ar fi China, India, Brazilia și Rusia. 
+
+Pentru a obține o reprezentare mai cuprinzătoare a piețelor globale de acțiuni, investitorii pot utiliza MSCI All Country World Index (ACWI), care include atât piețele dezvoltate, cât și cele emergente.
 
 ---
-## Despre S&P 500
+## Sectoare de piață și companii
 
-Indicele Standard & Poor's 500 (S&P 500) este un indice bursier larg recunoscut, care reprezintă performanța a 500 dintre cele mai mari companii listate pe bursele din SUA. 
+Indicele MSCI World acoperă o gamă largă de domenii și sectoare economice, incluzând tehnologia, sănătatea, serviciile financiare, industria, energia, bunurile de larg consum, serviciile de comunicații și utilitățile. 
 
-Indicele este ponderat în funcție de capitalizarea bursieră, ceea ce înseamnă că valoarea sa este determinată de prețul acțiunilor companiilor și numărul total de acțiuni disponibile pentru tranzacționare.
+Acest lucru îi permite să reflecte performanța globală a pieței de acțiuni și să ofere o diversificare adecvată investitorilor.
 
-### Importanța S&P 500
+Datorită ponderării în funcție de capitalizarea bursieră, companiile mai mari au un impact mai mare asupra valorii indicelui. În acest momennt, unele dintre cele mai mari companii incluse în MSCI World sunt:
 
-S&P 500 este considerat un indicator important al economiei americane și al pieței bursiere în ansamblu. 
+1. **Apple Inc. (SUA)** - Un gigant tehnologic care produce și vinde o gamă variată de produse electronice și servicii, cum ar fi iPhone, iPad, Mac, Apple Watch, Apple TV și iCloud.
+2. **Microsoft Corporation (SUA)** - O companie tehnologică globală care se concentrează pe dezvoltarea și licențierea de software, dispozitive și servicii în cloud, precum Windows, Office, Azure și LinkedIn.
+3. **Amazon.com Inc. (SUA)** - Un gigant al comerțului electronic și al serviciilor în cloud care oferă o gamă largă de produse și servicii, inclusiv vânzări de bunuri de consum, servicii media digitale și Amazon Web Services (AWS).
+4. **Alphabet Inc. (SUA)** - Compania-mamă a Google, care se ocupă cu activități în domeniul internetului, tehnologiei, inteligenței artificiale și publicității online.
+5. **Facebook Inc. (SUA)** - O companie de tehnologie și servicii de social media, care deține și operează platforme populare precum Facebook, Instagram, WhatsApp și Messenger.
 
-Astfel, el este adesea folosit ca un punct de referință pentru performanța portofoliilor de investiții și a fondurilor mutuale. 
+Este important de menționat că, de-a lungul timpului, ponderarea companiilor și a sectoarelor în cadrul indicelui MSCI World se poate schimba în funcție de evoluția capitalizării bursiere și a pieței. 
 
-Datorită diversificării sale, S&P 500 oferă o reprezentare echilibrată a pieței acțiunilor americane, incluzând companii din toate cele 11 sectoare economice.
-
-### Compoziția și ponderarea
-
-Compoziția S&P 500 este determinată de Comitetul de Indice al Standard & Poor's, care selectează cele 500 de companii în funcție de criterii precum capitalizarea bursieră, lichiditatea, stabilitatea financiară și eligibilitatea sectorială. 
-
-Indicele include companii precum Apple, Microsoft, Amazon și Alphabet (compania mamă a Google).
-
-Ponderarea componentelor S&P 500 se bazează pe capitalizarea bursieră a fiecărei companii, ceea ce înseamnă că performanța acțiunilor companiilor cu o capitalizare bursieră mai mare va avea un impact mai mare asupra valorii totale a indicelui.
-
-Astfel, variațiile de preț ale acțiunilor companiilor de top au o influență semnificativă asupra performanței indicelui.
-
-### Performanța istorică
-
-De-a lungul anilor, S&P 500 a avut o performanță istorică solidă, cu o medie anuală de creștere a capitalului de aproximativ 10% în ultimele decenii. 
-
-Cu toate acestea, este important de menționat că performanța trecută nu garantează rezultate viitoare, iar valoarea indicelui poate fluctua în funcție de condițiile economice și de piață.
-
----
-## Investiții în S&P 500
-
-Investitorii pot avea expunere la S&P 500 prin achiziționarea de acțiuni ale companiilor componente sau prin investiții în fonduri mutuale și fonduri tranzacționate în bursă (ETF-uri) care urmăresc performanța indicelui.
-
-Investițiile în S&P 500 sunt adesea considerate o modalitate bună de a realiza diversificarea portofoliului, deoarece ele oferă expunere la o gamă largă de sectoare și companii.
-
-Înainte de a investi în S&P 500 sau în orice alt instrument financiar, este esențial să vă evaluați obiectivele de investiții, toleranța la risc și orizontul de timp.
-
-De asemenea, este recomandat să vă informați temeinic despre strategiile de investiții și să luați în considerare consultarea unui profesionist în domeniul financiar pentru a vă asigura că luați decizii de investiții înțelepte și informate.
-
-### Factori de risc
-
-Investițiile în S&P 500 prezintă, de asemenea, anumite riscuri, deoarece valoarea indicelui poate fluctua în funcție de condițiile economice și de piață.
-
-Riscurile pot include volatilitatea pieței, schimbările în politica monetară, evoluțiile macroeconomice și alte evenimente globale sau regionale care pot afecta performanța companiilor componente. 
-
-Este important să luați în considerare acești factori de risc înainte de a vă angaja într-o investiție în S&P 500.
-
----
-## Concluzie
-
-În ansamblu, indicele S&P 500 este un instrument valoros pentru investitori, oferind o reprezentare diversificată a pieței americane de acțiuni și servind ca un indicator al performanței economiei SUA. 
-
-Cu toate acestea, este important să vă informați temeinic despre factorii care influențează performanța indicelui și să luați în considerare riscurile asociate înainte de a investi în S&P 500 sau în orice alt instrument financiar.
-
-
+Prin urmare, este esențial ca investitorii să se informeze în mod constant despre cele mai recente actualizări ale indicelui și să analizeze portofoliul lor în consecință pentru a menține o diversificare optimă.
 
 </div>
 
@@ -175,46 +158,50 @@ button {
 <script>
 // Randamentele anuale ale S&P 500
 const sp500Returns = {
-    1983: 0.2213,
-    1984: 0.0613,
-    1985: 0.3168,
-    1986: 0.1862,
-    1987: 0.0521,
-    1988: 0.1652,
-    1989: 0.3164,
-    1990: -0.0321,
-    1991: 0.3048,
-    1992: 0.0775,
-    1993: 0.1003,
-    1994: 0.0121,
-    1995: 0.3725,
-    1996: 0.2268,
-    1997: 0.3336,
-    1998: 0.2845,
-    1999: 0.2090,
-    2000: -0.0910,
-    2001: -0.1189,
-    2002: -0.2211,
-    2003: 0.2864,
-    2004: 0.1088,
-    2005: 0.0496,
-    2006: 0.1593,
-    2007: 0.0543,
-    2008: -0.3670,
-    2009: 0.2647,
-    2010: 0.1506,
-    2011: 0.0203,
-    2012: 0.1603,
-    2013: 0.3231,
-    2014: 0.1374,
-    2015: 0.0138,
-    2016: 0.1196,
-    2017: 0.2183,
-    2018: -0.0624,
-    2019: 0.3149,
-    2020: 0.1844,
-		2021: 0.2689,
-		2022: -0.1944
+    1979: 0.1839,
+    1980: 0.3226,
+    1981: -0.0490,
+    1982: 0.1889,
+    1983: 0.2214,
+    1984: 0.0611,
+    1985: 0.3289,
+    1986: 0.4166,
+    1987: 0.2281,
+    1988: 0.2480,
+    1989: 0.3154,
+    1990: -0.0710,
+    1991: 0.3011,
+    1992: -0.0322,
+    1993: 0.2755,
+    1994: 0.0128,
+    1995: 0.1735,
+    1996: 0.2312,
+    1997: 0.1627,
+    1998: 0.2345,
+    1999: 0.2703,
+    2000: -0.1367,
+    2001: -0.1572,
+    2002: -0.2065,
+    2003: 0.3084,
+    2004: 0.1494,
+    2005: 0.0851,
+    2006: 0.2069,
+    2007: 0.0965,
+    2008: -0.4016,
+    2009: 0.3060,
+    2010: 0.1273,
+    2011: -0.0537,
+    2012: 0.1552,
+    2013: 0.2643,
+    2014: 0.0430,
+    2015: -0.0184,
+    2016: 0.0790,
+    2017: 0.2342,
+    2018: -0.0844,
+    2019: 0.2774,
+    2020: 0.1542,
+		2021: 0.2235,
+		2022: -0.1773
 };
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -222,7 +209,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const startYearSelect = document.getElementById("startYear");
     const endYearSelect = document.getElementById("endYear");
 
-    for (let year = 1983; year <= 2022; year++) {
+    for (let year = 1979; year <= 2022; year++) {
         const option = document.createElement("option");
         option.value = year;
         option.text = year;
