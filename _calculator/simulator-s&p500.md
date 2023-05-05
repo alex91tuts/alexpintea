@@ -37,7 +37,7 @@ categorie: "FINANCIAR"
 ---
 ## Cum funcționează?
 
-Acest calculator vă permite să simulați o investiție istorică în S&P 500, un indice care urmărește performanța celor mai mari 500 de companii listate pe bursele din Statele Unite. Calculatorul ia în considerare randamentele anuale ale S&P 500, începând cu anul 1983 și până în prezent, pentru a estima evoluția unei investiții pe parcursul timpului.
+Acest calculator vă permite să simulați o investiție istorică în S&P 500, un indice care urmărește performanța celor mai mari 500 de companii listate pe bursele din Statele Unite. Calculatorul ia în considerare randamentele anuale ale S&P 500, începând cu anul 1955 și până în prezent, pentru a estima evoluția unei investiții pe parcursul timpului.
 
 **Pentru a utiliza acest calculator, urmați pașii de mai jos:**
 
@@ -175,46 +175,74 @@ button {
 <script>
 // Randamentele anuale ale S&P 500
 const sp500Returns = {
-    1983: 0.2213,
-    1984: 0.0613,
-    1985: 0.3168,
-    1986: 0.1862,
-    1987: 0.0521,
-    1988: 0.1652,
-    1989: 0.3164,
-    1990: -0.0321,
-    1991: 0.3048,
-    1992: 0.0775,
-    1993: 0.1003,
-    1994: 0.0121,
-    1995: 0.3725,
-    1996: 0.2268,
-    1997: 0.3336,
-    1998: 0.2845,
-    1999: 0.2090,
-    2000: -0.0910,
-    2001: -0.1189,
-    2002: -0.2211,
-    2003: 0.2864,
-    2004: 0.1088,
-    2005: 0.0496,
-    2006: 0.1593,
-    2007: 0.0543,
-    2008: -0.3670,
-    2009: 0.2647,
-    2010: 0.1506,
-    2011: 0.0203,
-    2012: 0.1603,
-    2013: 0.3231,
-    2014: 0.1374,
-    2015: 0.0138,
-    2016: 0.1196,
-    2017: 0.2183,
-    2018: -0.0624,
-    2019: 0.3149,
-    2020: 0.1844,
-		2021: 0.2689,
-		2022: -0.1944
+  2022: -0.1944,
+  2021: 0.2689,
+  2020: 0.1626,
+  2019: 0.2888,
+  2018: -0.0624,
+  2017: 0.1942,
+  2016: 0.0954,
+  2015: -0.0073,
+  2014: 0.1139,
+  2013: 0.2960,
+  2012: 0.1341,
+  2011: 0.0000,
+  2010: 0.1278,
+  2009: 0.2345,
+  2008: -0.3849,
+  2007: 0.0353,
+  2006: 0.1362,
+  2005: 0.0300,
+  2004: 0.0899,
+  2003: 0.2638,
+  2002: -0.2337,
+  2001: -0.1304,
+  2000: -0.1014,
+  1999: 0.1953,
+  1998: 0.2667,
+  1997: 0.3101,
+  1996: 0.2026,
+  1995: 0.3411,
+  1994: -0.0154,
+  1993: 0.0706,
+  1992: 0.0446,
+  1991: 0.2631,
+  1990: -0.0656,
+  1989: 0.2725,
+  1988: 0.1240,
+  1987: 0.0203,
+  1986: 0.1462,
+  1985: 0.2633,
+  1984: 0.0140,
+  1983: 0.1727,
+  1982: 0.1476,
+  1981: -0.0973,
+  1980: 0.2577,
+  1979: 0.1231,
+  1978: 0.0106,
+  1977: -0.1150,
+  1976: 0.1915,
+  1975: 0.3155,
+  1974: -0.2972,
+  1973: -0.1737,
+  1972: 0.1563,
+  1971: 0.1079,
+  1970: 0.0010,
+  1969: -0.1136,
+  1968: 0.0766,
+  1967: 0.2009,
+  1966: -0.1309,
+  1965: 0.0906,
+  1964: 0.1297,
+  1963: 0.1889,
+  1962: -0.1181,
+  1961: 0.2313,
+  1960: -0.0297,
+  1959: 0.0848,
+	1958: 0.3086,
+	1957: -0.1431,
+	1956: 0.0262,
+	1955: 0.2640
 };
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -222,7 +250,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const startYearSelect = document.getElementById("startYear");
     const endYearSelect = document.getElementById("endYear");
 
-    for (let year = 1983; year <= 2022; year++) {
+    for (let year = 1955; year <= 2022; year++) {
         const option = document.createElement("option");
         option.value = year;
         option.text = year;
@@ -238,7 +266,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function updateYearsDifference() {
   const startYear = parseInt(document.getElementById("startYear").value);
   const endYear = parseInt(document.getElementById("endYear").value);
-  const yearsDifference = endYear - startYear;
+  const yearsDifference = endYear - startYear + 1;
 
   document.getElementById("yearsDifferenceValue").textContent = yearsDifference;
 }
@@ -259,21 +287,24 @@ document.getElementById("investment-form").addEventListener("submit", function (
     const annualIncrease = parseFloat(document.getElementById("annualIncrease").value) / 100;
 
     const yearlyValues = [{ year: startYear, value: investmentValue }];
-
     let totalInvested = investmentValue;
-    let contributions = [];
-    for (let year = startYear; year < endYear; year++) {
-        const annualReturn = sp500Returns[year]; // Folosiți anul în sine ca și cheie
 
-        investmentValue *= (1 + annualReturn);
-        investmentValue += (monthlyContribution * 12);
-        totalInvested += (monthlyContribution * 12);
-        contributions.push(monthlyContribution * 12);
+    let currentYear = startYear;
+    while (currentYear <= endYear) {
+        const annualReturn = sp500Returns[currentYear];
+        const monthlyReturn = Math.pow(1 + annualReturn, 1 / 12) - 1;
+
+        for (let month = 0; month < 12; month++) {
+            investmentValue *= (1 + monthlyReturn);
+            investmentValue += monthlyContribution;
+            totalInvested += monthlyContribution;
+        }
 
         // Creșterea anuală a sumei investite
         monthlyContribution *= (1 + annualIncrease);
 
-        yearlyValues.push({ year: year + 1, value: investmentValue });
+        yearlyValues.push({ year: currentYear + 1, value: investmentValue });
+        currentYear++;
     }
 
     document.getElementById("finalValue").textContent = Math.floor(investmentValue).toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
@@ -304,11 +335,8 @@ document.getElementById("investment-form").addEventListener("submit", function (
                         if (index === 0) {
                             return parseFloat(document.getElementById("initialValue").value);
                         }
-                        let investedValueForYear = parseFloat(document.getElementById("initialValue").value);
-                        for (let i = 0; i < index; i++) {
-                            investedValueForYear += contributions[i];
-                        }
-                        return investedValueForYear;
+                        const investedValueForYear = parseFloat(document.getElementById("initialValue").value) + monthlyContribution * 12 * index;
+                        return investedValueForYear * (1 + annualIncrease) ** index;
                     }),
                     borderColor: "rgba(255, 99, 132, 1)",
                     backgroundColor: "rgba(255, 99, 132, 0.2)",
@@ -319,22 +347,22 @@ document.getElementById("investment-form").addEventListener("submit", function (
         options: {
             responsive: true,
             scales: {
-               
-            x: {
-                title: {
-                    display: true,
-                    text: "Ani"
-                }
-            },
-            y: {
-                title: {
-                    display: true,
-                    text: "Valoare"
+                x: {
+                    title: {
+                        display: true,
+                        text: "Ani"
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: "Valoare"
+                    }
                 }
             }
-        }
-    },
+        },
+    });
 });
-});
+
 
 </script>
