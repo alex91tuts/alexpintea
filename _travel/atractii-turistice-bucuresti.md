@@ -1,8 +1,8 @@
 ---
 layout: travel
-title: "Locuri de vizitat in Bucuresti | top 20 atractii turistice"
-descriere: De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș plin de viață. 
-description: De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, există nenumărate locuri de vizitat în acest oraș plin de viață. 
+title: "Ce sa faci in Bucuresti | Locuri de vizitat | Top atractii turistice"
+descriere: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi.  
+description: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi. 
 meta_image: assets/images/travel/bucuresti/main.webp 
 image: /assets/images/travel/bucuresti/main.webp
 image_mobile: /assets/images/travel/bucuresti/main_mobile.webp
@@ -10,7 +10,7 @@ author: "Fabrica de amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
-keyword: locuri de vizitat in bucuresti
+keyword: "ce sa faci in bucuresti"
 date: 21.03.2023
 date-modified:
 tags: ['București', 'capitale', 'atractii']
@@ -23,9 +23,9 @@ video_url: "https://www.youtube.com/embed/02JjC1LCP5g"
 
 ---
 
-**_În București găsești o multitudine de locuri de vizitat, de la parcuri și grădini, locuri istorice, centre culturale și de artă, cartiere și zone comerciale până la evenimente și festivaluri._**
+**În București poti să faci o multitudine de activități și să vizitezi locuri uimitoare, de la parcuri și grădini, locuri istorice, centre culturale și de artă, cartiere și zone comerciale până la evenimente și festivaluri.**
 
-Ce să vizitezi?
+**Ce să vizitezi?**
 
 - Locuri istorice precum Palatul Parlamentului, Muzeul Național al Satului ”Dimitrie Gusti”, Curtea Veche și Palatul Voievodal, Biserica Stavropoleos sau Muzeul Național de Istorie a României.
 - Parcuri și grădini: Parcul Herastrau, Parcul Carol, Grădina Botanică, Parcul Tineretului sau parcul Cismigiu.
@@ -195,7 +195,7 @@ Apariția rachetelor balistice și a altor tehnologii avansate de război a făc
 
 
 ---
-## Parcuri și grădini de vizitat în București
+## Ce sa faci in Bucuresti afara - Parcuri și grădini 
 
 <span class="drop">D</span>acă vizitati Bucureștiul trebuiec să descoperiți frumusețea parcurilor și grădinilor sale! Cu peste 70 de parcuri Bucureștiul ofera o diversitate de opțiunii pentru toate gusturile. 
 
@@ -211,7 +211,8 @@ srcset="/assets/images/travel/bucuresti/botanica_mobile.webp 480w"
 sizes="(max-width: 600px) 480px"
 src="/assets/images/travel/bucuresti/botanica.webp" width="740" height="493" alt="{{ page.keyword }};">
 
-<span class="drop">G</span>radina Botanică este un sanctuar natural uimitor situat în capitala României.
+
+<span class="drop">P</span>rintre cele mai vizitate atractii turistice Bucuresti regăsim Grădina Botanică. Locația este un sanctuar natural uimitor situat în capitala României.
 
 Înființată în 1891, oferă o oază pentru localnici și vizitatori deopotrivă pentru a se bucura de o evadare liniștită din agitația vieții de zi cu zi. 
 
@@ -227,7 +228,7 @@ Grădina găzduiește un herbar extins cu peste 150.000 de exemplare de plante c
 
 În plus, sunt disponibile tururi ghidate care oferă vizitatorilor o perspectivă mai profundă asupra istoriei și importanței acestui loc remarcabil.
 
-Fie că sunteți în căutarea unei evadari liniștite sau a unei experiențe educaționale despre botanică – Grădina Botanica București va oferi cu siguranță ceva special pentru toți cei care o vizitează!
+Fie că sunteți în căutarea unei evadari liniștite sau a unei experiențe educaționale despre botanică și dacă nu știi **ce să faci în București** – Grădina Botanica îți va oferi cu siguranță ceva special pentru toți cei care o vizitează!
 
 ---
 ## Parcul Herăstrău - o oază de calm și frumusețe
