@@ -4,6 +4,7 @@ image_path: lenovom2/lenovo4.webp
 meta_image: assets/images/reviews/lenovom2/lenovo4.webp
 layout: review
 date: 2023-02-20
+date-modified: 2023-05-06
 categorie-review: TROTINETA
 tags: ['Lenovo', 'M2', '2023']
 nume: Lenovo M2
@@ -11,6 +12,7 @@ scoreb:
 topic: review
 author: Tudor Stan
 rating-value: 8.9
+procons: "yes"
 opt:
   - name: design
     value: 90

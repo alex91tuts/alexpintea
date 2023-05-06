@@ -4,12 +4,14 @@ image_path: huaweip30pro.webp
 meta_image: assets/images/reviews/huaweip30pro.webp
 layout: review
 date: 2019-04-25
+date-modified: 2023-05-06
 categorie-review: SMARTPHONE
 tags: ['huawei', 'premium', '2019']
 nume: Huawei P30 Pro
 scoreb:
 topic: review
 author: Tudor Stan
+procons: "yes"
 rating-value: 9.1
 
 opt:

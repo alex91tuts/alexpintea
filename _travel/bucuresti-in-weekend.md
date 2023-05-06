@@ -11,7 +11,7 @@ oras: BUCUREȘTI
 lang: ro_RO
 keyword: "ce sa faci in bucuresti in weekend"
 date: 01.03.2023
-date-modified: 
+date-modified: 2023-05-06
 tags: ['București', 'capitale', 'weekend']
 
 ---

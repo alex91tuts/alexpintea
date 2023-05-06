@@ -4,11 +4,13 @@ image_path: psmart/psmart-main.webp
 meta_image: assets/images/reviews/psmart/psmart-main.webp
 layout: review
 date: 2019-12-31
+date-modified: 2023-06-05
 categorie-review: SMARTPHONE
 tags: ['huawei', 'pSmart', '2019']
 nume: Huawei P Smart 2019
 topic: review
 author: Tudor Stan
+procons: "yes"
 rating-value: 7.8
 
 opt:

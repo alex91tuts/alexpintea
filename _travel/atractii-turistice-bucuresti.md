@@ -12,7 +12,7 @@ oras: BUCUREȘTI
 lang: ro_RO
 keyword: "ce sa faci in bucuresti"
 date: 21.03.2023
-date-modified:
+date-modified: 2023-05-06
 tags: ['București', 'capitale', 'atractii']
 video: "yes"
 video_thumb: "/assets/images/travel/bucuresti/video_primaverii.webp"

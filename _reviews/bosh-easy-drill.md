@@ -9,6 +9,7 @@ tags: ['Bosh', 'EasyDrill', 'Autofiletanta']
 nume: bosh easy drill 1200
 topic: review
 author: Tudor Stan
+procons: "yes"
 rating-value: 8.0
 
 opt:
@@ -104,6 +105,16 @@ De asemenea, apreciez indicatorul de nivel al bateriei, care mă ajută să moni
 ## Preț
 
 În ceea ce privește prețul, Bosch EasyDrill 1200 se situează într-un segment mediu al pieței. 
+
+{% include cta-photo.html 
+imagine1="/assets/images/reviews/boshdrill/prod1.webp" 
+badge1="OFERTA" 
+titlu1="Bosh EasyDrill 1200 Kit" 
+url1="https://l.profitshare.ro/l/11694239" 
+
+imagine2="/assets/images/reviews/boshdrill/prod2.webp" 
+badge2="ACUMULATORI" 
+titlu2="Bosch EasyDrill 1200, cu 2 acumulatori" url2="https://l.profitshare.ro/l/11641523" %}
 
 Deși prețul său poate fi un pic mai ridicat în comparație cu alte modele similare, calitatea generală a produsului și caracteristicile sale justifică investiția.
 

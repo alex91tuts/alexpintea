@@ -4,12 +4,14 @@ image_path: inokimoxsuper/main.webp
 meta_image: assets/images/reviews/inokimoxsuper/main.webp
 layout: review
 date: 2023-02-25
+date-modified: 2023-05-06
 categorie-review: TROTINETA
 tags: ['Inokim', 'Premium', '2023']
 nume: Inokim OX Super
 scoreb:
 topic: review
 author: Tudor Stan
+procons: "yes"
 rating-value: 8.6
 opt:
   - name: viteza maxima

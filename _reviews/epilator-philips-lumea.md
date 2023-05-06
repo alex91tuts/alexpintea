@@ -4,11 +4,13 @@ image_path: lumea/women.webp
 meta_image: assets/images/reviews/lumea/women.webp
 layout: review
 date: 2023-04-17
+date-modified: 2023-05-06
 categorie-review: ELECTROCASNICE
 tags: ['Philips', 'LUMEA', 'EPILATOR']
 nume: Philips Lumea Seria 9000
 topic: review
 author: Tudor Stan
+procons: "yes"
 rating-value: 8.4
 
 opt:
@@ -245,6 +247,17 @@ Acest design intuitiv și estetic plăcut contribuie la experiența generală de
 Prețul Philips Lumea Seria 9000 poate fi considerat destul de ridicat în comparație cu alte dispozitive de epilare disponibile pe piață. 
 
 Cu toate acestea, având în vedere calitatea, funcționalitatea și durabilitatea dispozitivului, investiția poate fi justificată.
+
+{% include cta-photo.html 
+imagine1="/assets/images/reviews/lumea/prod.webp" 
+badge1="OFERTA 1" 
+titlu1="Epilatoare IPL Philips Lumea Seria 9000" 
+url1="https://l.profitshare.ro/l/11715930" 
+
+imagine2="/assets/images/reviews/lumea/prod2.webp" 
+badge2="OFERTA 2" 
+titlu2="Epilatoare IPL Philips Lumea Seria 9000" url2="https://l.profitshare.ro/l/11715932" %}
+
 
 Tehnologia IPL avansată și caracteristicile inteligente, precum senzorul SmartSkin și tehnologia SenseIQ, asigură o eficiență ridicată și rezultate de lungă durată. 
 

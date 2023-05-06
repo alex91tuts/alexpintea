@@ -4,11 +4,13 @@ image_path: huawei-p20-lite.webp
 meta_image: assets/images/reviews/huawei-p20-lite.webp
 layout: review
 date: 2019-05-13
+date-modified: 2023-05-06
 categorie-review: SMARTPHONE
 tags: ['huawei', 'p20 lite', '2019']
 nume: Huawei P20 Lite
 topic: review
 author: Tudor Stan
+procons: "yes"
 rating-value: 7.3
 opt:
   - name: design

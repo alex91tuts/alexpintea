@@ -4,11 +4,13 @@ image_path: broadlink/main.webp
 meta_image: assets/images/reviews/broadlink/main.webp
 layout: review
 date: 2023-04-01
+date-modified: 2023-05-06
 categorie-review: SMARTHOME
 tags: ['Broadlink', 'RM4', 'PRO']
 nume: BroadLink RM4 Pro
 topic: review
 author: Tudor Stan
+procons: "yes"
 rating-value: 8.6
 
 opt:
