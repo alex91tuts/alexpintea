@@ -7,7 +7,7 @@
 	{% for review in reviews limit:2 %}
 		<a href="{{ review.url }}">
 		<div class="small-post">
-		<img class="small-post-image" alt="{{ review.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/reviews/{{ review.image_path }}&h=41&output=jpg&q=65" height="41px" width="79px"/>
+		<img class="small-post-image" alt="{{ review.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/reviews/{{ review.image_path }}&h=41&output=jpg&q=65" width="79" height="41">
 		{{ review.title }}
 		</div>
 		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"/> {{review.author}} </span>
@@ -18,7 +18,7 @@
 	{% for stire in stiri limit:2 %}
 		<a href="{{ stire.url }}">
 		<div class="small-post">
-		<img class="small-post-image" alt="{{ stire.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/{{ stire.image_path }}&h=41&output=jpg&q=65" height="41px"  width="79px">
+		<img class="small-post-image" alt="{{ stire.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/{{ stire.image_path }}&h=41&output=jpg&q=65" width="79" height="41">
 		{{ stire.title }}
 		</div>
 		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{stire.author}} </span>

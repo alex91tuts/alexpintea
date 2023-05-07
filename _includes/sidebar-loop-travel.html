@@ -7,7 +7,7 @@
 	{% for travel in travels limit:5 %}
 		<a href="{{ travel.url }}">
 		<div class="small-post">
-	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" height="41px" width="79px">
+	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
 		{{ travel.title }}
 		</div>
 		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
