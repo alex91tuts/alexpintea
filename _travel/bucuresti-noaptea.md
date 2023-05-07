@@ -23,8 +23,6 @@ Un adevărat oraș care nu doarme, Bucureștiul se transformă după lăsarea î
 
 Acest articol își propune să vă prezinte o selecție a celor mai interesante și fascinante locuri de vizitat noaptea în **[București](https://totredus.ro/travel/atractii-turistice-bucuresti/)**, pentru a vă ajuta să descoperiți frumusețea și energia acestui oraș vibrant.
 
-{% include cta-cazare.html %}
-
 
 ## Explorarează Centrul Vechi (Lipscani)
 ---

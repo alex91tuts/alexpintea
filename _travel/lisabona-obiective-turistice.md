@@ -20,8 +20,6 @@ tags: ['LISABONA', 'CITY BREAK', '2023']
 
 **_În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului._**
 
-{% include cta-cazare.html %}
-
 Este o destinație vibrantă și plină de culori. Renumit pentru dispoziția călduroasă și însorită, orașul este binecuvântat cu o multitudine de monumente istorice, muzee de nivel mondial și alte lucruri uimitoare. Haideți să vedem cele mai interesante obiective turistice din Lisabona.
 
 ---

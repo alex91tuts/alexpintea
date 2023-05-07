@@ -18,8 +18,6 @@ tags: ['Milano', 'CityBreak', '2023']
 
 În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele. 
 
-{% include cta-cazare.html %}
-
 **Pe scurt, ce poți face în 3 zile în Milano:**
 
 **Ziua 1:**

@@ -34,7 +34,6 @@ video_url: "https://www.youtube.com/embed/02JjC1LCP5g"
 - Evenimete și festivaluri: Festivalul George Enescu, București Jazz Festival, Festivalul Internațional de Film București (BIFFF) sau Street Food Festival București.
 - Excursii în jurul Bucureștiului: Palatul Mogoșoaia, Mânăstirea Snagov, Parcul Natural Comana sau Cetatea Poenari;
 
-{% include cta-cazare.html %}
 
 Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar un [weekend](https://totredus.ro/travel/bucuresti-in-weekend/) în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o **[viață de noapte](https://totredus.ro/travel/bucuresti-noaptea/)** vibrantă în capitala României. 
 
