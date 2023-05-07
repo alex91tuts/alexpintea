@@ -1,5 +1,5 @@
 ---
-title: Cum să faci bani ca freelancer pe Fiverr din Romania 
+title: Fiverr România | Cum să faci bani fără să fii expert | Pareri
 image_path: stiri/fiverrom/main.webp
 layout: stiri
 date: 2023-03-08
@@ -10,7 +10,7 @@ nume: fiverr Romania
 author: "Online Cash"
 scor-intro: În acest articol, vom explora cum poți folosi Fiverr pentru a-ți transforma abilitățile într-un venit online și cum să câștigi bani ca freelancer în România.
 
-description: În acest articol, vom explora cum poți folosi Fiverr pentru a-ți transforma abilitățile într-un venit online și cum să câștigi bani ca freelancer în România.
+description: În acest articol, vom explora cum poți folosi Fiverr pentru a-ți transforma timpul liber într-un venit online și cum să câștigi bani pe Fiverr din România.
 
 ---
 
@@ -23,7 +23,7 @@ Fiverr este o opțiune excelentă pentru persoanele care doresc să lucreze de a
 {% include fiverrcta.html %}
 
 ---
-## Ce este Fiverr? Principalele diferențe vs. alte platforme
+## Diferențe dintre platforma Fiverr și alte platforme
 
 Fiverr este o platformă online care oferă microjoburi și servicii de freelancing. Utilizatorii pot cumpăra și vinde servicii digitale, numite "gigs", pe care freelancerii le pot crea și oferi clienților.
 
@@ -39,8 +39,10 @@ Principalele diferențe dintre Fiverr și alte platforme de freelancing sunt:
 
 - Rating și recenzii: Fiverr utilizează un sistem de rating și recenzii pentru freelanceri și clienți. Acest sistem oferă un feedback util pentru a determina calitatea serviciilor oferite.
 
+**Articol: [Cum functioneaza sistemul de rating si recenzii Fiverr?](https://totredus.ro/stiri/rating-fiverr/)**
+
 ---
-## Cât poți să câștigi și cum retragi banii din contul Fiverr
+## Cât poți câștiga
 
 Fiverr îți permite să-ți stabilești propriile prețuri pentru serviciile digitale oferite.
 
@@ -53,7 +55,7 @@ Această perioadă permite clienților să revendice orice probleme legate de pr
 După această perioadă de 14 zile, banii pot fi retrasi în contul tău bancar sau prin intermediul platformelor de plăți online, cum ar fi PayPal sau Payoneer.
 
 ---
-## Cum faci bani cu Fiverr: idei pentru micro joburi Fiver
+## Cum faci bani cu Fiverr: idei de microjoburi
 
 Cu Fiverr, exista o mulțime de oportunități pentru a-ti transforma abilitățile și pasiunile în venituri. Iată câteva idei de servicii pe care le poți oferi ca freelancer pe platforma:
 
@@ -229,13 +231,15 @@ Iată cum poți crea un gig pe Fiverr:
 
 - Încarcă exemple relevante ale serviciilor tale. Aceste exemple trebuie să fie atractive și să demonstreze calitatea și abilitățile tale.
 
-- Trimite gig-ul tău pentru a fi aprobat de către echipa Fiverr. După ce este aprobat, gig-ul tău va fi afișat în secțiunea relevanta pentru clienții care caută serviciile tale.
+- Trimite gig-ul pentru a fi aprobat de către echipa Fiverr. După ce este aprobat, gig-ul tău va fi afișat în secțiunea relevanta pentru clienții care caută serviciile tale.
 
 Este important sa înțelegi că un gig creat pe Fiverr nu este suficient pentru a începe să faci bani.
 
 Trebuie sa-ți promovezi serviciile și să te implici activ în comunitatea Fiverr pentru a atrage clienți și a-ți crește mica afacere.
 
 De asemenea, trebuie sa ai răbdare și să îți construiești reputația treptat, câștigând feedback pozitiv de la clienți și dezvoltând-ti portofoliul de servicii.
+
+**Tutorial: [9 pași pentru a crea un gig atractiv pe Fiverr](https://totredus.ro/stiri/gig-atractiv-fiverr-tutorial/)**
 
 ---
 ## Cele mai bune practici pentru a-ți gestiona timpul și proiectele pe Fiverr
@@ -244,7 +248,7 @@ Pentru a-ți gestiona timpul și proiectele pe Fiverr, este important să ai câ
 
 1.Stabilește-ți un program de lucru: Fiverr este o platformă care funcționează 24/7, dar asta nu înseamnă că trebuie să lucrezi non-stop. Este important să îți stabilești un program de lucru și să îți organizezi timpul astfel încât să poți să îți îndeplinești proiectele în termenul stabilit.
 
-2.Comunică cu clienții: Comunicarea cu clienții este esențială pentru a-ți gestiona proiectele pe Fiverr. Răspunde la mesaje în timp util și asigură-te că clienții sunt informați cu privire la progresul proiectelor.
+2.Comunică cu clienții: [Comunicarea cu clienții](https://totredus.ro/stiri/comunicare-clienti-fiverr/) este esențială pentru a-ți gestiona proiectele pe Fiverr. Răspunde la mesaje în timp util și asigură-te că clienții sunt informați cu privire la progresul proiectelor.
 
 3.Utilizează un sistem de gestionare a proiectelor: Există o varietate de instrumente disponibile pentru a-ți ajuta să îți gestionezi proiectele pe Fiverr, cum ar fi Trello sau Asana. Utilizarea unui astfel de sistem poate ajuta la organizarea proiectelor și la menținerea termenelor limită.
 
@@ -253,6 +257,69 @@ Pentru a-ți gestiona timpul și proiectele pe Fiverr, este important să ai câ
 5.Fă o pauză: În timp ce este important să îți gestionezi proiectele și timpul pe Fiverr, este la fel de important să îți iei și o pauză din când în când. Asigură-te că îți iei suficient timp pentru a te odihni și pentru a-ți reîncărca bateriile.
 
 Aplicarea acestor practici bune poate ajuta la îmbunătățirea experienței tale pe Fiverr și la obținerea unei rate mai mari de succes.
+
+Articol: **[Niveluri vanzatori Fiverr](https://totredus.ro/stiri/niveluri-fiverr-seller/)** 
+
+---
+## 7 modalități prin care sa te promovezi
+
+1. Creează un profil atrăgător și profesionist, care să te reprezinte în mod autentic și să evidențieze abilitățile și experiența ta.
+
+2. Stabilește prețuri competitive și atrăgătoare, în funcție de valoarea serviciilor oferite și de piața din domeniul tău.
+
+3. Răspunde rapid și în mod profesionist la întrebările și solicitările clienților, demonstrându-le că ești o opțiune de încredere și de înaltă calitate.
+
+4. Folosește metode eficiente de promovare, cum ar fi social media, rețelele de afaceri și marketing-ul prin e-mail, pentru a-ți face cunoscut serviciile.
+
+5. Utilizează un portofoliu bine structurat și complet pentru a-ți arăta abilitățile și experiența, precum și pentru a demonstra modul în care ai ajutat alți clienți în trecut.
+
+6. Asigură-te că ești deschis și dispus să discuți cu clienții despre proiectele lor, pentru a obține o înțelegere clară și detaliată a nevoilor lor.
+
+7. Îmbunătățește constant abilitățile și serviciile tale, învățând și aplicând noi tehnici și strategii pentru a te dezvolta și a te diferenția de ceilalți vânzători.
+
+Sursa [aici](https://blog.fiverr.com/post/7-ways-to-promote-yourself-as-a-fiverr-freelancer)
+
+---
+## ## Întrebări frecvente FAQ
+
+1. **Ce este Fiverr și cum funcționează?**
+Fiverr este o platformă online de servicii freelance unde vânzătorii pot oferi servicii (gig-uri) în diverse categorii, cum ar fi design grafic, marketing, scriere și multe altele. Vânzătorii creează profiluri și gig-uri, iar clienții pot angaja vânzători pe baza portofoliilor și recenziilor acestora.
+
+2. **Cum creez un gig pe Fiverr?**
+Pentru a crea un gig, accesați profilul dvs. de vânzător, faceți clic pe "Gigs" și apoi pe "Create a New Gig". Completați informațiile necesare, cum ar fi titlul, descrierea, prețul și livrarea, și adăugați imagini sau videoclipuri relevante pentru a prezenta serviciul dvs.
+
+3. **Cum stabilesc prețurile și nivelurile de serviciu pentru gig-urile mele?**
+Pe Fiverr, puteți oferi trei niveluri de serviciu (Basic, Standard și Premium) cu prețuri și caracteristici diferite. Analizați concurența, evaluați valoarea serviciului dvs. și stabiliți prețuri adecvate pentru nivelul de experiență și complexitatea serviciului oferit.
+
+4. **Cum pot promova gig-urile mele pentru a atrage mai mulți clienți?**
+Folosiți instrumentele de promovare oferite de Fiverr, cum ar fi "Gig Promotion" și "Fiverr Anywhere". De asemenea, puteți promova gig-urile pe rețelele sociale și pe site-urile sau blogurile dvs. personale.
+
+5. **Ce comision percepe Fiverr pentru vânzători?**
+Fiverr percepe un comision de 20% din veniturile vânzătorilor. De exemplu, dacă vindeți un gig pentru 100 de dolari, veți primi 80 de dolari, iar Fiverr va reține 20 de dolari.
+
+6. **Cum primesc plata pentru serviciile mele?**
+După ce un client achită pentru un gig și acesta este livrat și acceptat, banii sunt transferați în portofelul dvs. Fiverr. Puteți retrage fondurile prin PayPal, Payoneer sau transfer bancar local.
+
+7. **Cum pot îmbunătăți evaluările și recenziile mele pe Fiverr?**
+Oferiți servicii de înaltă calitate, comunicați în mod eficient cu clienții și respectați termenele de livrare. Încurajați clienții să lase recenzii pozitive și să vă recomande altor utilizatori. Rezolvați orice probleme într-un mod profesionist și prompt.
+
+---
+## Terstimoniale, recenzii și păareri Fiverr Romania
+
+1. **Andreea, designer grafic:**
+"Fiverr mi-a deschis o lume de oportunități în cariera mea de designer grafic. Colaborez cu clienți din întreaga lume și am construit un portofoliu impresionant. În plus, câștig bani suplimentari de care mă bucur în timpul liber."
+
+2. **Mihai, dezvoltator web:**
+"Ca dezvoltator web, Fiverr mi-a oferit posibilitatea de a lucra cu o varietate de proiecte și clienți. Am învățat multe lucruri noi și am extins rețeaua mea de contacte. Fiverr este o platformă excelentă pentru a începe și a-ți dezvolta cariera de freelancer."
+
+3. **Ioana, scriitoare și editor:**
+"Pe Fiverr, am găsit o sursă de venit stabilă și flexibilă, care îmi permite să lucrez de acasă și să îmi petrec timp de calitate cu familia. Sunt foarte mulțumită de experiența mea pe platformă și o recomand oricui este interesat să câștige bani online."
+
+4. **Dan, specialist SEO:**
+"Lucrând pe Fiverr, am avut ocazia să colaborez cu clienți din diverse industrii și să îmi îmbunătățesc abilitățile de optimizare pentru motoarele de căutare. Platforma mi-a oferit șansa de a crește ca profesionist și de a câștiga bani în același timp."
+
+5. **Camelia, expertă în marketing digital:**
+"Am început să lucrez pe Fiverr ca o modalitate de a-mi suplimenta veniturile, dar în scurt timp am descoperit că este mult mai mult de atât. Am întâlnit o comunitate minunată de freelanceri talentați și am avut ocazia să mă dezvolt profesional în domeniul marketingului digital."
 
 ---
 ## Concluzie 
