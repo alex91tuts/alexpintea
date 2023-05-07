@@ -5,7 +5,7 @@ description: Cum se câștigă bani online din microjoburi? Ce platformă să fo
 layout: stiri
 image_path: internet/microjoburi/main.webp
 meta_image: assets/images/microjoburi/main.webp
-categorie: INTERNET
+categorie: MICROJOBURI
 author: "Damian"
 tags: ['gig', 'fiverr','bani']
 lang: ro_RO
