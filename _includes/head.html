@@ -16,16 +16,15 @@
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:image" content="{% if page.meta_image %}{{ site.url }}/{{ page.meta_image }}{% elsif page.image_path %}{{site.url}}/assets/images/{{page.image_path}}{% endif %}"/>
  
-{% include criticalcss.html %}
+{% if page.layout == "travel" %}{% include criticalcss-travel.html %}
+{% elsif page.layout == "review" %}{% include criticalcss-review.html %}
+{% elsif page.layout == "stiri" %}{% include criticalcss-blog.html %}
+{% else %}{% include criticalcss.html %}{% endif %}
 
 <link rel="stylesheet" href="/assets/css/bootstrap-grid.min.css" type="text/css">
 	
 <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
-	
-
-<!-- <link rel="preload" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" type="text/css" as="style"onload="this.onload=null;this.rel='stylesheet';">
--->   
-            
+	       
 
 <!-- Hello Awin -->
     
