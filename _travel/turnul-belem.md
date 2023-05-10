@@ -15,9 +15,13 @@ tags: ['București', 'capitale', 'belem']
 
 ---
 
-**_Lisabona este un oraș vibrant, cu o viață culturală și artistică bogată, muzee, parcuri, străzi comerciale și bulevarde elegante. Cele mai cunoscute obiective turistice includ Castelul Sao Jorge, Turnul Belem, Catedrala din Lisabona, Muzeul de Artă Antică și Oceanariumul din Lisabona._** 
+**_Lisabona este un oraș vibrant, cu o viață culturală și artistică bogată, muzee, parcuri, străzi comerciale și bulevarde elegante. 
 
-Lisabona este capitala și cel mai mare oraș al Portugaliei, situat pe malul râului Tajo, la aproximativ 20 km de vărsarea acestuia în Oceanul Atlantic. Orașul este renumit pentru clădirile sale istorice, străzile pietruite, tramvaiele vechi și peisajele frumoase de pe coasta oceanului.
+Cele mai cunoscute obiective turistice includ Castelul Sao Jorge, Turnul Belem, Catedrala din Lisabona, Muzeul de Artă Antică și Oceanariumul din Lisabona._** 
+
+Lisabona este capitala și cel mai mare oraș al Portugaliei, situat pe malul râului Tajo, la aproximativ 20 km de vărsarea acestuia în Oceanul Atlantic. 
+
+Orașul este renumit pentru clădirile sale istorice, străzile pietruite, tramvaiele vechi și peisajele frumoase de pe coasta oceanului.
 
 Vezi [aici un top atracții turistice în Lisabona](https://totredus.ro/travel/atractii-turistice-bucuresti/).
 
