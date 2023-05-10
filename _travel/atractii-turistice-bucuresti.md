@@ -35,7 +35,7 @@ video_url: "https://www.youtube.com/embed/02JjC1LCP5g"
 - Excursii în jurul Bucureștiului: Palatul Mogoșoaia, Mânăstirea Snagov, Parcul Natural Comana sau Cetatea Poenari;
 
 
-Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar un [weekend](https://totredus.ro/travel/bucuresti-in-weekend/) în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o **[viață de noapte](https://totredus.ro/travel/bucuresti-noaptea/)** vibrantă în capitala României. 
+Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar **[un weekend](https://totredus.ro/travel/bucuresti-in-weekend/)** în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o **[viață de noapte](https://totredus.ro/travel/bucuresti-noaptea/)** vibrantă în capitala României. 
 
 Chiar dacă ai la dispoziție doar [o singură zi](https://totredus.ro/travel/excursii-zi-bucuresti/), tot poți explora unele dintre cele mai frumoase atracții turistice din București.
 
