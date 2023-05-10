@@ -41,9 +41,13 @@ Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul. I
 
 Profitați de aer liber și mergeți la o drumeție în Pădurea Băneasa. Situată la doar câțiva kilometri nord de centrul orașului (14), această pădure remarcabilă oferă vizitatorilor șansa de explora verdeața, de a observa fauna sălbatică și de a lua parte la o varietate de activități recreative. 
 
-Pădurea găzduiește o mare varietate de plante și animale, inclusiv peste 100 de specii de păsări, vulpi, căprioare, mistreți și chiar specii endemice rare, cum ar fi țestoasa europeană de iaz. Există, de asemenea, o mulțime de trasee de drumeții pe care să le explorați și să vă bucurați de frumusețea pădurii. În plus, există mai multe locuri de picnic unde vă puteți relaxa și admira priveliștile și sunetele naturii. 
+Pădurea găzduiește o mare varietate de plante și animale, inclusiv peste 100 de specii de păsări, vulpi, căprioare, mistreți și chiar specii endemice rare, cum ar fi țestoasa europeană de iaz. 
 
-Puteți chiar să închiriați biciclete sau quad-uri pentru a traversa drumurile de pământ ale parcului sau să participați la unele activități acvatice distractive pe Lacul Băneasa (ex. caiac). Și dacă cauți ceva mai interesant, poți juca paintball pe o hartă amenajată precum în jocul Counter-Strike. Te vei bucura de aer curat, de peisaje frumoase și te vei face și mișcare!
+Există, de asemenea, o mulțime de trasee de drumeții pe care să le explorați și să vă bucurați de frumusețea pădurii. În plus, există mai multe locuri de picnic unde vă puteți relaxa și admira priveliștile și sunetele naturii. 
+
+Puteți chiar să închiriați biciclete sau quad-uri pentru a traversa drumurile de pământ ale parcului sau să participați la unele activități acvatice distractive pe Lacul Băneasa (ex. caiac). 
+
+Și dacă cauți ceva mai interesant, poți juca paintball pe o hartă amenajată precum în jocul Counter-Strike. Te vei bucura de aer curat, de peisaje frumoase și te vei face și mișcare!
 
 ### Vizitați atracțiile locale: 
 
