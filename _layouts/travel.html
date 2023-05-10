@@ -62,8 +62,9 @@ post_class: post-template
 <div id="top-featured" class="banner-review row" style=
 		 "background-image: image-set( 
 			url({{ site.url }}{{ page.image | remove: '.webp' | append: '_mobile.webp'}}) 1x,
-			url('{{ site.url }}{{ page.image}}') 2x); 
-			 background-size: 1110px 500px; background-position: center;">
+			url({{ site.url }}{{ page.image}}) 2x
+			); 
+			background-size: 1110px 500px; background-position: center;">
   <div class="gradient">
     <div class="bread-crumbs">
 				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>

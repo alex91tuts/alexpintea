@@ -23,7 +23,7 @@ video_url: "https://www.youtube.com/embed/02JjC1LCP5g"
 
 ---
 
-**În București poti să faci o multitudine de activități și să vizitezi locuri uimitoare, de la parcuri și grădini, locuri istorice, centre culturale și de artă, cartiere și zone comerciale până la evenimente și festivaluri.**
+În București poti să faci o multitudine de activități și **să vizitezi locuri uimitoare**, de la parcuri și grădini, locuri istorice, centre culturale și de artă, cartiere și zone comerciale până la evenimente și festivaluri.
 
 **Ce să vizitezi?**
 
