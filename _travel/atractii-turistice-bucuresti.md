@@ -37,7 +37,9 @@ video_url: "https://www.youtube.com/embed/02JjC1LCP5g"
 
 Poți descoperi esența și farmecul Bucureștiului și într-o călătorie de doar un [weekend](https://totredus.ro/travel/bucuresti-in-weekend/) în care să explorezi obiectivele turistice fascinante, parcuri încântătoare și o **[viață de noapte](https://totredus.ro/travel/bucuresti-noaptea/)** vibrantă în capitala României. 
 
-Chiar dacă ai la dispoziție doar [o singură zi](https://totredus.ro/travel/excursii-zi-bucuresti/), tot poți explora unele dintre cele mai frumoase atracții turistice din București. O opțiune este să vizitezi centrul istoric al orașului, care găzduiește unele dintre cele mai importante clădiri și monumente ale Bucureștiului, cum ar fi Palatul Parlamentului, Catedrala Patriarhală, Muzeul Național de Istorie a României sau Biserica Stavropoleos.
+Chiar dacă ai la dispoziție doar [o singură zi](https://totredus.ro/travel/excursii-zi-bucuresti/), tot poți explora unele dintre cele mai frumoase atracții turistice din București.
+
+O opțiune este să vizitezi centrul istoric al orașului, care găzduiește unele dintre cele mai importante clădiri și monumente ale Bucureștiului, cum ar fi Palatul Parlamentului, Catedrala Patriarhală, Muzeul Național de Istorie a României sau Biserica Stavropoleos.
 
 ---
 ## Locuri istorice de vizitat
