@@ -59,7 +59,7 @@ post_class: post-template
 <div class="container review-cont">
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}{{page.image}}"></meta>
-<div id="top-featured" class="banner-review row" style="background-image:url(https://totredus.b-cdn.net{{ page.image}}); background-size: 1110px 500px; background-position: center;">
+<div id="top-featured" class="banner-review row" style="background-image:url({{ site.url }}{{ page.image}}); background-size: 1110px 500px; background-position: center;">
   <div class="gradient">
     <div class="bread-crumbs">
 				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>
@@ -328,6 +328,7 @@ post_class: post-template
 			font-size: 22px;
 		  }
 		  .banner-review {
+			background-image:url({{ site.url }}{{ page.image | remove: ".webp" | append: "_mobile.webp" }}) !important;
 			max-height: 330px;
 			margin-top: 0;
 			background-size: 792px 330px !important;

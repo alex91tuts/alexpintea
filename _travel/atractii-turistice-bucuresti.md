@@ -51,15 +51,13 @@ Unul dintre cele mai emblematice obiective turistice din București este Palatul
 ---
 ## Descoperă istoria fastuoasă a Palatului Parlamentului
 
-<img 
-srcset="/assets/images/travel/bucuresti/palatulparlamentului_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/palatulparlamentului.webp" 
-srcset="/assets/images/travel/bucuresti/palatulparlamentului_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-width="740" 
-height="554" 
-alt="{{ page.keyword }};">
+
+{% include responsive.html
+src="/assets/images/travel/bucuresti/palatulparlamentului"
+width="740"
+height="554"
+%}
+
 
 <span class="drop">P</span>alatul Parlamentului din București sau Casa Poporului este o structură incredibilă, simbol al trecutului și prezentului României.
 
@@ -84,10 +82,8 @@ Indiferent de modul în care alegi să-l experimentezi - fie prin vizitarea lui 
 ---
 ## Biserica Stavropoleos - frumusețe atemporală
 
-<img 
-srcset="/assets/images/travel/bucuresti/stravropoleus_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/stravropoleus.webp" width="740" height="628" alt="{{ page.keyword }};">
+{% include responsive.html
+src="/assets/images/travel/bucuresti/stravropoleus" width="740" height="628" %}
 
 <span class="drop">B</span>iserica Stavrostopol este un exemplu uluitor al stilului arhitectural ortodox românesc, situată în inima orașului vechi. 
 
@@ -104,10 +100,8 @@ Biserica Stavropoleos este o destinație populară pentru turiștii care vizitea
 ---
 ## Palatul Primăverii
 
-<img 
-srcset="/assets/images/travel/bucuresti/primaverii_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/primaverii.webp" width="740" height="492" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/primaverii" width="740" height="492" %}
 
 <span class="drop">P</span>alatul Primăverii sau „Casa Ceaușescu”, este un exemplu uimitor de arhitectură modernistă situat în București. Construită la mijlocul anilor 1960 de dictatorul de atunci al României Nicolae Ceaușescu, ea stă ca o mărturie a puterii și opulenței Partidului Comunist Român.
 
@@ -130,10 +124,8 @@ alt="Locuri de vizitat in București - Palatul Primăverii"
 ---
 ## Casa Melik - Muzeul Theodor Pallady
 
-<img 
-srcset="/assets/images/travel/bucuresti/melik_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/melik.webp" width="740" height="416" alt="{{ page.keyword }};">
+{% include responsive.html
+src="/assets/images/travel/bucuresti/melik" width="740" height="416" %}
 
 <span class="drop">A</span>scunsă în inima Bucureștiului se află Casa Melik, un muzeu unic dedicat conservării operei renumitului pictor român Theodor Pallady. Situat într-una dintre cele mai vechi clădiri din orașul istoric istoric al Bucureștiului, vizitatorii pot explora lucrările fascinante ale acestui maestru artist și pot explora viața și cariera lui.
 
@@ -148,10 +140,8 @@ Vizitatorii pot participa și la tururi ghidate care oferă o privire și mai cu
 ---
 ## Comori ale culturii Române la Casa Memorială Anton Pann
 
-<img 
-srcset="/assets/images/travel/bucuresti/pann_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/pann.webp" width="740" height="485" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/pann" width="740" height="485" %}
 
 <span class="drop">C</span>asa Memorială Anton Pann București este un monument istoric care aduce un omagiu vieții și operelor renumitului scriitor și compozitor român din secolul al XIX-lea, Anton Pann. 
 
@@ -205,10 +195,8 @@ Acestea sunt pline de gradini superbe, alei pietonale, lacuri și puncte de vede
 ---
 ## Gradina Botanica o evadare din agitația vieții orașului
 
-<img 
-srcset="/assets/images/travel/bucuresti/botanica_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/botanica.webp" width="740" height="493" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/botanica" width="740" height="493" %}
 
 
 <span class="drop">P</span>rintre cele mai vizitate atractii turistice Bucuresti regăsim Grădina Botanică. Locația este un sanctuar natural uimitor situat în capitala României.
@@ -232,10 +220,8 @@ Fie că sunteți în căutarea unei evadari liniștite sau a unei experiențe ed
 ---
 ## Parcul Herăstrău - o oază de calm și frumusețe
 
-<img 
-srcset="/assets/images/travel/bucuresti/herastrau_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/herastrau.webp" width="740" height="587" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/herastrau" width="740" height="587" %}
 
 <span class="drop">S</span>ituat în partea de nord a orașului, Parcul Herastrau este unul dintre cele mai mari și mai populare parcuri din București. Acesta găzduiește o mare varietate de copaci și plante, precum și multe specii de păsări.
 
@@ -252,10 +238,8 @@ Pe lângă frumusețea sa naturală și abundența de activități oferite pe te
 ---
 ## Parcul IOR
 
-<img 
-srcset="/assets/images/travel/bucuresti/ior_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/ior.webp" width="740" height="466" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/ior" width="740" height="466" %}
 
 <span class="drop">P</span>arcul IOR a fost inaugurat în 2015 și de atunci a devenit una dintre cele mai vizitate zone din București. Se intinde pe o suprafata de 11 hectare, cu o suprafata totala amenajata de 8 hectare. Parcul este împărțit în mai multe zone, fiecare oferind ceva pentru a se bucura toată lumea.
 
@@ -274,10 +258,8 @@ Așa că, dacă vizitezi vreodată Bucureștiul, asigură-te că vezi ce are de 
 ---
 ## Parcul Carol - frumusețea naturii fără a părăsi orașul
 
-<img 
-srcset="/assets/images/travel/bucuresti/mon_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/mon.webp" width="740" height="985" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/mon" width="740" height="985" %}
 
 <span class="drop">P</span>arcul Carol din București este o locație emblematică atât pentru localnici, cât și pentru turiști. Situat în inima orașului, oferă o experiență diversă și vibrantă pentru toți cei care vizitează.
 
@@ -294,10 +276,8 @@ Desigur, nicio vizită nu ar fi completă fără a încerca bucătăria tradiți
 ---
 ## Grădina Cișmigiu
 
-<img 
-srcset="/assets/images/travel/bucuresti/cismigiu_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/cismigiu.webp" width="740" height="439" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/cismigiu" width="740" height="439" %}
 
 <span class="drop">G</span>rădina Cișmigiu a fost înființată în 1847 de regele Carol I, care a dorit să creeze un loc în care oamenii să se poată reuni pentru a se relaxa și a se bucura de frumusețea naturii. 
 
@@ -316,10 +296,8 @@ Grădina Cișmigiu surprinde cu adevărat esența frumuseții Bucureștiului cu 
 ---
 ##  Parcul Național Văcărești
 
-<img 
-srcset="/assets/images/travel/bucuresti/vacaresti_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/vacaresti.webp" width="740" height="461" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/vacaresti" width="740" height="461" %}
 
 <span class="drop">S</span>ituat la marginea Bucurestiului, Parcul Natural Vacaresti este un reper unic care serveste drept sanctuar atat pentru fauna salbatica cat si pentru oameni deopotriva. Acest frumos parc găzduiește peste 200 de specii de păsări, inclusiv specii rare, precum stilul cu aripi negre și vulturul cu coadă albă. De asemenea, găzduiește mai multe specii de mamifere, reptile, amfibieni și pești. Parcul se mândrește cu o bogată diversitate de floră și faună, ceea ce îl face unul dintre cele mai importante puncte fierbinți de biodiversitate din România.
 
@@ -355,10 +333,8 @@ Aceste atracții turistice contribuie la scena culturală dinamică și diversă
 ---
 ## Muzeul Cotroceni
 
-<img 
-srcset="/assets/images/travel/bucuresti/cotroceni_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/cotroceni.webp" width="740" height="493" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/cotroceni" width="740" height="493" %}
 
 <span class="drop">M</span>uzeul Cotroceni este situat in Palatul Cotroceni și reuseste sa atragă vizitatori din întreaga lume prin arhitectura sa impresionantă și bogatele colecții culturale și istorice.
 
@@ -377,10 +353,8 @@ Muzeul Cotroceni este un loc uimitor pentru oricine este interesat să învețe 
 ---
 ## Explorează splendoarea Ateneului Roman
 
-<img 
-srcset="/assets/images/travel/bucuresti/ateneu_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/ateneu.webp" width="740" height="623" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/ateneu" width="740" height="623" %}
 
 <span class="drop">A</span>teneul Român, situat în București este un reper cultural care stă în picioare de peste 120 de ani. Construită între 1886 și 1888, această clădire circulară emblematică a fost proiectată de arhitectul francez Albert Galleron într-un stil neoclasic. Fațada sa impresionantă prezintă o serie de coloane corintice impunătoare și sculpturi complicate cu personaje din folclorul românesc.
 
@@ -398,10 +372,8 @@ Toate lucrurile luate în considerare, nu este de mirare de ce Ateneul Român a 
 ---
 ## Muzeul Național de Artă Contemporană
 
-<img 
-srcset="/assets/images/travel/bucuresti/contart_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/contart.webp" width="740" height="416" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/contart" width="740" height="416" %}
 
 <span class="drop">M</span>uzeul Național de Artă Contemporană București (MNAC) este o vizită obligatorie pentru oricine este interesat de artă și cultură. Situat în inima capitalei României, acest muzeu adăpostește unele dintre cele mai importante lucrări de artă contemporană din întreaga lume.
 
@@ -418,10 +390,8 @@ Muzeul are și un centru de educație unde studenții pot afla mai multe despre 
 ---
 ## Muzeul Satului, o experiență culturală unică
 
-<img 
-srcset="/assets/images/travel/bucuresti/satului_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/satului.webp" width="740" height="925" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/satului" width="740" height="925" %}
 
 
 <span class="drop">Î</span>n inima Bucureștiului se află uimitorul Muzeu al Satului, un tezaur cultural și arheologic plin de istorie și farmec. Muzeul, care a fost fondat în 1936, este primul muzeu în aer liber din lume și prezintă peste 300 de clădiri tradiționale românești din toată țara.
@@ -458,10 +428,8 @@ Bucureștiul găzduiește numeroase centre culturale și de artă, care oferă o
 ---
 ## Centrul Vechi 
 
-<img 
-srcset="/assets/images/travel/bucuresti/oldtown_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/oldtown.webp" width="740" height="709" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/oldtown" width="740" height="709" %}
 
 
 <span class="drop">C</span>entrul Vechi al Bucureștiului este una dintre cele mai emblematice și vibrante zone ale orașului. Situat în inima capitalei, Orașul Vechi găzduiește un amestec de cultură, istorie și modernitate care îl fac o destinație unică. 
@@ -484,10 +452,8 @@ Există și o mulțime de baruri din care să alegeți, ceea ce face ca acesta s
 ---
 ## Piața Unirii
 
-<img 
-srcset="/assets/images/travel/bucuresti/punirii_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/punirii.webp" width="740" height="366" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/punirii" width="740" height="366" %}
 
 <span class="drop">P</span>iața își are rădăcinile în epoca medievală, când a servit drept loc de întâlnire important pentru negustori și comercianți. 
 
@@ -516,7 +482,7 @@ Indiferent când vizitați Piața Unirii din București, puteți fi sigur că va
 ---
 ## Pasajul Macca-Vilacrosse: Bijuteria ascunsă a Bucureștiului
 
-<img src="/assets/images/travel/macca/1.webp" width="740" height="492" alt="{{ page.keyword }}">
+{% include responsive.html src="/assets/images/travel/macca/1" width="740" height="492" %}
 
 Pasajul Macca-Vilacrosse, un ansamblu de două străzi pietonale acoperite, reprezintă un exemplu de arhitectură neoclasică și eclectică. 
 
@@ -545,10 +511,8 @@ Dacă vizitați capitala României, nu ratați ocazia de a explora această biju
 ---
 ## Palatul Mogoșoaia
 
-<img 
-srcset="/assets/images/travel/bucuresti/mogosoaia_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/mogosoaia.webp" width="740" height="555" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/mogosoaia" width="740" height="555" %}
 
 <span class="drop">S</span>ituat chiar în afara Bucureștiului, uimitorul Palat Mogoșoaia este o destinație obligatorie pentru oricine vizitează această zonă.
 
@@ -565,10 +529,8 @@ Pe lângă explorarea frumuseții sale naturale, vizitatorii pot afla și despre
 ---
 ## Mănăstirea Cernica
 
-<img 
-srcset="/assets/images/travel/bucuresti/cernica_mobile.webp 480w"
-sizes="(max-width: 600px) 480px"
-src="/assets/images/travel/bucuresti/cernica.webp" width="740" height="493" alt="{{ page.keyword }};">
+{% include responsive.html 
+src="/assets/images/travel/bucuresti/cernica" width="740" height="493" %}
 
 <span class="drop">S</span>ituată la doar 20 de kilometri de București, această frumoasă mănăstire este unul dintre centrele spirituale importante din țară. Construită în secolul al XVII-lea, mănăstirea a fost un refugiu pentru multe generații de călugări și vizitatori deopotrivă.
 

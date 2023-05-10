@@ -22,7 +22,7 @@ Haideți să vedem principalele lucruri de făcut duminica in București:
 ---
 ## Plimbări în parcuri
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/parc.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/parc.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 Bucureștiul este cunoscut pentru numeroasele sale parcuri frumoase, care oferă o oază de liniște și relaxare în mijlocul agitației urbane. Printre cele mai populare parcuri se numără:
 
@@ -37,7 +37,7 @@ Indiferent de parc, ai ocazia să te bucuri de frumusețea naturii și să te re
 ---
 ## Vizitează muzeele
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/muzeu.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/muzeu.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Capitala are o varietate de muzee interesante, care te invită să explorezi istoria, arta și știința într-un mod captivant și educativ. Majoritatea muzeelor au program de vizitare și duminica, permițându-ți să te bucuri de exponatele lor fascinante în timpul liber.
@@ -54,7 +54,7 @@ Pe lângă aceste muzee, Bucureștiul are multe alte instituții culturale care 
 ---
 ## Mergi la brunch
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/brunch.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/brunch.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Duminica, Bucureștiul se transformă într-un paradis culinar, cu numeroase restaurante și cafenele care oferă brunch-uri delicioase. 
@@ -74,7 +74,7 @@ Nu în ultimul rând, brunch-urile din București oferă și o selecție impresi
 ---
 ## Participă la evenimente culturale
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/teatru.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/teatru.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
  Duminica este o zi populară pentru evenimente culturale în București, oferind o gamă variată de opțiuni pentru a explora și aprecia arta și cultura orașului. Iată câteva sugestii de evenimente și locuri unde te poți bucura de o duminică culturală:
@@ -94,7 +94,7 @@ Nu în ultimul rând, brunch-urile din București oferă și o selecție impresi
 ---
 ## Mergi la mall
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/mall.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/mall.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Duminica, centrele comerciale din București sunt deschise și oferă o multitudine de activități și opțiuni de petrecere a timpului liber. Iată câteva dintre cele mai populare activități pe care le poți face în mall-uri:
@@ -116,7 +116,7 @@ Prin urmare, mall-urile din București sunt locuri ideale pentru a petrece dumin
 ---
 ## Explorează cartierele istorice
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/vechi.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/vechi.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Bucureștiul, un oraș cu o istorie bogată și o arhitectură impresionantă, are multe zone istorice care merită explorate. Plimbă-te prin aceste zone și vei descoperi o altă față a capitalei, plină de comori ascunse și povești fascinante.
@@ -138,7 +138,7 @@ Explorarea cartierelor istorice ale Bucureștiului îți oferă ocazia de a te f
 ---
 ## Participă la o degustare de vinuri
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/vin.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/vin.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Multe crame și baruri de vinuri din București organizează Duminica evenimente speciale de degustare de vinuri, atât pentru amatorii cât și pentru cunoscătorii de vinuri. 
@@ -162,7 +162,7 @@ Pentru a participa la o degustare de vinuri în București, informează-te despr
 ---
 ## Mergi la o biserică sau mănăstire
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/biserica.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/biserica.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Mergi la o biserică sau mănăstire: Bucureștiul este un oraș cu o moștenire religioasă bogată, având numeroase biserici și mănăstiri frumoase ce îmbină stiluri arhitecturale variate și elemente istorice valoroase.
@@ -178,7 +178,7 @@ Pe lângă slujbele religioase, multe biserici și mănăstiri organizează și 
 ---
 ## Participă la un atelier de creație
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/dans.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/dans.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Capitala oferă o gamă largă de ateliere și workshop-uri pentru persoanele interesate să-și dezvolte abilitățile artistice, să învețe tehnici noi și să socializeze cu alți pasionați. Aceste oportunități educative și distractive sunt disponibile pentru toate vârstele și nivelele de experiență.
@@ -198,7 +198,7 @@ Pe lângă acestea, Bucureștiul oferă o mulțime de alte ateliere și workshop
 ---
 ## Descoperă piețele locale
 
-<img src="https://totredus.b-cdn.net/assets/images/travel/duminica/piata.webp" width="740" height="368" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/duminica/piata.webp" width="740" height="368" alt="{{ page.keyword }};">
 
 
 Bucureștiul este cunoscut pentru diversitatea și autenticitatea piețelor sale locale, care aduc împreună fermierii, meșteșugarii și comercianții din toate colțurile țării. 

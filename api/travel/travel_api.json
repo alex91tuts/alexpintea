@@ -6,7 +6,7 @@ layout: null
 	{
 		"titlu": "{{ trip.title }}",
 		"data": "{{ trip.date | date_to_string }}",
-		"imagine": "{{ trip.image }}",
+		"imagine": "{{ trip.image | replace: ".webp", "_mobile.webp" }}",
 		"link": "{{ trip.url }}",
 		"oras": "{{ trip.oras }}",
 		"categorie": "{{ trip.tara }}",
