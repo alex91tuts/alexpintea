@@ -4,7 +4,7 @@ title: "Turnul Belem | Lisabona | Portugalia"
 descriere: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝  
 description: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝ 
 meta_image: assets/images/travel/bucuresti/main.webp 
-image: https://manerhic.sirv.com/assets/images/travel/belem/main.webp
+image: /assets/images/travel/belem/main.webp
 author: "Fabrica de amintiri"
 tara: PORTUGALIA
 oras: LISABONA
@@ -15,20 +15,17 @@ tags: ['București', 'capitale', 'belem']
 
 ---
 
-**_Lisabona este un oraș vibrant, cu o viață culturală și artistică bogată, muzee, parcuri, străzi comerciale și bulevarde elegante. 
+**_Lisabona este un oraș vibrant, cu o viață culturală și artistică bogată, muzee, parcuri, străzi comerciale și bulevarde elegante. Cele mai cunoscute obiective turistice includ Castelul Sao Jorge, Turnul Belem, Catedrala din Lisabona, Muzeul de Artă Antică și Oceanariumul din Lisabona._** 
 
-Cele mai cunoscute obiective turistice includ Castelul Sao Jorge, Turnul Belem, Catedrala din Lisabona, Muzeul de Artă Antică și Oceanariumul din Lisabona._** 
-
-Lisabona este capitala și cel mai mare oraș al Portugaliei, situat pe malul râului Tajo, la aproximativ 20 km de vărsarea acestuia în Oceanul Atlantic. 
-
-Orașul este renumit pentru clădirile sale istorice, străzile pietruite, tramvaiele vechi și peisajele frumoase de pe coasta oceanului.
+Lisabona este capitala și cel mai mare oraș al Portugaliei, situat pe malul râului Tajo, la aproximativ 20 km de vărsarea acestuia în Oceanul Atlantic. Orașul este renumit pentru clădirile sale istorice, străzile pietruite, tramvaiele vechi și peisajele frumoase de pe coasta oceanului.
 
 Vezi [aici un top atracții turistice în Lisabona](https://totredus.ro/travel/atractii-turistice-bucuresti/).
 
 ## Turnul Belem
 ---
 
-<img src="https://manerhic.sirv.comhttps://manerhic.sirv.com/assets/images/travel/belem/1.webp" width="740" height="555" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/belem/1.webp" width="740" height="555" alt="{{ page.keyword }};">
+
 
 Turnul Belem este o fortăreață din secolul al XVI-lea situată în Lisabona, Portugalia. Turnul a fost construit între 1514 și 1520, sub conducerea arhitectului Francisco de Arruda, în stil manuelin, o formă de arhitectură portugheză distinctivă, care combină elemente gotice, renascentiste și islamice.
 
@@ -42,7 +39,7 @@ Turnul a fost folosit și ca punct de plecare pentru multe dintre expedițiile p
 
 Turnul Belem este un exemplu impresionant al arhitecturii manueline, o formă de arhitectură portugheză specifică secolului al XVI-lea. Acesta combină elemente gotice, renascentiste și islamice, reflectând în același timp bogăția și puterea Portugaliei din acea perioadă și explorările sale maritime în lumea întreagă.
 
-<img src="https://manerhic.sirv.com/assets/images/travel/belem/3.webp" width="740" height="493" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/belem/3.webp" width="740" height="493" alt="{{ page.keyword }};">
 
 ---
 ## Arhitectura exterior
@@ -66,7 +63,7 @@ La nivelul trei, se află Camera Infanteriei, o cameră care a fost folosită ca
 
 De-a lungul timpului, turnul a fost folosit în diferite scopuri, printre care poziție de apărare, închisoare, magazin de arme și centru meteorologic. În prezent, turnul este deschis pentru vizitatori și găzduiește diferite expoziții și evenimente culturale.
 
-<img src="https://manerhic.sirv.com/assets/images/travel/belem/5.webp" width="740" height="472" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/belem/5.webp" width="740" height="472" alt="{{ page.keyword }};">
 
 --- 
 ## Cum ajungem la turn
@@ -81,7 +78,7 @@ Taxi: Puteți lua un taxi până la Turnul Belem, dar trebuie să fiți pregăti
 
 Indiferent de modul în care alegeți să ajungeți la turn, trebuie să țineți cont că aceasta este o atracție turistică populară, astfel încât poate fi aglomerată, mai ales în sezonul turistic.
 
-<img src="https://manerhic.sirv.com/assets/images/travel/belem/4.webp" width="740" height="469" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/belem/4.webp" width="740" height="469" alt="{{ page.keyword }};">
 
 ---
 ## Concluzie
