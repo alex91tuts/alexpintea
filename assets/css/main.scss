@@ -4,12 +4,31 @@
 ---
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+//@import "yourstyle";
 @import "syntax";
-@import "yourstyle";
-@import "screen";
-@import "mobile";
-@import "general";
-
+//@import "screen";
+body p {
+	 font-size: 16px;
+    line-height: 1.84;
+	 	color: #4d545a;
+    font-family: Verdana, sans-serif;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+     font-family: Verdana, sans-serif;
+}
+ .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
+     font-weight: 700;
+     margin-bottom: 1.5rem;
+}
+#outputList li {
+	
+}
+a {
+    color: #0067d6;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
 .pareri-neg p {
 	border: dashed 1px #f080805e;
   border-radius: 10px;
