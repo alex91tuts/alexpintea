@@ -2,7 +2,7 @@
 layout: travel
 title: "Ce sa faci Duminica in Bucuresti? 10 idei inspirate"
 descriere: Descoperă 10 idei inedite și captivante pentru a petrece duminica în București, de la explorarea parcurilor și muzeelor, până la evenimente culturale și degustări de vinuri.
-description:
+description: Descoperă 10 idei inedite și captivante pentru a petrece duminica în București, de la explorarea parcurilor și muzeelor, până la evenimente culturale și degustări de vinuri.
 meta_image: assets/images/travel/duminica/main.webp 
 image: /assets/images/travel/duminica/main.webp
 author: "Fabrica de amintiri"

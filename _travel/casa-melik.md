@@ -1,8 +1,8 @@
 ---
 layout: travel
 title: "Casa Melik: O bijuterie arhitecturală în inima Bucureștiului"
-descriere: Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul, iar capitala este o opțiune excelentă.  
-description: Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul, iar capitala este o opțiune excelentă. 
+descriere: Casa Melik, situată în centrul Bucureștiului, este un simbol al patrimoniului arhitectural și cultural românesc.   
+description: Casa Melik, situată în centrul Bucureștiului, este un simbol al patrimoniului arhitectural și cultural românesc.  
 meta_image: assets/images/travel/melik/main.webp 
 image: /assets/images/travel/melik/main.webp
 author: "Fabrica de amintiri"

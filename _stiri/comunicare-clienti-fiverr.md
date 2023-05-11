@@ -8,9 +8,9 @@ categorie: MICROJOBURI
 tags: ['COMUNICARE', 'FIVERR', 'CLIENTI']
 nume: "comunicarea cu clientii Fiverr"
 author: "Happy Money"
-scor-intro: "Creează un gig atractiv pe Fiverr cu aceste sfaturi esențiale: alege titlul potrivit, descrie serviciile în detaliu și folosește imagini de impact pentru a atrage clienții."
+scor-intro: "În acest articol, vom explora cele mai bune practici pentru a comunica eficient cu clienții pe Fiverr, de la răspunsurile rapide la abordarea problemelor în mod profesionist."
 
-description: "Creează un gig atractiv pe Fiverr cu aceste sfaturi esențiale: alege titlul potrivit, descrie serviciile în detaliu și folosește imagini de impact pentru a atrage clienții."
+description: "În acest articol, vom explora cele mai bune practici pentru a comunica eficient cu clienții pe Fiverr, de la răspunsurile rapide la abordarea problemelor în mod profesionist."
 
 colors: ['red', 'green', 'blue', 'orange']
 

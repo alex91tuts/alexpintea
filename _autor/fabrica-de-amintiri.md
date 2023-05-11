@@ -1,5 +1,7 @@
 ---
 layout: autor
+description: Noi suntem Fabrica de Aminitiri, ghidul tau de calatorii si aventura.
+title: Fabrica de Amintiri
 
 ---
 
