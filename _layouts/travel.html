@@ -59,7 +59,15 @@ post_class: post-template
 <div class="container review-cont">
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}{{page.image}}"></meta>
-<div id="top-featured" class="banner-review row" style="">
+<div id="top-featured" class="banner-review row" style=
+		 "background-image: url('{{ site.url }}{{page.image}}');
+			background-image: -webkit-image-set(
+    		url('{{ site.url }}{{page.image | replace: '.webp', '_mobile.webp'}}') 1x,
+				url('{{ site.url }}{{page.image}}') 2x);
+  		background-image: image-set(
+				url('{{ site.url }}{{page.image | replace: '.webp', '_mobile.webp'}}') 1x,
+				url('{{ site.url }}{{page.image}}') 2x);
+">
   <div class="gradient">
     <div class="bread-crumbs">
 				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>
