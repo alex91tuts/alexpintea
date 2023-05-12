@@ -59,15 +59,7 @@ post_class: post-template
 <div class="container review-cont">
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}{{page.image}}"></meta>
-<div id="top-featured" class="banner-review row" style=
-		 "background-image: url('{{ site.url }}{{page.image}}');
-			background-image: -webkit-image-set(
-    		url('{{ site.url }}{{page.image | replace: '.webp', '_mobile.webp'}}') 1x,
-				url('{{ site.url }}{{page.image}}') 2x);
-  		background-image: image-set(
-				url('{{ site.url }}{{page.image | replace: '.webp', '_mobile.webp'}}') 1x,
-				url('{{ site.url }}{{page.image}}') 2x);
-">
+<div id="top-featured" class="banner-review row" style="">
   <div class="gradient">
     <div class="bread-crumbs">
 				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>
@@ -79,9 +71,9 @@ post_class: post-template
 						</div>
 				 <h1 class="banner-title">{{ page.title }}</h1>
 						<div class="review-meta">
-							<span><img src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon"><a href="{{ site.url }}/autor/fabrica-de-amintiri/"><span itemprop="author">{{ page.author }}</span></a></span> | 
-							<span><img src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> {% include reading-time.html %} </span> | 
-							<span><img src="/assets/images/svg/calendar.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
+							<span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon"><a href="{{ site.url }}/autor/fabrica-de-amintiri/"><span itemprop="author">{{ page.author }}</span></a></span> | 
+							<span><img fetchpriority="high" src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> {% include reading-time.html %} </span> | 
+							<span><img fetchpriority="high" src="/assets/images/svg/calendar.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
 						</div>
 				</div>
     </div>
@@ -95,7 +87,7 @@ post_class: post-template
 			
 		
  <div>
-	 <div style="text-align: center;"><img class="" src="/assets/images/svg/reading.svg" alt="{{ page.title }}" width="100" height="100"></div>
+	 <div style="text-align: center;"><img fetchpriority="high" class="" src="/assets/images/svg/reading.svg" alt="{{ page.title }}" width="100" height="100"></div>
 	 <div itemprop="reviewBody" id="continut" class="reviewBody">
    	{{content}}
 	 </div>
