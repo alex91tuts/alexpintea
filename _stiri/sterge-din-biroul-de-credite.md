@@ -63,14 +63,6 @@ Legea care reglementează activitatea Biroului de Credit este Legea nr. 677/2001
 
 Aceasta, împreună cu Decizia nr. 105/2007 emisă de Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal, stabilește ce fel de date pot fi înregistrate la instituțiile de tipul birourilor de credit, precum și drepturile consumatorilor în legătură cu aceste înregistrări.
 
-În contextul în care consumatorul inițiază procedura de dare în plată a imobilului cu care s-a garantat convenția de credit, conform Legii nr. 77/2016, toate plățile către bancă sunt suspendate, și nu pot fi înregistrate ca evenimente negative în baza de date a birourilor de credit.
-
-Orice înregistrare care nu este însoțită de acordul consumatorului este considerată abuzivă.
-
-Consumatorii au, de asemenea, dreptul de a fi înștiințați asupra raportărilor de date pozitive sau negative, dreptul de a se opune înregistrărilor, dreptul de a solicita remedierea situației produse prin înregistrări (ștergerea acestora, modificarea acestora, retragerea, anularea și reevaluarea oricărei decizii care a fost luată pe baza înregistrărilor respective), și dreptul de a se adresa justiției pentru remedierea deficiențelor și acoperirea prejudiciului suferit din cauza înregistrării abuzive a datelor.
-
-În concluzie, în cazul în care instituția bancară a efectuat raportări la biroul de credit împotriva consumatorului titular al convenției de credit, acesta poate contesta cu succes măsura aplicată, uzând de mijloacele legale expuse.
-
 ### Structura Dosarului în Biroul de Credite
 
 Dosarul din Biroul de Credite conține informații detaliate despre istoricul creditelor, incluzând date despre restanțe și eventualele incidente de plată. Acesta este un instrument esențial pentru instituțiile financiare în evaluarea riscului atunci când oferă un nou credit sau produs financiar.
