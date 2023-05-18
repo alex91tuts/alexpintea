@@ -12,13 +12,14 @@ categorie: CITY BREAK
 lang: ro_RO
 keyword: "locuri de vizitat in rasnov"
 date: 2023-05-17
+date-modified: 2023-05-18
 tags: ['Rasnov', 'Locuri de vizitat', '2023']
 
 ---
 
 Râșnov este o destinație pitorească, plină de istorie și aventură, ce îmbină frumusețea naturală cu atracțiile culturale și distracțiile pentru toate vârstele. 
 
-În Râșnov, vizitatorii pot explora Cetatea Râșnov, un vechi baluarte de apărare cu vederi panoramice impresionante, pot descoperi lumea preistorică la Dino Parc, cel mai mare parc de dinozauri din Sud-Estul Europei, și pot explora frumusețea subterană la Peștera Valea Cetății. 
+În Râșnov, poți vizita Cetatea Râșnov, un vechi baluarte de apărare cu vederi panoramice impresionante, pot descoperi lumea preistorică la Dino Parc, cel mai mare parc de dinozauri din Sud-Estul Europei, și pot explora frumusețea subterană la Peștera Valea Cetății. 
 
 Alte atracții includ Cheile Râșnoavei, perfecte pentru iubitorii de drumeții, Peștera Râșnoavei, Baza Olimpică Râșnov pentru fanii sporturilor de iarnă, Biserica Evanghelică, o bijuterie de arhitectură gotică, și Strada Cetății, o stradă istorică plină de farmec și atmosferă. 
 
@@ -27,7 +28,7 @@ Acestea sunt doar câteva dintre comorile pe care Râșnov le are de oferit.
 ---
 ## Cetatea Râșnov 
 
-Vizita la Cetatea Râșnov este absolut esențială pentru oricine explorează această zonă. 
+Vizita la **[Cetatea Râșnov](https://totredus.ro/travel/cetatea-rasnov/)** este absolut esențială pentru oricine explorează această zonă. 
 
 Construită în secolul XIV, Cetatea Râșnov este una dintre cele mai bine conservate fortărețe medievale din Transilvania. Amplasarea sa strategică, pe vârful unui deal, oferă o vedere panoramică de neegalat asupra întregii zone.
 
