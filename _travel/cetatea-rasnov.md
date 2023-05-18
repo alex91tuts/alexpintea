@@ -21,6 +21,45 @@ tags: ['Rasnov', 'Cetate', '2023']
 
 În inima istoriei românești, ascunsă între crestele Carpaților, se află un adevărat tezaur de patrimoniu cultural: **Cetatea Râșnov.** Vizitată anual de mii de turiști și cercetători, aceasta constituie un punct de reper fascinant pentru înțelegerea istoriei noastre medievale.
 
+---
+## Program Vizitare
+
+În acest moment cetatea Râșnov este închisă pentru restaurare. 
+
+Se poate vizita doar grădina / partea de jos a cetații, nu se percepe taxa de vizitare iar programul este de la 9.00 – 18.00.
+
+---
+## Cum ajungi la Cetatea Râșnov?
+
+Cetatea Râșnov, bijuteria Carpaților, este accesibilă atât pentru turiștii locali cât și pentru cei internaționali. În continuare vom detalia cum să ajungi la această destinație impresionantă.
+
+### 1. Transportul Public
+
+Cetatea Râșnov se află la doar 15 kilometri de Brașov, un oraș bine conectat la rețeaua de transport public. Există autobuze regulate care pleacă din Brașov spre Râșnov. De la stația de autobuz din Râșnov, Cetatea este la o plimbare scurtă de aproximativ 20 de minute.
+
+### 2. Cu Mașina
+
+Dacă alegi să călătorești cu mașina, poți urma drumul național DN73 care leagă Brașovul de Râșnov. Există un parc de parcare spațios în apropierea Cetății, asigurând astfel că vizitatorii pot parca mașinile în siguranță.
+
+---
+## Facilități la Cetatea Râșnov
+
+Cetatea Râșnov pune la dispoziție o serie de facilități pentru a asigura o experiență plăcută pentru toți vizitatorii.
+
+### 1. Mâncare și Băutură
+
+La fața locului veți găsi numeroase opțiuni de restaurante și terase unde puteți savura preparate locale sau clasice. De la gustări rapide la mese copioase, există opțiuni pentru toate gusturile.
+
+### 2. Toalete
+
+Sunt disponibile toalete curate și bine întreținute pentru vizitatori. Acestea sunt amplasate în zone strategice, ușor accesibile.
+
+### 3. Accesul Persoanelor cu Dizabilități
+
+Cetatea Râșnov este dedicată oferirii unei experiențe accesibile tuturor. Cu toate acestea, datorită structurii istorice, unele zone pot fi mai greu accesibile. Se recomandă ca vizitatorii cu dizabilități de mobilitate să contacteze înainte pentru informații detaliate.
+
+În concluzie, Cetatea Râșnov nu este doar un monument istoric impresionant, ci și o destinație turistică accesibilă și prietenoasă. Indiferent de modalitatea de transport sau nevoile individuale, vizitatorii se pot aștepta la o experiență memorabilă.
+
 ### Cetatea Râșnov - Un Monument al Istoriei și Culturii
 
 Cetatea Râșnov se ridică impunătoare pe o stâncă, la o altitudine de aproape 200 de metri deasupra **[orașului Râșnov](https://totredus.ro/travel/locuri-vizitat-rasnov/)**.
@@ -46,6 +85,21 @@ Importanța acestei fortărețe nu se rezumă doar la valoarea sa istorică. Ea 
 Cetatea Râșnov este, așadar, o adevărată capsulă a timpului, un loc unde trecutul, prezentul și viitorul se întâlnesc și se împletesc într-o poveste fascinantă despre istoria României. 
 
 Este un loc de vizitat obligatoriu pentru orice iubitor de istorie și cultură, oferind o experiență de neuitat, un izvor de cunoaștere și inspirație.
+
+---
+## Muzeul de Artă Feudală din Cetatea Râșnov
+
+În inima Cetății Râșnov se află un tezaur ascuns, o comoară culturală care poartă vizitatorii înapoi în timp: Muzeul de Artă Feudală. Acest muzeu reprezintă un punct de interes major pentru vizitatori, adăpostind o serie de exponate care reflectă viața și cultura din Evul Mediu.
+
+Colecția muzeului este impresionantă, cuprinzând o serie de obiecte istorice, artistice și arheologice. Vizitatorii vor descoperi aici diverse exponate, de la arme și armuri medievale la obiecte de uz casnic, toate ilustrând modul de viață al locuitorilor Cetății Râșnov în timpul Evului Mediu.
+
+Armele și armurile din colecția muzeului ne oferă o perspectivă asupra luptelor și asediilor care au avut loc în cetate, fiecare piesă având propria sa poveste. De la sabii robuste, la armuri strălucitoare și arcuri cu săgeți, aceste obiecte ne oferă o idee despre strategiile militare și tehnicile de luptă utilizate în acea perioadă.
+
+În plus, obiectele de uz casnic și cele de mestesugărit ne oferă o imagine a vieții cotidiene în cetate. Acestea includ obiecte precum unelte agricole, ustensile de bucătărie, și diverse obiecte de ceramică, toate sugerează o comunitate autarică care a supraviețuit și s-a adaptat în condiții de asediu.
+
+Muzeul de Artă Feudală din Cetatea Râșnov oferă, de asemenea, o colecție impresionantă de artă medievală. Aceasta include picturi, tapiserii și sculpturi care reflectă credințele și valorile culturale ale societății din acea perioadă.
+
+O vizită la acest muzeu nu este doar o ocazie de a vedea aceste exponate unice, dar și de a învăța despre istoria și cultura României în timpul Evului Mediu. Fiecare obiect din colecția muzeului ne povestește un fragment din istoria noastră, transformând o vizită la Cetatea Râșnov într-o călătorie fascinantă prin timp.
 
 ---
 ## Istoricul Cetății Râșnov

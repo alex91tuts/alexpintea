@@ -44,8 +44,43 @@ Muzeul de artă feudală din interiorul cetății este un alt punct de atracție
 
 Fiecare colțișor al cetății păstrează povești vechi, iar atmosfera de aici te poartă într-o altă epocă.
 
+În acest moment cetatea Râșnov este închisă pentru restaurare. 
+
+Se poate vizita doar grădina / partea de jos a cetații, nu se percepe taxa de vizitare iar programul este de la 9.00 – 18.00.
+
 ---
 ## Dino Parc
+
+---
+Program: 
+
+Luni – Joi:  10:00 – 17:00 
+
+Vineri – Sâmbătă: 10:00 – 18:00
+
+Duminică: 10:00 – 17:30
+
+Tarif vizitare:
+
+Copiii < 3 ani – gratuit;  
+
+Copii 3 – 18 ani – 32 lei / pers.
+
+Adulți – 42 lei / pers.
+
+Pensionari si studenti – 35 lei / pers.
+
+Oferte de grup: 
+
+Copii > 15 copii (elevi / prescolari) – 27 lei/ copil;
+
+1 adult gratuit la fiecare 10 copii;
+
+Familie numeroasa (minim 4 membri) 20% discount pentru copii – 27 lei/ copil.
+
+Contact: 0741208711;  e-mail: info@dinoparc.ro  
+
+---
 
 Dino Parc, situat în apropiere de centrul orașului Râșnov, este o adevărată oază de distracție și învățare pentru întreaga familie. 
 
@@ -76,6 +111,22 @@ De asemenea, există un magazin de suveniruri, unde vizitatorii pot achiziționa
 
 ---
 ## Pestera Rasnov - Valea Cetății
+
+---
+Program:
+
+luni – duminica:  10.00 – 18.00 
+
+Tarif vizitare:
+
+Copil (3 – 14 ani) – 10 lei
+
+Adult – 20 lei
+
+Adresa: Valea Cetatii nr. DN1 E, Rasnov – Brasov
+
+Contact: 0764.397573 ; e-mail : contact@valeacetatii.ro
+---
 
 **Peștera Valea Cetății**, situată la o distanță de aproximativ 2 km de centrul orașului Râșnov, este un adevărat cadru natural care îți taie răsuflarea. 
 
@@ -135,7 +186,17 @@ De asemenea, Peștera Râșnoavei are un rol important în istoria locală. Se s
 Așadar, vizitarea Peșterii Râșnoavei este o oportunitate de a te conecta cu natura, de a învăța despre geologie și de a te scufunda în istoria acestui loc. În plus, peștera oferă o experiență de aventură, făcând-o o destinație perfectă pentru cei curioși și dornici de a explora lumea subterană.
 
 ---
-## Baza Olimpica Râșnov
+## Sărituri cu schiuri Râșnov - Baza olimpica
+
+---
+
+Adresa: Rasnov – Valea Carbunarii
+
+Nu se percepe tarif pentru vizitare.
+
+Acces doar pe timpul zilei. 
+
+---
 
 De la începutul anului 2009, Valea Carbunarii a devenit gazda unui proiect de anvergură: construcția primei baze olimpice pentru sărituri cu schiurile din România. 
 
