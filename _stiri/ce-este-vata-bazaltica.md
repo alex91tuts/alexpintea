@@ -6,7 +6,7 @@ date: 2023-05-20
 date-modified: 
 categorie: DESIGN INTERIOR
 tags: ['Izolatie', 'Vata', 'Bazaltica']
-nume: riflaj aluminiu
+nume: "ce este vata bazaltica"
 author: "Home Best"
 scor-intro: Descoperă ce este vata bazaltică, un material izolator de top, oferind izolare termică și fonică superioară. Perfectă pentru construcții durabile.
 
