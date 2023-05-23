@@ -11,6 +11,7 @@ oras: BUCUREȘTI
 lang: ro_RO
 keyword: "locuri de vizitat in bucuresti noaptea"
 date: 19.04.2023
+date-modified: 2023-05-23
 tags: ['București', 'capitale', 'noapte']
 
 ---
@@ -44,7 +45,48 @@ Este locul ideal pentru a socializa, a împărtăși povești și a cunoaște cu
 
 Nu uita să arunci o privire la Hanul lui Manuc, Caru' cu Bere și Strada Smârdan, câteva dintre cele mai populare și pitorești locuri din Centrul Vechi.
 
+## Activitati de neuitat 
+
+{% include cta-orizontal.html 
+imagine1="/assets/images/travel/weekendbuc/zbor-elicopter.webp" 
+descriere="Stapaneste nesfarsitul cer si bucura-te de o experienta care iti va aduce mereu un zambet pe buze!" 
+nota1="30 min"
+titlu1="Zbor cu elicopterul din Bucuresti"
+url1="https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=f936b1b54&redirect_to=https%253A//activitati-cadou.ro/idee-de-cadou-tur-in-asfintit-cu-elicopterul-in-Bucuresti-idee-de-cadou-cuplu.html" %}
+
+{% include cta-orizontal.html 
+imagine1="/assets/images/travel/weekendbuc/60min.webp" 
+descriere="Departe, pe verticala, de forfota si zumzetul pamantesc, o ora de survol cu elicopterul iti ofera o panorama absolut extraordinara" 
+nota1="60 min"
+titlu1="Chasing the sunset - Zbor elicopter 60 min"
+url1="https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=f936b1b54&redirect_to=https%253A//activitati-cadou.ro/Chasing-the-sunset-Zbor-cu-elicopterul-din-Bucuresti.html" %}
+
+{% include cta-orizontal.html 
+imagine1="/assets/images/travel/weekendbuc/glock.webp" 
+descriere="Pistoalele folosite sunt de calibru mare marcile austriece GLOCK  si sunt chiar cele folosite de Armata Americana." 
+nota1="9 mm"
+titlu1="Lectie de initiere in tir sportiv in Bucuresti"
+url1="https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=f936b1b54&redirect_to=https%253A//activitati-cadou.ro/Lectie-de-initiere-in-tir-sportiv-in-Bucuresti.html" %}
+
+{% include cta-orizontal.html 
+imagine1="/assets/images/travel/weekendbuc/offroad.webp" 
+descriere="Traieste, experimenteaza si bucura-te de o aventura cu un vehicul 4X4." 
+nota1="4x4"
+titlu1="Lectie de off-road in Bucuresti. Adrenalina!!!"
+url1="https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=f936b1b54&redirect_to=https%253A//activitati-cadou.ro/Lectie-de-off-road-in-Bucuresti-idee-de-cadou-pentru-el.html" %}
+
+{% include cta-orizontal.html 
+imagine1="/assets/images/travel/weekendbuc/survol.webp" 
+descriere="Stapaneste nesfarsitul cer si bucura-te de o experienta care iti va aduce mereu un zambet pe buze! " 
+nota1="AVION"
+titlu1="Survol de placere cu avionul in Bucuresti"
+url1="https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=f936b1b54&redirect_to=https%253A//activitati-cadou.ro/Idee-de-cadou-Survol-de-Placere-cu-Avionul-in-Bucuresti.html" %}
+
 ---
+**[VEZI TOATE IDEILE AICI](https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a8f7dc&unique=f936b1b54&redirect_to=https%253A//activitati-cadou.ro/Idei-de-cadou-in-Bucuresti.html)**
+
+---
+
 ## Cluburi și baruri, o incursiune în scena de noapte 
 
 După ce ai explorat farmecul Centrului Vechi, este timpul să te aventurezi în scena de clubbing și baruri a Bucureștiului. 
