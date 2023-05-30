@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Ce sa faci in Bucuresti | Locuri de vizitat | Top atractii turistice"
+title: " Locuri de vizitat in București | Top 20 atractii și obiective turistice"
 descriere: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi.  
 description: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi. 
 meta_image: assets/images/travel/bucuresti/main.webp 
@@ -12,7 +12,7 @@ oras: BUCUREȘTI
 lang: ro_RO
 keyword: "ce sa faci in bucuresti"
 date: 21.03.2023
-date-modified: 2023-05-06
+date-modified: 2023-05-30
 tags: ['București', 'capitale', 'atractii']
 video: "yes"
 video_thumb: "/assets/images/travel/bucuresti/video_primaverii.webp"
