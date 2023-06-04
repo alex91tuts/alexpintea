@@ -27,6 +27,9 @@ collections:
   stiri:
     output: true     
     permalink: /stiri/:path/
+  smarthome:
+    output: true     
+    permalink: /smarthome/:path/
   internet:
     output: true     
     permalink: /internet/:path/

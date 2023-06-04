@@ -4,7 +4,7 @@ image_path: applewatchse/main.webp
 meta_image: assets/images/reviews/applewatchse/main.webp
 layout: review
 date: 2023-05-16
-date-modified:
+date-modified: 2023-06-04
 categorie-review: WEARABLES
 tags: ['Apple', 'SmartWatch', 'SE2']
 nume: Apple Watch SE 2
@@ -103,7 +103,7 @@ Ecranul Retina OLED asigură o calitate superioară a imaginii, cu culori vii ș
 În plus, este rezistent la apă până la 50m, ceea ce îl face ideal pentru înot sau alte activități acvatice.
 
 
-<img src="/assets/images/reviews/applewatchse/pic1.webp" width="740" height="652" alt="{{ page.nume }}">
+<img src="/assets/images/reviews/applewatchse/pic1.webp" width="740" height="414" alt="{{ page.nume }}">
 
 ---
 ## Funcționalități și performanță
@@ -118,6 +118,8 @@ Senzorii de ritm cardiac monitorizează cu precizie sănătatea inimii tale, iar
 <span class="drop-caps">A</span>utonomia bateriei este un alt punct forte al Apple Watch SE 2. O încărcare completă îți asigură până la 18 ore de utilizare, ceea ce îți permite să te bucuri de funcționalitățile sale pe parcursul întregii zile. 
 
 În ceea ce privește compatibilitatea, acest ceas inteligent funcționează exclusiv cu dispozitivele iOS, asigurând o integrare perfectă cu iPhone-ul tău.
+
+<img src="/assets/images/reviews/applewatchse/pic2.webp" width="740" height="414" alt="{{ page.nume }}">
 
 ---
 ## Apple Watch SE 2 vs. Samsung Galaxy Watch 4

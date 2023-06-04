@@ -27,6 +27,18 @@ robots: YES
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 	,
+	{% for post in site.smarthome %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.categorie }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}",
+	    "image"     : "{{site.url}}/assets/images/{{ post.image_path }}",
+	    "description"     : "{{ post.description }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+	,
 	{% for post in site.reviews %}
     {
       "title"    : "{{ post.title | escape }}",
@@ -39,3 +51,4 @@ robots: YES
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
+
