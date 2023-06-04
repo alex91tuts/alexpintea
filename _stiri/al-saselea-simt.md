@@ -29,6 +29,8 @@ Al șaselea simț la elctrocasnice le conferă capbilitatea să învețe și să
 
 În acest moment al procesului de dezvoltare pentru al șaselea simț la electrocasnice, majoritatea producătorilor se concentrează pe creșterea nivelului de inteligență al aparatelor prin încorporarea tehnologiilor AI (inteligență artificială) în ele, astfel încât să poată oferi experiențe mai bune utilizatorilor.
 
+** Citește și: [CASA INTELIGENTA - UN GHID COMPLET](https://totredus.ro/smarthome/casa-inteligenta/)**
+
 Cu toate acestea, pe măsură ce AI continuă să se îmbunătățească exponențial în timp, este probabil ca aceleași tehnologii să permită în cele din urmă aparatelor nu numai să înțeleagă nevoile noastre, ci și să le prezică; în esență, oferindu-le o înțelegere mult mai bună a comportamentului uman, care ne-ar putea conduce în cele din urmă într-o eră complet nouă pentru tehnologia de automatizare a locuinței.
 
 <img src="/assets/images/stiri/simt/temperatura.webp" width="740" height="400" alt="{{ page.title }}">

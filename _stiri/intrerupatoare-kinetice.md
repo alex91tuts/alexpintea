@@ -41,6 +41,8 @@ Dacă până acum întrerupătoarele tradiționale cu cabluri și butoane erau n
 
 Acestea oferă o alternativă wireless și fără baterii pentru controlul luminilor și altor dispozitive electrice, prin intermediul mișcării mecanice. 
 
+** Citește și: [CASA INTELIGENTA - UN GHID COMPLET](https://totredus.ro/smarthome/casa-inteligenta/)**
+
 Funcționând pe baza electromagnetismului și a undelor radio, întrerupătoarele kinetice sunt o soluție inteligentă și sustenabilă pentru controlul dispozitivelor electrice în casă sau la birou. 
 
 În acest articol, vom explora mai în detaliu ce sunt întrerupătoarele kinetice, cum funcționează acestea, avantajele și dezavantajele lor, aplicațiile și utilizările comune, precum și cum să instalați și să utilizați un întrerupător kinetic în casa sau la birou.

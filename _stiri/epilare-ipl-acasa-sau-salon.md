@@ -12,7 +12,6 @@ scor-intro: "Descoperă avantajele și dezavantajele epilării IPL la domiciliu 
 
 description: "Descoperă avantajele și dezavantajele epilării IPL la domiciliu față de salon. Ghidul tău complet pentru a face alegerea corectă!"
 
-
 ---
 
 ## 1. Introducere

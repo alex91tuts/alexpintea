@@ -63,6 +63,8 @@ BroadLink RM4 Pro este o soluție inovatoare pentru cei care doresc să-și tran
 
 Acest hub universal permite controlul unei game largi de dispozitive IR și RF, cum ar fi televizoare, sisteme de climatizare, echipamente audio și multe altele.
 
+** Citește și: [CASA INTELIGENTA - UN GHID COMPLET](https://totredus.ro/smarthome/casa-inteligenta/)**
+
 <img src="/assets/images/reviews/broadlink/5.webp" width="740" height="738" alt="{{ page.nume }}">
 
 În acest review, vom analiza aspectele esențiale ale acestui produs, pentru a vă ajuta să decideți dacă RM4 Pro este potrivit pentru nevoile dumneavoastră.
