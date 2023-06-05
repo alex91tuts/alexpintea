@@ -53,7 +53,7 @@ post_class: post-template
 						</div>
 				 <h1 class="banner-title">{{ page.title }}</h1>
 						<div class="review-meta">
-							<span><img src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"><span itemprop="author">{{ page.author }}</span> </span> | 
+							<span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon">{%if page.author-link %}<a href="{{ site.url }}/autor/{{ page.author-link }}/"><span itemprop="author">{{ page.author }}</span></a>{% else %}<span itemprop="author">{{ page.author }}</span>{% endif %}</span> | 
 							<span><img src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon" alt="totredus icon"> {% include reading-time.html %} </span> | 
 							<span><img src="/assets/images/svg/calendar.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
 						</div>
@@ -72,6 +72,7 @@ post_class: post-template
 	 <div itemprop="reviewBody" id="continut">
    	{{content}}
 	 </div>
+	 	 {% include author.html %}
     {% include tags.html %}
 	 {% include next.html%}
 	</div>

@@ -228,7 +228,7 @@
       "tags"     : "S10 Lite, Samsung, Note Lite",
       "url"      : "/stiri/samsung-galaxy-s10-lite/",
       "date"     : "2020-01-04 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/s10lite-note10lite/main.webp",
+	    "image"     : "/assets/images/stiri/s10lite-note10lite/main.webp",
 			"author"    : "Radu",
 	    "description"     : "Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020."
     } ,
@@ -239,7 +239,7 @@
       "tags"     : "Nokia, C22, C32",
       "url"      : "/stiri/nokia-seria-c-baterii/",
       "date"     : "2022-02-24 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/nokiac22c32/main.webp",
+	    "image"     : "/assets/images/stiri/nokiac22c32/main.webp",
 			"author"    : "Radu",
 	    "description"     : "Nokia anunță că cele două terminale nou adugate în seria C vor avea o autonomie a bateriei de 3 zile"
     } ,
@@ -250,7 +250,7 @@
       "tags"     : "gig, fiverr, bani",
       "url"      : "/stiri/microjoburi-romania/",
       "date"     : "2023-01-12 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/internet/microjoburi/main.webp",
+	    "image"     : "/assets/images/internet/microjoburi/main.webp",
 			"author"    : "Damian",
 	    "description"     : "Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale."
     } ,
@@ -261,7 +261,7 @@
       "tags"     : "website, blog, online",
       "url"      : "/stiri/cum-sa-faci-un-site/",
       "date"     : "2023-01-19 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/internet/faciunsite/main.webp",
+	    "image"     : "/assets/images/internet/faciunsite/main.webp",
 			"author"    : "Damian",
 	    "description"     : "Cum sa faci un site fără să fii programator? Cu ce să începi? Care este diferența dintre Blog și Site? Răspunsuri potrivite pentru începători găsești aici."
     } ,
@@ -272,7 +272,7 @@
       "tags"     : "DCA, BUGET, INVESTITII",
       "url"      : "/stiri/dollar-cost-average/",
       "date"     : "2023-02-28 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/dca/main.webp",
+	    "image"     : "/assets/images/stiri/dca/main.webp",
 			"author"    : "Happy Money",
 	    "description"     : "DCA este o strategie care implică investirea unei sume fixe de bani într-un activ sau într-un grup de active la intervale regulate, indiferent de condițiile actuale de piață."
     } ,
@@ -283,7 +283,7 @@
       "tags"     : "FIRE, BUGET, INVESTITII",
       "url"      : "/stiri/independenta-financiara/",
       "date"     : "2023-02-28 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/independentafinanciara/main.webp",
+	    "image"     : "/assets/images/stiri/independentafinanciara/main.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit"
     } ,
@@ -294,7 +294,7 @@
       "tags"     : "TER, BUGET, INVESTITII",
       "url"      : "/stiri/total-expense-ratio/",
       "date"     : "2023-02-28 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/ter/main.webp",
+	    "image"     : "/assets/images/stiri/ter/main.webp",
 			"author"    : "Happy Money",
 	    "description"     : "TER reprezintă suma totală a cheltuielilor suportate de fond, inclusiv taxele de administrare, costurile administrative și alte cheltuieli de exploatare."
     } ,
@@ -305,7 +305,7 @@
       "tags"     : "Electrocasnice, Tehnologii, 2023",
       "url"      : "/stiri/al-saselea-simt/",
       "date"     : "2023-03-06 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/simt/main.webp",
+	    "image"     : "/assets/images/stiri/simt/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Al saselea simt la electrocasnice este capacitatea acestora de a detecta și reacționea în anumite condiții sau situații."
     } ,
@@ -316,7 +316,7 @@
       "tags"     : "Electrocasnice, Tehnologii, 2023",
       "url"      : "/stiri/casute-din-containere/",
       "date"     : "2023-03-06 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/container/main.webp",
+	    "image"     : "/assets/images/stiri/container/main.webp",
 			"author"    : "Homes",
 	    "description"     : "Căsuțele din containere sunt o formă inovatoare și modernă de construcție prin care un container maritim se transformă în locuință."
     } ,
@@ -327,7 +327,7 @@
       "tags"     : "Electrocasnice, Consum, 2023",
       "url"      : "/stiri/consum-plita-inductie/",
       "date"     : "2023-03-07 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/consuminductie/main.webp",
+	    "image"     : "/assets/images/stiri/consuminductie/main.webp",
 			"author"    : "HomeBest",
 	    "description"     : "Ce consum are o plită pe inducție? Alegem varianta pe inducție sau cea pe gaz? Vezi în acest articol si un calculator de consum."
     } ,
@@ -338,7 +338,7 @@
       "tags"     : "Electrocasnice, Consum, 2023",
       "url"      : "/stiri/castiga-bani-fiverr-romania/",
       "date"     : "2023-03-08 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/fiverrom/main.webp",
+	    "image"     : "/assets/images/stiri/fiverrom/main.webp",
 			"author"    : "Online Cash",
 	    "description"     : "În acest articol, vom explora cum poți folosi Fiverr pentru a-ți transforma timpul liber într-un venit online și cum să câștigi bani pe Fiverr din România."
     } ,
@@ -349,7 +349,7 @@
       "tags"     : "Licheni, Natura, 2023",
       "url"      : "/stiri/licheni-decorativi-interior/",
       "date"     : "2023-03-09 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/licheni/main.webp",
+	    "image"     : "/assets/images/stiri/licheni/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Lichenii stabilizați, organisme minuscule care cresc pe pietre, scoarțe de copaci și alte suprafețe, pot fi aduși în casă pentru a crea un aspect natural și plăcut."
     } ,
@@ -360,7 +360,7 @@
       "tags"     : "Hartie, Decoratiuni, 2023",
       "url"      : "/stiri/paper-craft/",
       "date"     : "2023-03-10 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/paper/main.webp",
+	    "image"     : "/assets/images/stiri/paper/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Dacă îți place să creezi cu mâinile tale, cu puțină hârtie colorată și diverse tehnici de tăiere și asamblare, poți crea obiecte de artă care vor transforma orice încăpere într-un spațiu unic și personal."
     } ,
@@ -371,7 +371,7 @@
       "tags"     : "Viteza, Net, 2023",
       "url"      : "/stiri/mareste-viteza-internet/",
       "date"     : "2023-03-11 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/speedint/main.webp",
+	    "image"     : "/assets/images/stiri/speedint/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Cum să-ți mărești viteza la net? Vezi cum să optimizezi conexiunea și cum să te bucuri de o experiență online mai rapidă și mai plăcută"
     } ,
@@ -382,7 +382,7 @@
       "tags"     : "Smart, Kinetic, 2023",
       "url"      : "/stiri/intrerupatoare-kinetice/",
       "date"     : "2023-03-13 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/kinetice/main.webp",
+	    "image"     : "/assets/images/stiri/kinetice/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Schimbă poziția unui întrerupător fără să spargi pereții. Întrerupătoarele kinetice sunt dispozitive care acționează fără fire și fără baterii."
     } ,
@@ -393,7 +393,7 @@
       "tags"     : "Riflaj, DIY, Lemn",
       "url"      : "/stiri/riflaj-cum-sa-iti-faci-singur-ieftin/",
       "date"     : "2023-03-15 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/riflaj/main.webp",
+	    "image"     : "/assets/images/stiri/riflaj/main.webp",
 			"author"    : "Radu",
 	    "description"     : "Riflajul din lemn - printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv."
     } ,
@@ -404,7 +404,7 @@
       "tags"     : "Riflaj, BoardBatten, 2023",
       "url"      : "/stiri/board-and-batten/",
       "date"     : "2023-03-18 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/board/main.webp",
+	    "image"     : "/assets/images/stiri/board/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Descoperă cum să creezi efecte superbe în designul interior folosind riflajul Board and Batten din MDF. Află pașii de instalare și finisare, cum să alegi culorile potrivite și ce avantaje."
     } ,
@@ -415,7 +415,7 @@
       "tags"     : "Riflaj, WPC, 2023",
       "url"      : "/stiri/riflaj-wpc/",
       "date"     : "2023-03-18 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/riflajwpc/main.webp",
+	    "image"     : "/assets/images/stiri/riflajwpc/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Descoperă avantajele și aplicațiile riflajelor din WPC, un material ecologic și durabil. Află cum riflajele din WPC se compară cu riflajele tradiționale din lemn sau aluminiu."
     } ,
@@ -426,7 +426,7 @@
       "tags"     : "Riflaj, Aluminiu, 2023",
       "url"      : "/stiri/riflaj-aluminiu/",
       "date"     : "2023-03-19 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/riflajalum/main.webp",
+	    "image"     : "/assets/images/stiri/riflajalum/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Riflajul din aluminiu, un material modern și durabil pentru amenajări exterioare și interioare, învățând despre avantajele sale, aplicațiile și sfaturile utile pentru instalare."
     } ,
@@ -437,7 +437,7 @@
       "tags"     : "Riflaj, Exterior, 2023",
       "url"      : "/stiri/riflaje-exterior/",
       "date"     : "2023-03-19 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/stiri/riflajext/main.webp",
+	    "image"     : "/assets/images/stiri/riflajext/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Descoperă secretele riflajelor exterioare - materiale durabile, avantaje și idei de utilizare pentru a îmbunătăți estetica și funcționalitatea spațiilor tale exterioare."
     } ,
@@ -448,7 +448,7 @@
       "tags"     : "Terasa, Lemn, DIY",
       "url"      : "/stiri/terasa-lipita-casa/",
       "date"     : "2023-04-01 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/terasa/main.webp",
+	    "image"     : "/assets/images/stiri/terasa/main.webp",
 			"author"    : "Home Best",
 	    "description"     : "Terasa din lemn lipita de casa construită în regim propriu - descoperă pașii necesari și inspirația din spatele creării unui spațiu relaxant, personalizat și aproape de natură, perfect pentru petrecerea timpului liber în aer liber."
     } ,
@@ -459,7 +459,7 @@
       "tags"     : "BUGET, PERSONAL, FINANTE",
       "url"      : "/stiri/bugetul-personal/",
       "date"     : "2023-04-24 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/bugetul/bugetul.webp",
+	    "image"     : "/assets/images/stiri/bugetul/bugetul.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Vezi aici un ghid în 6 pași despre cum să-ți gestionezi eficient finanțele prin crearea unui buget personal adaptat nevoilor tale, pentru a-ți controla veniturile, cheltuielile și a atinge obiectivele financiare."
     } ,
@@ -470,7 +470,7 @@
       "tags"     : "FOND, ETF, FINANTE",
       "url"      : "/stiri/ce-este-un-etf/",
       "date"     : "2023-04-24 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/etf/grafic.webp",
+	    "image"     : "/assets/images/stiri/etf/grafic.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Învață despre ETF-uri printr-un ghid simplu și prietenos, care explică conceptele de bază și te ajută să înțelegi cum poți folosi ETF-urile în portofoliul tău de investiții."
     } ,
@@ -481,7 +481,7 @@
       "tags"     : "EDUCATIE, COPII, EXEMPLU",
       "url"      : "/stiri/educatie-financiara-copii/",
       "date"     : "2023-04-24 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/fincopii/main.webp",
+	    "image"     : "/assets/images/stiri/fincopii/main.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Descoperă cum să îți înveți copiii despre educația financiară prin metoda învățării prin exemplu, abordând teme precum economisirea, investițiile și responsabilitatea financiară."
     } ,
@@ -492,7 +492,7 @@
       "tags"     : "FOND, URGENTA, FINANTE",
       "url"      : "/stiri/fondul-de-urgenta/",
       "date"     : "2023-04-24 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/urgenta/fond.webp",
+	    "image"     : "/assets/images/stiri/urgenta/fond.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Află de ce este important să ai un fond de urgență, cum să stabilești dimensiunea potrivită a acestuia și cum să îl construiești pentru a-ți asigura stabilitatea financiară în situații neprevăzute."
     } ,
@@ -503,7 +503,7 @@
       "tags"     : "ACTIUNI, BURSA, FINANTE",
       "url"      : "/stiri/ce-sunt-actiunile/",
       "date"     : "2023-04-27 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/actiuni/actiuni.webp",
+	    "image"     : "/assets/images/stiri/actiuni/actiuni.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Descoperă cum să investești în acțiuni pe bursă cu acest ghid esențial pentru începători, care te va învăța despre acțiuni, piața bursieră și strategii pentru a-ți crește investițiile."
     } ,
@@ -514,7 +514,7 @@
       "tags"     : "SEO, SEMRUSH, GRATIS",
       "url"      : "/stiri/semrush-gratis/",
       "date"     : "2023-04-28 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/semrush/sem.webp",
+	    "image"     : "/assets/images/stiri/semrush/sem.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Vezi cum sa ai acces la semrush Pro GRATUIT timp de 30 de zile! Descoperă cele mai bune strategii SEO și de marketing digital pentru a-ți crește vizibilitatea și traficul site-ului. Profită acum de această ofertă limitată!"
     } ,
@@ -525,7 +525,7 @@
       "tags"     : "COMUNICARE, FIVERR, CLIENTI",
       "url"      : "/stiri/comunicare-clienti-fiverr/",
       "date"     : "2023-05-07 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/seriefiverr/comunicare.webp",
+	    "image"     : "/assets/images/stiri/seriefiverr/comunicare.webp",
 			"author"    : "Happy Money",
 	    "description"     : "În acest articol, vom explora cele mai bune practici pentru a comunica eficient cu clienții pe Fiverr, de la răspunsurile rapide la abordarea problemelor în mod profesionist."
     } ,
@@ -536,7 +536,7 @@
       "tags"     : "EDUCATIE, FIVERR, GIG",
       "url"      : "/stiri/gig-atractiv-fiverr-tutorial/",
       "date"     : "2023-05-07 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/seriefiverr/gig-atractiv.webp",
+	    "image"     : "/assets/images/stiri/seriefiverr/gig-atractiv.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Creează un gig atractiv pe Fiverr cu aceste sfaturi esențiale: alege titlul potrivit, descrie serviciile în detaliu și folosește imagini de impact pentru a atrage clienții."
     } ,
@@ -547,7 +547,7 @@
       "tags"     : "NIVELURI, FIVERR, CLIENTI",
       "url"      : "/stiri/niveluri-fiverr-seller/",
       "date"     : "2023-05-07 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/seriefiverr/levels.webp",
+	    "image"     : "/assets/images/stiri/seriefiverr/levels.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Aflați mai multe despre ceea ce înseamnă nivelurile de vânzător Fiverr și cum puteți avansa în această ierarhie."
     } ,
@@ -558,7 +558,7 @@
       "tags"     : "RATING, FIVERR, RECENZII",
       "url"      : "/stiri/rating-fiverr/",
       "date"     : "2023-05-07 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/seriefiverr/rating.webp",
+	    "image"     : "/assets/images/stiri/seriefiverr/rating.webp",
 			"author"    : "Happy Money",
 	    "description"     : "În acest articol, vom explora modul în care funcționează sistemul de rating și recenzii pe Fiverr, cum să îl folosești în avantajul tău și cum să îți îmbunătățești ratingul și recenziile ca freelancer."
     } ,
@@ -569,7 +569,7 @@
       "tags"     : "BIROU, CREDIT, FINANTE",
       "url"      : "/stiri/sterge-din-biroul-de-credite/",
       "date"     : "2023-05-16 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/biroucredite/birou.webp",
+	    "image"     : "/assets/images/stiri/biroucredite/birou.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Aflați cum să vă ștergeți din Biroul de Credite și să vă îmbunătățiți scorul de credit. Sfaturi utile, proceduri legale și multe altele pentru a vă asigura independența financiară."
     } ,
@@ -580,7 +580,7 @@
       "tags"     : "Izolatie, Vata, Bazaltica",
       "url"      : "/stiri/ce-este-vata-bazaltica/",
       "date"     : "2023-05-20 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/vata-bazaltica/vata-bazaltica.webp",
+	    "image"     : "/assets/images/stiri/vata-bazaltica/vata-bazaltica.webp",
 			"author"    : "Home Best",
 	    "description"     : "Descoperă ce este vata bazaltică, un material izolator de top, oferind izolare termică și fonică superioară. Perfectă pentru construcții durabile."
     } ,
@@ -591,7 +591,7 @@
       "tags"     : "Inverter, AC, Electrocasnice",
       "url"      : "/stiri/inverter-aer-conditionat/",
       "date"     : "2023-05-20 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/inverter/inverter.webp",
+	    "image"     : "/assets/images/stiri/inverter/inverter.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperiți principalii producători de aparate de aer condiționat cu inverter: Daikin, Mitsubishi Electric, LG, Samsung, și Toshiba. Aflați despre eficiența și caracteristicile lor distincte"
     } ,
@@ -602,7 +602,7 @@
       "tags"     : "IPL, LASER, EPILARE",
       "url"      : "/stiri/epilarea-ipl-vs-laser/",
       "date"     : "2023-05-25 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/iplvslaser/ipl-vs-laser.webp",
+	    "image"     : "/assets/images/stiri/iplvslaser/ipl-vs-laser.webp",
 			"author"    : "Andreea",
 	    "description"     : "Descoperă diferitele metode de epilare definitivă, comparând IPL și laser. Află care este cea mai potrivită pentru tine în acest ghid detaliat și informativ."
     } ,
@@ -613,7 +613,7 @@
       "tags"     : "IPL, ACASA, SALON",
       "url"      : "/stiri/epilare-ipl-acasa-sau-salon/",
       "date"     : "2023-05-30 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/iplvslaser/epilare-salon.webp",
+	    "image"     : "/assets/images/stiri/iplvslaser/epilare-salon.webp",
 			"author"    : "Andreea",
 	    "description"     : "Descoperă avantajele și dezavantajele epilării IPL la domiciliu față de salon. Ghidul tău complet pentru a face alegerea corectă!"
     } ,
@@ -624,7 +624,7 @@
       "tags"     : "IPL, RISCURI, EPILARE",
       "url"      : "/stiri/riscuri-epilare-ipl/",
       "date"     : "2023-05-30 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/stiri/iplvslaser/riscuri-epilare.webp",
+	    "image"     : "/assets/images/stiri/iplvslaser/riscuri-epilare.webp",
 			"author"    : "Andreea",
 	    "description"     : "Descoperă ce înseamnă epilarea IPL și cunoaște riscurile asociate. Informatiile noastre detaliate te ajută să te pregătești corect pentru tratament și să eviți potențialele neplăceri. Fii informat și fii în siguranță."
     } 
@@ -633,13 +633,24 @@
 	
     {
       "title"    : "Casa Inteligentă: Cum să Creezi un Smart Home Eficient și Practic",
-      "category" : "ELECTROCASNICE",
+      "category" : "SMARTHOME",
       "tags"     : "SMART, CASA, INTELIGENTA",
       "url"      : "/smarthome/casa-inteligenta/",
       "date"     : "2023-06-04 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/smart/casa-inteligenta/smart-home-sistem.webp",
+	    "image"     : "/assets/images/smart/casa-inteligenta/smart-home-sistem.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Casa inteligentă: un ghid complet pentru automatizarea locuinței. Descoperă tehnologiile moderne și avantajele sistemelor inteligente. Transformă-ți casa într-o locuință conectată!"
+    } ,
+  
+    {
+      "title"    : "Iluminat Inteligent: Ghidul Esențial pentru Casa Ta",
+      "category" : "SMARTHOME",
+      "tags"     : "SMART, CASA, ILUMINAT",
+      "url"      : "/smarthome/sistem-iluminat-inteligent/",
+      "date"     : "2023-06-04 00:00:00 +0300",
+	    "image"     : "/assets/images/smart/iluminat/sistem-iluminat.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Explorați pașii esențiali pentru a crea un sistem de iluminat inteligent în casa dumneavoastră. Transformați-vă locuința într-un spațiu mai sigur și confortabil."
     } 
   
 	,
@@ -650,7 +661,7 @@
       "tags"     : "huawei, premium, 2019",
       "url"      : "/review/huawei-p30-pro-review-un-smartphone-cu-superputeri/",
       "date"     : "2019-04-25 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/huaweip30pro.webp",
+	    "image"     : "/assets/images/reviews/huaweip30pro.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Huawei P30 Pro Pareri, Preturi, Specificatii - Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului."
     } ,
@@ -661,7 +672,7 @@
       "tags"     : "huawei, p20 lite, 2019",
       "url"      : "/review/huawei-p20-lite-review-pareri/",
       "date"     : "2019-05-13 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/huawei-p20-lite.webp",
+	    "image"     : "/assets/images/reviews/huawei-p20-lite.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Huawei P20 Lite Pareri, Preturi, Specificatii - Un smartphone mid-range bun ce capturează esența seriei P20, cu specificații medii la un preț accesibil."
     } ,
@@ -672,7 +683,7 @@
       "tags"     : "huawei, pSmart, 2019",
       "url"      : "/review/huawei-p-smart-review/",
       "date"     : "2019-12-31 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/reviews/psmart/psmart-main.webp",
+	    "image"     : "/assets/images/reviews/psmart/psmart-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Huawwei P Smart 2019 Pareri, Pret, Specificatii - Un smartphone ce oferă o experiență surprinzătoare, un design curat și simplu și un set impresionant de caracteristici."
     } ,
@@ -683,7 +694,7 @@
       "tags"     : "huawei, top, 2023",
       "url"      : "/review/pareri-telefoane-huawei/",
       "date"     : "2020-01-06 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/reviews/pareri-huawei/logo-huawei.webp",
+	    "image"     : "/assets/images/reviews/pareri-huawei/logo-huawei.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Pareri Telefoane Huawei - Huawei nu mai este o companie de ignorat. Cu tot mai multe terminale pe piața premium, compania se bate de la egal la egal cu Samsung, LG sau Sony. Însă în lumina unei încăierări dintre SUA și China, Huawei a fost printre entitățile care au avut de pierdut."
     } ,
@@ -694,7 +705,7 @@
       "tags"     : "Lenovo, M2, 2023",
       "url"      : "/review/trotineta-electrica-lenovo-m2/",
       "date"     : "2023-02-20 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/reviews/lenovom2/lenovo4.webp",
+	    "image"     : "/assets/images/reviews/lenovom2/lenovo4.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Trotineta Lenovo M2, o optiune perfecta pentru cei care își doresc o trotineta calitativă fără să cheltuiască mulți bani."
     } ,
@@ -705,7 +716,7 @@
       "tags"     : "Inokim, Premium, 2023",
       "url"      : "/review/trotineta-electrica-inokim-ox-super/",
       "date"     : "2023-02-25 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/reviews/inokimoxsuper/main.webp",
+	    "image"     : "/assets/images/reviews/inokimoxsuper/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Trotineta electrică Inokim Ox Super este un scuter electric uimitor, cu câteva caracteristici cu adevărat minunate, care poate face față tuturor provocărilor la care îl supuneți."
     } ,
@@ -716,7 +727,7 @@
       "tags"     : "heinner, masina de spalat, 2023",
       "url"      : "/review/masini-spalat-heinner/",
       "date"     : "2023-03-04 00:00:00 +0200",
-	    "image"     : "http://localhost:4000/assets/images/reviews/masinispheinner/main.webp",
+	    "image"     : "/assets/images/reviews/masinispheinner/main.webp",
 			"author"    : "",
 	    "description"     : "Te-ai uitat la o mașină de spălat Heinner? Află mai multe despre aceasta din recenziile clienților și analizele experților. Acest ghid compară diferite modele și evaluează valoarea produselor."
     } ,
@@ -727,7 +738,7 @@
       "tags"     : "Broadlink, RM4, PRO",
       "url"      : "/review/broadlink-rm4-pro/",
       "date"     : "2023-04-01 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/broadlink/main.webp",
+	    "image"     : "/assets/images/reviews/broadlink/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Cu un design compact și elegant, compatibilitate extinsă și integrare cu sistemele smart home, acest produs se dovedește a fi o alegere excelentă pentru cei care doresc să-și simplifice viața."
     } ,
@@ -738,7 +749,7 @@
       "tags"     : "Remington, Placa, Par",
       "url"      : "/review/top-placi-remington/",
       "date"     : "2023-04-05 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/remington/main.webp",
+	    "image"     : "/assets/images/reviews/remington/main.webp",
 			"author"    : "Tudor Stan",
 	    "description"     : "Remington S9500 Pearl este câștigătorul datorită combinației dintre performanța excelentă, tehnologia avansată și recenziile pozitive ale clienților."
     } ,
@@ -749,7 +760,7 @@
       "tags"     : "Bosh, EasyDrill, Autofiletanta",
       "url"      : "/review/bosh-easy-drill/",
       "date"     : "2023-04-12 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/boshdrill/main.webp",
+	    "image"     : "/assets/images/reviews/boshdrill/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Bosch EasyDrill 1200 este o mașină de găurit și înșurubat excelentă pentru utilizatorul casnic și proiectele DIY. Cu un design compact și ergonomic, funcționalitate 2-în-1 și un acumulator cu încărcare rapidă, acest produs oferă un raport calitate-preț foarte bun."
     } ,
@@ -760,7 +771,7 @@
       "tags"     : "Philips, LUMEA, EPILATOR",
       "url"      : "/review/epilator-philips-lumea/",
       "date"     : "2023-04-17 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/lumea/pachet.webp",
+	    "image"     : "/assets/images/reviews/lumea/pachet.webp",
 			"author"    : "Mariana D.",
 	    "description"     : "Epilatorul IPL Philips Lumea Seria 9000 - review, păreri și informații complete despre caracteristici, preț și eficacitate. Investește într-un dispozitiv de calitate pentru îndepărtarea părului la domiciliu sau în călătorii."
     } ,
@@ -771,7 +782,7 @@
       "tags"     : "Remington, Placa de par, S9500",
       "url"      : "/review/remington-s9500-pearl/",
       "date"     : "2023-05-06 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/remington9500/utilizator.webp",
+	    "image"     : "/assets/images/reviews/remington9500/utilizator.webp",
 			"author"    : "Andreea",
 	    "description"     : "Descoperă Remington S9500 Pearl Pro Ceramic, placa de îndreptat părul cu tehnologie avansată și performanță excelentă. Află despre caracteristicile sale, comparația cu BaBylissPRO și îmbunătățirile față de modelele anterioare în acest review detaliat."
     } ,
@@ -782,7 +793,7 @@
       "tags"     : "Apple, SmartWatch, SE2",
       "url"      : "/review/apple-watch-SE-%202/",
       "date"     : "2023-05-16 00:00:00 +0300",
-	    "image"     : "http://localhost:4000/assets/images/reviews/applewatchse/main.webp",
+	    "image"     : "/assets/images/reviews/applewatchse/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Explorăm Apple Watch SE 2 (2022), ceasul inteligent cu un design elegant și funcționalități impresionante. Descoperă un review complet și obiectiv."
     } 

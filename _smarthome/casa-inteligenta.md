@@ -4,7 +4,7 @@ image_path: smart/casa-inteligenta/smart-home-sistem.webp
 layout: stiri
 date: 2023-06-04
 date-modified: 2023-06-04
-categorie: ELECTROCASNICE
+categorie: SMARTHOME
 tags: ['SMART', 'CASA', 'INTELIGENTA']
 nume: "casa inteligenta"
 author: "Alex P."
@@ -143,7 +143,7 @@ Pentru a verifica compatibilitatea:
 
 ### Personalizarea iluminatului
 
-Îți dorești o atmosferă relaxantă în living după o zi lungă la birou? Sau poate vrei să te trezești dimineața cu lumina naturală a soarelui? Într-o **casă inteligentă**, totul e posibil! Sistemele de iluminat inteligente îți permit să:
+Îți dorești o atmosferă relaxantă în living după o zi lungă la birou? Sau poate vrei să te trezești dimineața cu lumina naturală a soarelui? Într-o **casă inteligentă**, totul e posibil! **[Sistemele de iluminat inteligente](https://totredus.ro/sistem-iluminat-inteligent/)** îți permit să:
 
 *   Programezi intensitatea și culoarea luminii pentru fiecare cameră
 

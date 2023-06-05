@@ -14,6 +14,10 @@
 	<div class="imagine-post" style="background-image: url(/assets/images/{{page.previous.image_path}})">
 		<a href="{{page.previous.url}}"><span class="categ">{{page.previous.categorie}}</span></a>
 	</div>
+	{% elsif page.previous.collection == "smarthome" %}
+	<div class="imagine-post" style="background-image: url(/assets/images/{{page.previous.image_path}})">
+		<a href="{{page.previous.url}}"><span class="categ">{{page.previous.categorie}}</span></a>
+	</div>
 	{% endif %}
 	<div class="footer-post">
 		<p class="">{{page.previous.title}}</p>
@@ -35,6 +39,10 @@
 		<a href="{{page.next.url}}"><span class="categ">{{page.next.categorie-review}}</span></a>
 	</div>
 	{% elsif page.next.collection == "stiri" %}
+	<div class="imagine-post" style="background-image: url(/assets/images/{{page.next.image_path}})">
+		<a href="{{page.next.url}}"><span class="categ">{{page.next.categorie}}</span></a>
+	</div>
+	{% elsif page.next.collection == "smarthome" %}
 	<div class="imagine-post" style="background-image: url(/assets/images/{{page.next.image_path}})">
 		<a href="{{page.next.url}}"><span class="categ">{{page.next.categorie}}</span></a>
 	</div>

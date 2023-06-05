@@ -1,6 +1,8 @@
+{% if page.author-link %}
+{% if page.author == "Fabrica de amintiri" %}
 <div class="card">
     <div class="img">
-      <img src="/assets/images/fabrica.webp" alt="poza profil fabrica cu amintiri" width="100" height="100">
+      <img src="/assets/images/fabrica.webp" alt="poza profil fabrica de amintiri" width="100" height="100">
     </div>
     <div class="infos">
       <div class="name">
@@ -10,13 +12,31 @@
       </div>
       <p class="text">
         👫 Salutare! Noi suntem Damian și Simina, un cuplu de îndrăgostiți, îndrăgostit de călătorii. 😜
-				
       </p>
       <div class="links">
         <a href="{{ site.url }}/autor/fabrica-de-amintiri/"><button class="view">PROFIL</button></a>
       </div>
     </div>
   </div>
+{% elsif page.author == "Alex P." %}
+<div class="card">
+    <div class="img">
+      <img src="/assets/images/alexp1.webp" alt="poza profil alex p" width="100" height="100">
+    </div>
+    <div class="infos">
+      <div class="name">
+				<h2>Alex P.</h2>
+				<p>🍳 🏆 🏠 💱</p>
+      </div>
+      <p class="text">
+        Salut, eu sunt Alex, pasionat de tehnologie, gadgeturi și inovație.
+      </p>
+      <div class="links">
+        <a href="{{ site.url }}/autor/alexp/"><button class="view">PROFIL</button></a>
+      </div>
+    </div>
+  </div>
+{% endif %}
 
 <style>
 	/* Utilities */
@@ -143,3 +163,4 @@
 }
 
 </style>
+{% endif %}

@@ -23,7 +23,7 @@ robots: YES
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-	    "image"     : "{{site.url}}/assets/images/{{ post.image_path }}",
+	    "image"     : "/assets/images/{{ post.image_path }}",
 			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
@@ -36,7 +36,7 @@ robots: YES
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-	    "image"     : "{{site.url}}/assets/images/{{ post.image_path }}",
+	    "image"     : "/assets/images/{{ post.image_path }}",
 			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
@@ -49,7 +49,7 @@ robots: YES
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-	    "image"     : "{{site.url}}/{{ post.meta_image }}",
+	    "image"     : "/{{ post.meta_image }}",
 			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
