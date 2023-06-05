@@ -128,6 +128,8 @@ Una dintre soluțiile cu cel mai bun raport calitate-preț pentru a-ți transfor
 
 De asemenea, este de luat în considerare faptul că în cazul releelor mai vechi este necesară existența unui nul în întrerupător. Ultimele și cele mai moderne dispozitive de la Sonoff nu mai necesită legarea la un null.
 
+<img src="/assets/images/smart/iluminat/montaj-sonoff.webp" width="740" height="487" alt="montaj sonoff mini">
+
 Pentru instalarea unui Sonoff Mini, va fi necesar să oprești curentul electric în casa ta, să demontezi întrerupătorul tradițional și să conectezi Sonoff Mini la firele electrice, urmând instrucțiunile detaliate incluse în pachetul produsului.
 
 În final, vei remonta întrerupătorul la loc, iar Sonoff Mini va rămâne ascuns în spatele acestuia.
