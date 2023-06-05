@@ -10,7 +10,8 @@ tags: ['Inokim', 'Premium', '2023']
 nume: Inokim OX Super
 scoreb:
 topic: review
-author: Tudor Stan
+author: "Alex P."
+author-link: "alexp"
 procons: "yes"
 rating-value: 8.6
 opt:

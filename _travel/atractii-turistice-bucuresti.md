@@ -7,12 +7,13 @@ meta_image: assets/images/travel/bucuresti/main.webp
 image: /assets/images/travel/bucuresti/main.webp
 image_mobile: /assets/images/travel/bucuresti/main_mobile.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
 keyword: "ce sa faci in bucuresti"
 date: 21.03.2023
-date-modified: 2023-05-30
+date-modified: 2023-06-05
 tags: ['București', 'capitale', 'atractii']
 video: "yes"
 video_thumb: "/assets/images/travel/bucuresti/video_primaverii.webp"
@@ -184,6 +185,8 @@ După război, în timpul regimului comunist, s-au realizat alte lucrări de ap�
 
 Apariția rachetelor balistice și a altor tehnologii avansate de război a făcut ca sistemul tradițional de fortificații să fie în mare parte învechit, dar unele elemente ale sistemului de apărare pot fi încă observate în jurul capitalei.
 
+
+**Vezi si:[Top 15 locuri de vizitat lângă București](https://totredus.ro/travel/locuri-vizitat-langa-bucuresti/)**
 
 ---
 ## Ce sa faci in Bucuresti afara - Parcuri și grădini 

@@ -6,6 +6,7 @@ description: Pasajul Macca-Vilacrosse este un loc emblematic în București, car
 meta_image: assets/images/travel/macca/main.webp 
 image: /assets/images/travel/macca/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

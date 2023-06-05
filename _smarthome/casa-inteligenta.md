@@ -8,6 +8,7 @@ categorie: ELECTROCASNICE
 tags: ['SMART', 'CASA', 'INTELIGENTA']
 nume: "casa inteligenta"
 author: "Alex P."
+author-link: "alexp"
 scor-intro: "Casa inteligentă: un ghid complet pentru automatizarea locuinței. Descoperă tehnologiile moderne și avantajele sistemelor inteligente. Transformă-ți casa într-o locuință conectată!"
 
 description: "Casa inteligentă: un ghid complet pentru automatizarea locuinței. Descoperă tehnologiile moderne și avantajele sistemelor inteligente. Transformă-ți casa într-o locuință conectată!"
@@ -253,7 +254,7 @@ Utilizatorii pot crea scenarii personalizate pentru controlul automat al ferestr
 
 Prin personalizarea setărilor și scenariilor, casele inteligente devin mai eficiente energetic și oferă un nivel crescut de confort și siguranță pentru locuitorii lor.
 
-** Citește și: [Review Telecomandă Universală BroadLink RM4 Pro](https://totredus.ro/review/broadlink-rm4-pro/)**
+**Citește și: [Review Telecomandă Universală BroadLink RM4 Pro](https://totredus.ro/review/broadlink-rm4-pro/)**
 
 ---
 ## Siguranța și securitatea în era smart: cum să menținem o casă inteligentă protejată

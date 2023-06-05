@@ -6,12 +6,13 @@ description: Weekend-urile sunt momentul perfect pentru a vă relaxa și a explo
 meta_image: assets/images/travel/weekendbuc/main.webp 
 image: /assets/images/travel/weekendbuc/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
 keyword: "ce sa faci in bucuresti in weekend"
 date: 01.03.2023
-date-modified: 2023-05-23
+date-modified: 2023-06-30
 tags: ['București', 'capitale', 'weekend']
 
 ---
@@ -134,6 +135,7 @@ Iată câteva dintre motivele pentru care ar trebui să-ți faci timp pentru muz
 
 Așadar, dacă doriți să vă reduceți nivelul de stres, să creșteți nivelul de fericire, să vă stimulați starea de spirit sau pur și simplu să vă conectați cu alții care vă împărtășesc pasiunea pentru muzică, atunci, includeți în lista dumneavoastră de **activitati de weekend in Bucuresti**, ieșitul în oraș și spectacolele de muzică live!
 
+**Vezi si:[Top 15 locuri de vizitat lângă București](https://totredus.ro/travel/locuri-vizitat-langa-bucuresti/)**
 
 ### Explorează restaurantele:
 

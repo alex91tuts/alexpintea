@@ -6,6 +6,7 @@ description: Descoperiți Palatul Parlamentului din București, o capodoperă ar
 meta_image: assets/images/travel/melik/main.webp 
 image: /assets/images/travel/palatulparl/palatul.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

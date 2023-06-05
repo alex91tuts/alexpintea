@@ -9,7 +9,8 @@ tags: ['heinner', 'masina de spalat', '2023']
 nume: Heinner
 scoreb: no
 topic: review
-author: TechExpert
+aauthor: "Alex P."
+author-link: "alexp"
 rating-value: 8
 opt:
   - name: design

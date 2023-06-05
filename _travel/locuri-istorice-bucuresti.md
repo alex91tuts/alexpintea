@@ -6,6 +6,7 @@ description: Descoperă Casa Melik din București, o bijuterie arhitecturală î
 meta_image: assets/images/travel/locuriistorice/main.webp 
 image: /assets/images/travel/locuriistorice/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

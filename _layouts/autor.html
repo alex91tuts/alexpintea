@@ -8,13 +8,13 @@ name: Pagina de autor
     <div class="section-title">
         <h1><span>{{ page.title }}</span></h1>
     </div>
-    
+{% if page.cod == "2" %}
 <div class="container">
 <div class="row">
   <div class="row-lg-4 stic">  	
 		<div class="card-container">
 			<span class="pro">TRAVEL</span>
-			<img class="round" src="/assets/images/fabrica.jpg" alt="profil fabrica cu amintiri" />
+			<img class="round" src="/assets/images/fabrica.jpg" width="176" height="176"  alt="profil fabrica cu amintiri" />
 			<h3>FABRICA CU AMINTIRI</h3>
 			<h4>Bucuresti</h6>
 	
@@ -41,7 +41,36 @@ name: Pagina de autor
 			</div>
 		</div>
  </div>
+{% elsif page.cod == "1" %}
+<div class="container">
+<div class="row">
+  <div class="row-lg-4 stic">  	
+		<div class="card-container">
+			<span class="pro">GADGET</span>
+			<img class="round" src="/assets/images/alexp.webp" width="176" height="176"  alt="poza profil alex p" />
+			<h3>Alex P.</h3>
+			<h4>Bucuresti</h6>
 	
+			<a href="https://www.facebook.com/alexandru.pintea.1"><img class="icon-so" src="/assets/images/svg/facebook.svg" alt="facebook icon" width="30" height="20" target="_blank"></a>
+			<a href="https://www.linkedin.com/in/alex-pintea-24a02627a/"><img class="icon-so" src="/assets/images/svg/linkedin.svg" alt="youtube icon-son" width="20" height="20" target="_blank"></a>
+			<a href="https://www.instagram.com/alexpintea02/"><img class="icon-so" src="/assets/images/svg/instagram.svg" alt="instagram icon" width="30" height="20" target="_blank"></a>
+			<br>
+			
+			<div class="skills">
+				<h6>DOMENII</h6>
+				<ul>
+					<li>TEHNOLOGIE</li>
+					<li>INOVATIE</li>
+					<li>GADGETS</li>
+					<li>ELECTROCASNICE</li>
+					<li>SMARTHOME</li>
+					<li>DESIGN INTERIOR</li>
+					<li>DIY</li>
+				</ul>
+			</div>
+		</div>
+ </div>
+{% endif %}
 	<div class="col-lg-8">
 		<div class="article-post special">	
     {{content}}

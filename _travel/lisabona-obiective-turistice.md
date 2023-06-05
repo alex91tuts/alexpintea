@@ -6,6 +6,7 @@ description: În Lisabona se pot vizita numeroase obiective turistice fascinante
 meta_image: assets/images/travel/lisabona/obiective-lisabona-featured.webp 
 image: /assets/images/travel/lisabona/obiective-lisabona-featured.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: PORTUGALIA
 oras: LISABONA
 lang: ro_RO

@@ -9,7 +9,8 @@ categorie-review: SMARTPHONE
 tags: ['huawei', 'pSmart', '2019']
 nume: Huawei P Smart 2019
 topic: review
-author: Tudor Stan
+author: "Alex P."
+author-link: "alexp"
 procons: "yes"
 rating-value: 7.8
 

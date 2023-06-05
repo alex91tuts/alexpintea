@@ -6,6 +6,7 @@ description: În Istanbul 3 zile poți vizita cele mai importante atractii turis
 meta_image: assets/images/travel/citybreak/istanbul/main.webp 
 image: /assets/images/travel/citybreak/istanbul/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: TURCIA
 oras: ISTANBUL
 categorie: CITY BREAK

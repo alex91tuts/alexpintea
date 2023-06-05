@@ -1,13 +1,10 @@
 <div class="card-wrapper col-lg-6">
 	<div class="for-style">
 	<div class="imagine-post" style="background-image: url({{ trip.image }})">
-		{% if trip.oras %}
-		<a href="{{site.url }}/{{ post.category }}/index.html"><span class="categ">{{ trip.oras | upcase }}</span></a>
-		{% endif %}
 	</div>
 	<div class="footer-post">
 		<h4>{{ trip.title }}</h4>
-		<p>{{ trip.descriere }}</p>
+		<p>{{ trip.description }}</p>
 		<a href="{{ trip.url }}"><button>Citeste</button></a>
 	</div>
 	</div>

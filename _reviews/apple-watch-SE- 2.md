@@ -9,7 +9,8 @@ categorie-review: WEARABLES
 tags: ['Apple', 'SmartWatch', 'SE2']
 nume: Apple Watch SE 2
 topic: review
-author: Tudor Stan
+author: "Alex P."
+author-link: "alexp"
 procons: "yes"
 rating-value: 8.5
 

@@ -6,6 +6,7 @@ description: Casa Melik, situată în centrul Bucureștiului, este un simbol al 
 meta_image: assets/images/travel/melik/main.webp 
 image: /assets/images/travel/melik/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

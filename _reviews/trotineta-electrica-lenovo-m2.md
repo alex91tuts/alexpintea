@@ -10,7 +10,8 @@ tags: ['Lenovo', 'M2', '2023']
 nume: Lenovo M2
 scoreb:
 topic: review
-author: Tudor Stan
+author: "Alex P."
+author-link: "alexp"
 rating-value: 8.9
 procons: "yes"
 opt:

@@ -9,7 +9,8 @@ tags: ['huawei', 'top', '2023']
 nume: Huawei
 scoreb: no
 topic: review
-author: Tudor Stan
+author: "Alex P."
+author-link: "alexp"
 rating-value: 7.8
 opt:
   - name: design

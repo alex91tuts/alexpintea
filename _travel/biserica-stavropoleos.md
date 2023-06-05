@@ -6,6 +6,7 @@ description: Cu arhitectura sa unică și impresionantă, biserica Stavropoleos 
 meta_image: assets/images/travel/stavropoleos/stavropoleos.webp 
 image: /assets/images/travel/stavropoleos/stavropoleos.webp 
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

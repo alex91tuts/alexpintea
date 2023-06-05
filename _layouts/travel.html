@@ -71,7 +71,7 @@ post_class: post-template
 						</div>
 				 <h1 class="banner-title">{{ page.title }}</h1>
 						<div class="review-meta">
-							<span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon"><a href="{{ site.url }}/autor/fabrica-de-amintiri/"><span itemprop="author">{{ page.author }}</span></a></span> | 
+							<span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon">{%if page.author-link %}<a href="{{ site.url }}/autor/{{ page.author-link }}/"><span itemprop="author">{{ page.author }}</span></a>{% else %}<span itemprop="author">{{ page.author }}</span>{% endif %}</span> | 
 							<span><img fetchpriority="high" src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> {% include reading-time.html %} </span> | 
 							<span><img fetchpriority="high" src="/assets/images/svg/calendar.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
 						</div>

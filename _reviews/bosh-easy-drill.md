@@ -8,7 +8,8 @@ categorie-review: UNELTE
 tags: ['Bosh', 'EasyDrill', 'Autofiletanta']
 nume: bosh easy drill 1200
 topic: review
-author: Tudor Stan
+author: "Alex P."
+author-link: "alexp"
 procons: "yes"
 rating-value: 8.0
 

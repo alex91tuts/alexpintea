@@ -6,6 +6,7 @@ description: Descoperă Bucureștiul de noapte, un oraș vibrant și plin de ene
 meta_image: assets/images/travel/noaptea/main.webp 
 image: /assets/images/travel/noaptea/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

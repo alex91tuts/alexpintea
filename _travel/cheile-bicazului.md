@@ -6,6 +6,7 @@ description: Canionul Bicazului este o minune naturală uluitoare, cu chei  adâ
 meta_image: assets/images/travel/cheilebicazului/main.webp 
 image: /assets/images/travel/cheilebicazului/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BICAZ
 lang: ro_RO

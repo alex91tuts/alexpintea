@@ -6,6 +6,7 @@ description: Situată la poalele munților Carpați, comuna Hoghiz oferă vizita
 meta_image: assets/images/travel/hoghiz/main.webp 
 image: /assets/images/travel/hoghiz/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BRAȘOV
 lang: ro_RO

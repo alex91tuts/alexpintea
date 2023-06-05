@@ -6,6 +6,7 @@ description: "Descoperă Râșnovul, perla Carpaților cu o istorie străveche �
 meta_image: assets/images/travel/rasnov/rasnov-main.webp 
 image: /assets/images/travel/rasnov/rasnov-main.webp 
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMANIA
 oras: RASNOV
 categorie: CITY BREAK

@@ -6,6 +6,7 @@ description: "Explorează Cetatea Râșnov - bijuteria Transilvaniei. Află isto
 meta_image: assets/images/travel/cetatea-rasnov/cetatea-rasnov-main.webp 
 image: /assets/images/travel/cetatea-rasnov/cetatea-rasnov-main.webp 
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMANIA
 oras: RASNOV
 categorie: CITY BREAK

@@ -6,6 +6,7 @@ description: "În București, într-o singură zi in București poți vizita cel
 meta_image: assets/images/travel/ozi/main.webp 
 image: /assets/images/travel/ozi/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO

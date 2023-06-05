@@ -6,6 +6,7 @@ description: În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Mila
 meta_image: assets/images/travel/citybreak/Milano/main.webp 
 image: /assets/images/travel/citybreak/Milano/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ITALIA
 oras: MILANO
 categorie: CITY BREAK

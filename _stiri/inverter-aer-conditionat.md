@@ -7,7 +7,8 @@ date-modified:
 categorie: ELECTROCASNICE
 tags: ['Inverter', 'AC', 'Electrocasnice']
 nume: "ce este inverter la aerele conditionate"
-author: "Home Best"
+author: "Alex P."
+author-link: "alexp"
 scor-intro: "Descoperiți principalii producători de aparate de aer condiționat cu inverter: Daikin, Mitsubishi Electric, LG, Samsung, și Toshiba. Aflați despre eficiența și caracteristicile lor distincte"
 
 description: "Descoperiți principalii producători de aparate de aer condiționat cu inverter: Daikin, Mitsubishi Electric, LG, Samsung, și Toshiba. Aflați despre eficiența și caracteristicile lor distincte"

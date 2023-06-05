@@ -7,7 +7,8 @@ date-modified:
 categorie: INTERNET
 tags: ['Viteza', 'Net', '2023']
 nume: licheni stabilizati
-author: "Tech Guide"
+author: "Alex P."
+author-link: "alexp"
 scor-intro:  Cum să-ți mărești viteza la net? Vezi cum să optimizezi conexiunea și cum să te bucuri de o experiență online mai rapidă și mai plăcută
 
 description: Cum să-ți mărești viteza la net? Vezi cum să optimizezi conexiunea și cum să te bucuri de o experiență online mai rapidă și mai plăcută

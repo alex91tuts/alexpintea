@@ -11,6 +11,7 @@ robots: YES
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
 	    "image"     : "{{ post.image }}",
+			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
@@ -23,6 +24,7 @@ robots: YES
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
 	    "image"     : "{{site.url}}/assets/images/{{ post.image_path }}",
+			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
@@ -35,6 +37,7 @@ robots: YES
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
 	    "image"     : "{{site.url}}/assets/images/{{ post.image_path }}",
+			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
@@ -46,7 +49,8 @@ robots: YES
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-	    "image"     : "{{ post.meta_image }}",
+	    "image"     : "{{site.url}}/{{ post.meta_image }}",
+			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}

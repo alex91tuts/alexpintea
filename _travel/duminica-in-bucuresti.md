@@ -6,12 +6,13 @@ description: Descoperă 10 idei inedite și captivante pentru a petrece duminica
 meta_image: assets/images/travel/duminica/main.webp 
 image: /assets/images/travel/duminica/main.webp
 author: "Fabrica de amintiri"
+author-link: "fabrica-de-amintiri"
 tara: ROMÂNIA
 oras: BUCUREȘTI
 lang: ro_RO
 keyword: ce sa faci duminica in bucuresti
 date: 11.04.2023
-date-modified: 2023-05-23
+date-modified: 2023-06-05
 tags: ['București', 'duminica', 'activitati']
 
 ---
@@ -113,6 +114,8 @@ Pe lângă mâncarea gustoasă și variată, brunch-urile din București atrag �
 De la terasele intime și luminate, până la sălile de mese spațioase și elegante, există opțiuni pentru toate preferințele.
 
 Nu în ultimul rând, brunch-urile din București oferă și o selecție impresionantă de băuturi, care pot varia de la cafele speciale și ceaiuri aromate, până la sucuri naturale, smoothie-uri sau chiar cocktail-uri și mimose pentru cei care doresc să se răsfețe cu un pahar de băutură alături de prieteni.
+
+**Vezi si:[Top 15 locuri de vizitat lângă București](https://totredus.ro/travel/locuri-vizitat-langa-bucuresti/)**
 
 ---
 ## Participă la evenimente culturale
