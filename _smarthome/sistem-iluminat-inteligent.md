@@ -51,6 +51,8 @@ De asemenea, trebuie să ne gândim la infrastructura existentă în casa noastr
 
 Alegerea unui sistem de iluminat inteligent este o decizie importantă care necesită cercetare și planificare. În secțiunile următoare, vom examina mai detaliat diferitele tipuri de sisteme de iluminat inteligent disponibile pe piață și vom discuta despre procesul de instalare.
 
+**Citește și: [Automatizarea sistemului de iluminat cu Home Assistant și relee Sonoff Mini](https://totredus.ro/smarthome/automatizare-iluminat-home-assistant-sonoff/)**
+
 ---
 ## Diferite Tipuri de Sisteme de Iluminat Inteligent
 

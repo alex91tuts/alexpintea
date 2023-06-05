@@ -193,6 +193,8 @@ Scenariile pot fi activate manual sau programate să ruleze automat în anumite 
 
 <img src="/assets/images/smart/casa-inteligenta/scenarii.webp" width="740" height="416" alt="scenarii casa inteligenta">
 
+**Citește și: [Automatizarea sistemului de iluminat cu Home Assistant și relee Sonoff Mini](https://totredus.ro/smarthome/automatizare-iluminat-home-assistant-sonoff/)**
+
 ### Control vocal și prin aplicații
 
 Știai că majoritatea sistemelor inteligente pentru casa ta pot fi controlate cu ajutorul asistenților virtuali, precum Google Assistant, Amazon Alexa sau Apple Siri? Aceasta înseamnă că, odată ce ai integrat un astfel de sistem în locuința ta, vei putea să îi controlezi funcționalitățile doar prin intermediul vocii.

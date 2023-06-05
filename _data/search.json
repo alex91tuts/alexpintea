@@ -632,6 +632,17 @@
 	,
 	
     {
+      "title"    : "Automatizarea iluminatului cu Home Assistant și releu Sonoff Mini",
+      "category" : "SMARTHOME",
+      "tags"     : "SMART, SONOFF, HOME ASSISTANT",
+      "url"      : "/smarthome/automatizare-iluminat-home-assistant-sonoff/",
+      "date"     : "2023-06-04 00:00:00 +0300",
+	    "image"     : "/assets/images/smart/iluminat/ha-sonoff.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă cum să îți automatizezi toate luminile din casă cu Home Assistant și relelul Sonoff Mini. Transformă-ți casa într-o locuință inteligentă cu o singură interfață!"
+    } ,
+  
+    {
       "title"    : "Casa Inteligentă: Cum să Creezi un Smart Home Eficient și Practic",
       "category" : "SMARTHOME",
       "tags"     : "SMART, CASA, INTELIGENTA",
