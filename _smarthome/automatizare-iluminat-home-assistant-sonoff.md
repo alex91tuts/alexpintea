@@ -2,8 +2,8 @@
 title: 'Automatizarea iluminatului cu Home Assistant și releu Sonoff Mini'
 image_path: smart/iluminat/ha-sonoff.webp
 layout: stiri
-date: 2023-06-04
-date-modified: 2023-06-04
+date: 2023-04-04
+date-modified: 2023-04-04
 categorie: SMARTHOME
 tags: ['SMART', 'SONOFF', 'HOME ASSISTANT']
 nume: "releu sonoff, home assistant"
@@ -114,7 +114,9 @@ Odată ce ai terminat procesul de conectare, vei putea controla și monitoriza d
 ---
 ## Upgradarea întrerupătoarelor clasice cu Sonoff Mini
 
-Una dintre soluțiile cu cel mai bun raport calitate-preț pentru a-ți transforma locuința într-o casă smart este utilizarea **releelor Sonoff Mini**. Acestea sunt mici, ușor de instalat și compatibile cu majoritatea dispozitivelor smart, inclusiv Home Assistant.
+Una dintre soluțiile cu cel mai bun raport calitate-preț pentru a-ți transforma locuința într-o casă smart este utilizarea **releelor Sonoff Mini**. Acestea sunt mici, ușor de instalat și compatibile cu majoritatea dispozitivelor smart, inclusiv Home Assistant. 
+
+De asemenea, **[releele au disponibilă opțiunea de a funcționa fără internet](https://totredus.ro/smarthome/sonoff-fara-internet/)** prin intermediul modului LAN. 
 
 <img src="/assets/images/smart/iluminat/sonoff-mini.webp" width="740" height="386" alt="homa assistant dashboard">
 

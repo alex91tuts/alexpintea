@@ -658,7 +658,7 @@
       "category" : "SMARTHOME",
       "tags"     : "SMART, SONOFF, HOME ASSISTANT",
       "url"      : "/smarthome/automatizare-iluminat-home-assistant-sonoff/",
-      "date"     : "2023-06-04 00:00:00 +0300",
+      "date"     : "2023-04-04 00:00:00 +0300",
 	    "image"     : "/assets/images/smart/iluminat/ha-sonoff.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă cum să îți automatizezi toate luminile din casă cu Home Assistant și relelul Sonoff Mini. Transformă-ți casa într-o locuință inteligentă cu o singură interfață!"
@@ -684,6 +684,17 @@
 	    "image"     : "/assets/images/smart/iluminat/sistem-iluminat.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Explorați pașii esențiali pentru a crea un sistem de iluminat inteligent în casa dumneavoastră. Transformați-vă locuința într-un spațiu mai sigur și confortabil."
+    } ,
+  
+    {
+      "title"    : "Pot Modulele Sonoff Funcționa Fără Internet?",
+      "category" : "SMARTHOME",
+      "tags"     : "SMART, SONOFF, FARA INTERNET",
+      "url"      : "/smarthome/sonoff-fara-internet/",
+      "date"     : "2023-06-06 00:00:00 +0300",
+	    "image"     : "/assets/images/smart/iluminat/sonoff-fara-internet-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Pot dispozitivele Sonoff funcționa fără internet? Da, acestea pot funcționa autonom datorită modului LAN. Acest articol explorează funcționalitățile Sonoff, utilizarea aplicației eWeLink, firmware-ului Tasmota și integrarea cu Home Assistant pentru functionarea fără internet."
     } 
   
 	,

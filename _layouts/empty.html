@@ -47,7 +47,7 @@ function toggleShow() {
     }
         
     list.forEach(function(prod){
-        var safeProd = prod.replace(/[,.;:?!-]/g, '');  // Înlătură caracterele speciale din prod
+        var safeProd = prod.replace(/[,.;:?!]/g, '');  // Înlătură caracterele speciale din prod
         var encodedProd = encodeURIComponent(safeProd.split(' ').join('-')).toLowerCase();
         outputList += `
         <!-- begin post -->
