@@ -67,7 +67,7 @@
     } ,
   
     {
-      "title"    : " Locuri de vizitat in București | Top 20 atractii și obiective turistice",
+      "title"    : "Locuri de vizitat în București: 30 Atracții Uimitoare pentru 2023",
       "category" : "ROMÂNIA",
       "tags"     : "București, capitale, atractii",
       "url"      : "/travel/atractii-turistice-bucuresti/",
@@ -218,6 +218,28 @@
 	    "image"     : "/assets/images/travel/langabucuresti/snagov-main.webp",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "Descoperă cele mai frumoase destinații de vizitat în apropierea Bucureștiului. Palate, domenii și locuri pitorești așteaptă să fie explorezate. Află mai multe!"
+    } ,
+  
+    {
+      "title"    : "Top 10 Cascade Lângă Timișoara: Paradisul Natural Banatul Montan",
+      "category" : "ROMANIA",
+      "tags"     : "Timisoara, Cascade, Banatul Montan",
+      "url"      : "/travel/cascade-langa-timisoara-banatul-montan/",
+      "date"     : "2023-06-06 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/cascade-timisoara/main-banatul-montan.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperiți cele mai spectaculoase 10 cascade din Banatul Montan, o destinație de vis aproape de Timișoara, și bucurați-vă de splendoarea naturală autentică."
+    } ,
+  
+    {
+      "title"    : "Locuri de vizitat lângă Timișoara: Top 10 Destinații Uimitoare - Ghid 2023",
+      "category" : "ROMANIA",
+      "tags"     : "Timisoara, Locuri de vizitat, Banatul Montan",
+      "url"      : "/travel/locuri-de-vizitat-langa-timisoara/",
+      "date"     : "2023-06-06 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/langa-timisoara/main-locuri-langa-timisoara.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperiți cele mai frumoase locuri de vizitat lângă Timișoara: de la domeniile pitorești la rezervații naturale și parcuri. Ideal pentru weekend-uri și aventuri de o zi!"
     } 
   
 	,
