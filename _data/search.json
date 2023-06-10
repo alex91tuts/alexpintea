@@ -851,6 +851,17 @@
 	    "image"     : "/assets/images/reviews/applewatchse/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Explorăm Apple Watch SE 2 (2022), ceasul inteligent cu un design elegant și funcționalități impresionante. Descoperă un review complet și obiectiv."
+    } ,
+  
+    {
+      "title"    : "Dyson Corrale HS03 - Placa de par Wireless cu Performanta Inalta: Pareri | Review",
+      "category" : "REVIEW",
+      "tags"     : "Dyson, Placa de par, Corrale",
+      "url"      : "/review/dyson-corrale-HS03/",
+      "date"     : "2023-06-10 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/dyson-corrale/dyson-main.webp",
+			"author"    : "Mari D.",
+	    "description"     : "Explorăm Dyson Corrale HS03, o placă de păr wireless cu caracteristici inovatoare. Află despre performanța, design-ul și calitatea acestui produs revoluționar."
     } 
   
 ]

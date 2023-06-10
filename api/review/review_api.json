@@ -9,6 +9,7 @@ layout: null
 		"data": "{{ review.date | date_to_string }}",
 		"imagine": "{{ review.image_path }}",
 		"link": "{{ review.url }}",
+		"autor": "{{ review.author }}",
 	  "intro": "{{ review.scor-intro }}",
 		"categorie": "{{ review.categorie-review }}",
 		"scor": {% assign sum = 0 %}{% for item in review.opt %}{% assign sum = sum | plus:item.value %}{% endfor %}{% assign number = review.opt | size %}{% assign total = sum | divided_by: number | round: 1 %}{{ total }},

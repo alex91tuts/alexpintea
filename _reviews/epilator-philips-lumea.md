@@ -9,7 +9,7 @@ categorie-review: ELECTROCASNICE
 tags: ['Philips', 'LUMEA', 'EPILATOR']
 nume: Philips Lumea Seria 9000
 topic: review
-author: Mariana D.
+author: "Mari D."
 procons: "yes"
 rating-value: 8.4
 
