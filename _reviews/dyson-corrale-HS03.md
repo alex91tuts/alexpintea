@@ -11,7 +11,7 @@ nume: "Dyson Corrale HS03"
 topic: review
 author: "Mari D."
 procons: "yes"
-rating-value: 8.5
+rating-value: 8.3
 
 opt:
   - name: Design si ergonomie
