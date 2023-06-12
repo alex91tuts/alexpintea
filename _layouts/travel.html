@@ -36,7 +36,7 @@ post_class: post-template
  "dateCreated": "{{ page.date }}",
  "dateModified": "{{ page.date-modified }}",
  "description": "{{ page.description }}",
- "articleBody": "{{ page.content }}"
+ "articleBody": "{{ page.content | strip_html }}"
  }{% if page.video == "yes" %},
  {
   "@context": "https://schema.org",
