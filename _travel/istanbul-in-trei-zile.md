@@ -77,11 +77,11 @@ După ce te-ai delectat cu micul dejun, porneste spre Moscheea Albastră, una di
 
 Aceasta a fost construită între anii 1609 și 1616 și este cunoscută pentru impresionantele sale plăci ceramice albastre care îi decorează interiorul. 
 
-<img src="/assets/images/travel/citybreak/istanbul/bluemosqueinterior.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/bluemosqueinterior.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 Asigură-te că respecți codul de îmbrăcăminte și te încalți corespunzător înainte de a intra în moschee.
 
-<img src="/assets/images/travel/citybreak/istanbul/bluemosque.webp" width="740" height="514" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/bluemosque.webp" width="740" height="514" loading="lazy" alt="{{ page.keyword }}">
 
 La doar câțiva pași de Moscheea Albastră, vei găsi Hipodromul, care datează din epoca bizantină.
 
@@ -99,13 +99,13 @@ Astăzi, Hagia Sophia este un muzeu fascinant, care îmbină elemente bizantine 
 
 Nu rata mozaicurile bizantine impresionante și domul său uriaș, care domină interiorul.
 
-<img src="/assets/images/travel/citybreak/istanbul/hagia.webp" width="740" height="568" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/hagia.webp" width="740" height="568" loading="lazy" alt="{{ page.keyword }}">
 
 La scurtă distanță de Hagia Sophia, vei găsi Cisterna Bazilica, o structură subterană construită în secolul al VI-lea pentru a stoca apă pentru oraș. 
 
 Aceasta a fost redescoperită în secolul al XVI-lea și este un exemplu uluitor de inginerie bizantină. 
 
-<img src="/assets/images/travel/citybreak/istanbul/cisterna.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/cisterna.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 Plimbă-te printre cele 336 de coloane de marmură și fii atent la cele două capete de gorgonă, care se află la baza a două dintre coloane.
 
@@ -133,13 +133,13 @@ Acesta se află chiar lângă Palatul Topkapı și oferă o oază de liniște ș
 
 Aici, vei putea admira numeroase specii de flori și arbori, precum și monumente istorice și zone de joacă pentru copii.
 
-<img src="/assets/images/travel/citybreak/istanbul/gulhane.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/gulhane.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 Apoi, vizitează Palatul Topkapı, reședința sultanilor otomani timp de peste 400 de ani. 
 
 Acest complex de clădiri luxoase și grădini somptuoase este acum un muzeu impresionant, unde poți explora camerele sultanilor, haremul, colecția de porțelanuri și bijuteriile, inclusiv celebra Sabie a lui Osman și Topkapı Hanceri (Pumnalul Topkapı). 
 
-<img src="/assets/images/travel/citybreak/istanbul/tokapi.webp" width="740" height="491" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/tokapi.webp" width="740" height="491" loading="lazy" alt="{{ page.keyword }}">
 
 De asemenea, nu rata priveliștea panoramică asupra Bosforului și Cornului de Aur de pe terasele palatului.
 
@@ -159,7 +159,7 @@ Poți încerca preparate din pește proaspăt, meze (aperitive) variate sau un s
 
 Îmbarcă-te pe un vas tradițional turcesc și lasă-te purtat de valurile Bosforului, admirând peisajul urban, podurile iluminate și palatele care se înșiră pe ambele maluri.
 
-<img src="/assets/images/travel/citybreak/istanbul/croaziera.webp" width="740" height="514" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/croaziera.webp" width="740" height="514" loading="lazy" alt="{{ page.keyword }}">
 
 Opțiunea de oprire în cartierul Beșiktaș îți va oferi ocazia să explorezi unul dintre cele mai vibrante și cosmopolite cartiere ale Istanbulului. 
 
@@ -186,7 +186,7 @@ Construit în 1348, acest turn de piatră de 67 de metri înălțime oferă o pa
 
 Urcă pe scări sau ia liftul până în vârf și pregătește-te pentru o priveliște de neuitat.
 
-<img src="/assets/images/travel/citybreak/istanbul/galata.webp" width="740" height="924" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/galata.webp" width="740" height="924" loading="lazy" alt="{{ page.keyword }}">
 
 La o scurtă distanță de Turnul Galata, vei găsi Muzeul de Arte Moderne Istanbul, un spațiu dedicat artei contemporane turcești și internaționale.
 
@@ -204,7 +204,7 @@ Alege un restaurant local care servește specialități turcești, cum ar fi man
 
 Savurează gusturile și aromele autentice ale Istanbulului în acest cartier plin de viață.
 
-<img src="/assets/images/travel/citybreak/istanbul/beyoglu.webp" width="740" height="1109" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/beyoglu.webp" width="740" height="1109" loading="lazy" alt="{{ page.keyword }}">
 
 ## Plimbare pe Istiklal Caddesi și vizitarea Bisericii Sfântul Anton
 
@@ -212,7 +212,7 @@ După prânz, fă o plimbare pe Istiklal Caddesi, o arteră comercială vibrant�
 
 Aici vei găsi o mulțime de magazine, cafenele, restaurante și galerii de artă, precum și clădiri istorice și ambasade. 
 
-<img src="/assets/images/travel/citybreak/istanbul/caddesi.webp" width="740" height="415" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/caddesi.webp" width="740" height="415" loading="lazy" alt="{{ page.keyword }}">
 
 De-a lungul Istiklal Caddesi, vei descoperi și Biserica Sfântul Anton, cea mai mare biserică romano-catolică din Istanbul. 
 
@@ -222,7 +222,7 @@ Intră înăuntru pentru a admira interiorul impresionant și pentru a aprinde o
 
 Continuă să te plimbi pe Istiklal Caddesi și explorează străduțele laterale care se ramifică, descoperind magazine de antichități, librării și ateliere de artă. 
 
-<img src="/assets/images/travel/citybreak/istanbul/anton.webp" width="740" height="491" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/anton.webp" width="740" height="491" loading="lazy" alt="{{ page.keyword }}">
 
 De asemenea, nu rata ocazia de a degusta delicioasele deserturi turcești, cum ar fi lokum (rahat turcesc) sau künefe (un desert cald cu brânză și sirop de zahăr).
 
@@ -233,7 +233,7 @@ După o zi plină de aventuri pe partea europeană a Istanbulului, traversează 
 
 Podul Galata este un loc popular pentru pescari și oferă vederi minunate asupra Cornului de Aur și a Bosforului. 
 
-<img src="/assets/images/travel/citybreak/istanbul/podgalata.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/podgalata.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 Odată ce ai ajuns în cartierul Kadıköy, vei descoperi un oraș în sine, cu străzi animate, piețe și o atmosferă plină de energie.
 
@@ -272,7 +272,7 @@ După ce te-ai delectat cu micul dejun, vizitează Moscheea Șakirin, o capodope
 
 Moscheea Șakirin se remarcă prin designul său inovator și prin interiorul său luminos și aerisit, care îmbină tradiția cu modernitatea.
 
-<img src="/assets/images/travel/citybreak/istanbul/sakirin.webp" width="740" height="493" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/sakirin.webp" width="740" height="493" loading="lazy" alt="{{ page.keyword }}">
 
 Aproape de moschee, vei găsi Palatul Beylerbeyi, un palat de vară al sultanilor otomani, construit în secolul al XIX-lea pe malul Bosforului.
 
@@ -280,7 +280,7 @@ Acest palat opulent are un stil arhitectonic neoclasic și este înconjurat de g
 
 Participă la un tur ghidat al palatului pentru a admira interiorul luxos și pentru a afla poveștile din spatele acestui loc istoric.
 
-<img src="/assets/images/travel/citybreak/istanbul/beylerbeyi.webp" width="740" height="511" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/citybreak/istanbul/beylerbeyi.webp" width="740" height="511" loading="lazy" alt="{{ page.keyword }}">
 
 **După amiaza:**
 

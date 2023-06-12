@@ -47,7 +47,7 @@ Construită în 1724 de către arhimandritul Ioanichie Stratonikeas, Biserica St
 
 Numele "Stavropoleos" provine de la cuvintele grecești "Stavros" (cruce) și "Poleos" (oraș), sugerând legătura dintre biserică și crucile de piatră aduse aici din diferite părți ale țării.
 
-<img src="/assets/images/travel/stavropoleos/7.webp" width="740" height="420" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/7.webp" width="740" height="420" loading="lazy" alt="{{ page.keyword }}">
 
 ### Schimbări de-a lungul timpului
 
@@ -57,7 +57,7 @@ De-a lungul secolelor, Biserica Stavropoleos a trecut prin numeroase transformă
 
 În 1898, arhitectul Ion Mincu a restaurat biserica și a construit un nou turn clopotniță în stil neoromânesc.
 
-<img src="/assets/images/travel/stavropoleos/6.webp" width="740" height="525" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/6.webp" width="740" height="525" loading="lazy" alt="{{ page.keyword }}">
 
 ### Prezent
 
@@ -74,7 +74,7 @@ Biserica Stavropoleos reprezintă un amestec unic de stiluri arhitecturale româ
 
 Fațada exterioară este decorată cu fresce și basoreliefuri realizate în piatră, ce înfățișează scene din Biblie și sfinți protectori.
 
-<img src="/assets/images/travel/stavropoleos/2.webp" width="740" height="371" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/2.webp" width="740" height="371" loading="lazy" alt="{{ page.keyword }}">
 
 Turnul clopotniță în stil neoromânesc, construit în timpul restaurării conduse de Ion Mincu, completează armonios ansamblul arhitectural.
 
@@ -82,19 +82,19 @@ Turnul clopotniță în stil neoromânesc, construit în timpul restaurării con
 
 Interiorul Bisericii Stavropoleos este la fel de impresionant ca și exteriorul. 
 
-<img src="/assets/images/travel/stavropoleos/8.webp" width="740" height="301" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/8.webp" width="740" height="301" loading="lazy" alt="{{ page.keyword }}">
 
 Pereții și tavanul sunt împodobiți cu fresce minuțios realizate, care ilustrează scene religioase și figuri de sfinți. 
 
 Iconostasul de lemn, sculptat în stil brâncovenesc, este o adevărată operă de artă și adăpostește icoane vechi și prețioase.
 
-<img src="/assets/images/travel/stavropoleos/9.webp" width="740" height="361" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/9.webp" width="740" height="361" loading="lazy" alt="{{ page.keyword }}">
 
 ### Detaliile arhitecturale
 
 Unul dintre aspectele care fac Biserica Stavropoleos atât de specială este atenția acordată detaliilor arhitecturale.
 
-<img src="/assets/images/travel/stavropoleos/10.webp" width="740" height="347" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/10.webp" width="740" height="347" loading="lazy" alt="{{ page.keyword }}">
 
 De la coloanele exterioare sculptate în piatră, până la ferestrele în arcadă și decorațiunile interioare, fiecare element contribuie la crearea unei atmosfere deosebite și pline de spiritualitate.
 
@@ -109,7 +109,7 @@ Prin stilul său arhitectural unic și colecția sa valoroasă de icoane și obi
 ### Un loc de refugiu și meditație
 În mijlocul agitației cotidiene a Bucureștiului, Biserica Stavropoleos oferă o oază de liniște și meditație. 
 
-<img src="/assets/images/travel/stavropoleos/5.webp" width="740" height="1106" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/5.webp" width="740" height="1106" loading="lazy" alt="{{ page.keyword }}">
 
 Vizitatorii pot să se roage, să aprindă o lumânare sau să se odihnească în curtea interioară, înconjurată de cruci de piatră și flori.
 
@@ -118,7 +118,7 @@ Biserica Stavropoleos nu este doar un loc de rugăciune, ci și un centru cultur
 
 Concertele de muzică bizantină și evenimentele culturale organizate aici atrag un public divers și demonstrează rolul activ pe care biserica îl joacă în promovarea artei și tradițiilor românești.
 
-<img src="/assets/images/travel/stavropoleos/4.webp" width="740" height="467" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/4.webp" width="740" height="467" loading="lazy" alt="{{ page.keyword }}">
 
 ---
 ## Sfaturi pentru vizitarea Bisericii Stavropoleos
@@ -148,7 +148,7 @@ Curtea interioară a Bisericii Stavropoleos este un spațiu minunat pentru relax
 
 Luați-vă un moment să admirați crucile de piatră și să vă bucurați de liniștea și frumusețea acestui mic colț de rai în inima Bucureștiului.
 
-<img src="/assets/images/travel/stavropoleos/3.webp" width="740" height="546" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/3.webp" width="740" height="546" loading="lazy" alt="{{ page.keyword }}">
 
 ---
 ## Concluzie

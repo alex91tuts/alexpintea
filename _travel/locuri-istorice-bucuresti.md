@@ -49,7 +49,7 @@ Mai jos regăsiți o listă a celor mai populare 65 de locuri istorice de vizita
 
 ## Palate, cetăți și situri
 
-<img src="/assets/images/travel/locuriistorice/palate.webp" width="740" height="370" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/palate.webp" width="740" height="370" loading="lazy" alt="{{ page.keyword }};">
 
 ### Palatul Parlamentului
 Cunoscut și sub numele de Casa Poporului, acesta este cel mai mare clădire administrativă din lume și un monument emblematic al Bucureștiului. Construit în perioada regimului comunist, Palatul Parlamentului este deschis pentru vizitare și găzduiește, printre altele, muzeul de istorie al senatului.
@@ -58,32 +58,32 @@ Cunoscut și sub numele de Casa Poporului, acesta este cel mai mare clădire adm
 ### Palatul Cantacuzino
 Situat în centrul Bucureștiului, Palatul Cantacuzino este un monument istoric important, construit în stil neoromânesc în secolul al XIX-lea. Palatul Cantacuzino găzduiește astăzi Muzeul George Enescu, dedicat celebrului compozitor român.
 
-<img src="/assets/images/travel/locuriistorice/cantacuzino.webp" width="740" height="555" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/cantacuzino.webp" width="740" height="555" loading="lazy" alt="{{ page.keyword }};">
 
 
 ---
 ### Palatul CEC
 Localizat în centrul Bucureștiului, Palatul CEC este un alt monument istoric important, construit în stil neoclasic în secolul al XIX-lea. Palatul CEC găzduiește astăzi o sucursală a Băncii Comerciale Române și poate fi vizitat pentru a admira arhitectura sa impresionantă.
 
-<img src="/assets/images/travel/locuriistorice/cec.webp" width="740" height="555" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/cec.webp" width="740" height="555" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ### Palatul Știrbei
 Aflat în apropiere de Piața Victoriei, Palatul Știrbei este un alt exemplu de arhitectură neoromânească, construit în secolul al XIX-lea. Palatul Știrbei găzduiește astăzi Muzeul de Artă Veche Apuseană și Orientală, cu o colecție impresionantă de artefacte și obiecte de artă.
 
-<img src="/assets/images/travel/locuriistorice/stirbei.webp" width="740" height="370" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/stirbei.webp" width="740" height="370" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ### Hanul lui Manuc
 Hanul lui Manuc este unul dintre cele mai vechi și mai mari hanuri din București, construit în secolul al XIX-lea. Hanul lui Manuc a fost odată un important centru de comerț și negocieri în regiune și găzduiește astăzi un hotel și un restaurant tradițional.
 
-<img src="/assets/images/travel/locuriistorice/manuc.webp" width="740" height="555" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/manuc.webp" width="740" height="555" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ### Palatul Mogoșoaia
 Situat în apropierea Bucureștiului, Palatul Mogoșoaia este un monument istoric important, construit în secolul al XVII-lea în stil brâncovenesc. Palatul Mogoșoaia este cunoscut pentru grădinile sale frumoase și pentru arhitectura sa impresionantă, cu detalii sculptate în piatră și lemn.
 
-<img src="/assets/images/travel/locuriistorice/mogosoaia.webp" width="740" height="555" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/mogosoaia.webp" width="740" height="555" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ### Palatul Primăverii
@@ -97,7 +97,7 @@ Construit în anii 1820, Palatul Bragadiru este un exemplu important de arhitect
 ### Palatul Ghica
 Construit în secolul al XVIII-lea, Palatul Ghica este o importantă clădire istorică din centrul Bucureștiului. Acesta a fost construit în stil neoclasica și găzduiește astăzi o galerie de artă și un muzeu al băuturilor românești.
 
-<img src="/assets/images/travel/locuriistorice/ghica.webp" width="740" height="555" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/ghica.webp" width="740" height="555" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ### Ateneul Român
@@ -127,7 +127,7 @@ Palatul Elisabeta, construit în secolul al XIX-lea, este reședința oficială 
 ---
 ## Biserici și mănăstiri
 
-<img src="/assets/images/travel/locuriistorice/biserici.webp" width="740" height="370" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/biserici.webp" width="740" height="370" loading="lazy" alt="{{ page.keyword }};">
 
 ### Biserica Stavropoleos
 Construită în secolul al XVIII-lea, este cunoscută pentru frumusețea sa arhitecturală și pentru frescele impresionante. Biserica Stavropoleos este una dintre cele mai renumite biserici din București și un loc de rugăciune important pentru credincioși.
@@ -236,12 +236,12 @@ Construită în secolul al XIX-lea, Biserica Sfântul Ștefan este o biserică o
 ---
 ## Case memoriale
 
-<img src="/assets/images/travel/locuriistorice/case.webp" width="740" height="370" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/case.webp" width="740" height="370" loading="lazy" alt="{{ page.keyword }};">
 
 ### Casa Melik
 [Casa Melik](https://totredus.ro/travel/casa-melik/) este o importantă clădire istorică din centrul Bucureștiului, construită în stil neoromânesc în secolul al XIX-lea. Aceasta a fost reședința familiei Melik, o familie de comercianți turci, și găzduiește astăzi o galerie de artă.
 
-<img src="/assets/images/travel/locuriistorice/melik.webp" width="740" height="555" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/melik.webp" width="740" height="555" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ### Casa Capsa
@@ -284,12 +284,12 @@ Situată în apropiere de București, în comuna Mogoșoaia și este dedicată p
 ---
 ## Piețe, străzi și bulevarde
 
-<img src="/assets/images/travel/locuriistorice/bulevarde.webp" width="740" height="370" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/locuriistorice/bulevarde.webp" width="740" height="370" loading="lazy" alt="{{ page.keyword }};">
 
 ### Pasajul Macca-Vilacrosse
 [Pasajul Macca-Vilacrosse](https://totredus.ro/travel/pasajul-macca-villacrosse/) este o galerie comercială acoperită construită în secolul al XIX-lea. Acesta este un loc istoric și pitoresc în centrul Bucureștiului, cu numeroase cafenele și magazine.
 
-<img src="/assets/images/travel/macca/1.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/macca/1.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 ---
 ### Piața Amzei

@@ -59,7 +59,7 @@ Bucurați-vă de această călătorie virtuală și lăsați frumusețea natural
 
 Peisajul **Banatului Montan** este o fantezie a naturii, cu o frumusețe rar întâlnită. Înconjurată de munți și păduri, această regiune a țării noastre adăpostește o diversitate impresionantă de ecosisteme și specii de floră și faună.
 
-<img src="/assets/images/travel/cascade-timisoara/banatul-montan.webp" width="740" height="366" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/cascade-timisoara/banatul-montan.webp" width="740" height="366" loading="lazy" alt="{{ page.keyword }};">
 
 
 ### Un peisaj pitoresc
@@ -89,7 +89,7 @@ Banatul Montan este cu adevărat un paradis natural, cu o frumusețe care lasă 
 
 Această cascadă impresionantă este cunoscută pentru frumusețea sa naturală, care o face una dintre cele mai vizitate atracții turistice ale regiunii.
 
-<img src="/assets/images/travel/cascade-timisoara/cascada-beusnita.webp" width="740" height="372" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/cascade-timisoara/cascada-beusnita.webp" width="740" height="372" loading="lazy" alt="{{ page.keyword }};">
 
 ### Localizarea Cascadei Beuşniţa
 
@@ -123,7 +123,7 @@ Este o oprire obligatorie pentru oricine vizitează Banatul Montan, încărcând
 
 În inima Banatului Montan se află un alt spectacol al naturii: Cascada Vânturătoarea. Aceasta este una dintre cele mai înalte cascade din România, oferind o priveliște de neuitat tuturor celor care aleg să o viziteze.
 
-<img src="/assets/images/travel/cascade-timisoara/cascada-vanturatoarea.webp" width="740" height="377" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/cascade-timisoara/cascada-vanturatoarea.webp" width="740" height="377" loading="lazy" alt="{{ page.keyword }};">
 
 ### Unde Se Află Cascada Vânturătoarea?
 
@@ -164,7 +164,7 @@ Cascada Vânturătoarea este unul dintre cele mai impresionante locuri din Banat
 
 Aici, biodiversitatea este cu adevărat impresionantă, cu peste 1.100 de specii de plante, dintre care multe sunt endemice sau rare.
 
-<img src="/assets/images/travel/cascade-timisoara/cheile-nerei.webp" width="740" height="342" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/cascade-timisoara/cheile-nerei.webp" width="740" height="342" loading="lazy" alt="{{ page.keyword }};">
 
 ### Atracțiile Principale ale Parcului
 

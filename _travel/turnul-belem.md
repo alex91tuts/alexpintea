@@ -40,7 +40,7 @@ Turnul a fost folosit și ca punct de plecare pentru multe dintre expedițiile p
 
 Turnul Belem este un exemplu impresionant al arhitecturii manueline, o formă de arhitectură portugheză specifică secolului al XVI-lea. Acesta combină elemente gotice, renascentiste și islamice, reflectând în același timp bogăția și puterea Portugaliei din acea perioadă și explorările sale maritime în lumea întreagă.
 
-<img src="/assets/images/travel/belem/3.webp" width="740" height="493" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/belem/3.webp" width="740" height="493" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ## Arhitectura exterior
@@ -64,7 +64,7 @@ La nivelul trei, se află Camera Infanteriei, o cameră care a fost folosită ca
 
 De-a lungul timpului, turnul a fost folosit în diferite scopuri, printre care poziție de apărare, închisoare, magazin de arme și centru meteorologic. În prezent, turnul este deschis pentru vizitatori și găzduiește diferite expoziții și evenimente culturale.
 
-<img src="/assets/images/travel/belem/5.webp" width="740" height="472" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/belem/5.webp" width="740" height="472" loading="lazy" alt="{{ page.keyword }};">
 
 --- 
 ## Cum ajungem la turn
@@ -79,7 +79,7 @@ Taxi: Puteți lua un taxi până la Turnul Belem, dar trebuie să fiți pregăti
 
 Indiferent de modul în care alegeți să ajungeți la turn, trebuie să țineți cont că aceasta este o atracție turistică populară, astfel încât poate fi aglomerată, mai ales în sezonul turistic.
 
-<img src="/assets/images/travel/belem/4.webp" width="740" height="469" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/belem/4.webp" width="740" height="469" loading="lazy" alt="{{ page.keyword }};">
 
 ---
 ## Concluzie

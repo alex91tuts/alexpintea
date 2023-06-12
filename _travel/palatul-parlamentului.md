@@ -60,7 +60,7 @@ Costurile totale ale construcției s-au ridicat la aproximativ 3 miliarde de eur
 ### Transformarea în sediul Parlamentului României
 
 
-<img src="/assets/images/travel/palatulparl/palatul1.webp" width="740" height="322" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/palatulparl/palatul1.webp" width="740" height="322" loading="lazy" alt="{{ page.keyword }}">
 
 După căderea regimului comunist în 1989 și execuția lui Nicolae Ceaușescu, România a trecut printr-un proces de tranziție către democrație. 
 
@@ -81,7 +81,7 @@ Rezultatul este o capodoperă impresionantă, care reușește să surprindă ima
 
 Colosul de beton și marmură se impune în peisajul urban al Bucureștiului, fiind un exemplu elocvent al arhitecturii grandioase a erei comuniste.
 
-<img src="/assets/images/travel/palatulparl/palatul2.webp" width="740" height="553" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/palatulparl/palatul2.webp" width="740" height="553" loading="lazy" alt="{{ page.keyword }}">
 
 ### Dimensiunile și specificațiile
 
@@ -114,7 +114,7 @@ Fiecare cameră și sală beneficiază de lucrări de artă în lemn, care ilust
 Palatul Parlamentului este plin de detalii arhitecturale remarcabile, care impresionează și fac vizitatorii să se oprească în fața fiecărei încăperi și să admire munca și meșteșugul care au fost depuse în realizarea acestui edificiu. 
 
 
-<img src="/assets/images/travel/palatulparl/palatul3.webp" width="740" height="496" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/palatulparl/palatul3.webp" width="740" height="496" loading="lazy" alt="{{ page.keyword }}">
 
 Între aceste detalii, se numără:
 
@@ -157,7 +157,7 @@ Palatul Parlamentului este un exemplu excelent de îmbinare între funcționalit
 Pe de o parte, clădirea a fost proiectată să găzduiască instituții politice și administrative, oferind spațiile și facilitățile necesare desfășurării activităților în condiții optime. 
 
 
-<img src="/assets/images/travel/palatulparl/palatul4.webp" width="740" height="554" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/palatulparl/palatul4.webp" width="740" height="554" loading="lazy" alt="{{ page.keyword }}">
 
 Pe de altă parte, Palatul este o adevărată capodoperă artistică, cu o arhitectură și un design care încântă și inspiră vizitatorii și locuitorii orașului.
 
@@ -176,7 +176,7 @@ Una dintre provocările majore în ceea ce privește conservarea Palatului este 
 Acest echilibru este esențial pentru a asigura viitorul Palatului ca simbol al istoriei și culturii românești.
 
 
-<img src="/assets/images/travel/palatulparl/palatul5.webp" width="740" height="554" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/palatulparl/palatul5.webp" width="740" height="554" loading="lazy" alt="{{ page.keyword }}">
 
 În concluzie, Palatul Parlamentului din București este o capodoperă arhitectonică și istorică de proporții impresionante.
 
@@ -196,7 +196,7 @@ Palatul a fost construit într-o perioadă în care România traversa dificultă
 În plus, Palatul Parlamentului este considerat de unii un simbol al moștenirii comuniste și al dictaturii lui Ceaușescu. 
 
 
-<img src="/assets/images/travel/palatulparl/palatul6.webp" width="740" height="457" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/palatulparl/palatul6.webp" width="740" height="457" loading="lazy" alt="{{ page.keyword }}">
 
 Problemele de întreținere și conservare ale clădirii au fost, de asemenea, subiect de dezbatere, deoarece costurile de întreținere sunt foarte mari și necesită fonduri publice semnificative.
 

@@ -32,7 +32,7 @@ Legenda vrăjitoarei care a blestemat Lacul Roșu este una dintre cele mai popul
 
 Una dintre cele mai populare legende spune că lacul a fost format prin blestemul unei vrăjitoare care și-a ucis soțul gelos. Se spune că într-o zi, femeia a aflat că soțul ei o înșeală cu o altă femeie și a decis să-și răzbune trădarea.
 
-<img src="/assets/images/travel/legende/1.webp" width="740" height="369" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/legende/1.webp" width="740" height="369" loading="lazy" alt="{{ page.keyword }};">
 
 
 În timp ce soțul dormea, ea l-a ucis cu un cuțit, iar sângele acestuia s-a scurs în râul din apropiere, transformând apa într-o nuanță roșie. În timp, râul s-a transformat în lacul pe care îl vedem astăzi.
@@ -47,7 +47,7 @@ O lată legendă a Lacului Roșu este una dintre cele mai cunoscute legende din 
 
 Conform legendei, fata era iubită de mai mulți bărbați dintr-un sat aflat în apropierea lacului, dar ea îl prefera pe unul dintre ei. Într-o zi, un alt băiat aflat într-o competiție cu primul băiat pentru inima fetei, a decis să o răpească și să o arunce în Lacul Roșu.
 
-<img src="/assets/images/travel/legende/2.webp" width="740" height="369" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/legende/2.webp" width="740" height="369" loading="lazy" alt="{{ page.keyword }};">
 
 Legenda spune că băiatul gelos a luat-o pe fată pe o barcă și a început să o plimbe pe lac. Într-un final, a aruncat-o în apă și aceasta a dispărut. Fata a încercat să înoate înapoi la mal, dar a fost împiedicată de valurile puternice și de adâncimea lacului. Din păcate, fata a murit în lac și nimeni nu a reușit să o salveze.
 
@@ -61,7 +61,7 @@ Legenda spune că, într-o vreme îndepărtată, pe locul unde se află astăzi 
 
 Aceștia nu se îngrijeau de săraci și nici de cei bolnavi, își băteau joc de oamenii săraci și nu le ofereau ajutorul necesar. 
 
-<img src="/assets/images/travel/legende/3.webp" width="740" height="369" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/legende/3.webp" width="740" height="369" loading="lazy" alt="{{ page.keyword }};">
 
 Într-o zi, îngerii Domnului au venit să-i judece pe locuitorii satului pentru faptele lor rele. Oamenii nu au putut dovedi că au făcut bine și, în consecință, au fost condamnați la moarte prin înecare.
 

@@ -77,7 +77,7 @@ url1="https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a
 Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul. Indiferent dacă sunteți un rezident de lungă durată sau un vizitator, există o mulțime de activitati de facut in bucuresti. Iată câteva activități pe care le poți face în București aproape în orice weekend:
 
 ---
-<img src="/assets/images/travel/weekendbuc/1.webp" width="740" height="439" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/weekendbuc/1.webp" width="740" height="439" loading="lazy" alt="{{ page.keyword }};">
 
 ### Mergeți la o drumeție: 
 
@@ -103,7 +103,7 @@ Puteți chiar să închiriați biciclete sau quad-uri pentru a traversa drumuril
  
  - Templul Coral Evreiesc din București: este o destinație emblematică care stă ca o mărturie a bogatei istorii culturale a țării. Templul, care datează de la sfârșitul secolului al XIX-lea, este cea mai mare sinagogă din România și una dintre cele mai mari din toată Europa. Situat pe Strada Sfântul Iosif, servește ca o amintire a cât de adânc înrădăcinat este iudaismul în cultura românească.
 
-<img src="/assets/images/travel/weekendbuc/2.webp" width="740" height="736" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/weekendbuc/2.webp" width="740" height="736" loading="lazy" alt="{{ page.keyword }};">
 
 ### Ascultați muzică live: 
 
@@ -112,7 +112,7 @@ Odată cu creșterea serviciilor de streaming, poate fi ușor să uiți de puter
 Iată câteva dintre motivele pentru care ar trebui să-ți faci timp pentru muzică live în viața ta:
 
 
-<img src="/assets/images/travel/weekendbuc/3.webp" width="740" height="439" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/weekendbuc/3.webp" width="740" height="439" loading="lazy" alt="{{ page.keyword }}">
 
 
 1. Reducerea stresului: Cercetările au arătat că ascultarea muzicii poate reduce semnificativ nivelul de stres. 
@@ -162,7 +162,7 @@ Există, de asemenea, multe evenimente culturale mai mici, cum ar fi expoziții 
 
 Pe lângă aceste festivaluri, există o mulțime de muzee și galerii de explorat în București, care prezintă cultura și istoria românească.
 
-<img src="/assets/images/travel/weekendbuc/4.webp" width="740" height="439" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/weekendbuc/4.webp" width="740" height="439" loading="lazy" alt="{{ page.keyword }}">
 
 ---
 ## Concluzie activități de facut în Bucuresti

@@ -31,7 +31,7 @@ Acest articol își propune să vă prezinte o selecție a celor mai interesante
 
 Situat în inima Bucureștiului, Centrul Vechi este un loc perfect pentru a începe aventura nocturnă. 
 
-<img src="/assets/images/travel/noaptea/old.webp" width="740" height="342" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/noaptea/old.webp" width="740" height="342" loading="lazy" alt="{{ page.keyword }}">
 
 
 Această zonă pietonală, plină de istorie și cultură, găzduiește o mulțime de clădiri vechi, biserici și monumente, care își dezvăluie farmecul și splendoarea sub lumina strălucitoare a felinarelor.
@@ -92,7 +92,7 @@ url1="https://event.2performant.com/events/click?ad_type=quicklink&aff_code=074a
 
 După ce ai explorat farmecul Centrului Vechi, este timpul să te aventurezi în scena de clubbing și baruri a Bucureștiului. 
 
-<img src="/assets/images/travel/noaptea/club.webp" width="740" height="985" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/noaptea/club.webp" width="740" height="985" loading="lazy" alt="{{ page.keyword }}">
 
 Orașul se mândrește cu o gamă variată de cluburi și baruri, care oferă posibilitatea de a experimenta diferite stiluri muzicale și ambianțe, în funcție de gusturile personale.
 
@@ -115,7 +115,7 @@ Indiferent de stilul de petrecere pe care îl preferi, Bucureștiul are o ofert�
 
 Dacă dorești să te bucuri de o atmosferă mai liniștită și să te relaxezi în natură, o plimbare nocturnă în Parcul Herăstrău poate fi o alternativă ideală. 
 
-<img src="/assets/images/travel/noaptea/parc.webp" width="740" height="537" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/noaptea/parc.webp" width="740" height="537" loading="lazy" alt="{{ page.keyword }}">
 
 Acest parc vast, situat în apropiere de Piața Victoriei, se întinde pe o suprafață de aproximativ 110 hectare și înconjoară Lacul Herăstrău. 
 
@@ -138,7 +138,7 @@ Alegând să petreci o seară în Parcul Herăstrău, vei avea ocazia să te buc
 
 Bucureștiul, cu bogata sa istorie și arhitectură impresionantă, oferă un spectacol de lumini și culori pe timp de noapte, evidențiind frumusețea clădirilor emblemă. 
 
-<img src="/assets/images/travel/noaptea/arc.webp" width="740" height="674" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/noaptea/arc.webp" width="740" height="674" loading="lazy" alt="{{ page.keyword }}">
 
 O activitate pe care o poți încerca este să admiri iluminatul arhitectural al unor astfel de clădiri.
 
@@ -165,7 +165,7 @@ Bucureștiul este un centru important al vieții culturale românești și găzd
 
 O activitate recomandată pentru o seară în București este să participi la un spectacol de teatru sau la un concert.
 
-<img src="/assets/images/travel/noaptea/teatru.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/noaptea/teatru.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 Sala Palatului este una dintre cele mai mari și mai renumite săli de concert din oraș, unde au loc evenimente diverse, precum concerte de muzică clasică, pop, rock și jazz, spectacole de balet și dans contemporan, precum și conferințe și expoziții.
 
@@ -193,7 +193,7 @@ Această activitate este perfectă pentru a-ți încheia seara într-un mod plă
 
 Dacă ești în căutarea unei activități distractive și interactive, o sesiune de bowling sau biliard într-un centru de divertisment este o opțiune excelentă pentru o noapte în București. 
 
-<img src="/assets/images/travel/noaptea/bowling.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/noaptea/bowling.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 Aceste centre oferă o varietate de activități și jocuri, atât pentru grupuri de prieteni, cât și pentru familii.
 

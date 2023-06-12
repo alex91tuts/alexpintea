@@ -42,7 +42,7 @@ Nu uita să-ți faci poze în fața caselor cu acoperiș de paie și să admiri 
 
 Dacă ești un iubitor de natură, Grădina Botanică este locul ideal pentru tine! Cu peste 10.000 de specii de plante, acest parc generos îți va oferi o oază de liniște și relaxare în mijlocul agitației urbane. 
 
-<img src="/assets/images/travel/ozi/botanica.webp" width="740" height="985" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/botanica.webp" width="740" height="985" loading="lazy" alt="{{ page.keyword }}">
 
 Explorează cele mai diverse și exotice specii de plante, plimbă-te pe aleile îngrijite și fă o pauză la una dintre băncuțele cochete înconjurate de vegetație. 
 
@@ -53,7 +53,7 @@ Nu rata ocazia de a vizita și serele, unde vei găsi colecții impresionante de
 
 Un simbol al Bucureștiului și al istoriei sale tumultoase, Palatul Parlamentului este o construcție impunătoare și grandioasă, care nu poate fi omisă în excursia ta de o zi. 
 
-<img src="/assets/images/travel/ozi/parlamentului.webp" width="740" height="554" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/parlamentului.webp" width="740" height="554" loading="lazy" alt="{{ page.keyword }}">
 
 Participă la un tur ghidat și află poveștile și secretele acestui edificiu, care este considerat a fi al doilea cel mai mare clădire administrativă din lume, după Pentagon. 
 
@@ -66,7 +66,7 @@ Un alt loc pe care trebuie să-l explorezi în timpul excursiei tale de o zi în
 
 Aici vei găsi o mulțime de clădiri istorice, biserici, magazine și terase cochete, toate strânse pe străduțe înguste și pline de farmec. 
 
-<img src="/assets/images/travel/ozi/centru.webp" width="740" height="1109" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/centru.webp" width="740" height="1109" loading="lazy" alt="{{ page.keyword }}">
 
 Acesta este locul perfect pentru a savura o cafea, a savura o prăjitură tradițională românească sau a lua masa într-unul dintre numeroasele restaurante cu specific local. 
 
@@ -79,7 +79,7 @@ Un alt parc minunat pe care îl poți vizita în timpul excursiei tale de o zi �
 
 Acest parc impresionant, cu o suprafață de peste 40 de hectare, îți oferă numeroase oportunități de petrecere a timpului liber. 
 
-<img src="/assets/images/travel/ozi/mon.webp" width="740" height="985" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/mon.webp" width="740" height="985" loading="lazy" alt="{{ page.keyword }}">
 
 Aici poți face o plimbare relaxantă pe aleile îngrijite, te poți opri la monumentele istorice precum Monumentul Eroului Necunoscut sau te poți bucura de o panoramă superbă asupra orașului de pe Dealul Filaret.
 
@@ -90,7 +90,7 @@ Iar dacă ești pasionat de sport, poți face jogging sau poți închiria o bici
 
 Un alt simbol al Bucureștiului și un punct de reper cunoscut, Arcul de Triumf este o replică a celui din Paris, fiind un omagiu adus eroilor români care au luptat pentru independență și unitate. 
 
-<img src="/assets/images/travel/ozi/triumf.webp" width="740" height="985" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/triumf.webp" width="740" height="985" loading="lazy" alt="{{ page.keyword }}">
 
 Situat în apropierea Parcului Herăstrău, Arcul de Triumf poate fi un punct de pornire pentru o plimbare relaxantă în acest parc uriaș și frumos. 
 
@@ -153,7 +153,7 @@ Dacă ești pasionat de arhitectură, nu rata ocazia de a admira detaliile sompt
 ## Muzeul Țăranului Român
 Un alt muzeu care explorează istoria și cultura rurală a României este Muzeul Țăranului Român.
 
-<img src="/assets/images/travel/ozi/taranului.webp" width="740" height="553" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/taranului.webp" width="740" height="553" loading="lazy" alt="{{ page.keyword }}">
 
 Aici vei găsi o colecție impresionantă de obiecte tradiționale, costume populare, instrumente muzicale și alte artefacte care ilustrează viața și cultura țăranilor români.
 
@@ -173,7 +173,7 @@ Catedrala Patriarhală este un loc deosebit de important pentru ortodocși, fiin
 
 Aici vei găsi o construcție impresionantă, cu o istorie bogată și decorațiuni somptuoase, care îți vor lua cu siguranță respirația.
 
-<img src="/assets/images/travel/ozi/catedrala.webp" width="740" height="361" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/catedrala.webp" width="740" height="361" loading="lazy" alt="{{ page.keyword }}">
 
 Participă la o slujbă religioasă sau ia parte la un tur ghidat pentru a afla mai multe despre istoria și tradițiile ortodoxe.
 
@@ -195,7 +195,7 @@ Muzeul Antipa este un alt loc interesant de vizitat în București, mai ales dac
 
 Aici vei descoperi o colecție impresionantă de animale și plante, precum și o gamă largă de expoziții interactivi care îți vor oferi o experiență educațională distractivă și interesantă.
 
-<img src="/assets/images/travel/ozi/antipa.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/antipa.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 Muzeul găzduiește, de asemenea, evenimente și activități educative pentru copii și adulți, astfel încât să poți explora lumea naturală într-un mod unic și interactiv.
 
@@ -205,7 +205,7 @@ Palatul Primăverii este o reședință istorică a președinților României, c
 
 Aici vei găsi o construcție impresionantă, cu o istorie bogată și decorațiuni somptuoase, care îți vor oferi o imagine a vieții aristocratice din România.
 
-<img src="/assets/images/travel/ozi/primaverii.webp" width="740" height="553" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/primaverii.webp" width="740" height="553" loading="lazy" alt="{{ page.keyword }}">
 
 Participă la un tur ghidat pentru a afla mai multe despre istoria și tradițiile Palatului Primăverii și pentru a admira frumoasele grădini și alei care îl înconjoară.
 
@@ -215,7 +215,7 @@ Teatrul Național București este un loc important pentru cultura și artele spe
 
 Aici vei găsi trei săli de spectacol impresionante, care găzduiesc o varietate largă de producții teatrale, muzicale și de operă.
 
-<img src="/assets/images/travel/ozi/teatrul.webp" width="740" height="553" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/ozi/teatrul.webp" width="740" height="553" loading="lazy" alt="{{ page.keyword }}">
 
 Nu uita să explorezi și clădirea teatrului, o construcție impresionantă și istorică în sine, care găzduiește, de asemenea, o serie de expoziții și evenimente culturale.
 

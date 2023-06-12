@@ -46,7 +46,7 @@ Vulcanii noroioși, această atracție naturală unică, se află în apropiere 
 
 *   O destinație potrivită atât pentru pasionații de geologie, cât și pentru iubitorii naturii
 
-<img src="/assets/images/travel/langabucuresti/vulcanii-noroiosi.webp " width="740" height="371" alt="vulcanii noroiosi;">
+<img src="/assets/images/travel/langabucuresti/vulcanii-noroiosi.webp " width="740" height="371" loading="lazy" alt="vulcanii noroiosi;">
 
 ### Formațiuni geologice spectaculoase
 
@@ -89,7 +89,7 @@ O vizită la vulcanii noroioși poate fi combinată cu alte locuri de interes di
 
 În plus, pescuitul în aer liber este o activitate populară în zonă, datorită numeroaselor specii de pești care populează lacul.
 
-<img src="/assets/images/travel/langabucuresti/snagov.webp " width="740" height="357" alt="insula snagov;">
+<img src="/assets/images/travel/langabucuresti/snagov.webp " width="740" height="357" loading="lazy" alt="insula snagov;">
 
 Biodiversitatea impresionantă a zonei atrage numeroși pasionați de natură și fotografie. Pădurea găzduiește diverse specii de animale sălbatice precum:
 
@@ -142,7 +142,7 @@ Parcul Natural Comana și Delta Neajlovului sunt locuri perfecte pentru cei care
 
 *   Birdwatching-ul este o activitate extrem de populară în zonă, datorită celor peste 190 de specii de păsări care populează rezervația naturală Delta Neajlovului.
 
-<img src="/assets/images/travel/langabucuresti/comana.webp " width="740" height="355" alt="parcul comana;">
+<img src="/assets/images/travel/langabucuresti/comana.webp " width="740" height="355" loading="lazy" alt="parcul comana;">
 
 ### Diversitatea faunei și florei: un paradis pentru iubitorii vieții sălbatice
 
@@ -193,7 +193,7 @@ Mănăstirea Cernica se află la doar **20 km de București**, în apropiere de 
 
 *   Cu trenul: Există conexiuni frecvente între Gara de Nord și Stația CFR Pantelimon
 
-<img src="/assets/images/travel/langabucuresti/cernica.webp " width="740" height="411" alt="manastirea cernica;">
+<img src="/assets/images/travel/langabucuresti/cernica.webp " width="740" height="411" loading="lazy" alt="manastirea cernica;">
 
 ### Istoricul mănastirii
 
@@ -256,7 +256,7 @@ Rezervația de zimbri Neagra se află în județul Buzău, la aproximativ 100 km
 
 De asemenea, cei care doresc să contribuie la protejarea acestor animale impresionante pot opta pentru voluntariat în cadrul rezervației. Astfel, nu numai că veți avea parte de o experiență memorabilă, dar veți și sprijini conservarea speciei.
 
-<img src="/assets/images/travel/langabucuresti/zimbri-neagra.webp " width="740" height="394" alt="rezerbatia de zimbri neagra;">
+<img src="/assets/images/travel/langabucuresti/zimbri-neagra.webp " width="740" height="394" loading="lazy" alt="rezerbatia de zimbri neagra;">
 
 ### Explorează Cascada Urlătoarea
 
@@ -266,7 +266,7 @@ Pentru a ajunge la Cascada Urlătoarea din Buzău, veți parcurge un traseu pito
 
 În timpul călătoriei, veți fi încântați de splendoarea munților și de aerul pur al regiunii.
 
-<img src="/assets/images/travel/langabucuresti/cascada-urlatoarea.webp " width="740" height="385" alt="cascada urlatoarea;">
+<img src="/assets/images/travel/langabucuresti/cascada-urlatoarea.webp " width="740" height="385" loading="lazy" alt="cascada urlatoarea;">
 
 Zona înconjurătoare este ideală pentru drumeții și alte activități în aer liber. Prin urmare, nu pierdeți oportunitatea de a descoperi această locație extraordinară atunci când căutați **locuri de vizitat în apropiere de București**.
 
@@ -341,7 +341,7 @@ Vizitatorii pot petrece o zi întreagă la Therme București, bucurându-se de f
 
 *   În zonele de masaj, terapeuții profesioniști te vor ajuta să scapi de stresul acumulat prin tratamente corporale personalizate.
 
-<img src="/assets/images/travel/langabucuresti/therme.webp " width="740" height="400" alt="complex therme bucuresti;">
+<img src="/assets/images/travel/langabucuresti/therme.webp " width="740" height="400" loading="lazy" alt="complex therme bucuresti;">
 
 ---
 ## **Palatul Mogoșoaia** și **Domeniul Știrbey**: Oaze istorice și liniștite
@@ -360,7 +360,7 @@ Palatul Mogoșoaia este un exemplu remarcabil de arhitectură românească în s
 
 În plus fața de frumusețea sa arhitectonică, **Palatul Mogoșoaia** oferă o experiență culturală bogată prin diversele evenimente organizate aici.
 
-<img src="/assets/images/travel/langabucuresti/mogosoaia.webp " width="740" height="415" alt="palatul mogosoaia;">
+<img src="/assets/images/travel/langabucuresti/mogosoaia.webp " width="740" height="415" loading="lazy" alt="palatul mogosoaia;">
 
 [Vezi mai multe despre Palatul Mogosoaia](https://ro.wikipedia.org/wiki/Palatul_Mogo%C8%99oaia)
 
@@ -378,7 +378,7 @@ Dacă sunteți în căutarea unei destinații perfecte pentru relaxare și recre
 
 Domeniul Știrbey organizează periodic concerte și alte manifestări culturale, oferind o alternativă plăcută la agitația din București.
 
-<img src="/assets/images/travel/langabucuresti/stirbey.webp " width="740" height="383" alt="palatul stirbey;">
+<img src="/assets/images/travel/langabucuresti/stirbey.webp " width="740" height="383" loading="lazy" alt="palatul stirbey;">
 
 ### Mânăstirea Pasărea și Mânăstirea Comana, centre religioase și culturale
 
@@ -405,7 +405,7 @@ Muzeul se află în posesia familiei Piscu, care a contribuit semnificativ la p�
 
 Familia a avut grijă să adune diverse obiecte tradiționale, precum costume populare, unelte agricole și piese de artizanat. Toate acestea ilustrează viața rurală românească de-a lungul timpului.
 
-<img src="/assets/images/travel/langabucuresti/muzeul-piscu.webp " width="740" height="440" alt="muzeul piscu;">
+<img src="/assets/images/travel/langabucuresti/muzeul-piscu.webp " width="740" height="440" loading="lazy" alt="muzeul piscu;">
 
 ### Colecția impresionantă de obiecte tradiționale
 
@@ -448,7 +448,7 @@ Edenland Park este locul ideal pentru iubitorii de aventură și natură, fiind 
 
 Indiferent dacă ești un amator sau un sportiv experimentat, [Edenland Park](https://www.edenland.ro/) are activități potrivite pentru tine. În plus, parcul dispune de facilități moderne precum zone de parcare, spații de joacă pentru copii și locuri unde poți lua masa.
 
-<img src="/assets/images/travel/langabucuresti/edenland.webp " width="740" height="371" alt="edenland;">
+<img src="/assets/images/travel/langabucuresti/edenland.webp " width="740" height="371" loading="lazy" alt="edenland;">
 
 ### Parcul Dendrologic Chitila - relaxare în mijlocul naturii
 
@@ -493,7 +493,7 @@ La doar 60 km distanță de București, se află **stațiunea Telega Băi**, un 
 
 Stațiunea dispune de numeroase opțiuni de cazare pentru toate gusturile și bugetele. De la hoteluri moderne până la pensiuni tradiționale, aici veți găsi tot ce aveți nevoie pentru o vacanță reușită.
 
-<img src="/assets/images/travel/langabucuresti/telega-bai.webp " width="740" height="385" alt="telega bai;">
+<img src="/assets/images/travel/langabucuresti/telega-bai.webp " width="740" height="385" loading="lazy" alt="telega bai;">
 
 ### Plaja de la Telega – oază de relaxare
 
@@ -540,7 +540,7 @@ Stațiunea Telega Băi oferă numeroase opțiuni de cazare pentru a satisface ne
 
 Rusenski Lom este o destinație perfectă pentru un weekend scurt peste granița de sud a României. Acest parc natural impresionant din Bulgaria oferă peisaje spectaculoase, cu stânci calcaroase și chei pitorești. Iar pentru cei interesați de istorie și cultură, zona este bogată în mănăstiri rupestre și sate tradiționale.
 
-<img src="/assets/images/travel/langabucuresti/ruseski-lom.webp " width="740" height="366" alt="ruseski-lom;">
+<img src="/assets/images/travel/langabucuresti/ruseski-lom.webp " width="740" height="366" loading="lazy" alt="ruseski-lom;">
 
 ### Ce activitati pot face in Rusenski Lom?
 

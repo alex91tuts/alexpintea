@@ -77,7 +77,7 @@ Prezența acestor personalități și evenimentele culturale găzduite de Casa M
 
 Aceste caracteristici au făcut ca Casa Melik să devină un simbol al evoluției și dinamismului societății bucureștene în secolul al XIX-lea.
 
-<img src="/assets/images/travel/melik/afara.webp" width="740" height="555" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/melik/afara.webp" width="740" height="555" loading="lazy" alt="{{ page.keyword }}">
 
 ### Casa Melik în secolul al XX-lea și prezent 
 
@@ -128,7 +128,7 @@ Fațada prezintă o combinație de elemente tradiționale românești, cum ar fi
 
 Casa Melik a fost inițial proiectată ca o locuință unifamilială, cu un parter și un etaj, dispunând de o serie de încăperi și spații funcționale. 
 
-<img src="/assets/images/travel/melik/etaj.webp" width="740" height="495" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/melik/etaj.webp" width="740" height="495" loading="lazy" alt="{{ page.keyword }}">
 
 Planul casei a suferit modificări de-a lungul timpului, pentru a se adapta nevoilor și gusturilor diferitelor perioade. 
 
@@ -142,7 +142,7 @@ Unul dintre aspectele care fac Casa Melik deosebită este prezența unor detalii
 
 Vitraliile, de exemplu, îmbină motive tradiționale românești cu elemente de inspirație occidentală, creând un joc de lumini și culori impresionant.
 
-<img src="/assets/images/travel/melik/hol.webp" width="740" height="495" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/melik/hol.webp" width="740" height="495" loading="lazy" alt="{{ page.keyword }}">
 
 De asemenea, decorațiunile interioare ale Casei Melik includ fresce, basoreliefuri, sculpturi și elemente de tâmplărie, care îmbogățesc spațiul și aduc un plus de rafinament și eleganță.
 

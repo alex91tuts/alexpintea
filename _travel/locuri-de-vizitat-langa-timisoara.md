@@ -45,7 +45,7 @@ Fie că ești interesat de locuri de vizitat pe lângă Timișoara sau dorești 
 
 *   Drumeții și plimbări cu bicicleta
 
-<img src="/assets/images/travel/langa-timisoara/herneacova.webp" width="740" height="364" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/herneacova.webp" width="740" height="364" loading="lazy" alt="{{ page.keyword }};">
 
 ### Centrul ecvestru: călărind spre aventură
 
@@ -84,7 +84,7 @@ Pentru cei interesați de istorie și cultură, în apropiere se află și Caste
 
 *   Un exemplu de astfel de pom este Sequoiadendron giganteum, cel mai înalt arbore din lume.
 
-<img src="/assets/images/travel/langa-timisoara/bazos.webp" width="740" height="413" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/bazos.webp" width="740" height="413" loading="lazy" alt="{{ page.keyword }};">
 
 ### Grădina Botanică Macea - paradisul plantelor
 
@@ -94,7 +94,7 @@ Pentru cei interesați de istorie și cultură, în apropiere se află și Caste
 
 *   Printre atracțiile grădinii se numără o seră cu cactuși și suculente, precum și un lac artificial înconjurat de vegetație luxuriantă.
 
-<img src="/assets/images/travel/langa-timisoara/macea.webp" width="740" height="387" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/macea.webp" width="740" height="387" loading="lazy" alt="{{ page.keyword }};">
 
 ### Plimbare printre poteci pitorești
 
@@ -131,7 +131,7 @@ Pentru cei interesați de istorie și cultură, în apropiere se află și Caste
 
 *   Informații despre personalități marcante ale culturii din zonă
 
-<img src="/assets/images/travel/langa-timisoara/muzeul-banatului.webp" width="740" height="399" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/muzeul-banatului.webp" width="740" height="399" loading="lazy" alt="{{ page.keyword }};">
 
 ### Muzeul Satului Bănățean: Redescoperirea vieții tradiționale
 
@@ -145,7 +145,7 @@ VizitA **MuzeulUI Satului Bănățean** se va simți ca o călătorie în timp. 
 
 4.  Ateliere meșteșugărești (olari, cojocari)
 
-<img src="/assets/images/travel/langa-timisoara/satului-banatean.webp" width="740" height="430" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/satului-banatean.webp" width="740" height="430" loading="lazy" alt="{{ page.keyword }};">
 
 ### Evenimente culturale la Muzeul Satului Bănățean
 
@@ -175,7 +175,7 @@ Acest muzeu unic vă oferă o perspectivă asupra vieții cotidiene din perioada
 
 **Cascada Șușara** este o atracție naturală spectaculoasă, situată în Parcul Național Semenic-Cheile Carașului. 
 
-<img src="/assets/images/travel/langa-timisoara/cascada-susara.webp" width="740" height="383" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/cascada-susara.webp" width="740" height="383" loading="lazy" alt="{{ page.keyword }};">
 
 Cu acces facil prin trasee bine marcate, cascada oferă vizitatorilor o oază de relaxare și posibilitatea de a se bucura de drumeții în mijlocul naturii. Pe lângă priveliștea impresionantă a cascadei, zona oferă și alte locuri pitorești pentru explorat.
 
@@ -205,7 +205,7 @@ Nu ratați ocazia să vă bucurați de experiențe gastronomice autentice cu pre
 
 ## Explorând ținutul Pădurenilor: Lelese, Cerișor, Alun și Complexul Turistic Zolt
 
-<img src="/assets/images/travel/langa-timisoara/tinutul-padurenilor.webp" width="740" height="347" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/tinutul-padurenilor.webp" width="740" height="347" loading="lazy" alt="{{ page.keyword }};">
 
 ### Descoperă tradițiile și cultura Pădurenilor
 
@@ -283,7 +283,7 @@ Construită în secolul al XIII-lea, [această cetate](https://ro.wikipedia.org/
 
 De asemenea, poți admira peisajele minunate ale zonei și poți face drumeții pe traseele din apropiere.
 
-<img src="/assets/images/travel/langa-timisoara/cetatea-siria.webp" width="740" height="335" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/cetatea-siria.webp" width="740" height="335" loading="lazy" alt="{{ page.keyword }};">
 
 
 ### Explorează Cetatea Șoimoș
@@ -298,7 +298,7 @@ Situată pe malul drept al Mureșului, **Cetatea Șoimoș** a avut un rol strate
 
 Nu uita să te documentezi înainte despre evenimentele istorice care au avut loc în această cetate, pentru a avea o experiență cât mai completă.
 
-<img src="/assets/images/travel/langa-timisoara/soimos.webp" width="740" height="360" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/soimos.webp" width="740" height="360" loading="lazy" alt="{{ page.keyword }};">
 
 
 ### Admira Cetatea Deva
@@ -309,7 +309,7 @@ Construită pe **Dealul Cetății**, această cetate oferă o priveliște panora
 
 *   Arhitectura fortificației, cu ziduri groase și turnuri impunătoare
 
-<img src="/assets/images/travel/langa-timisoara/cetatea-deva.webp" width="740" height="370" alt="{{ page.keyword }};">
+<img src="/assets/images/travel/langa-timisoara/cetatea-deva.webp" width="740" height="370" loading="lazy" alt="{{ page.keyword }};">
 
 ## Concluzie: Redescoperirea frumuseților ascunse din apropierea Timișoarei
 

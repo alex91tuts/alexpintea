@@ -82,7 +82,7 @@ Aceste locuri au adăpostit întâlnirile și discuțiile dintre scriitori, arti
 
 Astăzi, aceste localuri continuă să existe, amintind de atmosfera de altădată și oferind o experiență autentică vizitatorilor.
 
-<img src="/assets/images/travel/macca/1.webp" width="740" height="492" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/macca/1.webp" width="740" height="492" loading="lazy" alt="{{ page.keyword }}">
 
 ### Evenimente și manifestări culturale
 

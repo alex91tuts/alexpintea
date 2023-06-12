@@ -67,7 +67,7 @@ Acest lăcaș de cult săpat în stâncă e un loc plin de spiritualitate și li
 
 Mai mult decât doar un loc de cult, [Biserica Evanghelică din Râșnov](https://ro.wikipedia.org/wiki/Biserica_evanghelic%C4%83_din_R%C3%A2%C8%99nov){:target="_blank"} este un exemplu extraordinar de arhitectură săsească, cu elemente gotice și baroce. 
 
-<img src="/assets/images/travel/rasnov/biserica-evanghelica-rasnov.webp" width="740" height="647" alt="biserica evanghelica din rasnov;">
+<img src="/assets/images/travel/rasnov/biserica-evanghelica-rasnov.webp" width="740" height="647" loading="lazy" alt="biserica evanghelica din rasnov;">
 
 Construită în secolul XV, această biserică păstrează în interiorul său un amvon frumos sculptat și un altar bogat ornamentat. 
 
@@ -77,7 +77,7 @@ Construită în secolul XV, această biserică păstrează în interiorul său u
 
 Vestigiile trecutului dacic și medieval sunt puse în valoare la această cetate situată pe un deal în apropierea orașului Râșnov. O incursiune în istoria zonei e posibilă prin vizitarea zidurilor cetății, turnurilor și bastioanelor care au rezistat atacurilor de-a lungul timpului. Arhitectura defensivă e demnă de admirat!
 
-<img src="/assets/images/travel/rasnov/cetatea-rupea.webp" width="740" height="414" alt="cetatea rupea;">
+<img src="/assets/images/travel/rasnov/cetatea-rupea.webp" width="740" height="414" loading="lazy" alt="cetatea rupea;">
 
 ---
 ## Aventuri în natură: Prăpăstiile Zărneștiului, Valea Cheișoarei, Cheile Râșnoavei și Rezervația de Urși Libearty Zărnești
@@ -135,7 +135,7 @@ Pe lângă priveliștea minunată, Cheile Râșnoavei oferă și o serie de acti
 
 Există mai multe trasee de dificultate variată, fiecare oferind oportunități unice de a admira frumusețea naturală a zonei. Vei găsi cărări care te conduc prin păduri de conifere, lângă pâraie limpezi și peste stânci mărețe.
 
-<img src="/assets/images/travel/rasnov/cheile-rasnoavei-rasnov.webp" width="740" height="554" alt="cheile rasnoavei;">
+<img src="/assets/images/travel/rasnov/cheile-rasnoavei-rasnov.webp" width="740" height="554" loading="lazy" alt="cheile rasnoavei;">
 
 Pe lângă aceste activități clasice în natura, aici vei găsi câteva experiențe unice.
 
@@ -191,7 +191,7 @@ Acest parc tematic se întinde pe o suprafață de 3,5 hectare și adăpostește
 
 Pe lângă traseul principal amenajat printre dinozauri, vizitatorii pot explora și diferite zone tematice ale parcului. Una dintre acestea este "Pădurea de fosile", unde copiii pot săpa în căutare de fosile și să învețe despre procesul de fosilizare și importanța acestora în studiul dinozaurilor.
 
-<img src="/assets/images/travel/rasnov/dino-parc.webp" width="740" height="553" alt="dinozaur in dino parc rasnov;">
+<img src="/assets/images/travel/rasnov/dino-parc.webp" width="740" height="553" loading="lazy" alt="dinozaur in dino parc rasnov;">
 
 În "Laboratorul de paleontologie", vizitatorii pot afla cum paleontologii studiază dinozaurii și alte viețuitoare preistorice, și pot chiar să participe la activități practice.
 

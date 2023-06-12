@@ -57,7 +57,7 @@ Castelul Haller din Hoghiz este una dintre cele mai importante clădiri din zon�
 
 Castelul Haller are o istorie interesantă și a fost locuit de mai multe generații ale familiei Haller. 
 
-<img src="/assets/images/travel/hoghiz/haller.webp" width="740" height="553" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/haller.webp" width="740" height="553" loading="lazy" alt="{{ page.title }}">
 
 În timpul celui de-al Doilea Război Mondial, castelul a fost folosit ca sediu al armatei germane. După război, clădirea a fost naționalizată și folosită ca școală.
 
@@ -74,7 +74,7 @@ După o lungă perioadă de decădere, castelul a fost restaurat și transformat
 
 Turistii sunt bineveniți să viziteze castelul și să admire grădinile sale frumoase, dar și să se bucure de atmosfera medievală din interiorul său. 
 
-<img src="/assets/images/travel/hoghiz/kalinoky.webp" width="740" height="491" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/kalinoky.webp" width="740" height="491" loading="lazy" alt="{{ page.title }}">
 
 Fiecare cameră este unică, cu mobilier antichizat și obiecte de artă, permițând vizitatorilor să experimenteze viața de nobil din Evul Mediu.
 
@@ -91,7 +91,7 @@ Clădirea de un singur etaj și o suprafață de 500 metri pătrați este constr
 
 Clădirea se presupune că ar fi fost construită în secolul al XVI-lea (1553) și modificată în secolul al XVIII-lea. 
 
-<img src="/assets/images/travel/hoghiz/valenta.webp" width="740" height="553" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/valenta.webp" width="740" height="553" loading="lazy" alt="{{ page.title }}">
 
 Se crede că acest castel a fost deținut și de familia Haller, însă nu există informații exacte în acest sens. 
 
@@ -106,7 +106,7 @@ Aceasta a fost construită într-un stil tradițional specific zonei, cu o arhit
  
 De-a lungul timpului, biserica a fost supusă unor reparații și renovări, dar încă păstrează elemente originale din perioada construcției sale.
 
-<img src="/assets/images/travel/hoghiz/lemn.webp" width="740" height="553" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/lemn.webp" width="740" height="553" loading="lazy" alt="{{ page.title }}">
 
 Biserica „Cuvioasa Paraschiva” este cunoscută și pentru icoanele sale din secolul al XVIII-lea, păstrate în interiorul bisericii. 
 
@@ -121,7 +121,7 @@ Biserica Unitariană din Hoghiz este o clădire istorică în stil gotic, situat
 
 Aceasta a fost construită în secolul al XIV-lea și a fost folosită în trecut de către catolici, dar după Reforma Protestantă, a fost transformată într-o biserică unitariană.
 
-<img src="/assets/images/travel/hoghiz/unitara.webp" width="740" height="491" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/unitara.webp" width="740" height="491" loading="lazy" alt="{{ page.title }}">
 
 Biserica are o fațadă impresionantă cu un portal gotic și o rozetă deasupra acestuia, iar în interior se pot observa numeroase elemente arhitecturale interesante, cum ar fi bolți ogivale, arcade și console sculptate. 
 
@@ -136,7 +136,7 @@ Fațada bisericii este dominată de turnul impresionant, de 42 de metri înălț
 
 În interiorul bisericii se găsesc fresce și vitralii vechi, care reprezintă scene religioase și istorice. 
 
-<img src="/assets/images/travel/hoghiz/reformata.webp" width="740" height="491" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/reformata.webp" width="740" height="491" loading="lazy" alt="{{ page.title }}">
 
 De asemenea, dispune de o orgă veche, realizată în secolul al XVIII-lea, fiind considerată un instrument muzical valoros, atât din punct de vedere istoric, cât și artistic.
 
@@ -168,7 +168,7 @@ Obiceiul Balul Strugurilor este un eveniment important pentru comunitatea din Ho
 
 Acesta este un festival dedicat recoltei de struguri și are o istorie îndelungată, fiind menționat pentru prima dată în secolul al XIX-lea.
 
-<img src="/assets/images/travel/hoghiz/strugurilor.webp" width="740" height="553" alt="{{ page.title }}">
+<img src="/assets/images/travel/hoghiz/strugurilor.webp" width="740" height="553" loading="lazy" alt="{{ page.title }}">
 
 În cadrul acestui obicei, oamenii se adună la un bal tradițional, unde se dansează pe muzică populară și se savurează preparate tradiționale specifice zonei. 
 

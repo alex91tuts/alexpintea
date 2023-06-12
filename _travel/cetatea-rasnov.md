@@ -73,7 +73,7 @@ Aceasta este formată dintr-o serie de bastioane, turnuri, un cuptor de pâine, 
 
 Pe lângă elementele sale arhitecturale impresionante, Cetatea Râșnov găzduiește și un muzeu de artă feudală, adăpostind numeroase exponate de interes istoric.
 
-<img src="/assets/images/travel/cetatea-rasnov/cetatea-rasnov1.webp" width="740" height="551" alt="cetatea rasnov;">
+<img src="/assets/images/travel/cetatea-rasnov/cetatea-rasnov1.webp" width="740" height="551" loading="lazy" alt="cetatea rasnov;">
 
 ### Râșnov - Puntea dintre Trecut și Prezent
 
@@ -117,7 +117,7 @@ Construcția sa a presupus o muncă deosebit de minuțioasă, implicând o ingin
 
 Înconjurată de ziduri masive de piatră și dotată cu turnuri de apărare și locuințe interioare, cetatea era capabilă să susțină o comunitate întreagă pe durata unui asediu prelungit.
 
-<img src="/assets/images/travel/cetatea-rasnov/cetatea-rasnov2.webp" width="740" height="551" alt="cetatea rasnov;">
+<img src="/assets/images/travel/cetatea-rasnov/cetatea-rasnov2.webp" width="740" height="551" loading="lazy" alt="cetatea rasnov;">
 
 ### Cele Mai Importante Evenimente din Istoria Cetății
 
@@ -159,7 +159,7 @@ Să ne amintim de evenimentele care au modelat istoria acestui loc și să preț
 
 Prin cunoașterea și aprecierea [istoriei cetății](https://historia.ro/sectiune/travel/cetatea-rasnov-intre-legenda-si-istorie-foto-570107.html){:target="_blank"}, contribuim la păstrarea și promovarea patrimoniului cultural al României, astfel încât el să inspire și să încânte generații viitoare.
 
-<img src="/assets/images/travel/cetatea-rasnov/poarta-cetate-rasnov.webp" width="740" height="553" alt="cetatea rasnov;">
+<img src="/assets/images/travel/cetatea-rasnov/poarta-cetate-rasnov.webp" width="740" height="553" loading="lazy" alt="cetatea rasnov;">
 
 ---
 ## Arhitectura Cetății Râșnov
@@ -227,7 +227,7 @@ Turnurile cetății, cu funcții atât de apărare cât și de observație, suge
 
 Descifrarea acestor semnificații și simboluri ne ajută nu doar să înțelegem istoria și cultura locală, ci și să apreciem mai mult efortul și ingeniozitatea oamenilor care au construit și apărat Cetatea Râșnov.
 
-<img src="/assets/images/travel/cetatea-rasnov/cetatea-rasnov3.webp" width="740" height="527" alt="cetatea rasnov;">
+<img src="/assets/images/travel/cetatea-rasnov/cetatea-rasnov3.webp" width="740" height="527" loading="lazy" alt="cetatea rasnov;">
 
 ---
 ## Cetatea Râșnov Astăzi  
