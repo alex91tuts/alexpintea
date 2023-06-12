@@ -36,7 +36,7 @@ post_class: post-template
  "dateCreated": "{{ page.date }}",
  "dateModified": "{{ page.date-modified }}",
  "description": "{{ page.description }}",
- "articleBody": "{{ page.content | strip_html }}"
+ "articleBody": "{{ page.content }}"
  }{% if page.video == "yes" %},
  {
   "@context": "https://schema.org",
@@ -120,15 +120,6 @@ post_class: post-template
 		display: inline-block;
 	}
 	
-	#outputList {
-		list-style-type: none;
-    padding: 0;
-    border: solid 1px lightgray;
-    width: 95px;
-		border-radius: 3px;
-		border-bottom: none;
-		margin: 0;
-	}
 	#outputList li {
 		border-bottom: solid 1px lightgray;
     padding: 3px;

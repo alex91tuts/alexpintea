@@ -23,24 +23,24 @@
 
 	
 // Sticky elements for the menu
-let list = ['Meniu'],x = [], continut, he, outputList = '', bottom, rect;
+let list = [],x = [], continut, he, outputList = '', bottom, rect;
 
 function toggleShow() {
 	var toc = document.getElementById('tocid');
-	if (toc.style.marginLeft === "-106px") {
+	var cup = document.getElementById('cuprins')
+	if (toc.style.marginLeft === "-205px") {
     toc.style.marginLeft = "-9px";
+		toc.style.position = "fixed";
   } else {
-    toc.style.marginLeft = "-106px";
+    toc.style.marginLeft = "-205px";
+		toc.style.position = "sticky";
   }
 
 }
-
 	
 	function getAllHeadings() {
     var continut = document.getElementById('continut');
     var he = continut.getElementsByTagName('h2');
-    var list = [];
-    var outputList = '';
 
     for (var i = 0; i < he.length; i++) {
         list.push(he[i].innerHTML);
@@ -55,7 +55,7 @@ function toggleShow() {
         <!-- end post -->`    
     });
 
-    document.getElementById('outputList').innerHTML = outputList;
+  document.getElementById('outputList').innerHTML = outputList;
 }
 
 window.onload = getAllHeadings;

@@ -23,6 +23,26 @@ body p {
 #outputList li {
 	
 }
+
+
+.cuprins {
+		display: none;
+	}
+@media (max-width: 600px) {
+		.cuprins {
+	  display: block;
+    padding: 2px;
+    padding-right: 12px;
+    border-bottom-right-radius: 13px;
+    background: #353746;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    color: #dfdfdf;
+    left: 0;
+    font-weight: 600;
+	}
+}
 a {
     color: #0067d6;
     text-decoration: none;
@@ -148,7 +168,7 @@ margin-bottom: 10px;
 	.toc {
 		position: sticky;
 		position: -webkit-sticky;
-    margin-left: -106px;
+    margin-left: -195px;
     background: none;
 		z-index: 19;
 		width: auto;
@@ -163,6 +183,16 @@ margin-bottom: 10px;
 	
 	}
 }
+
+	#outputList {
+		list-style-type: none;
+    padding: 0;
+    border: solid 1px lightgray;
+    width: 180px;
+		border-radius: 3px;
+		border-bottom: none;
+		margin: 0;
+	}
 
 @media only screen and (max-width: 1200px) {
 	.header-push {
@@ -183,7 +213,7 @@ margin-bottom: 10px;
 		padding: initial;
 	}
 	.toc {
-    margin-left: -106px;
+    margin-left: -205px;
     background: white;
     z-index: 19;
     width: auto;
@@ -191,7 +221,7 @@ margin-bottom: 10px;
     float: left;
     position: sticky;
 		position: -webkit-sticky;
-    top: 20px;
+    top: 36px;
 	}
 	.header-push {
 		display: none;
