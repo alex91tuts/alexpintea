@@ -18,8 +18,9 @@ tags: ['București', 'Locuri de vizitat', 'Apropiere']
 
 ---
 
+
 ---
-## Introducere: Top **locuri de vizitat lângă București**
+## Introducere: Top locuri de vizitat lângă București
 
 Te-ai săturat de agitația orașului și vrei să evadezi într-un loc liniștit, plin de istorie și cultură? Ei bine, ești norocos!
 

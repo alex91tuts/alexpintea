@@ -27,33 +27,39 @@ let list = [],x = [], continut, he, outputList = '', bottom, rect;
 
 function toggleShow() {
 	var toc = document.getElementById('tocid');
-	var cup = document.getElementById('cuprins')
-	if (toc.style.display === "none") {
+	var state = toc.style.display;
+	console.log(state);
+	if (state === "none" || state === "") {
     	toc.style.display = "block";
   } else {
-    toc.style.display = "none";
+    	toc.style.display = "none";
   }
-
 }
+
 	
 	function getAllHeadings() {
     var continut = document.getElementById('continut');
     var he = continut.getElementsByTagName('h2');
+    var list = [];
+    var outputList = '';
 
     for (var i = 0; i < he.length; i++) {
         list.push(he[i].innerHTML);
     }
-        
-    list.forEach(function(prod){
-        var safeProd = prod.replace(/[,.;:?!]/g, '');  // Înlătură caracterele speciale din prod
-        var encodedProd = encodeURIComponent(safeProd.split(' ').join('-')).toLowerCase();
-        outputList += `
-        <!-- begin post -->
-            <li><a href="#${encodedProd}">${prod}</a></li>
-        <!-- end post -->`    
+    
+    var prodList = list.map(prod => {
+        var safeProd = prod.replace(/[,.;:?!']/g, '');  // Înlătură caracterele speciale din prod
+        return encodeURIComponent(safeProd.split(' ').join('-')).toLowerCase();
     });
 
-  document.getElementById('outputList').innerHTML = outputList;
+    for (var i = 0; i < prodList.length; i++) {
+        outputList += `
+        <!-- begin post -->
+            <li><a href="#${prodList[i]}">${list[i]}</a></li>
+        <!-- end post -->`    
+    };
+
+    document.getElementById('outputList').innerHTML = outputList;
 }
 
 window.onload = getAllHeadings;
