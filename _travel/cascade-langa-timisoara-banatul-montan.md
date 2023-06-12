@@ -13,7 +13,7 @@ categorie: CITY BREAK
 lang: ro_RO
 keyword: "cascade lângă timisoara"
 date: 2023-06-06
-date-modified: 2023-06-06
+date-modified: 2023-06-12
 tags: ['Timisoara', 'Cascade', 'Banatul Montan']
 
 ---
@@ -116,6 +116,8 @@ Aici, apa curge limpede și rece, iar în zilele însorite, razele soarelui tran
 Cascada Beuşniţa este, cu siguranță, bijuteria Banatului, oferind un peisaj inedit, în care forța apei și splendoarea naturii se îmbină într-un spectacol natural magnific.
 
 Este o oprire obligatorie pentru oricine vizitează Banatul Montan, încărcându-se cu energie pozitivă și admirând frumusețea neatinsă a naturii.
+
+**Citește și: [Locuri de vizitat în Timișoara](https://totredus.ro/travel/locuri-de-vizitat-in-timisoara/)**
 
 ---
 

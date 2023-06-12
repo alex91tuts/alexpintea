@@ -28,12 +28,10 @@ let list = [],x = [], continut, he, outputList = '', bottom, rect;
 function toggleShow() {
 	var toc = document.getElementById('tocid');
 	var cup = document.getElementById('cuprins')
-	if (toc.style.marginLeft === "-205px") {
-    toc.style.marginLeft = "-9px";
-		toc.style.position = "fixed";
+	if (toc.style.display === "none") {
+    	toc.style.display = "block";
   } else {
-    toc.style.marginLeft = "-205px";
-		toc.style.position = "sticky";
+    toc.style.display = "none";
   }
 
 }

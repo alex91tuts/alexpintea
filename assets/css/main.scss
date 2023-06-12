@@ -213,14 +213,14 @@ margin-bottom: 10px;
 		padding: initial;
 	}
 	.toc {
-    margin-left: -205px;
+		display: none;
+    margin-left: -9px;
     background: white;
     z-index: 19;
     width: auto;
     padding: 0;
     float: left;
-    position: sticky;
-		position: -webkit-sticky;
+		position: fixed;
     top: 36px;
 	}
 	.header-push {
