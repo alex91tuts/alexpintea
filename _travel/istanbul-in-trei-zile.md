@@ -50,6 +50,11 @@ tags: ['Istanbul', 'CityBreak', '2023']
 
 ---
 
+
+{% include booking.html %}
+<div id="booking"></div>
+
+
 Salutare, dragă călătorule! Gata să descoperi Istanbulul în doar 3 zile? Acest ghid îți va arăta cum să te bucuri de cele mai bune atracții, mâncăruri și experiențe pe care acest oraș fascinant le are de oferit. 
 
 Te întrebi ce este atât de special la Istanbul? Ei bine, este un oraș magic care se întinde între două continente, Europa și Asia, și îmbină perfect istoria cu modernismul.
@@ -57,6 +62,7 @@ Te întrebi ce este atât de special la Istanbul? Ei bine, este un oraș magic c
 Poate te gândești că 3 zile nu sunt suficiente pentru a explora acest oraș minunat, dar vei vedea că este posibil dacă ești bine organizat!
 
 Înainte de a începe aventura, nu uita să îți faci temele: verifică prognoza meteo, pregătește-ți echipamentul potrivit și asigură-te că ai o hartă la îndemână un telefon cu conexiune la internet la indemână.
+
 
 ---
 ## Ziua 1 - Descoperă partea europeană a Istanbulului
