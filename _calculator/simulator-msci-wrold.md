@@ -3,7 +3,9 @@
 layout: calculator
 title: "CALCULATOR INVESTIȚIE ISTORICĂ MSCI WORLD"
 date: 2023-05-04
+date-modified: 2023-06-19
 categorie: "FINANCIAR"
+description: "Descoperă potențialul investițiilor tale cu simulatorul nostru MSCI World. Obține estimări precise și planifică-ți viitorul financiar cu încredere. Începe acum!"
 
 ---
 

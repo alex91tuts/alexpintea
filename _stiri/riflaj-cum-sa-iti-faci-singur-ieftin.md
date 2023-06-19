@@ -3,7 +3,7 @@ title: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
 image_path: stiri/riflaj/main.webp
 layout: stiri
 date: 2023-03-15
-date-modified: 
+date-modified: 2023-06-19
 categorie: DESIGN INTERIOR
 tags: ['Riflaj', 'DIY', 'Lemn']
 nume: Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin
@@ -178,7 +178,7 @@ Suprafețele din PAL pot fi tratate cu folii de melamină, furnir sau diverse la
 
 Spre deosebire de MDF acesta este mai ieftin și de calitate puțin mai slabă. Însă pentru un riflaj este perfect. 
 
-Pentru relizarea unui **riflaj din PAL** nu putem utiliza PAL brut. Palul brut nu arată în exteror la fel de fin precum MDF-ul. Vom utiliza metoda micilor și marilor fabricanți de mobilă. 
+Pentru relizarea unui **[riflaj din PAL](https://totredus.ro/https://totredus.ro/stiri/riflaj-din-pal/)** nu putem utiliza PAL brut. Palul brut nu arată în exteror la fel de fin precum MDF-ul. Vom utiliza metoda micilor și marilor fabricanți de mobilă. 
 
 Acesta ajunge la distribuitori în plăci de 2 x 2.8 m și de obicei se vinde la plăci întregi. Adică, daca tu ai nevoie de 2/3 dintr-o placă va trebui să cumperi toată placa. 
 

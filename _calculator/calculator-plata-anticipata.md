@@ -3,6 +3,9 @@
 layout: calculator
 title: CALCULATOR PLĂȚI ANTICIPATE CU SCĂDEREA PERIOADEI
 categorie: "FINANCIAR"
+date: 2023-04-05
+date-modified: 2023-06-19
+description: "Descoperă impactul plăților anticipate asupra împrumutului tău cu calculatorul nostru. Introdu soldul, rata dobânzii și plățile suplimentare și vezi cum poți economisi!"
 
 ---
 

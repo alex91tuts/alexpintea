@@ -3,7 +3,9 @@
 layout: calculator
 title: "CALCULATOR INVESTIȚIE ISTORICĂ S&P 500"
 date: 2023-04-27
+date-modified: 2023-06-19
 categorie: "FINANCIAR"
+description: "Descoperă potențialul investițiilor tale cu Simulatorul S&P 500 de la TotRedus. Analizează istoricul, calculează randamentele viitoare și optimizează strategia ta de investiții."
 
 ---
 
