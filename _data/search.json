@@ -682,6 +682,17 @@
 	    "image"     : "/assets/images/stiri/fericirea/calaretul-elefantul.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Ipoteza Fericirii, o carte ce dezvăluie adevăruri moderne în înțelepciunea antică. Explorează ce este fericirea și cum o putem atinge în viețile noastre complexe și moderne."
+    } ,
+  
+    {
+      "title"    : "Riflaj PAL: Ghid Complet pentru Panouri Decorative + Idei Design",
+      "category" : "DESIGN INTERIOR",
+      "tags"     : "Riflaj, PAL, 2023",
+      "url"      : "/stiri/riflaj-din-pal/",
+      "date"     : "2023-06-19 00:00:00 +0300",
+	    "image"     : "/assets/images/stiri/riflajpal/riflaj-pal-main.webp",
+			"author"    : "Home Best",
+	    "description"     : "Descoperă avantajele riflajului din PAL - soluția durabilă, estetică și accesibilă pentru designul interior. Transformă-ți spațiul cu versatilitate și stil."
     } 
   
 	,

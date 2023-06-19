@@ -39,7 +39,7 @@ collections:
   autor:
     output: true     
     permalink: /autor/:path/ 
-	manuka:
+  manuka:
     output: true     
     permalink: /:path/ 
 
