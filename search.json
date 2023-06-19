@@ -42,6 +42,19 @@ robots: YES
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 	,
+	{% for post in site.manuka %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.categorie }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}",
+	    "image"     : "/assets/images/{{ post.image_path }}",
+			"author"    : "{{ post.author }}",
+	    "description"     : "{{ post.description }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+	,
 	{% for post in site.reviews %}
     {
       "title"    : "{{ post.title | escape }}",

@@ -53,6 +53,36 @@ sitemap:
       {% endif %}
     </url>
   {% endfor %}
+	{% for blog in site.smarthome %}
+    <url>
+      <loc>{{ site.url }}{{ blog.url | remove: "index.html" }}</loc>
+      {% if blog.date-modified %}
+        <lastmod>{{ blog.date-modified | date: "%Y-%m-%d" }}</lastmod>
+      {% else %}
+        <lastmod>{{ blog.date | date: "%Y-%m-%d" }}</lastmod>
+      {% endif %}
+      {% if page.sitemap.priority %}
+        <priority>{{ page.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.7</priority>
+      {% endif %}
+    </url>
+  {% endfor %}
+		{% for blog in site.manuka %}
+    <url>
+      <loc>{{ site.url }}{{ blog.url | remove: "index.html" }}</loc>
+      {% if blog.date-modified %}
+        <lastmod>{{ blog.date-modified | date: "%Y-%m-%d" }}</lastmod>
+      {% else %}
+        <lastmod>{{ blog.date | date: "%Y-%m-%d" }}</lastmod>
+      {% endif %}
+      {% if page.sitemap.priority %}
+        <priority>{{ page.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.7</priority>
+      {% endif %}
+    </url>
+  {% endfor %}
 	{% for trip in site.travel %}
     <url>
       <loc>{{ site.url }}{{ trip.url | remove: "index.html" }}</loc>
