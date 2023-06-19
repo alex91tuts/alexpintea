@@ -20,7 +20,7 @@ Te-ai întrebat vreodată de ce este **mierea de manuka** atât de specială? Ac
 Datorită proprietăților sale impresionante, mierea de manuka a fost folosită în medicina tradițională încă din cele mai vechi timpuri.
 
 ---
-## Beneficiile mierii de manuka sunt:**
+## Beneficiile mierii de manuka sunt:
 
 <img src="/assets/images/manuka/beneficii/miere-manuka-beneficii.webp" width="740" height="370" loading="lazy" alt="beneficiile propietatiel mierii de manuka">
 
