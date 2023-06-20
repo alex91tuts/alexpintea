@@ -3,7 +3,7 @@ title: 'Miere de Manuka - Beneficii pentru sănătate și bunăstare'
 image_path: manuka/beneficii/albina-arbore-manuka.webp
 layout: stiri
 date: 2023-06-19
-date-modified: 
+date-modified: 2023-06-20 
 categorie: MANUKA
 tags: ['Miere', 'Manuka', 'Beneficii']
 nume: "miere de manuka beneficii"
@@ -161,7 +161,7 @@ Simptomele sindromului de colon iritabil (IBS) pot fi ameliorate prin consumul r
 
 ### Tratarea infecțiilor stomacale cauzate de Helicobacter pylori
 
-Mierea de manuka este eficientă în tratamentul infecțiilor stomacale provocate de bacteria Helicobacter pylori, responsabilă pentru apariția ulcerelor gastrice. Avantajele includ:
+Mierea de manuka este eficientă în tratamentul infecțiilor stomacale provocate de **[bacteria Helicobacter pylori](miere-manuka-helicobacter-pylori/)**, responsabilă pentru apariția ulcerelor gastrice. Avantajele includ:
 
 *   Inhibarea creșterii bacteriei H.
     
