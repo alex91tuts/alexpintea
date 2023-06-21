@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Top 10 locuri de vizitat în Râșnov: ghidul tău complet pentru o escapadă perfectă"
+title: "Top 10 locuri de vizitat în Râșnov: un ghid al obiectivelor turistice"
 descriere: "Descoperă Râșnovul, perla Carpaților cu o istorie străveche și atractii unice. Cetatea Râșnov, Peștera Valea Cetății, Dino Parc și multe altele te așteaptă pentru o experiență de neuitat."  
 description: "Descoperă Râșnovul, perla Carpaților cu o istorie străveche și atractii unice. Cetatea Râșnov, Peștera Valea Cetății, Dino Parc și multe altele te așteaptă pentru o experiență de neuitat."   
 meta_image: assets/images/travel/rasnov/rasnov-main.webp 
@@ -21,7 +21,7 @@ tags: ['Rasnov', 'Locuri de vizitat', '2023']
 ---
 ## Introducere: Obiective turistice de vizitat în Râșnov și împrejurimi
 
-Te-ai întrebat vreodată ce locuri de vizitat în Râșnov merită să fie incluse pe lista ta? Ei bine, orașul acesta pitoresc ascunde o mulțime de obiective turistice fascinante, care te vor cuceri cu siguranță. Descoperă **Cetatea Râșnov**, una dintre cele mai impresionante fortificații medievale din România, sau **Peștera Valea Cetății**, un adevărat spectacol al naturii.
+Te-ai întrebat vreodată ce **locuri de vizitat în Râșnov** merită să fie incluse pe lista ta? Ei bine, orașul acesta pitoresc ascunde o mulțime de obiective turistice fascinante, care te vor cuceri cu siguranță. Descoperă **Cetatea Râșnov**, una dintre cele mai impresionante fortificații medievale din România, sau **Peștera Valea Cetății**, un adevărat spectacol al naturii.
 
 Dacă ești în căutare de aventură și frumuseți naturale, împrejurimile orașului Râșnov sunt perfecte pentru tine. Explorează **Cheile Râșnoavei**, un loc ideal pentru drumeții și activități sportive precum escaladarea sau zborul cu parapanta.
 
