@@ -3,7 +3,7 @@ title: "Riflaje Lemn - Cum sa iti faci singur si ieftin?"
 image_path: stiri/riflaj/main.webp
 layout: stiri
 date: 2023-03-15
-date-modified: 2023-06-19
+date-modified: 2023-06-22
 categorie: DESIGN INTERIOR
 tags: ['Riflaj', 'DIY', 'Lemn']
 nume: "riflaje lemn, riflaje din lemn"
