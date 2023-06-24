@@ -52,6 +52,10 @@ magazine:
 
 sku: trot1
 
+cat: "TROTINETE"
+subcat:
+subcat1:
+
 ---
 <span class="drop-caps">Î</span>_n ultimii ani, scuterul electric a devenit un mod de transport din ce în ce mai popular. Nu numai că este ecologic, dar este și distractiv și convenabil. Trotineta electrică este un scuter electric mic, cu două roți, care este alimentat de o baterie. De obicei, are o viteză maximă de aproximativ 25 kmh și poate călători până la 50 km cu o singură încărcare. Datorită dimensiunilor sale mici și puterii reduse, este, de asemenea, relativ ieftin de cumpărat și întreținut. Acest lucru îl face o opțiune atractivă pentru cei care caută o modalitate rentabilă de a se deplasa prin oraș._
 

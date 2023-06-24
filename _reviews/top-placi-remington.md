@@ -47,6 +47,10 @@ colors: ['red', 'green', 'blue', 'orange']
 
 sku: rev4
 
+cat: "FRUMUSETE"
+subcat: "EPILARE"
+subcat1:
+
 ---
 
 **Cea mai buna placa de par Remington** este: Remington S9500 Pearl, urmata indeaproape de Remington S5505 1” Anti-Static Flat Iron, Remington S8590 Keratin Therapy Pro, Remington S7300 Wet2Straight, Remington S9100 PROluxe și Remington Pro 2-in-1 Heated Straightening Brush CB7480.

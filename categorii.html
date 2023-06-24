@@ -1,0 +1,35 @@
+---
+
+layout: page
+title: CATEGORII
+permalink: /categorii/
+description: Aici gasești toate categoriile din portalul nostru!
+sitemap: "yes"
+date: 2023-04-20
+
+---
+
+<div class="container" style="">
+<div class="row">
+{% for categorii in site.categorie %}
+	<div class="col-lg-6 col-12 sur">
+		<div class="card-categ">
+	 		<h2>{{ categorii.title }}</h2>
+			<a class="btn btn-success-gradiant btn-md btn-arrow m-t-20 m-b-10" href="{{ categorii.url }}"><span>VEZI ARTICOLE ➤</span></a>
+		</div>
+	</div>
+{% endfor %}
+	
+</div>	
+</div>
+
+<style>
+	.sur {
+		padding-top: 30px;
+	}
+	.card-categ {
+		box-shadow: 0 0 33px -2px #e3e3e3;
+    border-radius: 8px;
+    padding: 20px;
+	}
+</style>

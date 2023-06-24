@@ -44,6 +44,10 @@ verdict: Per ansamblu, Bosch EasyDrill 1200 este o mașină de găurit și înș
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "CASA SI GRADINA"
+subcat: "UNELTE"
+subcat1:
+
 ---
 
 <span class="drop-caps">A</span>_m achiziționat acum vreo doi ani o mașină de găurit și înșurubat Bosch EasyDrill 1200 și am decis să împărtășesc experiența mea cu acest produs. Cu un nume de încredere în industria sculelor electrice, Bosch este cunoscut pentru calitatea și durabilitatea produselor sale, iar acest model nu dezamăgește._

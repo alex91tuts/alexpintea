@@ -12,6 +12,9 @@ scor-intro: "Descoperă secretele riflajelor exterioare - materiale durabile, av
 
 description: Descoperă secretele riflajelor exterioare - materiale durabile, avantaje și idei de utilizare pentru a îmbunătăți estetica și funcționalitatea spațiilor tale exterioare.
 
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "RIFLAJE"
 
 ---
 

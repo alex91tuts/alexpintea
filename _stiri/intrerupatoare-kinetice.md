@@ -12,8 +12,9 @@ scor-intro:  Schimbă poziția unui întrerupător fără să spargi pereții. �
 
 description: Schimbă poziția unui întrerupător fără să spargi pereții. Întrerupătoarele kinetice sunt dispozitive care acționează fără fire și fără baterii.
 
-
----
+cat: "CASA SI GRADINA"
+subcat: "SMARTHOME"
+subcat1:
 
 ---
 

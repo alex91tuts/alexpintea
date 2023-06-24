@@ -14,6 +14,10 @@ description: Descoperă cum să investești în acțiuni pe bursă cu acest ghid
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 <div class="rowinv">

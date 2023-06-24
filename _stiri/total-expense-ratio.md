@@ -14,6 +14,10 @@ description: "TER reprezintă suma totală a cheltuielilor suportate de fond, in
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 <div class="rowinv">

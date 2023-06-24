@@ -13,6 +13,9 @@ scor-intro: "Descoperiți mierea de Manuka ca soluție eficientă împotriva Hel
 
 description: "Descoperiți mierea de Manuka ca soluție eficientă împotriva Helicobacter Pylori. Explorați cercetările, beneficiile și cum să o utilizați corect. Sănătatea la îndemână."
 
+cat: "SANATATE"
+subcat: "MANUKA"
+
 ---
 
 **Mierea de manuka** poate avea următoarele beneficii împotriva **Helicobacter Pylori**:

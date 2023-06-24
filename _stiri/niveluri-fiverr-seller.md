@@ -14,6 +14,10 @@ description: "Aflați mai multe despre ceea ce înseamnă nivelurile de vânzăt
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "BANI ONLINE"
+subcat: "FREELANCING"
+subcat1: "FIVERR"
+
 ---
 
 Pe **[platforma Fiverr](https://totredus.ro/stiri/castiga-bani-fiverr-romania/)**, există patru niveluri de vânzători: Vânzător nou, Vânzător de nivel unu, Vânzător de nivel doi și Vânzător de top.

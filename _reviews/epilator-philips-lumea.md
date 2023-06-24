@@ -45,6 +45,10 @@ verdict: Philips Lumea Seria 9000 este un epilator IPL de înaltă calitate, car
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FRUMUSETE"
+subcat: "EPILARE"
+subcat1:
+
 ---
 
 <span class="drop-caps">E</span>pilarea poate fi o corvoadă pentru mulți dintre noi, iar opțiunile disponibile pe piață pot fi copleșitoare. 

@@ -1,460 +1,388 @@
 ---
 layout: default
-title: Category
 ---
 
-<section class="recent-posts">
 
-<div class="section-title row">
-{% if page.description %}
-<blockquote class="descriere" style="margin: 10px; box-shadow: 0px 3px 23px rgba(0, 0, 0, 0.1);">
-  <p>{{ page.description }}</p>
-</blockquote>
-{% endif %} 
-<h2 class="col-lg-6 col-6"><span>{{ page.title | upcase }}</span></h2>
-
-	
-<div class="col-lg-6 col-6 sorting">
-	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by price">
-		<span class="filt">PRET</span>
-		<button onclick="sorting('-u.json');" type="button" class="filt"><i class="fas fa-chevron-up"></i></span></button>
-		<button onclick="sorting('-d.json');" type="button" class="filt"><i class="fas fa-chevron-down"></i></span></button>
-	</div>
-	<div class="btn-group sort-btn" style="margin-bottom: 3px;" role="group" aria-label="Sort by discount">
-		<span class="filt">DISCOUNT</span>
-		<button onclick="sorting('-a.json');" type="button" class="filt"><i class="fas fa-chevron-down"></i></span></button>
-	</div>
-			<select onchange="sorting(value)" class="select-sort">
-				<option value="-a.json">DISCOUNT %</option>
-				<option value="-u.json">PRET CRESC</option>
-        <option value="-d.json">PRET DESC</option>
-      </select>
-</div>
-
-</div>
-<div class="container1 row">
-    <div style="width: 100%;">
-    <button id="id-cancel-cat" type="button" class="cancel-cat btn btn-light btn-sm" >FILTRE <i class="tilong-arrow-right" aria-hidden="true"></i></button>
+<section>
+    <div class="section-title">
+        <h1><span>{{ page.title }}</span></h1>
     </div>
-<div class="col-12" id="cancel-button" style="margin-bottom: 10px;">
-</div>
-
-	
-	
-<div id="id-sidebar-wide" class="col-xl-3 col-lg-3 col-md-4 col-sm-12 sidebar-wide">
-<div id="sidebar">
-<button id="inapoi" type="button" class="cancel-cat btn btn-light btn-sm" ><i class="tilong-arrow-left" aria-hidden="true"></i> INAPOI</button>
-	
-	<div class="fi container">
-		<input style="margin-bottom: 5px; float: right;" class="filt" type="button" id="" onclick="clearAllFilters();" value="STERGE"/>
-		<p style="font-weight: 700; margin-bottom: 0; display: inline;">Brand</p>
-		<input style="margin-bottom: 15px; width: 100%; border-radius: 5px; padding-left: 5px;" type="text" id="myInput" onkeyup="searchInFilters()" placeholder="CAUTA.." title="Type in a name">
-		<hr>
-		<ul id="outputFilter" class="list-group" style="max-height: 400px;overflow: overlay;padding: 0;margin: 0;">
-		</ul>	
-		<hr>
-	</div> 
- </div>	
-</div>
-<div id="output" class="row col-xl-9 col-lg-9 col-md-8 col-sm-12"></div>
-	
-	<div id="btn-group" style="text-align: center; width: 100%;">
-		<input class="filt" type="button" id="first" onclick="firstPage()" value="prima" />
-		<input class="filt" type="button" id="previous" onclick="previousPage()" value="înapoi" />
-		<input class="filt" type="button" id="next" onclick="nextPage()" value="înainte" />
-		<input class="filt" type="button" id="last" onclick="lastPage()" value="ultima" />
-		<p class="" style="text-align: center; margin-top: 5px; font-weight: 700;"><span id="current__page"></span><span> din </span><span id="total__pages">20</span></p>
-	</div>
-	
-	
-	
-	
-{{ content }}
-</div>
+    
+    <div class="article-post">
+    {{content}}
+    </div>
+    
+       
 </section>
 
-		
 <style>
-	.bread-crumbs-shop {
-		font-weight: 700;
-    font-size: 15px;
-	}
-	.recent-posts .row {
-		margin-left: 0;
-		margin-right: 0;
-		padding-right: 0;
-		padding-left: 0;
-	}
-	.cancel-cat {
-		margin: 5px;
-	}
-	@media (min-width: 768px ) {
-		.cancel-cat {
-			display: none;
+	#sidebar {
+		position: sticky;
+		top: 15px;
 		}
-	}
-	.prod {
-		max-height: fit-content;
-	}
-	.filt:disabled {
-		color: #454441;
-	}
-	.fi {
-    border-radius: 4px;
-    padding: 10px;
-	}
-	.categorii-sidebar {
-		width: 100%;
-		text-transform: uppercase;
-		text-align: left;
-		margin-bottom: 5px;
-	}
-    .category-body a:active {
-        background: black;
-        color: white;
-    }
-	.category-body {
-		box-shadow: 0 0 10px 0 #d3d3d38f;
-		border-radius: 4px;
-		padding: 10px; 
-		margin-bottom: 15px;
-	}
-	/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #f1f1f1; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #888; 
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #555; 
-}
-	.filters__check {
-		margin-bottom: 5px;
-	}
-	.cat-btn {
-		border: solid 1px lightgray;
-    border-right: solid 10px green;
-    border-radius: 5px;
-		margin-bottom: 4px;
-	}
-	.cat-btn .btn-link:hover {
-		text-decoration: none;
-	}
-	.cat-btn h2 .btn-link {
+	.categ {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+		color: white;
+		font-weight: 500;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+		margin-top: 5px;
 		font-size: 13px;
-    font-weight: 700;
-		margin-right: 5px;
 	}
-	.categorii-radio {
-		padding: 10px;
+	.author-thumb {
+		width: 50px;
+    height: 50px;
+    float: right;
+    background-size: 81%;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    box-shadow: 0 0 8px lightgrey;
+    border: solid #41dcab;
+    position: relative;
+    bottom: 7px;
+    background-position: center;
 	}
-	.maxthumb {
+	.for-style {
+		border: 1px solid #dddddd7d;
+    box-shadow: 0 0 20px #F0F0F0;
+		border-radius: 4px;
+	}
+	.card-wrapper {
+		padding-left: 10px;
+		padding-bottom: 20px;
+	}
+	.for-style:hover {
+		box-shadow: 0 0 0 0 white;
+		transition: all 0.5s;
+	}
+	.imagine-post {
+		height: 215px;
+		background-size: cover;
 		background-repeat: no-repeat;
+		border-top-left-radius: 3px;
+		border-top-right-radius: 3px;
 		background-position: center;
 	}
-@media only screen and (max-width: 768px) {
-  .sidebar-wide {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    z-index: 10000;
-    background: white;
-    left: 0;
-    right: 0;
-    padding-bottom: 20px;
-		display: none;
-  }
-    .close-button {
-        
-    }
+	.imagine-post a:hover {
+		text-decoration: none;
+	}
+	.footer-post {
+		padding: 15px;
+	}
+	.footer-post hr {
+		margin-top: 0;
+	}
+	.footer-post h2 {
+		font-size: 18px;
+		font-weight: 700;
+    overflow: hidden;
+		margin-bottom: 1px;
+		height: 44px;
+		margin-top: 0;
+	}
+	
+	.footer-post p {
+		margin-bottom: 10px;
+		height: 44px;
+		overflow: hidden;
+		line-height: 1.7;
+    font-size: 13px;
+		font-style: italic;
+	}
+	.footer-post button {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+    text-decoration: none;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+		border: none;
+		color: white;
+		border-radius: 3px;
+		text-transform: uppercase;
+		padding: 7px 16px;
+		font-weight: 600;
+	}
+	.footer-post button:hover {
+		box-shadow: none;
+	}
+
+	@media (max-width: 570px) {
+	.cat-small {
+		margin-left: 0;
+	}
+	.card-wrapper {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#outputReview {
+    padding-left: 0;
+		padding-right: 0;
+	}
 }
-    .mobile-filters {
-        background-color: black;
-        position: fixed;
-        width: 100%;
-        height: 100%;
-        z-index: 1000;
-    }
-</style>
-
-<script>
-let                     newArr,
-		output        = '',
-		list          = new Array(),
-		pageList      = new Array(),
-	  currentPage   = 1,
-		numberPerPage = 24,
-		numberOfPages = 0,
-		filTer        = [],
-		url           = '{{ site.url }}/api/{{ page.api }}/result-a.json';
-
-//////////////////////////////////////////////////////
-/////////////    SPLIT STRING FOR SORT   /////////////
-//////////////////////////////////////////////////////	
-function sorting(sor) {
- currentPage   = 1;
- let arr, fin;
-  arr = url.split("-");
-  arr.pop();
-  arr.push(sor);
-  url = arr.join("");
-  change();
-console.log(url);
-}	
-
-//////////////////////////////////////////////////////
-/////////////        SEARCH FILTERS   ////////////////
-//////////////////////////////////////////////////////
-function searchInFilters() {
-    var input, filter, ul, li, a, i, txtValue;
-    input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-    ul = document.getElementById("outputFilter");
-    li = ul.getElementsByTagName("li");
-    for (i = 0; i < li.length; i++) {
-        a = li[i];
-        txtValue = a.textContent || a.innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            li[i].style.display = "";
-        } else {
-            li[i].style.display = "none";
-        }
-    }
-}
-//////////////////////////////////////////////////////
-/////////////        CLEAR FILTERS   /////////////////
-//////////////////////////////////////////////////////
-	function clearAllFilters () {
-		var x = document.querySelectorAll(".filters--check");
-		for (var i = 0; i < x.length; i++) {
-		x[i].checked = false;
-		}
-		filTer = [];
-		document.getElementById('cancel-button').innerHTML = '';
-		change();
+	#outputReview {
+		margin-left: 0;
+		margin-right: 0;
+		padding-left: 0;
+		padding-right: 0;
+    display: flex;
+    align-content: flex-start;
 	}
-
-//////////////////////////////////////////////////////
-/////////////      CLEAR FILTERS by BUTTON     ///////
-//////////////////////////////////////////////////////	
-function deleteFilterButton (value) {
-	document.getElementById(value).innerHTML = '';
-}
-	
-	
-//////////////////////////////////////////////////////
-/////////////       LOADER           /////////////////
-//////////////////////////////////////////////////////	
-		
-	function loadingTransparency() {
-		var pr = document.querySelectorAll(".prod");
-		for (var i=0; i<pr.length; i++) {
-			pr[i].style.opacity = "1";
-		}
+	.reviews-wrapper {
+		margin-left: 0;
+		margin-right: 0;
 	}
-	
-	
-//////////////////////////////////////////////////////
-/////////////        FILTRE          /////////////////
-//////////////////////////////////////////////////////
-	let filterUrl   = url,
-		filterArray = [],
-		filA        = [],
-		allUp;
-	function getFilters() {
-    filA = [];
-	fetch(url)
-	.then((res)  => res.json())
-	.then((data) => {
-		var outputFilter = '',
-			outputAdv = '',
-			page         = data.length;	
-		function getAllUniqueValues() {
-			for (var i = 0; i<page; i++) {
-			filA.push(data[i].manufacturer);
-			}
-		}
-		getAllUniqueValues();
-		allUp = filA.map(a => a.toUpperCase());
-		var uniqueItemsBrand = Array.from(new Set(allUp));
-		uniqueItemsBrand.forEach(function(prod){
-			outputFilter += `
-		<!-- begin post -->
-				<li class="filters__check"><input type="checkbox" class="filters--check" id="${prod.toUpperCase()}" onclick="change();pushToFilTer('${prod.toUpperCase()}'); currentPage = 1;" value="${prod.toUpperCase()}"> ${prod.toUpperCase()}</li>
-		<!-- end post -->`	
-		});
-		document.getElementById('outputFilter').innerHTML = outputFilter;
-	})
- }
-window.onload = getFilters();
-	
-		
-//////////////////////////////////////////////////////
-/////////////        PUSH TO FILTER AND BUTTONS  /////
-//////////////////////////////////////////////////////	
-	
-	function pushToFilTer(val) {
-		var inp   = document.getElementById(val),
-			index = filTer.indexOf(val);
-		
-		if (inp.checked) {
-			filTer.indexOf(val) > -1 ? filTer.splice(index, 1) : filTer.push(val);
-		} else {
-			filTer.indexOf(val) > -1 ? filTer.splice(index, 1) : '';
-		}
+	.scor-scris {
+		color: white;
+		font-size: 14px;
+    font-weight: 600;
+    margin-left: 10px;
 	}
-	
-//////////////////////////////////////////////////////
-/////////////       add buttons to the top       /////
-//////////////////////////////////////////////////////
-	function pushFilterButton() {
-		var outputCloseButton = '';
-		if (filTer != []) {
-		console.log(filTer);
-		filTer.map(function(val){
-			outputCloseButton += `
-			<button id='${val.toLowerCase()}' onclick="deleteFilterButton('${val}')"; type="button" class="cancel-cat btn btn-light btn-sm" value="${val}">${val} <i class="tiremove"></i></button>
-			`
-		});
-		}
-		document.getElementById('cancel-button').innerHTML = outputCloseButton;
+	.layer1 {
+		color: lightgray;
 	}
-	
-//////////////////////////////////////////////////////
-/////////////      functia principala            /////
-//////////////////////////////////////////////////////	
-	var change = function () {
-			 let fil      = [],
-				   pageList = [];
-		// Functie scroll to top //
-		function topFunction() {
-		  document.body.scrollTo({
-				top: 0,
-				behavior: 'smooth',
-			});
-		  document.documentElement.scrollTo({
-				top: 0,
-				behavior: 'smooth',
-			});
-		}
-		topFunction();
-		// sfarsit //
-		
-			return getProd();
-			function getProd() {
-				fetch(url)
-				.then((res) => res.json())
-				.then((data) => {
-					var output = '', 
-						page = data.length;		
-						
-					function loadList () {
-							for (var i = 0; i < page; i++) {
-							if (filTer.length === 0) {
-									fil.push(data[i]);
-								} else {
-									for (var n = 0; n < filTer.length; n++) {
-									var f = filTer[n];
-									eval("(data[i].manufacturer.toUpperCase().indexOf(f) > -1 ) ? fil.push(data[i]) : '';");
-								}
-								
-							 }
-						    }
-						newArr = fil.length;
-						load();
-						var begin = ((currentPage - 1) * numberPerPage);
-						var end = begin + numberPerPage;
-						pageList = fil.slice(begin, end);		
-						check();
-					}
-					loadList();
-					setTimeout(loadingTransparency, 500);
-                    pageList.forEach(function(prod){
-						output += `
-						<!-- begin post -->
-						<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6 mb-30px lazy card-group prod" data-aos="zoom-in" style="opacity: 0.2; padding-left: 0;">
-							<div class="card h-100">
-									<div class="maxthumb" style="background-image: url(https://abpipzueen.cloudimg.io/width/254/x/${prod.product_pic});background-size: {{ page.size }};">
-									<span class="adv" >${prod.manufacturer}</span><br/>
-									<span class="manufacturer" >${prod.manufacturer}</span><br/>
-								</div>
-								<div class="card-body-custom">
-									<h2 class="card-title-custom"><a class="text-dark" href="${prod.product_aff_link}" target="_blank">${prod.product_name}</a></h2>     
-								</div>
-								<div class="card-footer bg-white">
-									<div class="wrapfooter">
-										<div>
-										<span class="price">${prod.price_discounted} Lei <span class="old-price">${prod.price_vat} Lei</span></span>
-										</div>
-										<span class="perc">${prod.discount}%</span><br/> 
-										<a class="citeste" href="${prod.product_aff_link}" target="_blank">VEZI</a>
-									 </div>
-								</div>
-							</div>
-						</div>
-						<!-- end post -->
-						`		
-					});
-					document.getElementById('output').innerHTML = output;
-				})
-			}      
-	};
-	window.onload = change();
-	///////////////////////
-	///pagination
-	///////////////////////
-	
-	function load(){
-		numberOfPages = getNumberOfPages();
+	.layer2 {
+		color: yellow;
+		position: absolute;
+    left: 0px;
+    overflow: hidden;
 	}
-	function getNumberOfPages() {
-    return Math.ceil(newArr / numberPerPage);
+	.rev-card-col {
+		padding-left: 5px;
+		padding-right: 5px;
 	}
-	function nextPage() {
-		currentPage += 1;
-		change();
-		}
-	function previousPage() {
-		currentPage -= 1;
-		change();
-		}
-	function firstPage() {
-		currentPage =1;
-		change();
-		}
-	function lastPage() {
-		currentPage = numberOfPages;
-		change();
-		}
-	function check() {
-		document.getElementById("next").disabled = currentPage == numberOfPages ? true : false;
-		document.getElementById("previous").disabled = currentPage == 1 ? true : false;
-		document.getElementById("first").disabled = currentPage == 1 ? true : false;
-		document.getElementById("last").disabled = currentPage == numberOfPages ? true : false;
-		document.getElementById("current__page").innerHTML = currentPage;
-		document.getElementById("total__pages").innerHTML = numberOfPages;
+	.rev-card {
+		border: solid 1px whitesmoke;
+		border-radius: 3px;
+	}
+	.rev-title {
+		padding: 10px;
+	}
+	.rev-title h3 {
+		color: black;
+    font-size: 14px;
+    line-height: 1.5;
+    height: 44px;
+    overflow: hidden;
+	}
+	.rev-title a {
+		background: red;
 	}	
+	.box-pos {
+		background: black;
+		box-shadow: 0 0 10px 1px lightgray;
+		border-radius: 3px;
+	}
+	#categorie-selectata:after {
+		content: url('/assets/images/svg/cons.svg'); /* FontAwesome Unicode */
+		margin-left: 10px;
+		margin-top: 2px;
+	}
+	.cat-small {
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	.small-scor {
+		position: absolute;
+    top: 7px;
+    right: 7px;
+    border: solid;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    border-radius: 50px;
+    font-weight: 800;
+    background: white;
+	}
+	
+	
+	
+	.card-test {
+	background: #000;
+  overflow: hidden;
+  box-shadow: 0 5px 10px rgba(0,0,0, 0.5);
+  padding: 0;
+	}
 
-document.getElementById('id-cancel-cat').addEventListener('click', function() {
-	document.getElementById('id-sidebar-wide').style.display = 'block';
-});
-document.getElementById('inapoi').addEventListener('click', function() {
-	document.getElementById('id-sidebar-wide').style.display = 'none';
-})
-</script>
+.card-test .poster {
+  position: relative;
+  overflow: hidden;
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+}
+
+.card-test .poster:before {
+  content: "";
+  position: absolute ;
+ 	bottom: -130px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(0deg,#000 50%, transparent);
+  transition: 0.5s;
+  z-index: 1;
+}
+
+.card-test:hover .poster:before {
+  bottom: 0;
+}
+
+.card-test .poster img {
+  width: 100%;
+  transition: 0.5s;
+}
+
+.card-test:hover .poster img {
+  filter: blur(2px);
+  transform: translateY(-30px);
+}
+
+.details {
+  position: absolute;
+  padding: 20px;
+  width: 100%;
+  height: 74%;
+  bottom: -133px;
+  left: 0;
+  box-sizing: border-box;
+  transition: 0.5s;
+  z-index: 2;
+}
+
+.card-test:hover .details {
+  bottom: 0;
+}
+
+.details h2 {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+	height: 73px;
+  overflow: hidden;
+}
+
+.rating-stars {
+ position: relative;
+ display: inline-block;
+}
+
+.rating .fa {
+  color: #f7f406;
+  margin-right: 2px;
+  font-size: 16px;
+}
+
+.rating span {
+  color: #fff;
+  padding: 0 5px;
+}
+
+.tags {
+  position: relative;
+  margin-top: 2px;
+}
+
+.tags span {
+  padding: 0 5px;
+  margin-right: 2px;
+	margin-left: 2px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tags span.fantasy {
+  background: black;
+}
 
 
+.info {
+  color: #fff;
+}
 
+.info p {
+  margin: 15px, 0, 10px;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 400;
+	margin-bottom: 3px;
+	height: 79px;
+  overflow: hidden;
+}
 
+.star {
+  position: relative;
+}
+
+.star h4 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  color: #f7f406
+}
+
+.star ul {
+  margin: 10px 0 0;
+  padding: 0;
+  display: flex;
+}
+
+.star ul li {
+  list-style: none;
+  width: 45px;
+  height: 45px;
+  background: #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 6px;
+  border: 2px solid #fff;
+}
+
+.star ul li img {
+  width: 100%;
+}
+	.author-small {
+	font-size: 14px;
+  color: #ff9800;
+	font-weight: 800;
+	}
+	.tags .bottom-tag {
+		color: black;
+	}
+	.bottom-tag {
+		background: white;
+    font-size: 11px;
+    font-weight: 500;
+	}
+	.read-more {
+		float: right;
+    background: goldenrod;
+    color: white !important;
+    font-size: 14px;
+    padding: 4px 21px;
+		font-weight: 800;
+	}
+	.read-more:hover i {
+		animation: pulse 1s ease-out infinite alternate;
+	}
+	@keyframes pulse {
+  0% {
+    transform: translateX(0px);
+  }
+	33% {
+    transform: translateX(3px);
+  }
+	66% {
+    transform: translateX(6px);
+  }
+  100% {
+    transform: translateX(3px);
+  }
+}
+	.card-wrapper {
+		padding-bottom: 15px;
+		padding-left: 0;
+	}
+</style>

@@ -12,6 +12,9 @@ scor-intro:  Lichenii stabilizați, organisme minuscule care cresc pe pietre, sc
 
 description: Lichenii stabilizați, organisme minuscule care cresc pe pietre, scoarțe de copaci și alte suprafețe, pot fi aduși în casă pentru a crea un aspect natural și plăcut.
 
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "AMENAJARE"
 
 ---
 

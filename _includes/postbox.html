@@ -1,22 +1,11 @@
-
-<figure class="snip1529 col-lg-3">
-  <img src="{{ post.image }}" />
-  <div class="date">
-      <span class="month">pana la</span>
-      <span class="day">
-		  
-          {% assign products = site.data.prod_org[ post.category ] %} 
-                    {% for product in products limit:1 %}
-                        {{ product.discount }}%
-                    {% endfor %}
-		 
-      </span>
-      
-  </div>
-  <figcaption>
-    <h3>{{ post.title | upcase }}</h3>
-  </figcaption>
-  <div class="hover"></div>
-  <a href="{{ post.url }}"></a>
-</figure>
-
+<div class="card-wrapper col-lg-6">
+	<div class="for-style">
+	<div class="imagine-post" style="background-image: url({{ post.image }})">
+	</div>
+	<div class="footer-post">
+		<h2>{{ post.title }}</h2>
+		<p>{{ post.description }}</p>
+		<a href="{{ post.url }}"><button>Citeste</button></a>
+	</div>
+	</div>
+</div>

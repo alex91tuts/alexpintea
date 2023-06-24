@@ -13,6 +13,10 @@ scor-intro: "Descoperă cum să îți automatizezi toate luminile din casă cu H
 
 description: "Descoperă cum să îți automatizezi toate luminile din casă cu Home Assistant și relelul Sonoff Mini. Transformă-ți casa într-o locuință inteligentă cu o singură interfață!"
 
+cat: "CASA SI GRADINA"
+subcat: "SMARTHOME"
+subcat1:
+
 ---
 
 

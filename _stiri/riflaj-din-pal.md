@@ -12,6 +12,10 @@ scor-intro: "Descoperă avantajele riflajului din PAL - soluția durabilă, este
 
 description: "Descoperă avantajele riflajului din PAL - soluția durabilă, estetică și accesibilă pentru designul interior. Transformă-ți spațiul cu versatilitate și stil."
 
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "RIFLAJE"
+
 ---
 
 Dacă vrei să transformi o cameră obișnuită într-o capodoperă modernă și sofisticată, secretul constă în alegerea materialului adecvat. Panourile riflate și riflajele decorative sunt soluția perfectă pentru crearea unui spațiu interior spectaculos, datorită gamei variate de modele și texturi. Acestea se pot integra cu ușurință atât în spații rezidențiale, cât și comerciale.

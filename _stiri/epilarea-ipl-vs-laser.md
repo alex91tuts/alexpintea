@@ -12,6 +12,9 @@ scor-intro: Descoperă diferitele metode de epilare definitivă, comparând IPL 
 
 description: Descoperă diferitele metode de epilare definitivă, comparând IPL și laser. Află care este cea mai potrivită pentru tine în acest ghid detaliat și informativ.
 
+cat: "FRUMUSETE"
+subcat: "EPILARE"
+subcat1:
 
 ---
 

@@ -13,6 +13,10 @@ scor-intro: "Casa inteligentă: un ghid complet pentru automatizarea locuinței.
 
 description: "Casa inteligentă: un ghid complet pentru automatizarea locuinței. Descoperă tehnologiile moderne și avantajele sistemelor inteligente. Transformă-ți casa într-o locuință conectată!"
 
+cat: "CASA SI GRADINA"
+subcat: "SMARTHOME"
+subcat1:
+
 ---
 
 ---

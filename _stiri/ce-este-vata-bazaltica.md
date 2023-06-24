@@ -12,6 +12,9 @@ scor-intro: Descoperă ce este vata bazaltică, un material izolator de top, ofe
 
 description: Descoperă ce este vata bazaltică, un material izolator de top, oferind izolare termică și fonică superioară. Perfectă pentru construcții durabile.
 
+cat: "CASA SI GRADINA"
+subcat: "EXTERIOR"
+subcat1:
 
 ---
 

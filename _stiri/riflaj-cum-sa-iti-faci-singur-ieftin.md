@@ -14,7 +14,9 @@ description: Riflajul din lemn - printre ultimele trenduri în amenajarea spatii
 
 colors: ['red', 'green', 'blue', 'orange']
 
-
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "RIFLAJE"
 
 ---
 Printre ultimele trenduri în amenajarea spatiilor interioare este **riflajul decorativ din lemn**. Acest element este tot mai des folosit de către designeri și pe buna dreptate...orice încăpere se transformă prin aplicarea unui **riflaj**, capătă mai multa personalitate și capătă un aer modern.

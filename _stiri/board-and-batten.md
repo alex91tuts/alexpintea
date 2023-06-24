@@ -12,6 +12,10 @@ scor-intro: Descoperă cum să creezi efecte superbe în designul interior folos
 
 description: Descoperă cum să creezi efecte superbe în designul interior folosind riflajul Board and Batten din MDF. Află pașii de instalare și finisare, cum să alegi culorile potrivite și ce avantaje.
 
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "RIFLAJE"
+
 ---
 
 Riflajul "Board and Batten" este o soluție modernă de placare a suprafețelor ce implică instalarea unei suprafețe plane, numită "board" urmată de aplicarea unor bare verticale sau în alte direcții și forme, numite "batten".

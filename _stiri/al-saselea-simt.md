@@ -13,6 +13,10 @@ scor-intro: Al saselea simt la electrocasnice este capacitatea acestora de a det
 
 description: Al saselea simt la electrocasnice este capacitatea acestora de a detecta și reacționea în anumite condiții sau situații.
 
+cat: "CASA SI GRADINA"
+subcat: "SMARTHOME"
+subcat1:
+
 ---
 
 _Tehnologia viitorului este aici - au sosit electrocasnicele cu al șaselea simț! Cu toții am auzit despre cele cinci simțuri ale văzului, auzului, atingerii, mirosului și gustului. Dar ce zici de un al șaselea simț? Poate suna ca o ficțiune științifico-fantastică, dar este real și este folosit în aparatele de uz casnic de zi cu zi._

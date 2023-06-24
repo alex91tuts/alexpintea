@@ -1,52 +1,35 @@
 <div class="col-lg-4 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
 <div id="sidebar">
-<div class="col review-side">
-  <span class="title-section-sidebar">RECENT</span>
-	<hr>
-	{% assign reviews = site.reviews | sort: 'date' | reverse %}
-	{% for review in reviews limit:2 %}
-		<a href="{{ review.url }}">
-		<div class="small-post">
-		<img class="small-post-image" alt="{{ review.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/reviews/{{ review.image_path }}&h=41&output=jpg&q=65" width="79" height="41">
-		{{ review.title }}
-		</div>
-		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"/> {{review.author}} </span>
-		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"/> {{ review.date | date_to_string }} </span>
-		</a>
-	{% endfor %}
-	{% assign stiri = site.stiri | sort: 'date' | reverse  %}
-	{% for stire in stiri limit:2 %}
-		<a href="{{ stire.url }}">
-		<div class="small-post">
-		<img class="small-post-image" alt="{{ stire.title }}" src="http://images.weserv.nl/?url={{ site.url }}/assets/images/{{ stire.image_path }}&h=41&output=jpg&q=65" width="79" height="41">
-		{{ stire.title }}
-		</div>
-		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{stire.author}} </span>
-		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ stire.date | date_to_string }} </span>
-		</a>
-	{% endfor %}
-	</div>
+{% if page.sidebar != "cat" %}
 
+<div class="col review-side">
+<span class="title-section-sidebar">RECENTE</span>
+	<hr>
+		{% assign cate = site.data.search | where: "cat", page.cat %}
+		{% for item in cate reversed limit: 8 %}	
+			<a href="{{ item.url }}">
+				<div class="small-post">
+				<img class="small-post-image" alt="{{ item.title }}" src="http://images.weserv.nl/?url=https://totredus.ro{{ item.image }}&h=41&output=jpg&q=65" width="79" height="41">
+				{{ item.title }}
+				</div>
+				<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{item.author}} </span>
+				<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ item.date | date_to_string }} </span>
+			</a>
+	{% endfor %}
+</div>	
+{% endif %}	
+	
 <div class="col review-side">
 <span class="title-section-sidebar">CATEGORII</span>
 	<hr>
-		{% assign cat = site.reviews | map: 'categorie-review' | uniq %}
+		{% assign cat = site.data.search | map: 'cat' | uniq %}
 		{% for item in cat reversed %}
-		<a href="{{ site.url }}/review" onclick="window.name = '{{ item }}';" style="color: black;">
+		<a href="{{ site.url }}/{{ item | replace: ' ', '-' | downcase }}/" style="color: black;">
 			{{ item }}
 		<hr style="border: 0;">
 		</a>
 	{% endfor %}
-	{% assign cat = site.stiri | map: 'categorie' | uniq %}
-	{% for item in cat reversed %}
-	<a href="{{ site.url }}/stiri" onclick="window.name = '{{ item }}';" style="color: black;">
-		{{ item }}
-		<hr style="border: 0";>
-	</a>
-	{% endfor %}
-</div>
-		
-
+</div>	
 	
 </div>	
 </div>

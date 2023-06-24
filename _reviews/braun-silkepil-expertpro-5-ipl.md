@@ -39,7 +39,9 @@ key:
 
 verdict: "Braun Silk Expert Pro 5 este o alegere excelentă pentru cei care doresc o epilare IPL eficientă și ușoară de utilizat. Chiar dacă durata de viață a impulsurilor și prețul pot fi descurajante pentru unii, beneficiile aduse de acest aparat merită investiția."
 
-
+cat: "FRUMUSETE"
+subcat: "EPILARE"
+subcat1:
 
 ---
 ## Introducere în lumea epilării cu Braun Silk Expert Pro 5 PL5124

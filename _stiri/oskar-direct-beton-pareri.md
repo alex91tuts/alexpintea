@@ -13,6 +13,9 @@ scor-intro: "Descoperă experiențele consumatorilor cu Oskar Direct pe Beton. A
 
 description: "Descoperă experiențele consumatorilor cu Oskar Direct pe Beton. Află dacă acest produs este potrivit pentru nevoile tale de finisare a betonului."
 
+cat: "CASA SI GRADINA"
+subcat: "EXTERIOR"
+subcat1:
 
 ---
 

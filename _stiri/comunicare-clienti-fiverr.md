@@ -14,6 +14,10 @@ description: "În acest articol, vom explora cele mai bune practici pentru a com
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "BANI ONLINE"
+subcat: "FREELANCING"
+subcat1: "FIVERR"
+
 ---
 
 Comunicarea eficientă cu clienții este o componentă crucială a succesului oricărui freelancer pe **[platforma Fiverr](https://totredus.ro/stiri/castiga-bani-fiverr-romania/)**. 

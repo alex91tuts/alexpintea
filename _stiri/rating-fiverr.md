@@ -14,6 +14,10 @@ description: "În acest articol, vom explora modul în care funcționează siste
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "BANI ONLINE"
+subcat: "FREELANCING"
+subcat1: "FIVERR"
+
 ---
 
 Fiverr este o **[platformă populară de freelancing](https://totredus.ro/stiri/castiga-bani-fiverr-romania/)** care conectează clienții cu freelanceri din întreaga lume. 

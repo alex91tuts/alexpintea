@@ -12,6 +12,9 @@ scor-intro: Descoperă avantajele și aplicațiile riflajelor din WPC, un materi
 
 description: Descoperă avantajele și aplicațiile riflajelor din WPC, un material ecologic și durabil. Află cum riflajele din WPC se compară cu riflajele tradiționale din lemn sau aluminiu.
 
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "RIFLAJE"
 
 ---
 

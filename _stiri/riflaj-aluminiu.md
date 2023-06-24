@@ -12,6 +12,9 @@ scor-intro: Riflajul din aluminiu, un material modern și durabil pentru amenaj�
 
 description: Riflajul din aluminiu, un material modern și durabil pentru amenajări exterioare și interioare, învățând despre avantajele sale, aplicațiile și sfaturile utile pentru instalare.
 
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "RIFLAJE"
 
 ---
 

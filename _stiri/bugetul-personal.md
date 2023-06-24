@@ -14,6 +14,10 @@ description: Vezi aici un ghid în 6 pași despre cum să-ți gestionezi eficien
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 <div class="rowinv">

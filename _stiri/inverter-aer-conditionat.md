@@ -13,6 +13,9 @@ scor-intro: "Descoperiți principalii producători de aparate de aer condiționa
 
 description: "Descoperiți principalii producători de aparate de aer condiționat cu inverter: Daikin, Mitsubishi Electric, LG, Samsung, și Toshiba. Aflați despre eficiența și caracteristicile lor distincte"
 
+cat: "CASA SI GRADINA"
+subcat: "ELECTROCASNICE"
+subcat1:
 
 ---
 

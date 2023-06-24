@@ -14,6 +14,10 @@ description: "Creează un gig atractiv pe Fiverr cu aceste sfaturi esențiale: a
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "BANI ONLINE"
+subcat: "FREELANCING"
+subcat1: "FIVERR"
+
 ---
 
 În era digitală, platformele de freelancing precum Fiverr oferă oportunități excelente pentru a câștiga bani și a-ți construi o carieră într-o varietate de domenii. 

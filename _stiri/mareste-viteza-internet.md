@@ -13,6 +13,9 @@ scor-intro:  Cum să-ți mărești viteza la net? Vezi cum să optimizezi conexi
 
 description: Cum să-ți mărești viteza la net? Vezi cum să optimizezi conexiunea și cum să te bucuri de o experiență online mai rapidă și mai plăcută
 
+cat: "BANI ONLINE"
+subcat: "INTERNET"
+subcat1:
 
 ---
 

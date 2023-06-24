@@ -47,6 +47,10 @@ colors: ['red', 'green', 'blue', 'orange']
 
 sku: 
 
+cat: "SMARTWATCH"
+subcat:
+subcat1:
+
 ---
 
 ---

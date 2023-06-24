@@ -13,6 +13,10 @@ date: 2023-01-19
 date-modified: 
 nume: "Cum sa faci un site"
 
+cat: "BANI ONLINE"
+subcat: "INTERNET"
+subcat1:
+
 ---
 
 

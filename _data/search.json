@@ -8,7 +8,11 @@
       "date"     : "2022-03-01 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/hoghiz/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Situată la poalele munților Carpați, comuna Hoghiz oferă vizitatorilor săi o experiență unică, prin mixul dintre natură și tradiții."
+	    "description"     : "Situată la poalele munților Carpați, comuna Hoghiz oferă vizitatorilor săi o experiență unică, prin mixul dintre natură și tradiții.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -19,7 +23,11 @@
       "date"     : "2023-01-25 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/cheilebicazului/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Canionul Bicazului este o minune naturală uluitoare, cu chei  adânci, cascadele maiestuoase și viața sălbatică vibrantă."
+	    "description"     : "Canionul Bicazului este o minune naturală uluitoare, cu chei  adânci, cascadele maiestuoase și viața sălbatică vibrantă.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -30,7 +38,11 @@
       "date"     : "2023-03-01 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/weekendbuc/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul, iar capitala este o opțiune excelentă."
+	    "description"     : "Weekend-urile sunt momentul perfect pentru a vă relaxa și a explora orașul, iar capitala este o opțiune excelentă.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -41,7 +53,11 @@
       "date"     : "2023-03-01 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/melik/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Casa Melik, situată în centrul Bucureștiului, este un simbol al patrimoniului arhitectural și cultural românesc."
+	    "description"     : "Casa Melik, situată în centrul Bucureștiului, este un simbol al patrimoniului arhitectural și cultural românesc.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -52,7 +68,11 @@
       "date"     : "2023-03-01 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/legende/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Lacul Roșu, o minune a naturii și una dintre cele mai frumoase atracții din romania este sursa mai multor legende spectaculoase."
+	    "description"     : "Lacul Roșu, o minune a naturii și una dintre cele mai frumoase atracții din romania este sursa mai multor legende spectaculoase.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -63,7 +83,11 @@
       "date"     : "2023-03-01 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/belem/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝"
+	    "description"     : "Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -74,7 +98,11 @@
       "date"     : "2023-03-21 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/bucuresti/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi."
+	    "description"     : "Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -85,7 +113,11 @@
       "date"     : "2023-03-22 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/locuriistorice/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperă Casa Melik din București, o bijuterie arhitecturală în stil neoromânesc, ce găzduiește Muzeul Theodor Pallady și oferă o incursiune în istoria și cultura românească. Vizitează și trăiește o experiență culturală inedită!"
+	    "description"     : "Descoperă Casa Melik din București, o bijuterie arhitecturală în stil neoromânesc, ce găzduiește Muzeul Theodor Pallady și oferă o incursiune în istoria și cultura românească. Vizitează și trăiește o experiență culturală inedită!",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -96,7 +128,11 @@
       "date"     : "2023-03-25 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/citybreak/Milano/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele."
+	    "description"     : "În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -107,7 +143,11 @@
       "date"     : "2023-03-25 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/macca/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Pasajul Macca-Vilacrosse este un loc emblematic în București, care oferă o fereastră spre atmosfera vibrantă și istoria bogată a orașului.."
+	    "description"     : "Pasajul Macca-Vilacrosse este un loc emblematic în București, care oferă o fereastră spre atmosfera vibrantă și istoria bogată a orașului..",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -118,7 +158,11 @@
       "date"     : "2023-03-27 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/ozi/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc."
+	    "description"     : "În București, într-o singură zi in București poți vizita cele mai importante atracții turistice precum: Muzeul Satului, Grădina Botanică, Palatul Parlamentului, Centrul Vechi al Bucureștiului, etc.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -129,7 +173,11 @@
       "date"     : "2023-03-29 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/citybreak/istanbul/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele."
+	    "description"     : "În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -140,7 +188,11 @@
       "date"     : "2023-04-01 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/lisabona/obiective-lisabona-featured.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului."
+	    "description"     : "În Lisabona se pot vizita numeroase obiective turistice fascinante precum Turnul Belem, Mosteiro dos Jerónimos, Castelo de São Jorge, cartierele Bairro Alto și Alfama, precum și Oceanário de Lisboa, toate acestea oferind o incursiune fascinantă în istoria, cultura și frumusețea orașului.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -151,7 +203,11 @@
       "date"     : "2023-04-11 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/duminica/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperă 10 idei inedite și captivante pentru a petrece duminica în București, de la explorarea parcurilor și muzeelor, până la evenimente culturale și degustări de vinuri."
+	    "description"     : "Descoperă 10 idei inedite și captivante pentru a petrece duminica în București, de la explorarea parcurilor și muzeelor, până la evenimente culturale și degustări de vinuri.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -162,7 +218,11 @@
       "date"     : "2023-04-14 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/stavropoleos/stavropoleos.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o oază de liniște și spiritualitate în mijlocul agitației urbane."
+	    "description"     : "Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o oază de liniște și spiritualitate în mijlocul agitației urbane.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -173,7 +233,11 @@
       "date"     : "2023-04-15 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/palatulparl/palatul.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperiți Palatul Parlamentului din București, o capodoperă arhitectonică și istorică, într-un articol de blog detaliat care explorează istoria, designul și controversele legate de această clădire emblematică."
+	    "description"     : "Descoperiți Palatul Parlamentului din București, o capodoperă arhitectonică și istorică, într-un articol de blog detaliat care explorează istoria, designul și controversele legate de această clădire emblematică.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -184,18 +248,26 @@
       "date"     : "2023-04-19 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/noaptea/main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperă Bucureștiul de noapte, un oraș vibrant și plin de energie, explorând atracțiile sale, cluburile, parcurile și evenimentele culturale care îi dau viață după lăsarea întunericului."
+	    "description"     : "Descoperă Bucureștiul de noapte, un oraș vibrant și plin de energie, explorând atracțiile sale, cluburile, parcurile și evenimentele culturale care îi dau viață după lăsarea întunericului.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
-      "title"    : "Top 10 locuri de vizitat în Râșnov: ghidul tău complet pentru o escapadă perfectă",
+      "title"    : "Top 10 locuri de vizitat în Râșnov: un ghid al obiectivelor turistice",
       "category" : "ROMANIA",
       "tags"     : "Rasnov, Locuri de vizitat, 2023",
       "url"      : "/travel/locuri-vizitat-rasnov/",
       "date"     : "2023-05-17 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/rasnov/rasnov-main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperă Râșnovul, perla Carpaților cu o istorie străveche și atractii unice. Cetatea Râșnov, Peștera Valea Cetății, Dino Parc și multe altele te așteaptă pentru o experiență de neuitat."
+	    "description"     : "Descoperă Râșnovul, perla Carpaților cu o istorie străveche și atractii unice. Cetatea Râșnov, Peștera Valea Cetății, Dino Parc și multe altele te așteaptă pentru o experiență de neuitat.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -206,7 +278,11 @@
       "date"     : "2023-05-18 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/cetatea-rasnov/cetatea-rasnov-main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Explorează Cetatea Râșnov - bijuteria Transilvaniei. Află istoria sa bogată, viziunea panoramică impresionantă și atracțiile uimitoare din apropiere."
+	    "description"     : "Explorează Cetatea Râșnov - bijuteria Transilvaniei. Află istoria sa bogată, viziunea panoramică impresionantă și atracțiile uimitoare din apropiere.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -217,7 +293,11 @@
       "date"     : "2023-06-04 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/langabucuresti/snagov-main.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperă cele mai frumoase destinații de vizitat în apropierea Bucureștiului. Palate, domenii și locuri pitorești așteaptă să fie explorezate. Află mai multe!"
+	    "description"     : "Descoperă cele mai frumoase destinații de vizitat în apropierea Bucureștiului. Palate, domenii și locuri pitorești așteaptă să fie explorezate. Află mai multe!",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -228,7 +308,11 @@
       "date"     : "2023-06-06 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/cascade-timisoara/main-banatul-montan.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperiți cele mai spectaculoase 10 cascade din Banatul Montan, o destinație de vis aproape de Timișoara, și bucurați-vă de splendoarea naturală autentică."
+	    "description"     : "Descoperiți cele mai spectaculoase 10 cascade din Banatul Montan, o destinație de vis aproape de Timișoara, și bucurați-vă de splendoarea naturală autentică.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -239,7 +323,11 @@
       "date"     : "2023-06-06 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/langa-timisoara/main-locuri-langa-timisoara.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperiți cele mai frumoase locuri de vizitat lângă Timișoara: de la domeniile pitorești la rezervații naturale și parcuri. Ideal pentru weekend-uri și aventuri de o zi!"
+	    "description"     : "Descoperiți cele mai frumoase locuri de vizitat lângă Timișoara: de la domeniile pitorești la rezervații naturale și parcuri. Ideal pentru weekend-uri și aventuri de o zi!",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } ,
   
     {
@@ -250,7 +338,11 @@
       "date"     : "2023-06-12 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/timisoara/main-timisoara.webp",
 			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperă frumusețea Timișoarei într-un mix arhitectural unic! Vizitează Catedrala Mitropolitană Ortodoxă, Biserica Romano-Catolică Millenium și Opera Română."
+	    "description"     : "Descoperă frumusețea Timișoarei într-un mix arhitectural unic! Vizitează Catedrala Mitropolitană Ortodoxă, Biserica Romano-Catolică Millenium și Opera Română.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel",
     } 
   
 	,
@@ -263,7 +355,10 @@
       "date"     : "2020-01-04 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/s10lite-note10lite/main.webp",
 			"author"    : "Radu",
-	    "description"     : "Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020."
+	    "description"     : "Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -274,7 +369,10 @@
       "date"     : "2022-02-24 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/nokiac22c32/main.webp",
 			"author"    : "Radu",
-	    "description"     : "Nokia anunță că cele două terminale nou adugate în seria C vor avea o autonomie a bateriei de 3 zile"
+	    "description"     : "Nokia anunță că cele două terminale nou adugate în seria C vor avea o autonomie a bateriei de 3 zile",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -285,7 +383,10 @@
       "date"     : "2023-01-12 00:00:00 +0200",
 	    "image"     : "/assets/images/internet/microjoburi/main.webp",
 			"author"    : "Damian",
-	    "description"     : "Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale."
+	    "description"     : "Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale.",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "FREELANCING",
+      "subcat1"     : "FIVERR"
     } ,
   
     {
@@ -296,7 +397,10 @@
       "date"     : "2023-01-19 00:00:00 +0200",
 	    "image"     : "/assets/images/internet/faciunsite/main.webp",
 			"author"    : "Damian",
-	    "description"     : "Cum sa faci un site fără să fii programator? Cu ce să începi? Care este diferența dintre Blog și Site? Răspunsuri potrivite pentru începători găsești aici."
+	    "description"     : "Cum sa faci un site fără să fii programator? Cu ce să începi? Care este diferența dintre Blog și Site? Răspunsuri potrivite pentru începători găsești aici.",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "INTERNET",
+      "subcat1"     : ""
     } ,
   
     {
@@ -307,7 +411,10 @@
       "date"     : "2023-02-28 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/dca/main.webp",
 			"author"    : "Happy Money",
-	    "description"     : "DCA este o strategie care implică investirea unei sume fixe de bani într-un activ sau într-un grup de active la intervale regulate, indiferent de condițiile actuale de piață."
+	    "description"     : "DCA este o strategie care implică investirea unei sume fixe de bani într-un activ sau într-un grup de active la intervale regulate, indiferent de condițiile actuale de piață.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -318,7 +425,10 @@
       "date"     : "2023-02-28 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/independentafinanciara/main.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit"
+	    "description"     : "Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -329,7 +439,10 @@
       "date"     : "2023-02-28 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/ter/main.webp",
 			"author"    : "Happy Money",
-	    "description"     : "TER reprezintă suma totală a cheltuielilor suportate de fond, inclusiv taxele de administrare, costurile administrative și alte cheltuieli de exploatare."
+	    "description"     : "TER reprezintă suma totală a cheltuielilor suportate de fond, inclusiv taxele de administrare, costurile administrative și alte cheltuieli de exploatare.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -340,7 +453,10 @@
       "date"     : "2023-03-06 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/simt/main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Al saselea simt la electrocasnice este capacitatea acestora de a detecta și reacționea în anumite condiții sau situații."
+	    "description"     : "Al saselea simt la electrocasnice este capacitatea acestora de a detecta și reacționea în anumite condiții sau situații.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "SMARTHOME",
+      "subcat1"     : ""
     } ,
   
     {
@@ -351,7 +467,10 @@
       "date"     : "2023-03-06 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/container/main.webp",
 			"author"    : "Homes",
-	    "description"     : "Căsuțele din containere sunt o formă inovatoare și modernă de construcție prin care un container maritim se transformă în locuință."
+	    "description"     : "Căsuțele din containere sunt o formă inovatoare și modernă de construcție prin care un container maritim se transformă în locuință.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "EXTERIOR",
+      "subcat1"     : ""
     } ,
   
     {
@@ -362,7 +481,10 @@
       "date"     : "2023-03-07 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/consuminductie/main.webp",
 			"author"    : "HomeBest",
-	    "description"     : "Ce consum are o plită pe inducție? Alegem varianta pe inducție sau cea pe gaz? Vezi în acest articol si un calculator de consum."
+	    "description"     : "Ce consum are o plită pe inducție? Alegem varianta pe inducție sau cea pe gaz? Vezi în acest articol si un calculator de consum.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "ELECTROCASNICE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -373,7 +495,10 @@
       "date"     : "2023-03-08 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/fiverrom/main.webp",
 			"author"    : "Online Cash",
-	    "description"     : "În acest articol, vom explora cum poți folosi Fiverr pentru a-ți transforma timpul liber într-un venit online și cum să câștigi bani pe Fiverr din România."
+	    "description"     : "În acest articol, vom explora cum poți folosi Fiverr pentru a-ți transforma timpul liber într-un venit online și cum să câștigi bani pe Fiverr din România.",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "FREELANCING",
+      "subcat1"     : "FIVERR"
     } ,
   
     {
@@ -384,7 +509,10 @@
       "date"     : "2023-03-09 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/licheni/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Lichenii stabilizați, organisme minuscule care cresc pe pietre, scoarțe de copaci și alte suprafețe, pot fi aduși în casă pentru a crea un aspect natural și plăcut."
+	    "description"     : "Lichenii stabilizați, organisme minuscule care cresc pe pietre, scoarțe de copaci și alte suprafețe, pot fi aduși în casă pentru a crea un aspect natural și plăcut.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "AMENAJARE"
     } ,
   
     {
@@ -395,7 +523,10 @@
       "date"     : "2023-03-10 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/paper/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Dacă îți place să creezi cu mâinile tale, cu puțină hârtie colorată și diverse tehnici de tăiere și asamblare, poți crea obiecte de artă care vor transforma orice încăpere într-un spațiu unic și personal."
+	    "description"     : "Dacă îți place să creezi cu mâinile tale, cu puțină hârtie colorată și diverse tehnici de tăiere și asamblare, poți crea obiecte de artă care vor transforma orice încăpere într-un spațiu unic și personal.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "AMENAJARE"
     } ,
   
     {
@@ -406,7 +537,10 @@
       "date"     : "2023-03-11 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/speedint/main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Cum să-ți mărești viteza la net? Vezi cum să optimizezi conexiunea și cum să te bucuri de o experiență online mai rapidă și mai plăcută"
+	    "description"     : "Cum să-ți mărești viteza la net? Vezi cum să optimizezi conexiunea și cum să te bucuri de o experiență online mai rapidă și mai plăcută",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "INTERNET",
+      "subcat1"     : ""
     } ,
   
     {
@@ -417,18 +551,24 @@
       "date"     : "2023-03-13 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/kinetice/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Schimbă poziția unui întrerupător fără să spargi pereții. Întrerupătoarele kinetice sunt dispozitive care acționează fără fire și fără baterii."
+	    "description"     : "Schimbă poziția unui întrerupător fără să spargi pereții. Întrerupătoarele kinetice sunt dispozitive care acționează fără fire și fără baterii.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "SMARTHOME",
+      "subcat1"     : ""
     } ,
   
     {
-      "title"    : "Riflaj Lemn | MDF | PAL | Cum sa iti faci singur si ieftin",
+      "title"    : "Riflaje Lemn - Cum sa iti faci singur si ieftin?",
       "category" : "DESIGN INTERIOR",
       "tags"     : "Riflaj, DIY, Lemn",
       "url"      : "/stiri/riflaj-cum-sa-iti-faci-singur-ieftin/",
       "date"     : "2023-03-15 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/riflaj/main.webp",
 			"author"    : "Radu",
-	    "description"     : "Riflajul din lemn - printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv."
+	    "description"     : "Riflajul din lemn - printre ultimele trenduri în amenajarea spatiilor interioare. Acesta se poate construi din PAL, MDF, Placaj sau Lemn masiv.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "RIFLAJE"
     } ,
   
     {
@@ -439,7 +579,10 @@
       "date"     : "2023-03-18 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/board/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Descoperă cum să creezi efecte superbe în designul interior folosind riflajul Board and Batten din MDF. Află pașii de instalare și finisare, cum să alegi culorile potrivite și ce avantaje."
+	    "description"     : "Descoperă cum să creezi efecte superbe în designul interior folosind riflajul Board and Batten din MDF. Află pașii de instalare și finisare, cum să alegi culorile potrivite și ce avantaje.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "RIFLAJE"
     } ,
   
     {
@@ -450,7 +593,10 @@
       "date"     : "2023-03-18 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/riflajwpc/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Descoperă avantajele și aplicațiile riflajelor din WPC, un material ecologic și durabil. Află cum riflajele din WPC se compară cu riflajele tradiționale din lemn sau aluminiu."
+	    "description"     : "Descoperă avantajele și aplicațiile riflajelor din WPC, un material ecologic și durabil. Află cum riflajele din WPC se compară cu riflajele tradiționale din lemn sau aluminiu.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "RIFLAJE"
     } ,
   
     {
@@ -461,7 +607,10 @@
       "date"     : "2023-03-19 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/riflajalum/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Riflajul din aluminiu, un material modern și durabil pentru amenajări exterioare și interioare, învățând despre avantajele sale, aplicațiile și sfaturile utile pentru instalare."
+	    "description"     : "Riflajul din aluminiu, un material modern și durabil pentru amenajări exterioare și interioare, învățând despre avantajele sale, aplicațiile și sfaturile utile pentru instalare.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "RIFLAJE"
     } ,
   
     {
@@ -472,7 +621,10 @@
       "date"     : "2023-03-19 00:00:00 +0200",
 	    "image"     : "/assets/images/stiri/riflajext/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Descoperă secretele riflajelor exterioare - materiale durabile, avantaje și idei de utilizare pentru a îmbunătăți estetica și funcționalitatea spațiilor tale exterioare."
+	    "description"     : "Descoperă secretele riflajelor exterioare - materiale durabile, avantaje și idei de utilizare pentru a îmbunătăți estetica și funcționalitatea spațiilor tale exterioare.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "RIFLAJE"
     } ,
   
     {
@@ -483,7 +635,10 @@
       "date"     : "2023-04-01 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/terasa/main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Terasa din lemn lipita de casa construită în regim propriu - descoperă pașii necesari și inspirația din spatele creării unui spațiu relaxant, personalizat și aproape de natură, perfect pentru petrecerea timpului liber în aer liber."
+	    "description"     : "Terasa din lemn lipita de casa construită în regim propriu - descoperă pașii necesari și inspirația din spatele creării unui spațiu relaxant, personalizat și aproape de natură, perfect pentru petrecerea timpului liber în aer liber.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "EXTERIOR",
+      "subcat1"     : ""
     } ,
   
     {
@@ -494,7 +649,10 @@
       "date"     : "2023-04-24 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/bugetul/bugetul.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Vezi aici un ghid în 6 pași despre cum să-ți gestionezi eficient finanțele prin crearea unui buget personal adaptat nevoilor tale, pentru a-ți controla veniturile, cheltuielile și a atinge obiectivele financiare."
+	    "description"     : "Vezi aici un ghid în 6 pași despre cum să-ți gestionezi eficient finanțele prin crearea unui buget personal adaptat nevoilor tale, pentru a-ți controla veniturile, cheltuielile și a atinge obiectivele financiare.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -505,7 +663,10 @@
       "date"     : "2023-04-24 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/etf/grafic.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Învață despre ETF-uri printr-un ghid simplu și prietenos, care explică conceptele de bază și te ajută să înțelegi cum poți folosi ETF-urile în portofoliul tău de investiții."
+	    "description"     : "Învață despre ETF-uri printr-un ghid simplu și prietenos, care explică conceptele de bază și te ajută să înțelegi cum poți folosi ETF-urile în portofoliul tău de investiții.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -516,7 +677,10 @@
       "date"     : "2023-04-24 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/fincopii/main.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Descoperă cum să îți înveți copiii despre educația financiară prin metoda învățării prin exemplu, abordând teme precum economisirea, investițiile și responsabilitatea financiară."
+	    "description"     : "Descoperă cum să îți înveți copiii despre educația financiară prin metoda învățării prin exemplu, abordând teme precum economisirea, investițiile și responsabilitatea financiară.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -527,7 +691,10 @@
       "date"     : "2023-04-24 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/urgenta/fond.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Află de ce este important să ai un fond de urgență, cum să stabilești dimensiunea potrivită a acestuia și cum să îl construiești pentru a-ți asigura stabilitatea financiară în situații neprevăzute."
+	    "description"     : "Află de ce este important să ai un fond de urgență, cum să stabilești dimensiunea potrivită a acestuia și cum să îl construiești pentru a-ți asigura stabilitatea financiară în situații neprevăzute.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -538,7 +705,10 @@
       "date"     : "2023-04-27 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/actiuni/actiuni.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Descoperă cum să investești în acțiuni pe bursă cu acest ghid esențial pentru începători, care te va învăța despre acțiuni, piața bursieră și strategii pentru a-ți crește investițiile."
+	    "description"     : "Descoperă cum să investești în acțiuni pe bursă cu acest ghid esențial pentru începători, care te va învăța despre acțiuni, piața bursieră și strategii pentru a-ți crește investițiile.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -549,7 +719,10 @@
       "date"     : "2023-04-28 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/semrush/sem.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Vezi cum sa ai acces la semrush Pro GRATUIT timp de 30 de zile! Descoperă cele mai bune strategii SEO și de marketing digital pentru a-ți crește vizibilitatea și traficul site-ului. Profită acum de această ofertă limitată!"
+	    "description"     : "Vezi cum sa ai acces la semrush Pro GRATUIT timp de 30 de zile! Descoperă cele mai bune strategii SEO și de marketing digital pentru a-ți crește vizibilitatea și traficul site-ului. Profită acum de această ofertă limitată!",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "INTERNET",
+      "subcat1"     : ""
     } ,
   
     {
@@ -560,7 +733,10 @@
       "date"     : "2023-05-07 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/seriefiverr/comunicare.webp",
 			"author"    : "Happy Money",
-	    "description"     : "În acest articol, vom explora cele mai bune practici pentru a comunica eficient cu clienții pe Fiverr, de la răspunsurile rapide la abordarea problemelor în mod profesionist."
+	    "description"     : "În acest articol, vom explora cele mai bune practici pentru a comunica eficient cu clienții pe Fiverr, de la răspunsurile rapide la abordarea problemelor în mod profesionist.",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "FREELANCING",
+      "subcat1"     : "FIVERR"
     } ,
   
     {
@@ -571,7 +747,10 @@
       "date"     : "2023-05-07 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/seriefiverr/gig-atractiv.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Creează un gig atractiv pe Fiverr cu aceste sfaturi esențiale: alege titlul potrivit, descrie serviciile în detaliu și folosește imagini de impact pentru a atrage clienții."
+	    "description"     : "Creează un gig atractiv pe Fiverr cu aceste sfaturi esențiale: alege titlul potrivit, descrie serviciile în detaliu și folosește imagini de impact pentru a atrage clienții.",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "FREELANCING",
+      "subcat1"     : "FIVERR"
     } ,
   
     {
@@ -582,7 +761,10 @@
       "date"     : "2023-05-07 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/seriefiverr/levels.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Aflați mai multe despre ceea ce înseamnă nivelurile de vânzător Fiverr și cum puteți avansa în această ierarhie."
+	    "description"     : "Aflați mai multe despre ceea ce înseamnă nivelurile de vânzător Fiverr și cum puteți avansa în această ierarhie.",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "FREELANCING",
+      "subcat1"     : "FIVERR"
     } ,
   
     {
@@ -593,7 +775,10 @@
       "date"     : "2023-05-07 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/seriefiverr/rating.webp",
 			"author"    : "Happy Money",
-	    "description"     : "În acest articol, vom explora modul în care funcționează sistemul de rating și recenzii pe Fiverr, cum să îl folosești în avantajul tău și cum să îți îmbunătățești ratingul și recenziile ca freelancer."
+	    "description"     : "În acest articol, vom explora modul în care funcționează sistemul de rating și recenzii pe Fiverr, cum să îl folosești în avantajul tău și cum să îți îmbunătățești ratingul și recenziile ca freelancer.",
+			"cat"    : "BANI ONLINE",
+      "subcat" : "FREELANCING",
+      "subcat1"     : "FIVERR"
     } ,
   
     {
@@ -604,7 +789,10 @@
       "date"     : "2023-05-16 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/biroucredite/birou.webp",
 			"author"    : "Happy Money",
-	    "description"     : "Aflați cum să vă ștergeți din Biroul de Credite și să vă îmbunătățiți scorul de credit. Sfaturi utile, proceduri legale și multe altele pentru a vă asigura independența financiară."
+	    "description"     : "Aflați cum să vă ștergeți din Biroul de Credite și să vă îmbunătățiți scorul de credit. Sfaturi utile, proceduri legale și multe altele pentru a vă asigura independența financiară.",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -615,7 +803,10 @@
       "date"     : "2023-05-20 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/vata-bazaltica/vata-bazaltica.webp",
 			"author"    : "Home Best",
-	    "description"     : "Descoperă ce este vata bazaltică, un material izolator de top, oferind izolare termică și fonică superioară. Perfectă pentru construcții durabile."
+	    "description"     : "Descoperă ce este vata bazaltică, un material izolator de top, oferind izolare termică și fonică superioară. Perfectă pentru construcții durabile.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "EXTERIOR",
+      "subcat1"     : ""
     } ,
   
     {
@@ -626,7 +817,10 @@
       "date"     : "2023-05-20 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/inverter/inverter.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Descoperiți principalii producători de aparate de aer condiționat cu inverter: Daikin, Mitsubishi Electric, LG, Samsung, și Toshiba. Aflați despre eficiența și caracteristicile lor distincte"
+	    "description"     : "Descoperiți principalii producători de aparate de aer condiționat cu inverter: Daikin, Mitsubishi Electric, LG, Samsung, și Toshiba. Aflați despre eficiența și caracteristicile lor distincte",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "ELECTROCASNICE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -637,7 +831,10 @@
       "date"     : "2023-05-25 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/iplvslaser/ipl-vs-laser.webp",
 			"author"    : "Andreea",
-	    "description"     : "Descoperă diferitele metode de epilare definitivă, comparând IPL și laser. Află care este cea mai potrivită pentru tine în acest ghid detaliat și informativ."
+	    "description"     : "Descoperă diferitele metode de epilare definitivă, comparând IPL și laser. Află care este cea mai potrivită pentru tine în acest ghid detaliat și informativ.",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "EPILARE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -648,7 +845,10 @@
       "date"     : "2023-05-30 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/iplvslaser/epilare-salon.webp",
 			"author"    : "Andreea",
-	    "description"     : "Descoperă avantajele și dezavantajele epilării IPL la domiciliu față de salon. Ghidul tău complet pentru a face alegerea corectă!"
+	    "description"     : "Descoperă avantajele și dezavantajele epilării IPL la domiciliu față de salon. Ghidul tău complet pentru a face alegerea corectă!",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "EPILARE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -659,7 +859,10 @@
       "date"     : "2023-05-30 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/iplvslaser/riscuri-epilare.webp",
 			"author"    : "Andreea",
-	    "description"     : "Descoperă ce înseamnă epilarea IPL și cunoaște riscurile asociate. Informatiile noastre detaliate te ajută să te pregătești corect pentru tratament și să eviți potențialele neplăceri. Fii informat și fii în siguranță."
+	    "description"     : "Descoperă ce înseamnă epilarea IPL și cunoaște riscurile asociate. Informatiile noastre detaliate te ajută să te pregătești corect pentru tratament și să eviți potențialele neplăceri. Fii informat și fii în siguranță.",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "EPILARE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -670,7 +873,10 @@
       "date"     : "2023-06-08 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/oskar/oskar-direct-beton.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Descoperă experiențele consumatorilor cu Oskar Direct pe Beton. Află dacă acest produs este potrivit pentru nevoile tale de finisare a betonului."
+	    "description"     : "Descoperă experiențele consumatorilor cu Oskar Direct pe Beton. Află dacă acest produs este potrivit pentru nevoile tale de finisare a betonului.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "EXTERIOR",
+      "subcat1"     : ""
     } ,
   
     {
@@ -681,7 +887,10 @@
       "date"     : "2023-06-12 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/fericirea/calaretul-elefantul.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Ipoteza Fericirii, o carte ce dezvăluie adevăruri moderne în înțelepciunea antică. Explorează ce este fericirea și cum o putem atinge în viețile noastre complexe și moderne."
+	    "description"     : "Ipoteza Fericirii, o carte ce dezvăluie adevăruri moderne în înțelepciunea antică. Explorează ce este fericirea și cum o putem atinge în viețile noastre complexe și moderne.",
+			"cat"    : "LIFESTYLE",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -692,7 +901,10 @@
       "date"     : "2023-06-19 00:00:00 +0300",
 	    "image"     : "/assets/images/stiri/riflajpal/riflaj-pal-main.webp",
 			"author"    : "Home Best",
-	    "description"     : "Descoperă avantajele riflajului din PAL - soluția durabilă, estetică și accesibilă pentru designul interior. Transformă-ți spațiul cu versatilitate și stil."
+	    "description"     : "Descoperă avantajele riflajului din PAL - soluția durabilă, estetică și accesibilă pentru designul interior. Transformă-ți spațiul cu versatilitate și stil.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : "RIFLAJE"
     } 
   
 	,
@@ -705,7 +917,10 @@
       "date"     : "2023-04-04 00:00:00 +0300",
 	    "image"     : "/assets/images/smart/iluminat/ha-sonoff.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Descoperă cum să îți automatizezi toate luminile din casă cu Home Assistant și relelul Sonoff Mini. Transformă-ți casa într-o locuință inteligentă cu o singură interfață!"
+	    "description"     : "Descoperă cum să îți automatizezi toate luminile din casă cu Home Assistant și relelul Sonoff Mini. Transformă-ți casa într-o locuință inteligentă cu o singură interfață!",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "SMARTHOME",
+      "subcat1"     : ""
     } ,
   
     {
@@ -716,7 +931,10 @@
       "date"     : "2023-06-04 00:00:00 +0300",
 	    "image"     : "/assets/images/smart/casa-inteligenta/smart-home-sistem.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Casa inteligentă: un ghid complet pentru automatizarea locuinței. Descoperă tehnologiile moderne și avantajele sistemelor inteligente. Transformă-ți casa într-o locuință conectată!"
+	    "description"     : "Casa inteligentă: un ghid complet pentru automatizarea locuinței. Descoperă tehnologiile moderne și avantajele sistemelor inteligente. Transformă-ți casa într-o locuință conectată!",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "SMARTHOME",
+      "subcat1"     : ""
     } ,
   
     {
@@ -727,7 +945,10 @@
       "date"     : "2023-06-04 00:00:00 +0300",
 	    "image"     : "/assets/images/smart/iluminat/sistem-iluminat.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Explorați pașii esențiali pentru a crea un sistem de iluminat inteligent în casa dumneavoastră. Transformați-vă locuința într-un spațiu mai sigur și confortabil."
+	    "description"     : "Explorați pașii esențiali pentru a crea un sistem de iluminat inteligent în casa dumneavoastră. Transformați-vă locuința într-un spațiu mai sigur și confortabil.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "SMARTHOME",
+      "subcat1"     : ""
     } ,
   
     {
@@ -738,7 +959,10 @@
       "date"     : "2023-06-06 00:00:00 +0300",
 	    "image"     : "/assets/images/smart/iluminat/sonoff-fara-internet-main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Pot dispozitivele Sonoff funcționa fără internet? Da, acestea pot funcționa autonom datorită modului LAN. Acest articol explorează funcționalitățile Sonoff, utilizarea aplicației eWeLink, firmware-ului Tasmota și integrarea cu Home Assistant pentru functionarea fără internet."
+	    "description"     : "Pot dispozitivele Sonoff funcționa fără internet? Da, acestea pot funcționa autonom datorită modului LAN. Acest articol explorează funcționalitățile Sonoff, utilizarea aplicației eWeLink, firmware-ului Tasmota și integrarea cu Home Assistant pentru functionarea fără internet.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "SMARTHOME",
+      "subcat1"     : ""
     } 
   
 	,
@@ -751,7 +975,10 @@
       "date"     : "2023-06-19 00:00:00 +0300",
 	    "image"     : "/assets/images/manuka/beneficii/albina-arbore-manuka.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Te-ai întrebat vreodată de ce este MIEREA DE MANUKA atât de specială? Această varietate unică de miere provine din Noua Zeelandă și Australia, iar benficiile sale pentru sănătate pot fi..."
+	    "description"     : "Te-ai întrebat vreodată de ce este MIEREA DE MANUKA atât de specială? Această varietate unică de miere provine din Noua Zeelandă și Australia, iar benficiile sale pentru sănătate pot fi...",
+			"cat"    : "SANATATE",
+      "subcat" : "MANUKA",
+      "subcat1"     : ""
     } ,
   
     {
@@ -762,7 +989,24 @@
       "date"     : "2023-06-20 00:00:00 +0300",
 	    "image"     : "/assets/images/manuka/helicobacter/manuka-miere.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Descoperiți mierea de Manuka ca soluție eficientă împotriva Helicobacter Pylori. Explorați cercetările, beneficiile și cum să o utilizați corect. Sănătatea la îndemână."
+	    "description"     : "Descoperiți mierea de Manuka ca soluție eficientă împotriva Helicobacter Pylori. Explorați cercetările, beneficiile și cum să o utilizați corect. Sănătatea la îndemână.",
+			"cat"    : "SANATATE",
+      "subcat" : "MANUKA",
+      "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Ce boli vindeca mierea de Manuka? 10 afecțiuni tratate eficient",
+      "category" : "MANUKA",
+      "tags"     : "Miere, Manuka, H: Pylory",
+      "url"      : "/ce-boli-vindeca-mierea-de-manuka/",
+      "date"     : "2023-06-22 00:00:00 +0300",
+	    "image"     : "/assets/images/manuka/boli/colectare-manuka.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperiți ce boli vindeca mierea de manuka în acest articol captivant. Cu efecte uimitoare, Mierea de manuka provine din nectarul arborelui de manuka...",
+			"cat"    : "SANATATE",
+      "subcat" : "MANUKA",
+      "subcat1"     : ""
     } 
   
 	,
@@ -775,7 +1019,10 @@
       "date"     : "2019-04-25 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/huaweip30pro.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Huawei P30 Pro Pareri, Preturi, Specificatii - Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului."
+	    "description"     : "Huawei P30 Pro Pareri, Preturi, Specificatii - Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -786,7 +1033,10 @@
       "date"     : "2019-05-13 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/huawei-p20-lite.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Huawei P20 Lite Pareri, Preturi, Specificatii - Un smartphone mid-range bun ce capturează esența seriei P20, cu specificații medii la un preț accesibil."
+	    "description"     : "Huawei P20 Lite Pareri, Preturi, Specificatii - Un smartphone mid-range bun ce capturează esența seriei P20, cu specificații medii la un preț accesibil.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -797,7 +1047,10 @@
       "date"     : "2019-12-31 00:00:00 +0200",
 	    "image"     : "/assets/images/reviews/psmart/psmart-main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Huawwei P Smart 2019 Pareri, Pret, Specificatii - Un smartphone ce oferă o experiență surprinzătoare, un design curat și simplu și un set impresionant de caracteristici."
+	    "description"     : "Huawwei P Smart 2019 Pareri, Pret, Specificatii - Un smartphone ce oferă o experiență surprinzătoare, un design curat și simplu și un set impresionant de caracteristici.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -808,7 +1061,10 @@
       "date"     : "2020-01-06 00:00:00 +0200",
 	    "image"     : "/assets/images/reviews/pareri-huawei/logo-huawei.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Pareri Telefoane Huawei - Huawei nu mai este o companie de ignorat. Cu tot mai multe terminale pe piața premium, compania se bate de la egal la egal cu Samsung, LG sau Sony. Însă în lumina unei încăierări dintre SUA și China, Huawei a fost printre entitățile care au avut de pierdut."
+	    "description"     : "Pareri Telefoane Huawei - Huawei nu mai este o companie de ignorat. Cu tot mai multe terminale pe piața premium, compania se bate de la egal la egal cu Samsung, LG sau Sony. Însă în lumina unei încăierări dintre SUA și China, Huawei a fost printre entitățile care au avut de pierdut.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -819,7 +1075,10 @@
       "date"     : "2023-02-20 00:00:00 +0200",
 	    "image"     : "/assets/images/reviews/lenovom2/lenovo4.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Trotineta Lenovo M2, o optiune perfecta pentru cei care își doresc o trotineta calitativă fără să cheltuiască mulți bani."
+	    "description"     : "Trotineta Lenovo M2, o optiune perfecta pentru cei care își doresc o trotineta calitativă fără să cheltuiască mulți bani.",
+			"cat"    : "TROTINETE",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -830,7 +1089,10 @@
       "date"     : "2023-02-25 00:00:00 +0200",
 	    "image"     : "/assets/images/reviews/inokimoxsuper/main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Trotineta electrică Inokim Ox Super este un scuter electric uimitor, cu câteva caracteristici cu adevărat minunate, care poate face față tuturor provocărilor la care îl supuneți."
+	    "description"     : "Trotineta electrică Inokim Ox Super este un scuter electric uimitor, cu câteva caracteristici cu adevărat minunate, care poate face față tuturor provocărilor la care îl supuneți.",
+			"cat"    : "TROTINETE",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -841,7 +1103,10 @@
       "date"     : "2023-03-04 00:00:00 +0200",
 	    "image"     : "/assets/images/reviews/masinispheinner/main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Te-ai uitat la o mașină de spălat Heinner? Află mai multe despre aceasta din recenziile clienților și analizele experților. Acest ghid compară diferite modele și evaluează valoarea produselor."
+	    "description"     : "Te-ai uitat la o mașină de spălat Heinner? Află mai multe despre aceasta din recenziile clienților și analizele experților. Acest ghid compară diferite modele și evaluează valoarea produselor.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "ELECTROCASNICE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -852,7 +1117,10 @@
       "date"     : "2023-04-01 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/broadlink/main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Cu un design compact și elegant, compatibilitate extinsă și integrare cu sistemele smart home, acest produs se dovedește a fi o alegere excelentă pentru cei care doresc să-și simplifice viața."
+	    "description"     : "Cu un design compact și elegant, compatibilitate extinsă și integrare cu sistemele smart home, acest produs se dovedește a fi o alegere excelentă pentru cei care doresc să-și simplifice viața.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "SMARTHOME",
+      "subcat1"     : ""
     } ,
   
     {
@@ -863,7 +1131,10 @@
       "date"     : "2023-04-05 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/remington/main.webp",
 			"author"    : "Tudor Stan",
-	    "description"     : "Remington S9500 Pearl este câștigătorul datorită combinației dintre performanța excelentă, tehnologia avansată și recenziile pozitive ale clienților."
+	    "description"     : "Remington S9500 Pearl este câștigătorul datorită combinației dintre performanța excelentă, tehnologia avansată și recenziile pozitive ale clienților.",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "EPILARE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -874,7 +1145,10 @@
       "date"     : "2023-04-12 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/boshdrill/main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Bosch EasyDrill 1200 este o mașină de găurit și înșurubat excelentă pentru utilizatorul casnic și proiectele DIY. Cu un design compact și ergonomic, funcționalitate 2-în-1 și un acumulator cu încărcare rapidă, acest produs oferă un raport calitate-preț foarte bun."
+	    "description"     : "Bosch EasyDrill 1200 este o mașină de găurit și înșurubat excelentă pentru utilizatorul casnic și proiectele DIY. Cu un design compact și ergonomic, funcționalitate 2-în-1 și un acumulator cu încărcare rapidă, acest produs oferă un raport calitate-preț foarte bun.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "UNELTE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -885,7 +1159,10 @@
       "date"     : "2023-04-17 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/lumea/pachet.webp",
 			"author"    : "Mari D.",
-	    "description"     : "Epilatorul IPL Philips Lumea Seria 9000 - review, păreri și informații complete despre caracteristici, preț și eficacitate. Investește într-un dispozitiv de calitate pentru îndepărtarea părului la domiciliu sau în călătorii."
+	    "description"     : "Epilatorul IPL Philips Lumea Seria 9000 - review, păreri și informații complete despre caracteristici, preț și eficacitate. Investește într-un dispozitiv de calitate pentru îndepărtarea părului la domiciliu sau în călătorii.",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "EPILARE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -896,7 +1173,10 @@
       "date"     : "2023-05-06 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/remington9500/utilizator.webp",
 			"author"    : "Andreea",
-	    "description"     : "Descoperă Remington S9500 Pearl Pro Ceramic, placa de îndreptat părul cu tehnologie avansată și performanță excelentă. Află despre caracteristicile sale, comparația cu BaBylissPRO și îmbunătățirile față de modelele anterioare în acest review detaliat."
+	    "description"     : "Descoperă Remington S9500 Pearl Pro Ceramic, placa de îndreptat părul cu tehnologie avansată și performanță excelentă. Află despre caracteristicile sale, comparația cu BaBylissPRO și îmbunătățirile față de modelele anterioare în acest review detaliat.",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "EPILARE",
+      "subcat1"     : ""
     } ,
   
     {
@@ -907,7 +1187,10 @@
       "date"     : "2023-05-16 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/applewatchse/main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "Explorăm Apple Watch SE 2 (2022), ceasul inteligent cu un design elegant și funcționalități impresionante. Descoperă un review complet și obiectiv."
+	    "description"     : "Explorăm Apple Watch SE 2 (2022), ceasul inteligent cu un design elegant și funcționalități impresionante. Descoperă un review complet și obiectiv.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } ,
   
     {
@@ -918,7 +1201,10 @@
       "date"     : "2023-06-10 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/dyson-corrale/dyson-main.webp",
 			"author"    : "Mari D.",
-	    "description"     : "Explorăm Dyson Corrale HS03, o placă de păr wireless cu caracteristici inovatoare. Află despre performanța, design-ul și calitatea acestui produs revoluționar."
+	    "description"     : "Explorăm Dyson Corrale HS03, o placă de păr wireless cu caracteristici inovatoare. Află despre performanța, design-ul și calitatea acestui produs revoluționar.",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "PAR",
+      "subcat1"     : ""
     } ,
   
     {
@@ -929,7 +1215,10 @@
       "date"     : "2023-06-13 00:00:00 +0300",
 	    "image"     : "/assets/images/reviews/iplbraun/main-braun.webp",
 			"author"    : "Mari D.",
-	    "description"     : "Descoperiți o epilare eficientă cu Braun Silk Expert Pro 5 PL5124. Cu tehnologia SensoAdaptTM și 400.000 de impulsuri, îndepărtarea părului devine o briză!"
+	    "description"     : "Descoperiți o epilare eficientă cu Braun Silk Expert Pro 5 PL5124. Cu tehnologia SensoAdaptTM și 400.000 de impulsuri, îndepărtarea părului devine o briză!",
+			"cat"    : "FRUMUSETE",
+      "subcat" : "EPILARE",
+      "subcat1"     : ""
     } 
   
 ]

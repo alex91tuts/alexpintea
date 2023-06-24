@@ -53,6 +53,11 @@ magazine:
 
 sku: trot2
 
+cat: "TROTINETE"
+subcat:
+subcat1:
+
+
 ---
 <span class="drop-caps">T</span>_rotinetele electrice oferă o formă inteligentă, alternativă de mobilitate personală, mai ales în comparație cu bicicletele și motocicletele. Ele devin din ce în ce mai populare datorită confortului și rentabilității lor._
 

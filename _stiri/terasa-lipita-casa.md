@@ -12,6 +12,9 @@ scor-intro: Terasa din lemn lipita de casa construită în regim propriu - desco
 
 description: Terasa din lemn lipita de casa construită în regim propriu - descoperă pașii necesari și inspirația din spatele creării unui spațiu relaxant, personalizat și aproape de natură, perfect pentru petrecerea timpului liber în aer liber.
 
+cat: "CASA SI GRADINA"
+subcat: "EXTERIOR"
+subcat1:
 
 ---
 

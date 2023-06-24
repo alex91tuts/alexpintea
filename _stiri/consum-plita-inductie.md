@@ -3,7 +3,7 @@ title: Consum plita inductie | Inducție vs. Gaz | Calculator Consum
 image_path: stiri/consuminductie/main.webp
 layout: stiri
 date: 2023-03-07
-date-modified: 
+date-modified: 2023-06-24
 categorie: CURIOZITATI
 tags: ['Electrocasnice', 'Consum', '2023']
 nume: consum plita inductie
@@ -12,7 +12,14 @@ scor-intro: Ce consum are o plită pe inducție? Alegem varianta pe inducție sa
 
 description: Ce consum are o plită pe inducție? Alegem varianta pe inducție sau cea pe gaz? Vezi în acest articol si un calculator de consum.
 
+cat: "CASA SI GRADINA"
+subcat: "ELECTROCASNICE"
+subcat1:
+
 ---
+
+O plita cu inductie cu o putere de 2kw, utilizată zilnic timp de 2 ore consuma lunar aproximativ 120kw. Cu un pret al energiei de aproximativ 0.8 lei rezultă un cost lunar de  aproximativ 100 de lei. Pentru un calcul mai exact uttilizați calculatorul de mai jos.
+
 <div class="container-calc">
 	<span>CALCULATOR CONSUM LUNAR PLITA INDUCTIE</span>
 	<label for="putere" class="label">Puterea nominală a plitei (în W):</label>

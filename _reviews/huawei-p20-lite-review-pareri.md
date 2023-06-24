@@ -59,6 +59,10 @@ magazine:
 
 sku: rev2
 
+cat: "SMARTPHONES"
+subcat:
+subcat1:
+
 ---
 <span class="drop-caps">P</span>_rin P20 Lite cei de la Huawei încearcă să cuprindă look-ul și sensibilitatea flagship-ului P20 dar fără să ceară acealeași prețuri. Pentru a putea obține acest lucru, cel mai puternic procesor al companiei este înlocuit cu unul modest, sunt adoptate câteva schimbări mărunte de design și este utilizată o cameră duală diferită._
 

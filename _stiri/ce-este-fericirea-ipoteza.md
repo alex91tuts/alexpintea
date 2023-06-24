@@ -13,6 +13,10 @@ scor-intro: "Ipoteza Fericirii, o carte ce dezvăluie adevăruri moderne în în
 
 description: "Ipoteza Fericirii, o carte ce dezvăluie adevăruri moderne în înțelepciunea antică. Explorează ce este fericirea și cum o putem atinge în viețile noastre complexe și moderne."
 
+cat: "LIFESTYLE"
+subcat:
+subcat1:
+
 
 ---
 

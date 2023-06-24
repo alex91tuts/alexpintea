@@ -30,6 +30,10 @@ description: Te-ai uitat la o mașină de spălat Heinner? Află mai multe despr
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "CASA SI GRADINA"
+subcat: "ELECTROCASNICE"
+subcat1:
+
 ---
 ## Masină de spălat Heinner păreri despre companie
 

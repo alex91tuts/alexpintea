@@ -13,6 +13,9 @@ scor-intro: "Te-ai întrebat vreodată de ce este MIEREA DE MANUKA atât de spec
 
 description: "Te-ai întrebat vreodată de ce este MIEREA DE MANUKA atât de specială? Această varietate unică de miere provine din Noua Zeelandă și Australia, iar benficiile sale pentru sănătate pot fi..."
 
+cat: "SANATATE"
+subcat: "MANUKA"
+
 ---
 
 Te-ai întrebat vreodată de ce este **mierea de manuka** atât de specială? Această varietate unică de miere provine din Noua Zeelandă și Australia, fiind recunoscută pentru conținutul său bogat în metilglioxal (MGO). 

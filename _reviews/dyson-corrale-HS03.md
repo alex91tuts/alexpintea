@@ -40,6 +40,9 @@ key:
 
 verdict: "Dyson Corrale HS03 este o alegere excelentă pentru cei care caută performanță și flexibilitate într-o placă de păr. Cu toate acestea, dacă autonomia este o prioritate pentru tine, ar trebui să te uiți la alternative. De asemenea, este posibil să nu fie cea mai bună opțiune pentru cei cu un buget mai restrâns, având în vedere prețul său premium."
 
+cat: "FRUMUSETE"
+subcat: "PAR"
+subcat1:
 
 ---
 

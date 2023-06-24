@@ -14,6 +14,10 @@ date: 2023-01-12
 date-modified: 
 nume: Microjoburi în România
 
+cat: "BANI ONLINE"
+subcat: "FREELANCING"
+subcat1: "FIVERR"
+
 ---
 
 **_Cum se câștigă bani online din microjoburi? Ce platformă să folosești pentru a aduce un venit de câteva sute de lei (chiar mai mult) pe lună, din confortul casei tale._**

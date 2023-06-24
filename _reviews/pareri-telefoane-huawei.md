@@ -30,6 +30,10 @@ description: Pareri Telefoane Huawei - Huawei nu mai este o companie de ignorat.
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "SMARTPHONES"
+subcat:
+subcat1:
+
 ---
 <span class="drop-caps">S</span>_uita de telefoane smart faricată de către cei de la Huawei a devenit din ce în ce mai populară pentru iubitorii de tehnologie din lumea întreagă, cu o mică, dar foarte mare, excepție: SUA. De fapt, compania vinde mai multe telefoane decât oricine, fără să-i depășească însă pe cei de la Samsung._
 

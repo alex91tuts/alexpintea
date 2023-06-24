@@ -14,6 +14,10 @@ description: Învață despre ETF-uri printr-un ghid simplu și prietenos, care 
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 <div class="rowinv">

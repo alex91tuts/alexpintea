@@ -12,6 +12,9 @@ scor-intro: Descoperă ce înseamnă epilarea IPL și cunoaște riscurile asocia
 
 description: Descoperă ce înseamnă epilarea IPL și cunoaște riscurile asociate. Informatiile noastre detaliate te ajută să te pregătești corect pentru tratament și să eviți potențialele neplăceri. Fii informat și fii în siguranță.
 
+cat: "FRUMUSETE"
+subcat: "EPILARE"
+subcat1:
 
 ---
 

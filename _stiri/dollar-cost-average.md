@@ -14,6 +14,10 @@ description: DCA este o strategie care implică investirea unei sume fixe de ban
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 <div class="rowinv">

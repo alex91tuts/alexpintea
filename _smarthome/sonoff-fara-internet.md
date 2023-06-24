@@ -13,6 +13,10 @@ scor-intro: "Pot dispozitivele Sonoff funcționa fără internet? Da, acestea po
 
 description: "Pot dispozitivele Sonoff funcționa fără internet? Da, acestea pot funcționa autonom datorită modului LAN. Acest articol explorează funcționalitățile Sonoff, utilizarea aplicației eWeLink, firmware-ului Tasmota și integrarea cu Home Assistant pentru functionarea fără internet."
 
+cat: "CASA SI GRADINA"
+subcat: "SMARTHOME"
+subcat1:
+
 ---
 
 Răspunsul este categoric **da**! Impresionanta linie de dispozitive Sonoff, proiectată de renumitul producător Itead, poate funcționa fără o conexiune activă la internet.

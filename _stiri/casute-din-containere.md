@@ -12,6 +12,10 @@ scor-intro: Căsuțele din containere sunt o formă inovatoare și modernă de c
 
 description: Căsuțele din containere sunt o formă inovatoare și modernă de construcție prin care un container maritim se transformă în locuință.
 
+cat: "CASA SI GRADINA"
+subcat: "EXTERIOR"
+subcat1:
+
 ---
 
 _Casutele sunt realizate prin transformarea containerelor de transport standardizate, care sunt proiectate să fie transportate pe nave, camioane și trenuri, în structuri modulare personalizate. Aceste containere sunt de obicei tăiate, sudate și apoi echipate cu ferestre, uși, izolație și sisteme de climatizare, astfel încât să poată fi utilizate ca spații de locuit sau de lucru._

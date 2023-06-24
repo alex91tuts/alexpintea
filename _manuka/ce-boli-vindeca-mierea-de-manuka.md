@@ -13,6 +13,9 @@ scor-intro: "Descoperiți ce boli vindeca mierea de manuka în acest articol cap
 
 description: "Descoperiți ce boli vindeca mierea de manuka în acest articol captivant. Cu efecte uimitoare, Mierea de manuka provine din nectarul arborelui de manuka..."
 
+cat: "SANATATE"
+subcat: "MANUKA"
+
 ---
 
 ## Ce boli vindecă mierea de manuka?

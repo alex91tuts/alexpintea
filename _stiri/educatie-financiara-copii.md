@@ -14,6 +14,10 @@ description: Descoperă cum să îți înveți copiii despre educația financiar
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 <div class="rowinv">

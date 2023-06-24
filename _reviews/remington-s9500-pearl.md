@@ -45,6 +45,10 @@ verdict: Remington S9500 Pearl Pro Ceramic este o placă de îndreptat părul de
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FRUMUSETE"
+subcat: "EPILARE"
+subcat1:
+
 ---
 
 <span class="drop-caps">R</span>emington S9500 Pearl Pro Ceramic este o placă de îndreptat părul cu tehnologie avansată, care vă ajută să obțineți un păr drept și strălucitor fără a-l deteriora. 

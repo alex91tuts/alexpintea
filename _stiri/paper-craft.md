@@ -12,6 +12,9 @@ scor-intro:  Dacă îți place să creezi cu mâinile tale, cu puțină hârtie 
 
 description: Dacă îți place să creezi cu mâinile tale, cu puțină hârtie colorată și diverse tehnici de tăiere și asamblare, poți crea obiecte de artă care vor transforma orice încăpere într-un spațiu unic și personal.
 
+cat: "CASA SI GRADINA"
+subcat: "INTERIOR"
+subcat1: "AMENAJARE"
 
 ---
 

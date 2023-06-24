@@ -14,6 +14,10 @@ description: Vezi cum sa ai acces la semrush Pro GRATUIT timp de 30 de zile! Des
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "BANI ONLINE"
+subcat: "INTERNET"
+subcat1:
+
 ---
 
 SEMrush este o platformă online de marketing digital și un instrument de optimizare pentru motoarele de căutare (SEO) care oferă o gamă largă de funcționalități și resurse pentru a ajuta utilizatorii să analizeze și să îmbunătățească performanța site-urilor lor pe internet. 

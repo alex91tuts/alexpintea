@@ -62,6 +62,10 @@ magazine:
 
 sku: rev3
 
+cat: "SMARTPHONES"
+subcat:
+subcat1:
+
 ---
 <span class="drop-caps">P</span>_opularitatea liniei P Smart aduce în lumina reflectoarelor succesorul pentru anul 2019 pe...Huawei P Smart 2019. Acest ultim model păstrează prețul scăzut al predecesorilor săi dar continuă tradiția înglobând o serie de caracteristici fantastice, inclusiv o cameră impresionantă._
 

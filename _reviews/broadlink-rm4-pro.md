@@ -48,6 +48,10 @@ colors: ['red', 'green', 'blue', 'orange']
 
 sku: rev4
 
+cat: "CASA SI GRADINA"
+subcat: "SMARTHOME"
+subcat1:
+
 ---
 
 <span class="drop-caps">T</span>_elecomanda universală inteligentă oferă compatibilitate cu o gamă largă de dispozitive, cum ar fi televizoare, sisteme audio, aer condiționat și altele, facilitând controlul acestora dintr-o singură aplicație._

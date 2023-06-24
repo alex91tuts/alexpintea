@@ -14,6 +14,10 @@ description: Află de ce este important să ai un fond de urgență, cum să sta
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 <div class="rowinv">

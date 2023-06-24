@@ -14,6 +14,10 @@ description: Aflați cum să vă ștergeți din Biroul de Credite și să vă î
 
 colors: ['red', 'green', 'blue', 'orange']
 
+cat: "FINANCIAR"
+subcat: "EDUCATIE"
+subcat1:
+
 ---
 
 Doriți să vă ștergeți din Biroul de Credite? Aflați cum să navigați prin procesul de ștergere și să îmbunătățiți scorul dvs. de credit. 

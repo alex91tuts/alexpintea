@@ -12,6 +12,10 @@ scor-intro: În acest articol, vom explora cum poți folosi Fiverr pentru a-ți 
 
 description: În acest articol, vom explora cum poți folosi Fiverr pentru a-ți transforma timpul liber într-un venit online și cum să câștigi bani pe Fiverr din România.
 
+cat: "BANI ONLINE"
+subcat: "FREELANCING"
+subcat1: "FIVERR"
+
 ---
 
 Fiverr este o platformă de freelancing care oferă o varietate de servicii în toate domeniile, de la design grafic și marketing digital la scriere și traducere.

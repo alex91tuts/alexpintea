@@ -13,6 +13,10 @@ scor-intro: "Explorați pașii esențiali pentru a crea un sistem de iluminat in
 
 description: "Explorați pașii esențiali pentru a crea un sistem de iluminat inteligent în casa dumneavoastră. Transformați-vă locuința într-un spațiu mai sigur și confortabil."
 
+cat: "CASA SI GRADINA"
+subcat: "SMARTHOME"
+subcat1:
+
 ---
 
 ---
