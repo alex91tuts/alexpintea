@@ -3,7 +3,7 @@ title: 'Miere de Manuka - Beneficii pentru sănătate și bunăstare'
 image_path: manuka/beneficii/albina-arbore-manuka.webp
 layout: stiri
 date: 2023-06-19
-date-modified: 2023-06-22
+date-modified: 2023-06-25
 categorie: MANUKA
 tags: ['Miere', 'Manuka', 'Beneficii']
 nume: "miere de manuka beneficii"
@@ -214,6 +214,7 @@ Totuși, este important de reținut că mierea, indiferent de tipul acesteia, nu
 
 Înainte de a introduce mierea de Manuka în dieta copilului tău, este important să discuți cu medicul pediatru. Deși **mierea de Manuka** este un produs natural, anumite persoane pot avea alergii la miere sau pot necesita doze specifice în funcție de vârstă și starea de sănătate.
 
+Citește și: **[Miere de manuka: contraindicatii](https://totredus.ro/miere-manuka-contraindicatii/)**
 
 ---  
 ## Întrebări frecvente despre beneficiile mierii de Manuka

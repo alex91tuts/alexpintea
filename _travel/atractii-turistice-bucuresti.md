@@ -39,7 +39,7 @@ De asemenea, transportul accesibil face ca explorarea Bucureștiului să fie o e
 
 **Citește și: [Ce să faci în București în weekend?](https://totredus.ro/travel/bucuresti-in-weekend/)**
 
-## Palatul Parlamentului: Impunător și controversat
+## Palatul Parlamentului Bucuresti: Impunător și controversat
 
 ### Arhitectură unică și impozantă
 
@@ -83,7 +83,7 @@ Construcția Palatului Parlamentului a început în timpul regimului comunist al
 
 Datorită acestor aspecte, construcția palatului rămâne un subiect sensibil pentru mulți români, care îl asociază cu suferința și nemulțumirea cauzate de regimul comunist.
 
-### Vizite ghidate și evenimente culturale
+### Vizite ghidate și evenimente culturale București
 
 Palatul Parlamentului poate fi vizitat în cadrul unor **tururi ghidate** care oferă informații detaliate despre istoria, arhitectura și funcțiile actuale ale cladirii. În plus, palatul găzduiește numeroase evenimente culturale precum:
 
@@ -134,7 +134,7 @@ Această colecție este un prilej excelent pentru a descoperi arta contemporană
 
 **Citește și: [Ce să faci în București noaptea?](https://totredus.ro/travel/bucuresti-noaptea/)**
 
-## Centrul Istoric: O călătorie în timp prin arhitectură și istorie
+## Centrul Istoric București: O călătorie în timp prin arhitectură și istorie
 
 ### Arhitectura impresionantă
 
@@ -280,7 +280,7 @@ Ambele muzee organizează periodic evenimente și ateliere pentru a promova meș
 
 În cadrul muzeelor se desfășoară frecvent spectacole de dansuri și cântece populare, oferind o experiența autentică românească.
 
-## Cartierul Cotroceni: Palatul și Muzeul Cotroceni
+## Cartierul Cotroceni din București: Palatul și Muzeul Cotroceni
 
 ### Palatul Cotroceni, o minunăție arhitecturală
 

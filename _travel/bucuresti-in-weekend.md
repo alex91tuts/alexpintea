@@ -29,7 +29,7 @@ Orașul oferă o mulțime de activități și atracții interesante de explorat 
 
 Există ceva pentru toată lumea în București, de la viața de noapte vibrantă și bucătăria tradițională românească până la monumente istorice și arhitectură unică.
 
-## Activitati de neuitat 
+## Activitati inedite în București 
 
 {% include cta-orizontal.html 
 imagine1="/assets/images/travel/weekendbuc/zbor-elicopter.webp" 

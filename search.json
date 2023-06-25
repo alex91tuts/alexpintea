@@ -16,7 +16,7 @@ robots: YES
 			"cat"    : "{{ post.cat }}",
       "subcat" : "{{ post.subcat }}",
       "subcat1"     : "{{ post.subcat1 }}",
-			"type"     : "travel",
+			"type"     : "travel"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 	,

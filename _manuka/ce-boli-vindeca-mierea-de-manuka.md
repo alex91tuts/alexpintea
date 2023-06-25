@@ -3,7 +3,7 @@ title: 'Ce boli vindeca mierea de Manuka? 10 afecțiuni tratate eficient'
 image_path: manuka/boli/colectare-manuka.webp
 layout: stiri
 date: 2023-06-22
-date-modified: 
+date-modified: 2023-06-25 
 categorie: MANUKA
 tags: ['Miere', 'Manuka', 'H: Pylory']
 nume: "ce boli vindeca mierea de manuka"
@@ -490,7 +490,7 @@ Mierea de Manuka poate fi folosită împotriva efectelor adverse ale altor trata
 
 Mierea de Manuka este un produs natural cu proprietăți și beneficii remarcabile, care ajută la tratarea infecțiilor bacteriene, susține sănătatea intestinale și **combate problemele dermatologice**. De asemenea, previne placa dentară și contribuie la gestionarea fibrozei chistice. În plus, mierea de Manuka accelerează vindecarea rănilor și ulcerațiilor și poate fi utilizată în rețete alimentare.
 
-Semnificația UMF (Unique Manuka Factor) indică puterea antibacteriană a mierii de Manuka. Cu toate acestea, este important să fim conștienți de contraindicații și efecte adverse posibile înainte de a utiliza acest produs.
+Semnificația UMF (Unique Manuka Factor) indică puterea antibacteriană a mierii de Manuka. Cu toate acestea, este important să fim conștienți de **[contraindicații și efecte adverse](https://totredus.ro/miere-manuka-contraindicatii/)** posibile înainte de a utiliza acest produs.
 
 Acum că ați văzut ce boli vindeca mierea de manuka puteți începe să o utilizați pentru a vă îmbunătăți sănătatea generală și nu uitați să verificați **eticheta UMF** pentru a vă asigura că obțineți cea mai bună calitate!
 

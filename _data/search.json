@@ -12,7 +12,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -27,7 +27,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -42,7 +42,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -57,7 +57,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -72,7 +72,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -87,7 +87,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -102,7 +102,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -117,7 +117,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -132,7 +132,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -147,7 +147,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -162,7 +162,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -177,7 +177,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -192,7 +192,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -207,7 +207,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -222,7 +222,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -237,7 +237,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -252,7 +252,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -267,7 +267,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -282,7 +282,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -297,7 +297,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -312,7 +312,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -327,7 +327,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } ,
   
     {
@@ -342,7 +342,7 @@
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
-			"type"     : "travel",
+			"type"     : "travel"
     } 
   
 	,
@@ -1004,6 +1004,20 @@
 	    "image"     : "/assets/images/manuka/boli/colectare-manuka.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperiți ce boli vindeca mierea de manuka în acest articol captivant. Cu efecte uimitoare, Mierea de manuka provine din nectarul arborelui de manuka...",
+			"cat"    : "SANATATE",
+      "subcat" : "MANUKA",
+      "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Miere de Manuka: Contraindicatii, Avantaje și  Riscuri",
+      "category" : "MANUKA",
+      "tags"     : "Miere, Manuka, Contraindicatii",
+      "url"      : "/miere-manuka-contraindicatii/",
+      "date"     : "2023-06-25 00:00:00 +0300",
+	    "image"     : "/assets/images/manuka/contraindicatii/miere-manuka-contraindicatii.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Mierea de Manuka: contraindicații și efecte adverse. Descoperă proprietățile sale medicinale și precauțiile necesare. Află mai multe despre utilizarea responsabilă a mierei de Manuka.",
 			"cat"    : "SANATATE",
       "subcat" : "MANUKA",
       "subcat1"     : ""
