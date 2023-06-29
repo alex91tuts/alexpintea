@@ -87,6 +87,10 @@ Acest lucru poate duce la complicații medicale și afectarea controlului bolii.
 
 **Consumul moderat poate fi tolerat, dar monitorizarea atentă este necesară**
 
+<div class="custom-link" markdown="1">
+📝**[Totul Despre Mierea de Manuka](https://totredus.ro/miere-de-manuka-ce-este/)**
+</div>
+
 Cu toate că mierea de Manuka poate afecta nivelurile glicemiei la persoanele cu diabet zaharat tip 2, consumul moderat și controlat poate fi tolerat în anumite cazuri.
 
 Este important ca pacienții să-și monitorizeze atent nivelurile glicemiei după consumul de miere de Manuka și să discute cu medicul lor despre cantitatea adecvată pe care o pot consuma.

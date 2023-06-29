@@ -44,6 +44,11 @@ Mierea de manuka poate avea efecte benefice asupra următoarelor afecțiuni:
 
 *   Inflamațiilor și durerilor articulare.
 
+
+<div class="custom-link" markdown="1">
+📝**[Totul Despre Mierea de Manuka](https://totredus.ro/miere-de-manuka-ce-este/)**
+</div>
+
 ## Introducere: mierea de Manuka
 
 <span class="drop-caps">T</span>e-ai întrebat vreodată **ce boli vindecă mierea de manuka?** Această minune adusă din cele mai îndepărtate colțuri ale lumii, Noua Zeelandă și Australia, a câștigat popularitate în întreaga lume datorită proprietăților sale remarcabile. 

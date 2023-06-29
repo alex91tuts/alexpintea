@@ -1021,6 +1021,20 @@
 			"cat"    : "SANATATE",
       "subcat" : "MANUKA",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Mierea de Manuka: Un Elixir Pentru Sănătate",
+      "category" : "MANUKA",
+      "tags"     : "Miere, Manuka, Ce este?",
+      "url"      : "/miere-de-manuka-ce-este/",
+      "date"     : "2023-06-29 00:00:00 +0300",
+	    "image"     : "/assets/images/manuka/beneficii/albina-arbore-manuka.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Mierea de Manuka: un produs natural unic cu proprietăți antibacteriene puternice. Înfrânge sporii bacterieni și sprijină sistemul imunitar. Descoperă beneficiile acestui super-aliment.",
+			"cat"    : "SANATATE",
+      "subcat" : "MANUKA",
+      "subcat1"     : ""
     } 
   
 	,

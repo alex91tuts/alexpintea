@@ -1,12 +1,11 @@
 <div class="card-wrapper col-lg-6">
 	<div class="for-style">
 	<div class="imagine-post" style="background-image: url({{ post.image }})">
-	<span class="author-post">✒️ {{ post.author }}</span>
 	</div>
 	<div class="footer-post">
-		<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+		<h2>{{ post.title }}</h2>
 		<p>{{ post.description }}</p>
-		<span class="data-post">📅 {{ post.date | date: "%b %d, %Y" }}</span>
+		<a href="{{ post.url }}"><button>Citeste</button></a>
 	</div>
 	</div>
 </div>

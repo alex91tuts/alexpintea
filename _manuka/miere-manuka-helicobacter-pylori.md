@@ -34,6 +34,10 @@ subcat: "MANUKA"
 
 *   **Tratament natural și sigur**: mierea de Manuka este o alternativă naturală la tratamentele medicamentoase, fără efecte secundare nocive
 
+<div class="custom-link" markdown="1">
+📝**[Totul Despre Mierea de Manuka](https://totredus.ro/miere-de-manuka-ce-este/)**
+</div>
+
 ## Importanța tratamentului naturist pentru infecția cu Helicobacter Pylori
 
 Te-ai gândit vreodată că un remediu natural precum **mierea de manuka** ar putea fi soluția pentru a combate o problemă atât de răspândită precum infecția cu Helicobacter pylori? Această bacterie, responsabilă pentru numeroase afecțiuni ale tractului digestiv, a devenit din ce în ce mai rezistentă la antibioticele convenționale. Astfel, nevoia de alternative naturale eficiente a crescut considerabil.
