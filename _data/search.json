@@ -356,7 +356,7 @@
 	    "image"     : "/assets/images/stiri/s10lite-note10lite/main.webp",
 			"author"    : "Radu",
 	    "description"     : "Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020.",
-			"cat"    : "",
+			"cat"    : "SMARTPHONE",
       "subcat" : "",
       "subcat1"     : ""
     } ,
@@ -370,7 +370,7 @@
 	    "image"     : "/assets/images/stiri/nokiac22c32/main.webp",
 			"author"    : "Radu",
 	    "description"     : "Nokia anunță că cele două terminale nou adugate în seria C vor avea o autonomie a bateriei de 3 zile",
-			"cat"    : "",
+			"cat"    : "SMARTPHONE",
       "subcat" : "",
       "subcat1"     : ""
     } ,
@@ -426,8 +426,8 @@
 	    "image"     : "/assets/images/stiri/independentafinanciara/main.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit",
-			"cat"    : "",
-      "subcat" : "",
+			"cat"    : "FINANCIAR",
+      "subcat" : "EDUCATIE",
       "subcat1"     : ""
     } ,
   

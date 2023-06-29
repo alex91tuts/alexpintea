@@ -24,7 +24,7 @@
 	<hr>
 		{% assign cat = site.data.search | map: 'cat' | uniq %}
 		{% for item in cat reversed %}
-		<a href="{{ site.url }}/{{ item | replace: ' ', '-' | downcase }}/" style="color: black;">
+		<a href="{{ site.url }}/{{ item | replace: ' ', '-' | downcase }}/" style="color: black;" aria-label="Link catre categoria {{ item }}">
 			{{ item }}
 		<hr style="border: 0;">
 		</a>
