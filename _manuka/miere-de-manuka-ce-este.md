@@ -1,6 +1,6 @@
 ---
 title: 'Mierea de Manuka: Un Elixir Pentru Sănătate'
-image_path: manuka/beneficii/albina-arbore-manuka.webp
+image_path: manuka/contraindicatii/main-mierea-de-manuka.webp
 layout: stiri
 date: 2023-06-29
 date-modified: 2023-06-29

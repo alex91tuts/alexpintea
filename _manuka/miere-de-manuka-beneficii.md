@@ -22,7 +22,10 @@ Te-ai întrebat vreodată de ce este **mierea de manuka** atât de specială? Ac
 
 Datorită proprietăților sale impresionante, mierea de manuka a fost folosită în medicina tradițională încă din cele mai vechi timpuri.
 
-Citește și: **[Ce Boli Vindeca Mierea De Manuka](https://totredus.ro/ce-boli-vindeca-mierea-de-manuka/)**
+{% include link.html 
+anchor="Ce Boli Vindeca Mierea De Manuka?"
+link="https://totredus.ro/ce-boli-vindeca-mierea-de-manuka/"
+%}
 
 ---
 ## Beneficiile mierii de manuka sunt:
@@ -45,9 +48,10 @@ Citește și: **[Ce Boli Vindeca Mierea De Manuka](https://totredus.ro/ce-boli-v
 
 Amintiți-vă că, deși mierea de Manuka are multe beneficii pentru sănătate, ar trebui folosită ca parte a unei diete echilibrate și nu ca substitut pentru tratamentul medical prescris.
 
-<div class="custom-link" markdown="1">
-📝**[Totul Despre Mierea de Manuka](https://totredus.ro/miere-de-manuka-ce-este/)**
-</div>
+{% include link.html 
+anchor="Tot Ce Trebuie Să Știi Despre Mierea de Manuka"
+link="https://totredus.ro/miere-de-manuka-ce-este/"
+%}
 
 Înainte de administrarea mierii, este important să verificăm compoziția acesteia pe ambalajele produselor. Astfel, ne asigurăm că beneficiem din plin de toate calitatile acestui aliment minunat. În paragraful urmator vom explora câteva dintre proprietatile si avantajele consumului regulat al mierii de manuka. Așadar, pregateste-te sa descoperi un remediu natural cu efecte uimitoare asupra sănătății tale!
 
@@ -218,7 +222,10 @@ Totuși, este important de reținut că mierea, indiferent de tipul acesteia, nu
 
 Înainte de a introduce mierea de Manuka în dieta copilului tău, este important să discuți cu medicul pediatru. Deși **mierea de Manuka** este un produs natural, anumite persoane pot avea alergii la miere sau pot necesita doze specifice în funcție de vârstă și starea de sănătate.
 
-Citește și: **[Miere de manuka: contraindicatii](https://totredus.ro/miere-manuka-contraindicatii/)**
+{% include link.html 
+anchor="Miere de manuka: contraindicatii"
+link="https://totredus.ro/miere-manuka-contraindicatii/"
+%}
 
 ---  
 ## Întrebări frecvente despre beneficiile mierii de Manuka

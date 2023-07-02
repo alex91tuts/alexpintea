@@ -343,6 +343,21 @@
       "subcat" : "",
       "subcat1"     : "",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Locuri ciudate de vizitat în București: Descoperă misterele acestui oraș minunat",
+      "category" : "ROMÂNIA",
+      "tags"     : "București, Mistere, Ciudate",
+      "url"      : "/travel/locuri-ciudate-de-vizitat-in-bucuresti/",
+      "date"     : "2023-07-02 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/ciudate/locuri-ciudate-bucuresti.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Explorează lumea nevăzută a Bucureștiului, locuri învăluite în mister și legendă. De la Palatul Telefoanelor la Balta Vrăjitoarelor, descoperă cele mai ciudate locuri ale orașului.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
     } 
   
 	,
@@ -356,7 +371,7 @@
 	    "image"     : "/assets/images/stiri/s10lite-note10lite/main.webp",
 			"author"    : "Radu",
 	    "description"     : "Galaxy S10 Lite și Galaxy Note 10 Lite anunțate de către cei de la Samsung înaintea CES 2020.",
-			"cat"    : "SMARTPHONE",
+			"cat"    : "",
       "subcat" : "",
       "subcat1"     : ""
     } ,
@@ -370,7 +385,7 @@
 	    "image"     : "/assets/images/stiri/nokiac22c32/main.webp",
 			"author"    : "Radu",
 	    "description"     : "Nokia anunță că cele două terminale nou adugate în seria C vor avea o autonomie a bateriei de 3 zile",
-			"cat"    : "SMARTPHONE",
+			"cat"    : "",
       "subcat" : "",
       "subcat1"     : ""
     } ,
@@ -426,8 +441,8 @@
 	    "image"     : "/assets/images/stiri/independentafinanciara/main.webp",
 			"author"    : "Happy Money",
 	    "description"     : "Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit",
-			"cat"    : "FINANCIAR",
-      "subcat" : "EDUCATIE",
+			"cat"    : "",
+      "subcat" : "",
       "subcat1"     : ""
     } ,
   
@@ -1029,7 +1044,7 @@
       "tags"     : "Miere, Manuka, Ce este?",
       "url"      : "/miere-de-manuka-ce-este/",
       "date"     : "2023-06-29 00:00:00 +0300",
-	    "image"     : "/assets/images/manuka/beneficii/albina-arbore-manuka.webp",
+	    "image"     : "/assets/images/manuka/contraindicatii/main-mierea-de-manuka.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Mierea de Manuka: un produs natural unic cu proprietăți antibacteriene puternice. Înfrânge sporii bacterieni și sprijină sistemul imunitar. Descoperă beneficiile acestui super-aliment.",
 			"cat"    : "SANATATE",

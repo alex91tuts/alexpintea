@@ -37,7 +37,10 @@ Iar dacă ești pofticios sau dornic să descoperi bucătăria locală, nu vei f
 
 De asemenea, transportul accesibil face ca explorarea Bucureștiului să fie o experiență plăcută și ușoară pentru toată lumea. Așadar, e timpul să te pregătești pentru aventura ta în București!
 
-**Citește și: [Ce să faci în București în weekend?](https://totredus.ro/travel/bucuresti-in-weekend/)**
+{% include link.html 
+anchor="Ce să faci în București în weekend?"
+link="https://totredus.ro/travel/bucuresti-in-weekend/"
+%}
 
 ## Palatul Parlamentului Bucuresti: Impunător și controversat
 
@@ -132,7 +135,10 @@ Această colecție este un prilej excelent pentru a descoperi arta contemporană
 
 În concluzie, Arcul de Triumf din București este un loc emblematic ce merită vizitat atât de turiști cât și de localnici. Acest monument istoric reprezintă simbolul victoriei și independenței României, iar basoreliefurile sale impresionante împreună cu colecția valoroasă de artă contemporană românească fac din el o atracție turistică deosebită în capitala României.
 
-**Citește și: [Ce să faci în București noaptea?](https://totredus.ro/travel/bucuresti-noaptea/)**
+{% include link.html 
+anchor="Ce să faci în București noaptea?"
+link="https://totredus.ro/travel/bucuresti-noaptea/"
+%}
 
 ## Centrul Istoric București: O călătorie în timp prin arhitectură și istorie
 
@@ -294,6 +300,11 @@ Ambele muzee organizează periodic evenimente și ateliere pentru a promova meș
 
 Cu siguranță veți fi fascinați de atmosfera regală ce se regăsește în fiecare colțișor al acestui loc.
 
+{% include link.html 
+anchor="Locuri Ciudate de Vizitat în București"
+link="https://totredus.ro/travel/locuri-ciudate-de-vizitat-in-bucuresti/#concluzie-bucureștiul-ascunde-locuri-fascinante"
+%}
+
 ### Muzeul Național Cotroceni, o incursiune în istoria României
 
 Aflat în incinta Palatului Cotroceni, **Muzeul Național Cotroceni** oferă vizitatorilor posibilitatea de a descoperi istoria locului și colecții de artă românească și europeană. Aici puteți admira:
@@ -338,7 +349,10 @@ Pe lângă numeroasele specii de plante, grădina oferă și diverse facilităț
 
 Pe parcursul anului, Grădina Botanică "Dimitrie Brândză" organizează diferite evenimente și expoziții tematice, care atrag numeroși vizitatori interesați să descopere frumusețea plantelor și să se relaxeze într-un mediu natural.
 
-**Vezi si:[Top 15 locuri de vizitat lângă București](https://totredus.ro/travel/locuri-vizitat-langa-bucuresti/)**
+{% include link.html 
+anchor="Top 15 locuri de vizitat lângă București"
+link="https://totredus.ro/travel/locuri-vizitat-langa-bucuresti/"
+%}
 
 ## Calea Victoriei și Palatul Universul: Cartierul Creativ al orașului
 
