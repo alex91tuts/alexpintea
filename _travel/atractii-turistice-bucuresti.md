@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Locuri de vizitat în București: 30 Atracții Uimitoare pentru 2023"
+title: "Locuri de vizitat în București: 30 Atracții Uimitoare pentru Iulie 2023"
 descriere: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi.  
 description: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi. 
 meta_image: assets/images/travel/bucuresti/main.webp 
@@ -13,7 +13,7 @@ oras: BUCUREȘTI
 lang: ro_RO
 keyword: "ce sa faci in bucuresti"
 date: 21.03.2023
-date-modified: 2023-06-05
+date-modified: 2023-07-02
 tags: ['București', 'capitale', 'atractii']
 video: "yes"
 video_thumb: "/assets/images/travel/bucuresti/video_primaverii.webp"
@@ -25,9 +25,11 @@ video_url: "https://www.youtube.com/embed/02JjC1LCP5g"
 ---
 
 
-## Introducere: Top locuri de vizitat în București
+## Introducere: Top locuri de vizitat în București in Iulie 2023
 
-București, capitala României și un oraș plin de istorie și cultură, te-a atras ca turist? Ești curios să afli care sunt cele mai interesante locuri de vizitat în acest oraș vibrant? Ai nimerit bine! În acest articol, îți vom prezenta o selecție a celor mai fascinante **atracții turistice** din inima României.
+București, capitala României și un oraș plin de istorie și cultură, te-a atras ca turist? Ești curios să afli care sunt cele mai interesante locuri de vizitat în acest oraș vibrant?
+
+Ai nimerit bine! În acest articol, îți vom prezenta o selecție a celor mai fascinante **atracții turistice** din inima României.
 
 Diversitatea atracțiilor este uimitoare - aici vei găsi totul, de la [monumente istorice](https://totredus.ro/travel/locuri-istorice-bucuresti/) și muzee până la parcuri și grădini. Orașul se remarcă prin arhitectura sa unică, combinând stilurile vechi și noi pentru a-și spune povestea evoluției sale de-a lungul timpului.
 
