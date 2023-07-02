@@ -86,6 +86,11 @@ O vizită la vulcanii noroioși poate fi combinată cu alte locuri de interes di
 
 În concluzie, vulcanii noroioși reprezintă o atracție naturală unică, care merită să fie vizitată de către toți cei care doresc să descopere locuri inedite și spectaculoase în apropierea Bucureștiului. Combinând această vizită cu alte obiective turistice din zonă, vei avea parte de o experiență completă și memorabilă.
 
+{% include link.html 
+anchor="Peșteri Lângă București"
+link="https://totredus.ro/travel/pesteri-langa-bucuresti/"
+%}
+
 ---
 ## Pădurea și lacul Snagov: Destinație pentru relaxare în natură
 

@@ -91,7 +91,7 @@
     } ,
   
     {
-      "title"    : "Locuri de vizitat în București: 30 Atracții Uimitoare pentru 2023",
+      "title"    : "Locuri de vizitat în București: 30 Atracții Uimitoare pentru Iulie 2023",
       "category" : "ROMÂNIA",
       "tags"     : "București, capitale, atractii",
       "url"      : "/travel/atractii-turistice-bucuresti/",
@@ -346,6 +346,21 @@
     } ,
   
     {
+      "title"    : "Top Cascade lângă București - Exploreaza spectacolul naturii",
+      "category" : "ROMÂNIA",
+      "tags"     : "București, Cascade, Natura",
+      "url"      : "/travel/cascade-langa-bucuresti/",
+      "date"     : "2023-07-01 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/cascade-bucuresti/cascade-langa-bucuresti.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperiți cele mai frumoase cascade lângă București pentru o escapadă în natură. Experimentați frumusețea neatinse a Cascadei Caraiman, Urlătoarea și altele.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
+    } ,
+  
+    {
       "title"    : "Locuri ciudate de vizitat în București: Descoperă misterele acestui oraș minunat",
       "category" : "ROMÂNIA",
       "tags"     : "București, Mistere, Ciudate",
@@ -354,6 +369,21 @@
 	    "image"     : "/assets/images/travel/ciudate/locuri-ciudate-bucuresti.webp",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "Explorează lumea nevăzută a Bucureștiului, locuri învăluite în mister și legendă. De la Palatul Telefoanelor la Balta Vrăjitoarelor, descoperă cele mai ciudate locuri ale orașului.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Peșteri Lângă București - Descoperă și Vizitează Frumusețea din Adâncuri",
+      "category" : "ROMÂNIA",
+      "tags"     : "București, Pesteri, Natura",
+      "url"      : "/travel/pesteri-langa-bucuresti/",
+      "date"     : "2023-07-02 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/pesteri-bucuresti/pesteri-langa-bucuresti.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperiți frumusețea naturală și istorică a peșterilor de lângă București. Un ghid complet pentru a vă ajuta să planificați excursii memorabile și să vă bucurați de minunile ascunse ale naturii",
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
