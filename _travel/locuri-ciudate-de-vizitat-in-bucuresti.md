@@ -3,7 +3,7 @@ layout: travel
 title: "Locuri ciudate de vizitat în București: Descoperă misterele acestui oraș minunat"
 descriere: "Explorează lumea nevăzută a Bucureștiului, locuri învăluite în mister și legendă. De la Palatul Telefoanelor la Balta Vrăjitoarelor, descoperă cele mai ciudate locuri ale orașului."  
 description: "Explorează lumea nevăzută a Bucureștiului, locuri învăluite în mister și legendă. De la Palatul Telefoanelor la Balta Vrăjitoarelor, descoperă cele mai ciudate locuri ale orașului." 
-meta_image: assets/images/travel/noaptea/main.webp 
+meta_image: assets/images/travel/ciudate/locuri-ciudate-bucuresti.webp 
 image: /assets/images/travel/ciudate/locuri-ciudate-bucuresti.webp
 author: "Fabrica de amintiri"
 author-link: "fabrica-de-amintiri"

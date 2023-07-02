@@ -13,7 +13,7 @@ categorie: CITY BREAK
 lang: ro_RO
 keyword: "locuri de vizitat langa bucuresti"
 date: 2023-06-04
-date-modified: 2023-06-12
+date-modified: 2023-07-02
 tags: ['București', 'Locuri de vizitat', 'Apropiere']
 
 ---
@@ -33,6 +33,11 @@ Pe lângă importanța istorică și culturală pe care o reprezintă aceste loc
 Și cum am putea vorbi despre călătorii fără să menționăm deliciile culinare locale? Fiecare dintre aceste destinații îți oferă posibilitatea să deguști preparate tradiționale românești care îți vor face papilele gustative să danseze!
 
 Așadar, dacă te întrebi ce locuri de vizitat lângă București merită să fie incluse în planurile tale, rămâi cu noi! În acest articol, îți vom prezenta un top al celor mai frumoase și interesante destinații din apropierea capitalei. Să pornim la drum!
+
+{% include link.html 
+anchor="Cascade Langă București"
+link="https://totredus.ro/travel/cascade-langa-bucuresti/"
+%}
 
 ---
 ## Vulcanii noroioși: Atracție naturală unică
