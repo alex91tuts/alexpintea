@@ -82,6 +82,11 @@ Cascada Pruncea este, în esență, un simbol al forței și vitalității natur
 
 Nu există o modalitate mai bună de a-ți petrece ziua decât înconjurat de sunetul apei și de frumusețea pură a naturii.
 
+{% include link.html 
+anchor="Care Sunt Cele Mai Frumoase Peșteri Lângă București?"
+link="https://totredus.ro/travel/pesteri-langa-bucuresti/"
+%}
+
 ---
 ## Cascada Caraiman: Frumusețea Ascunsă
 
