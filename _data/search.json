@@ -388,6 +388,21 @@
       "subcat" : "",
       "subcat1"     : "",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Top Locuri de Relaxare lângă București - Evadare din Agitația Orașului",
+      "category" : "ROMÂNIA",
+      "tags"     : "București, Relaxare, Natura",
+      "url"      : "/travel/locuri-relaxare-langa-bucuresti/",
+      "date"     : "2023-07-03 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/relaxare/locuri-de-relaxare-langa-bucuresti.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperă cele mai frumoase locuri de relaxare lângă București. De la parcuri pitorești și spa-uri liniștite, până la escapade în natură - tot ce ai nevoie pentru o pauză bine meritată.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
     } 
   
 	,

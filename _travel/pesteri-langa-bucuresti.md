@@ -156,6 +156,11 @@ Peștera Comarnic este situată la o distanță de aproximativ 120km de Bucureș
 
 Descoperirea Peșterii Comarnic este o experiență fascinantă, o călătorie în inima pământului, unde fiecare pas este o nouă descoperire și unde frumusețea naturii se dezvăluie în cele mai surprinzătoare forme.
 
+{% include link.html 
+anchor="Locuri De Relaxare Aproape de Bucuresti"
+link="https://totredus.ro/travel/locuri-relaxare-langa-bucuresti/"
+%}
+
 ---
 ## Sfaturi esențiale pentru explorarea lumii subterane
 

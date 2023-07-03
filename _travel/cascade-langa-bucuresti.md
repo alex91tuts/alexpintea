@@ -131,6 +131,11 @@ Sunetul apei curgătoare și strălucirea ei sub razele soarelui creează un tab
 
 Peisajul este completat de liniștea ce învăluie întreaga zonă, transformând vizita la Cascada Șușara într-o experiență cu adevărat relaxantă.
 
+{% include link.html 
+anchor="Locuri De Relaxare Langa Bucuresti"
+link="https://totredus.ro/travel/locuri-relaxare-langa-bucuresti/"
+%}
+
 ---
 ## Spectacolul Naturii: Cascada de la Moara Dracilor
 

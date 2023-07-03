@@ -167,6 +167,11 @@ Rezervația naturală Delta Neajlovului este recunoscută pentru diversitatea sa
 
 Acest paradis natural este o destinație perfectă pentru observarea vieții sălbatice și pentru a te bucura de frumusețea naturii în toată splendoarea ei.
 
+{% include link.html 
+anchor="Locuri De Relaxare Lângă București"
+link="https://totredus.ro/travel/locuri-relaxare-langa-bucuresti/"
+%}
+
 ### Activități recreative în Parcul Natural Comana
 
 Vizitatorii parcului pot participa la diverse activități în aer liber, care le vor permite să descopere frumusețile Deltei Neajlovului și ale Parcului Natural Comana:

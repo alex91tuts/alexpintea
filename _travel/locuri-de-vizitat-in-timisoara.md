@@ -18,7 +18,7 @@ tags: ['Timisoara', 'Locuri', 'Banatul Montan']
 
 ---
 
-Timișoara, orașul care îmbină istoria, cultura și modernitatea într-un mix arhitectural unic. Situat în vestul României, acest oraș multicultural și istoric este cunoscut drept Capitala Banatului. Cu o bogată istorie și numeroase obiective turistice de vizitat, nu e de mirare că Timișoara a devinit **Capitala Europeană a Culturii în 2023.**
+Timișoara, orașul care îmbină istoria, cultura și modernitatea într-un mix arhitectural unic. Situat în vestul României, acest oraș multicultural și istoric este cunoscut drept Capitala Banatului. Cu o bogată istorie și numeroase obiective turistice de vizitat, nu e de mirare că Timișoara a devenit **Capitala Europeană a Culturii în 2023.**
 
 Timișoara se mândrește cu titlul de primul oraș european cu iluminat public electric, un semn al progresului și inovației care continuă să marcheze evoluția sa. Orașul a jucat un rol crucial în evenimentele recente ale României fiind fosta capitală a Revoluției Române din 1989. Astfel, vizitatorii pot descoperi povești fascinante despre lupta pentru libertate și democrație.
 
