@@ -29,6 +29,11 @@ Orașul oferă o mulțime de activități și atracții interesante de explorat 
 
 Există ceva pentru toată lumea în București, de la viața de noapte vibrantă și bucătăria tradițională românească până la monumente istorice și arhitectură unică.
 
+{% include link.html 
+anchor="Ce Să Faci În București? Ghid Complet Pentru Turiști și Localnici"
+link="https://totredus.ro/travel/ce-sa-faci-in-bucuresti/"
+%}
+
 ## Ce să faci în București în weekend
 ---
 

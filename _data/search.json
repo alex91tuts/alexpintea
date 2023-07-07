@@ -403,6 +403,21 @@
       "subcat" : "",
       "subcat1"     : "",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Ce Să Faci În București? Ghid Complet Pentru Turiști și Localnici",
+      "category" : "ROMÂNIA",
+      "tags"     : "București, Ce sa faci?, Activități",
+      "url"      : "/travel/ce-sa-faci-in-bucuresti/",
+      "date"     : "2023-07-07 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/cefacibuc/ce-sa-faci-in-bucuresti.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperă CE SĂ FACI ÎN BUCUREȘTI - un oraș vibrant cu istorie bogată, parcuri frumoase, mâncare delicioasă și multă cultură. Explorare, relaxare și distracție te așteaptă aici!",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
     } 
   
 	,

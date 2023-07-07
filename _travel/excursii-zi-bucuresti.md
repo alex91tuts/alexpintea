@@ -48,6 +48,11 @@ Explorează cele mai diverse și exotice specii de plante, plimbă-te pe aleile 
 
 Nu rata ocazia de a vizita și serele, unde vei găsi colecții impresionante de orhidee, cactuși și alte plante tropicale.
 
+{% include link.html 
+anchor="Ce Să Faci În București? Ghid Complet Pentru Turiști și Localnici"
+link="https://totredus.ro/travel/ce-sa-faci-in-bucuresti/"
+%}
+
 ---
 ## Palatul Parlamentului
 

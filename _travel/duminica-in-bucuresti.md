@@ -34,6 +34,11 @@ Parcul Carol: Amplasat în apropiere de Piața Unirii, Parcul Carol oferă o com
 
 Parcul Tineretului: Acest parc generos, situat în sudul Bucureștiului, este un loc favorit pentru familiile cu copii, sportivi și iubitorii de natură. Parcul dispune de locuri de joacă pentru copii, terenuri de sport, piste pentru bicicliști și chiar un parc de aventură cu trasee și obstacole pentru cei mai curajoși.
 
+{% include link.html 
+anchor="Ce Să Faci În București? Ghid Complet Pentru Turiști și Localnici"
+link="https://totredus.ro/travel/ce-sa-faci-in-bucuresti/"
+%}
+
 Indiferent de parc, ai ocazia să te bucuri de frumusețea naturii și să te relaxezi pe iarba verde, citind o carte, făcând un picnic sau pur și simplu admirând peisajele și trăind clipe de liniște în mijlocul orașului.
 
 ---
