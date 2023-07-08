@@ -418,6 +418,21 @@
       "subcat" : "",
       "subcat1"     : "",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Ce sa faci în București cu copiii - Cele mai populare activități",
+      "category" : "ROMÂNIA",
+      "tags"     : "București, Ce sa faci?, Copii",
+      "url"      : "/travel/ce-sa-faci-in-bucuresti-cu-copiii/",
+      "date"     : "2023-07-08 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/copii/ce-sa-faci-in-bucuresti-cu-copiii.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperă cele mai atractive activități pentru copii în București. De la parcuri și muzee, la locuri de joacă indoor și evenimente culturale, aventura începe aici!",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
     } 
   
 	,
