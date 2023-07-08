@@ -80,6 +80,11 @@ Dacă ești pasionat de natură și animale, acest muzeu este locul ideal pentru
 
 Biserica a fost construită în secolul al XVIII-lea și este dedicată Sfintei Cuvioase Parascheva. Este unul dintre cele mai importante monumente istorice și culturale ale capitalei României.
 
+{% include link.html 
+anchor="Ce Să Faci În București Cu Copiii? Activități Populare și Distractive"
+link="https://totredus.ro/travel/ce-sa-faci-in-bucuresti-cu-copiii/"
+%}
+
 ---
 ## Explorează parcurile
 

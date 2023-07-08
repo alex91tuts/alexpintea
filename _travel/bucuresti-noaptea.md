@@ -110,6 +110,11 @@ Printre acestea se numără Linea / Closer to the Moon, un rooftop bar cu o priv
 
 Indiferent de stilul de petrecere pe care îl preferi, Bucureștiul are o ofertă variată de cluburi și baruri, gata să te întâmpine cu muzică, dans și distracție de neuitat.
 
+{% include link.html 
+anchor="Ce Să Faci În București Cu Copiii? Activități Populare și Distractive"
+link="https://totredus.ro/travel/ce-sa-faci-in-bucuresti-cu-copiii/"
+%}
+
 ---
 ## Plimbare nocturnă în Parcul Herăstrău
 

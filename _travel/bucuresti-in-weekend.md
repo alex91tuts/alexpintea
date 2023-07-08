@@ -74,7 +74,6 @@ Odată cu creșterea serviciilor de streaming, poate fi ușor să uiți de puter
 
 Iată câteva dintre motivele pentru care ar trebui să-ți faci timp pentru muzică live în viața ta:
 
-
 <img src="/assets/images/travel/weekendbuc/3.webp" width="740" height="439" loading="lazy" alt="{{ page.keyword }}">
 
 
@@ -113,7 +112,10 @@ Când vine vorba de mâncare în oraș, Bucureștiul nu duce lipsă de restauran
 
 4. **Bistro Gușterița:** Fondat de doi prieteni pasionați de gătit mâncăruri tradiționale românești folosind doar ingrediente naturale, acest bistro este absolut uimitor! Meniul prezinta preparate clasice precum ardei umpluti sau mamaliga cu branza dar si cateva surprize precum inghetata de macaroon sau chiar caracatita la gratar! În plus, selecția lor de beri artizanale locale îl face un loc ideal și pentru băuturi după muncă!
 
-
+{% include link.html 
+anchor="Ce Să Faci În București Cu Copiii? Activități Populare și Distractive"
+link="https://totredus.ro/travel/ce-sa-faci-in-bucuresti-cu-copiii/"
+%}
 
 ### Participați la un eveniment: 
 

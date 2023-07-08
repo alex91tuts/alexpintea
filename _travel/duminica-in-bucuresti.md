@@ -99,6 +99,11 @@ Muzeul Național al Satului "Dimitrie Gusti" este un muzeu în aer liber situat 
 
 Pe lângă aceste muzee, Bucureștiul are multe alte instituții culturale care merită vizitate, precum Muzeul Național de Istorie a României, Muzeul George Enescu sau Muzeul de Artă Contemporană. Fiecare dintre ele îți oferă o oportunitate unică de a explora aspecte diferite ale culturii și istoriei românești într-un cadru plăcut și educativ.
 
+{% include link.html 
+anchor="Ce Să Faci În București Cu Copiii? Activități Populare și Distractive"
+link="https://totredus.ro/travel/ce-sa-faci-in-bucuresti-cu-copiii/"
+%}
+
 
 ---
 ## Mergi la brunch
