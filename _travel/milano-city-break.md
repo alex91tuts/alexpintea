@@ -19,6 +19,11 @@ tags: ['Milano', 'CityBreak', '2023']
 
 În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele. 
 
+{% include cta-cazare.html 
+locatie="MILANO"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FMilan%2CLombardy%2CItaly-c53596%2F1rooms%2F2adults"
+%}
+
 **Pe scurt, ce poți face în 3 zile în Milano:**
 
 **Ziua 1:**
@@ -75,6 +80,11 @@ Continuă-ți turul orașului cu o vizită la Teatro alla Scala, una dintre cele
 După o zi plină de explorări, merită să te relaxezi în zona Navigli, un cartier plin de canale, baruri și restaurante. 
 
 Aici vei putea savura faimosul aperitivo milanez, o tradiție culinară care combină băuturile cu bufetul de antipasti. 
+
+{% include cta-cazare.html 
+locatie="MILANO"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FMilan%2CLombardy%2CItaly-c53596%2F1rooms%2F2adults"
+%}
 
 Este o modalitate perfectă de a te bucura de atmosfera locală și de a socializa cu localnicii și alți turiști.
 
@@ -157,6 +167,11 @@ Dacă preferi să explorezi orașul pe două roți, Milano oferă un sistem de �
 Poți închiria o bicicletă de la una dintre numeroasele stații BikeMi, folosind un card de credit sau un abonament preplătit. 
 
 Este o modalitate excelentă de a te bucura de peisajul urban și de a face mișcare în același timp.
+
+{% include cta-cazare.html 
+locatie="MILANO"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FMilan%2CLombardy%2CItaly-c53596%2F1rooms%2F2adults"
+%}
 
 ### Taxiuri și servicii de ridesharing
 Dacă dorești un mijloc de transport mai confortabil și personalizat, poți opta pentru taxiuri sau servicii de ridesharing precum Uber. 

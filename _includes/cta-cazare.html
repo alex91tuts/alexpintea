@@ -1,423 +1,75 @@
-<div><span class="titlu-flight">Calendar zboruri<span class="text-megna">.</span></span></div>
+<div class="row chenar">
+	<div class="col-lg-2 col-2 cont-emoji" style="border-right: 1px solid white;"><span class="emoji-cazare">🏨</span></div>
+	<div class="col-lg-6 col-10"><span class="loc">ALEGE CAZARE</span><span class="locatie">{{include.locatie}}</span></div>
 
-
-<div class="footer-flight calendar col-12" style="margin-bottom: 20px;">
-	<img src="/assets/images/calendar.webp" alt="calendar zboruri" width="708" height="312">
-	<img src="/assets/images/svg/plane.svg" height="15px" width="15px" alt="plane" style="margin-right: 10px;" >
-	<span style="margin-bottom: 15px;">Un calendar în care poți vedea care este cel mai ieftin zbor din lună spre destinația aleasa de tine</span>
-	<div class=""><a href="/calculator/calendar-zboruri/" target="_blank"><button>DESCHIDE</button></a></div>
+	<a href="{{ include.link }}"  rel="nofollow" class="a-cta"><div class="cta">VEZI OFERTE</div></a>
+	
 </div>
-
-
-<div class="card-wrapper col-lg-12 col-12" style="margin-top: 50px; margin-bottom: 30px;">
-	<div class="for-style row">
-	<div class="imagine-lat col-6" style="background-image: url(/assets/images/hotel.webp)">
-		<span class="categtop">★★★★★</span>
-		<div class="top-nota"><span class="top-caps"><img src="/assets/images/svg/house.svg" width="25" height="25" alt="icon cazare"></span></div>
-	</div>
-	<div class="footer-post col-6">
-		<p class="">Vezi cele mai bune oferte de cazare</p>
-		<div class=""><a href="https://booking.tp.st/WoUKpQle" target="_blank"><button>VEZI PREȚURI</button></a></div>
-	</div>
-	</div>
-</div>
-
 
 <style>
-	@media only screen and (max-width: 600px) {
-		.disclaimer {
-			position: absolute;
-			position: absolute;
-      font-size: 10px;
-      right: 0;
-			font-style: italic;
-		}
-		.calendar-p {
-			font-size: 26px !important;
-		}
-		.hotel-n {
-			line-height: 1 !important;
-		}
-		.toate-cazarile {
-			font-size: 14px;
-		}
-		.align {
-			text-align: center;
-		}
-		.cazare {
-			padding-bottom: 25px !important;
-		}
-		.nopti {
-		top: 82px !important;
-    left: 109px !important;
-		}
-		.flight-date {
-    font-size: 10px !important;
-}
-		.top-nota {
-		position: absolute;
-    border: solid 3px !important;
-    width: 50px !important;
-    height: 50px !important;
-    top: -9px !important;
-    left: -1px !important;
-    border-color: #1dc8cd !important;
-		}
-		.top-caps {
-    font-size: 31px!important;
-    font-weight: 700 !important;
-    line-height: 42px !important;
-		}
-		.card-wrapper {
-			padding-left: 2px !important;
-			padding-right: 2px !important;
-		}
-		#outputReview {
-			padding-left: 0 !important;
-			padding-right: 0 !important;
-			margin-top: 30px;
-		}
-		.footer-flight button {
-			font-size: small;
-		}
-		.footer-flight p {
-		font-weight: bold !important;
-    line-height: 15px !important;
-    text-align: center !important;
-    height: 27px !important;
-    font-size: 36px !important;
-    overflow: visible !important;
-    margin-bottom: 5px !important;
-		}
-		.imagine-flight {
-		border-right: none !important;
-    border-bottom: dashed 1px lightgray;
-		padding-left: 50px !important;
-		}
-	
-		.footer-flight {
-			padding: 7px;
-		}
-		.titlu-flight {
-			font-size: 30px !important;
-		}
-}
-	
-@media only screen and (max-width: 600px) {
-		.top-nota {
-		position: absolute;
-    border: solid 3px !important;
-    width: 50px !important;
-    height: 50px !important;
-    top: -9px !important;
-    left: -1px !important;
-    border-color: #1dc8cd !important;
-		}
-		.top-caps {
-    font-size: 31px!important;
-    font-weight: 700 !important;
-    line-height: 42px !important;
-		}
-		.card-wrapper {
-			padding-left: 2px !important;
-			padding-right: 2px !important;
-		}
-		#outputReview {
-			padding-left: 0 !important;
-			padding-right: 0 !important;
-			margin-top: 30px;
-		}
-		.footer-post button {
-			font-size: small;
-		}
-		.footer-post p {
-			font-weight: bold !important;
-			line-height: 15px !important;
-			text-align: center !important;
-			height: 29px !important;
-			font-size: 10px !important;
-		}
-		.imagine-lat {
-			height: 120px !important;
-		}
-		.categtop {
-			font-size: 13px;
-		}
-		.footer-post {
-			padding: 7px;
-		}
-}
-	.top-caps {
-		font-size: 48px;
-    font-weight: 700;
-    line-height: 57px;
-    color: #63d3d9;
-    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
-    background: linear-gradient(to right,#ff8a00,#da1b60);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -webkit-box-decoration-break: clone;
-	}
-
-	.top-nota {
-	  position: absolute;
-    border: solid 5px;
-    border-radius: 60px;
-    width: 70px;
-    height: 70px;
-    text-align: center;
-    padding: 0px;
-    top: -30px;
-    left: -17px;
-    background: white;
-    border-color: #1dc8cd;
-	}
-	
-	.categtop {
-		background-color: transparent;
-    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
-		color: white;
-		font-weight: bold;
-    padding: 1px 5px;
-    border-radius: 3px;
-    margin-right: 5px;
-		margin-top: 5px;
-		font-size: 16px;
-		float: right;
-	}
-
-	.for-style {
-		border: 1px solid #dddddd7d;
-    box-shadow: 0 0 20px #F0F0F0;
-		border-radius: 4px;
-	}
-	.card-wrapper {
-		padding-left: 10px;
-		padding-bottom: 20px;
-	}
-	.for-style:hover {
-		box-shadow: 0 0 0 0 white;
-		transition: all 0.5s;
-	}
-	.imagine-lat {
-		height: 150px;
-		background-size: cover;
-		background-repeat: no-repeat;
-		border-top-left-radius: 3px;
-		border-top-right-radius: 3px;
-		background-position: center;
-	}
-	.imagine-lat a:hover {
-		text-decoration: none;
-	}
-	.footer-post {
+	.chenar {
+		border: solid 1px lightgray;
 		padding: 15px;
+		margin-top: 50px;
+		margin-bottom: 30px;
+		border-radius: 0px 5px 5px 5px;
+		border-top-left-radius: 0;
+		background-color: #000000;
+		background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
 	}
-	.footer-post hr {
-		margin-top: 0;
+	.emoji-cazare {
+		font-size: xx-large;
+    border: solid 1px lightgray;
+    padding: 20px;
+    border-radius: 51px;
+		background: white;
 	}
-	.footer-post h4 {
-		font-size: 18px;
-		font-weight: 700;
-    overflow: hidden;
-		margin-top: 0;
-	}
-	
-.footer-post p {
-    margin-bottom: 10px;
-    height: 44px;
-    overflow: hidden;
-    line-height: 1.5;
-    font-size: 16px;
-    font-style: italic;
+	.locatie {
+	  font-size: xx-large;
     font-weight: bold;
-    text-align: center;
-}
-	.footer-post button {
-		background-color: transparent;
-    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+    color: white;
+	}
+	.loc {
+		position: absolute;
+    top: -45px;
+    color: gray;
+    background: black;
+    padding: 0px 18px;
+    font-weight: bold;
+    color: white;
+    left: -133px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+	}
+	.cta {
+		background-color: #772f1a;
+		background-image: linear-gradient(315deg, #772f1a 0%, #f2a65a 74%);
     text-decoration: none;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
-		border: none;
-		color: white;
-		border-radius: 3px;
-		text-transform: uppercase;
-		padding: 7px 16px;
-		font-weight: 600;
-	}
-	.footer-post button:hover {
-		box-shadow: none;
-	}
-	
-		.disclaimer {
-			position: absolute;
-			position: absolute;
-      font-size: 10px;
-      right: 0;
-			font-style: italic;
-		}
-	.titlu-flight:after {
-		display: none !important;
-	}
-	.calendar-p {
-		font-size: 27px !important;
-		font-weight: bold;
-	}
-	.calendar {
-		border: dashed 1px lightgray;
-		box-shadow: 0px 0px 10px rgb(226 226 226 / 72%);
-		text-align: center;
-	}
-	.titlu-flight {
-		margin-bottom: 5px !important;
-		font-size: 48px;
-    line-height: 100%!important;
-    text-shadow: 0 1px 1px #000;
-    font-weight: 700;
-		margin-left: 10px;
-	}
-	.totals {
-		text-align: right !important;
-    font-size: 30px;
-    font-weight: bold;
-    font-style: italic;
-	}
-	.nopti {
-	  position: absolute;
-    top: 62px;
-    left: 73px;
-    font-size: 12px;
-    font-style: italic;
-	}
-	.toate-cazarile {
-    background-color: transparent;
-		background-image: linear-gradient(260deg, #686670 0%, #9f5151ba 100%);    text-decoration: none;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
     border: none;
     color: white;
     border-radius: 3px;
     text-transform: uppercase;
-    padding: 3px 16px;
-    font-weight: 600;
-    margin-bottom: 10px;
-	}
-	.cazare {
-	border-left: dashed 1px lightgray;
-	}
-	.hotel-n {
-	font-size: 25px;
-  font-weight: bold;
-	}
-	.hotel-n::before {
-	content: url(/assets/images/svg/house.svg);
-	padding: 5px;
-	}
-	.bula {
-		border: solid 1px lightgray;
-		border-radius: 3px;
-		padding: 5px;
-		background-color: #24afd029;
-	}
-	.top-caps {
-		font-size: 48px;
-    font-weight: 700;
-    line-height: 57px;
-    color: #63d3d9;
-    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
-    background: linear-gradient(to right,#ff8a00,#da1b60);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -webkit-box-decoration-break: clone;
-	}
-
-	.top-nota {
-	  position: absolute;
-    border: solid 5px;
-    border-radius: 60px;
-    width: 70px;
-    height: 70px;
-    text-align: center;
-    padding: 0px;
-    top: -30px;
-    left: -17px;
-    background: white;
-    border-color: #1dc8cd;
-	}
-	
-	.flight-date {
-		background-color: #2d2d2d;
-		color: white;
-		font-weight: bold;
-    padding: 1px 5px;
-    border-radius: 3px;
-    margin-right: 5px;
-		margin-top: 5px;
-		font-size: 13px;
-	}
-
-	.for-style {
-		border: 1px solid #dddddd7d;
-    box-shadow: 0 0 20px #F0F0F0;
-		border-radius: 4px;
-	}
-	.card-wrapper {
-		padding-left: 10px;
-		padding-bottom: 20px;
-	}
-	.for-style:hover {
-		box-shadow: 0 0 0 0 white;
-		transition: all 0.5s;
-	}
-	.imagine-flight {
-		min-height: 100px;
-		background-size: cover;
-		background-repeat: no-repeat;
-		border-top-left-radius: 3px;
-		border-top-right-radius: 3px;
-		background-position: center;
-		padding: 15px;
-		border-right: dashed 1px lightgray;
-	}
-	.imagine-flight a:hover {
-		text-decoration: none;
-	}
-	.footer-flight {
-		padding: 15px;
-	}
-	.footer-flight hr {
-		margin-top: 0;
-	}
-	.footer-flight h4 {
-		font-size: 18px;
-		font-weight: 700;
-    overflow: hidden;
-		margin-top: 0;
-	}
-	
-.footer-flight p {
-    margin-bottom: 10px;
-    overflow: hidden;
-    line-height: 1.5;
-    font-size: 40px;
-    font-style: italic;
+    padding: 13px 49px;
     font-weight: bold;
-    text-align: center;
+    font-size: large;
+		text-align: center;
+	}
+	
+	@media screen and (max-width: 600px) {
+		.loc {
+			left: -70px !important;
+		}
+		.a-cta {
+			width: 100%;
+		}
+		.emoji-cazare {
+			padding: 10px !important;
+			font-size: large !important;
+		}
+		.cont-emoji {
+			padding-left: 0 !important;
+			padding-right: 0!important;
+			padding-top: 10px;
+		}
 }
-	.footer-flight button {
-		background-color: transparent;
-    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
-    text-decoration: none;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
-		border: none;
-		color: white;
-		border-radius: 3px;
-		text-transform: uppercase;
-		padding: 7px 16px;
-		font-weight: 600;
-		width: 100%;
-	}
-	.footer-flight button:hover {
-		box-shadow: none;
-	}
-
 </style>

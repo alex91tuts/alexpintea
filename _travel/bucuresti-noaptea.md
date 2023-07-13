@@ -21,6 +21,11 @@ Printre cele mai interesante locuri de vizitat în București noaptea regăsim C
 
 București, cunoscut și sub numele de "Micul Paris", este capitala și cel mai mare oraș al României, oferind o varietate impresionantă de atracții turistice, evenimente culturale și opțiuni de divertisment pentru toate gusturile și preferințele. 
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Un adevărat oraș care nu doarme, Bucureștiul se transformă după lăsarea întunericului într-un tărâm al luminilor, al muzicii și al poveștilor nespuse.
 
 Acest articol își propune să vă prezinte o selecție a celor mai interesante și fascinante locuri de vizitat noaptea în **[București](https://totredus.ro/travel/atractii-turistice-bucuresti/)**, pentru a vă ajuta să descoperiți frumusețea și energia acestui oraș vibrant.
@@ -41,6 +46,11 @@ Pe lângă aspectul său istoric, Centrul Vechi este cunoscut pentru atmosfera s
 Aici poți găsi o varietate de opțiuni de petrecere a timpului liber, de la cafenele primitoare, pub-uri tradiționale, până la cluburi moderne și terase în aer liber.
 
 În Centrul Vechi, vei întâlni oameni din toate colțurile lumii, creând o ambianță cosmopolită și prietenoasă. 
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Este locul ideal pentru a socializa, a împărtăși povești și a cunoaște cultura locală. De asemenea, poți să te bucuri de mâncăruri tradiționale românești și internaționale, alături de o selecție variată de băuturi.
 
@@ -134,6 +144,11 @@ Una dintre terasele populare este Berăria H, situată într-o clădire istoric�
 
 De asemenea, nu trebuie să ratezi Hard Rock Cafe, un restaurant și bar tematic, celebru pentru ambiția sa rock'n'roll și pentru colecția impresionantă de suveniruri muzicale.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 O altă opțiune pentru a savura o băutură și a admira frumusețea parcului este terasa La Plaja, un loc cu atmosferă de plajă, unde poți savura cocktailuri exotice și mâncăruri delicioase în timp ce asculți muzică de calitate.
 
 Alegând să petreci o seară în Parcul Herăstrău, vei avea ocazia să te bucuri de frumusețea naturii și de atmosfera relaxantă pe care această oază de liniște în mijlocul Bucureștiului o oferă.
@@ -158,6 +173,11 @@ Poți face o plimbare în apropierea acesteia, admirând reflecția luminilor pe
 Arcul de Triumf, un alt simbol al orașului, poate fi, de asemenea, vizitat și admirat pe timp de noapte. 
 
 Construit în 1936 și inspirat de Arcul de Triumf din Paris, acest monument impresionant este iluminat în mod spectaculos după lăsarea întunericului, aducând un plus de farmec și eleganță zonei în care se află. 
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Arcul de Triumf este situat în apropiere de Parcul Herăstrău, astfel încât poți combina o plimbare în parc cu o vizită la acest monument istoric.
 
@@ -207,6 +227,11 @@ Unul dintre cele mai populare centre de divertisment din București este IDM Clu
 Aici, vei găsi o zonă de bowling modernă, cu numeroase piste și echipamente de ultimă generație, precum și mese de biliard și snooker de calitate.
 
 IDM Club oferă, de asemenea, o zonă de lounge și un bar, unde poți savura băuturi răcoritoare și gustări în pauzele dintre jocuri.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 O altă opțiune este să vizitezi Time Out, un centru de divertisment situat în incinta mall-ului AFI Cotroceni.
 

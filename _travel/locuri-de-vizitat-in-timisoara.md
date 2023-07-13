@@ -20,6 +20,11 @@ tags: ['Timisoara', 'Locuri', 'Banatul Montan']
 
 Timișoara, orașul care îmbină istoria, cultura și modernitatea într-un mix arhitectural unic. Situat în vestul României, acest oraș multicultural și istoric este cunoscut drept Capitala Banatului. Cu o bogată istorie și numeroase obiective turistice de vizitat, nu e de mirare că Timișoara a devenit **Capitala Europeană a Culturii în 2023.**
 
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
+
 Timișoara se mândrește cu titlul de primul oraș european cu iluminat public electric, un semn al progresului și inovației care continuă să marcheze evoluția sa. Orașul a jucat un rol crucial în evenimentele recente ale României fiind fosta capitală a Revoluției Române din 1989. Astfel, vizitatorii pot descoperi povești fascinante despre lupta pentru libertate și democrație.
 
 Pe lângă aspectele sale culturale și istorice, Timișoara oferă o atmosferă vibrantă și ospitalieră datorită diversității etnice și tradițiilor locale. Aici veți găsi nenumărate **locuri minunate de vizitat**, fie că sunteți pasionați de arta contemporană sau preferați să explorați frumusețile naturii.
@@ -72,6 +77,11 @@ Alături de Catedrala Mitropolitană se afla Palatul Episcopului Ortodox Sârbes
 
 **Biserica Romano-Catolică Millenium din Timișoara** este un loc deosebit pe care trebuie să îl vizitezi atunci când ajungi în acest oraș. Construit între anii 1896 și 1901, edificiul impresionează prin stilul său eclectic-neogotic și prin frumusețea detaliilor sale arhitecturale. Arhitectul responsabil pentru proiectarea bisericii a fost Lajos Ybl, un nume cunoscut în lumea arhitecturii europene.
 
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
+
 De-a lungul timpului, [Biserica Millenium](http://www.ro.biserica-millennium.ro/index.php/istoric) a trecut prin numeroase transformări și restaurări, menținându-și totodată farmecul original. Un exemplu concludent al acestui fapt sunt vitraliile impresionante realizate de Miksa Róth, un artist maghiar renumit pentru lucrările sale în sticlă colorată.
 
 <img src="/assets/images/travel/timisoara/catedrala-millenium-timisoara.webp" width="740" height="571" loading="lazy" alt="catedrala millenium timisoara;">
@@ -93,6 +103,11 @@ Biserica Millenium se remarcă printr-o serie de elemente arhitecturale care o f
 Un alt aspect interesant al Bisericii Romano-Catolice Millenium este faptul că aici se organizează periodic concerte de orgă și alte evenimente culturale. Aceste manifestări atrag un public numeros, atât localnic cât și turiști, dornici să asculte muzică de calitate într-un cadru arhitectural excepțional.
 
 Concertele sunt susținute de organiști renumiți din România și din străinătate, iar repertoriul abordat cuprinde opere clasice ale marilor compozitori precum Bach, Mozart sau Beethoven, dar și piese mai moderne sau adaptate special pentru orga Walcker.
+
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
 
 În concluzie, Biserica Romano-Catolică Millenium din Timișoara este un loc pe care nu trebuie să îl ratezi dacă vrei să descoperi frumusețea arhitecturală a acestui oraș. Cu o istorie fascinantă, detalii impresionante și evenimente culturale captivante, această bijuterie arhitectonică te va cuceri cu siguranța!
 
@@ -305,6 +320,11 @@ Pentru a savura la maxim experiența la **Fabrica de Bere Timișoreana**, nu tre
 4.  La final, veți avea ocazia să degustați diferite tipuri de bere produse chiar aici, în Timișoara
 
 ### Restaurant cu mâncăruri tradiționale bănățene
+
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
 
 După ce v-ați delectat cu o degustare de bere, nu ratați șansa de a savura și câteva preparate culinare specifice zonei Banatului. La restaurantul fabricii veți găsi:
 

@@ -23,6 +23,11 @@ tags: ['Rasnov', 'Locuri de vizitat', '2023']
 
 Te-ai întrebat vreodată ce **locuri de vizitat în Râșnov** merită să fie incluse pe lista ta? Ei bine, orașul acesta pitoresc ascunde o mulțime de obiective turistice fascinante, care te vor cuceri cu siguranță. Descoperă **Cetatea Râșnov**, una dintre cele mai impresionante fortificații medievale din România, sau **Peștera Valea Cetății**, un adevărat spectacol al naturii.
 
+{% include cta-cazare.html 
+locatie="RÂȘNOV"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
+%}
+
 Dacă ești în căutare de aventură și frumuseți naturale, împrejurimile orașului Râșnov sunt perfecte pentru tine. Explorează **Cheile Râșnoavei**, un loc ideal pentru drumeții și activități sportive precum escaladarea sau zborul cu parapanta.
 
 Nu uita să te plimbi prin centrul istoric al Râșnovului! Aici vei admira arhitectura tradițională a clădirilor și vei simți atmosfera relaxantă și autentic românească. În plus, poți profita de ocazie pentru a savura preparate locale delicioase la una dintre numeroasele terase și restaurante din zonă.
@@ -46,6 +51,11 @@ Arhitectura fortificației este un exemplu remarcabil al stilului medieval, cu z
 Pe lângă aspectele istorice și culturale ale cetății, locația sa pe un deal înalt oferă posibilitatea de a explora natura și a realiza drumeții în împrejurimi. Există numeroase trasee marcate ce pornesc din apropierea cetății și duc spre diverse puncte de interes din zonă.
 
 În concluzie, **[Cetatea Râșnov](https://totredus.ro/travel/cetatea-rasnov/)** reprezintă un loc de vizitat ideal pentru cei pasionați de istorie, arhitectură și frumusețea naturală a peisajului. Vizita la acest monument istoric impresionant va oferi o experiență educativ
+
+{% include cta-cazare.html 
+locatie="RÂȘNOV"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
+%}
 
 În acest moment cetatea Râșnov este închisă pentru restaurare. 
 
@@ -121,7 +131,12 @@ Pe lângă rolul său educativ și de conștientizare a publicului cu privire la
 
 ### Complexul Olimpic Râșnov
 
-Dacă ești pasionat de sporturile de iarnă, atunci Complexul Olimpic de Sporturi de Iarnă Râșnov este locul ideal pentru tine. Aici poți să te bucuri de schi, snowboard și sărituri cu schiurile pe pârtii bine întreținute și dotate cu instalații moderne. 
+Dacă ești pasionat de sporturile de iarnă, atunci Complexul Olimpic de Sporturi de Iarnă Râșnov este locul ideal pentru tine. Aici poți să te bucuri de schi, snowboard și sărituri cu schiurile pe pârtii bine întreținute și dotate cu instalații moderne.
+
+{% include cta-cazare.html 
+locatie="RÂȘNOV"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
+%}
 
 În plus, complexul dispune și de o trambulină impresionantă pentru sărituri cu schiurile, unde au loc competiții internaționale.
 
@@ -251,6 +266,11 @@ Aici poți să te cazezi în căsuțe tradiționale, să faci drumeții montane 
 Dacă ești un iubitor al naturii, nu rata Prăpăstiile Zărneștiului, Valea Cheișoarei sau Cheile Râșnoavei. Rezervația de Urși Liberty Zărnești este un must-see pentru oricine.
 
 Pasionații de sporturi vor găsi aici Complexul Olimpic de Sporturi de Iarnă Râșnov și zona de agrement Cheile Râșnoavei. Descoperirile subterane te așteaptă la Peștera Valea Cetății și alte peșteri din zonă.
+
+{% include cta-cazare.html 
+locatie="RÂȘNOV"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
+%}
 
 Nu uita să vizitezi Dino Parc Râșnov pentru distracție garantată indiferent de vârstă. Tururile ghidate în peșteri și cetăți sunt o modalitate excelentă de a afla mai multe despre istoria localităților.
 

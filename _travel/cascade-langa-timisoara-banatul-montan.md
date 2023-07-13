@@ -52,6 +52,11 @@ Fie că se înalță mândre în mijlocul pădurilor, fie că își găsesc refu
 
 Prin varietatea lor, ele reflectă perfect esența acestui paradis natural.
 
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
+
 Bucurați-vă de această călătorie virtuală și lăsați frumusețea naturală a Banatului Montan să vă inspire să o descoperiți în realitate.
 
 ---
@@ -81,6 +86,11 @@ Geografia Banatului Montan este un punct de atracție major pentru turisti. Mun�
 În inima acestei zone montane, curge un număr mare de râuri și pâraie, dând naștere unor cascade spectaculoase. Fiecare dintre ele are un caracter distinct, unice în formă și mărime, transformându-se în adevărate spectacole ale naturii.
 
 Banatul Montan este cu adevărat un paradis natural, cu o frumusețe care lasă fără cuvinte. În secțiunile următoare, vom descoperi câteva dintre cele mai remarcabile cascade din această regiune, începând cu Cascada Beuşniţa, bijuteria Banatului.
+
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
 
 ---
 ## Cascada Beuşniţa: Bijuteria Banatului
@@ -186,6 +196,11 @@ Ceea ce face Parcul Naţional Cheile Nerei – Beuşniţa special este nu doar f
 
 În plus, parcursul râului Nera printr-o serie de chei și canioane creează un cadru natural impresionant, ideal pentru drumeții și alte activități în aer liber.
 
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
+
 Explorarea Parcului Naţional Cheile Nerei – Beuşniţa este o experiență de neuitat, o călătorie prin inima naturii, unde poți descoperi unele dintre cele mai impresionante peisaje ale României.
 
 ---
@@ -254,8 +269,12 @@ Iată câteva moduri simple prin care puteți contribui la conservarea acestor l
 
 Prin respectarea acestor principii simple, fiecare vizitator poate avea un rol activ în conservarea Banatului Montan. Este responsabilitatea noastră comună să protejăm și să conservăm aceste minunate locuri naturale, pentru a le putea bucura și generațiile viitoare.
 
----
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
 
+---
 ## Întrebări frecvente
 
 ### Care este cel mai bun moment pentru a vizita Banatul Montan?

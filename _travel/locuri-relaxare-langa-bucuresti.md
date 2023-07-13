@@ -43,6 +43,11 @@ Te-ai întrebat vreodată cum ar fi să evadezi din agitația Bucureștiului și
 
 Aceste locuri pitorești sunt la doar câțiva kilometri distanță de București și îți oferă posibilitatea de a scăpa de stresul cotidian și a te conecta cu natura. 
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Indiferent dacă ești în căutarea unui loc liniștit pentru o plimbare prin pădure sau dorești să petreci câteva ore pe malul unui lac cristalin, ai la dispoziție numeroase destinații ideale pentru escapade rapide.
 
 {% include link.html 
@@ -102,6 +107,11 @@ link="https://totredus.ro/travel/pesteri-langa-bucuresti/"
 ## Descoperiți trei mânăstirii fascinante situate în apropierea Bucureștiului
 
 Dacă sunteți în căutarea unor **locuri de relaxare lângă București**, nu trebuie să ratați cele trei mănăstiri fascinante din jurul orașului. Fiecare dintre acestea are o poveste unică și vă oferă o experiență spirituală aparte.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 ---
 ## Mânăstirea Snagov
@@ -250,6 +260,11 @@ Târgoviște este un alt oraș fascinant din apropierea Bucureștiului, care mer
 <img src="/assets/images/travel/relaxare/targoviste.webp" width="740" height="331" loading="lazy" alt="{{ page.keyword }} orasul giurgiu">
 
 **Cetatea de la Târgoviște** este un exemplu impresionant de arhitectură medievală și vă va transporta în timpul domniei lui Vlad Țepeș.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 De asemenea, nu ratați **Mânăstirea Dealu**, situată pe dealurile din apropierea orașului. Această mânăstire ortodoxă are o importanță istorică și religioasă semnificativă și oferă o priveliște spectaculoasă asupra întregii zone înconjurătoare. În interiorul mănăstirii veți găsi fresce vechi de secole și o atmosferă liniștitoare perfectă pentru relaxare și reflecție.
 

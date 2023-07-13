@@ -28,6 +28,11 @@ Haideți să vedem principalele lucruri de făcut duminica in București:
 
 Bucureștiul este cunoscut pentru numeroasele sale parcuri frumoase, care oferă o oază de liniște și relaxare în mijlocul agitației urbane. Printre cele mai populare parcuri se numără:
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Parcul Herăstrău: Acest parc vast, situat în jurul lacului Herăstrău, este un loc ideal pentru a petrece o zi întreagă. Poți face plimbări lungi pe aleile sale, alerga, merge cu bicicleta pe pistele special amenajate sau chiar închiria o barcă și explora lacul. Parcul găzduiește și Muzeul Satului "Dimitrie Gusti", un loc perfect pentru a descoperi cultura și tradițiile românești.
 
 Parcul Carol: Amplasat în apropiere de Piața Unirii, Parcul Carol oferă o combinație fascinantă de istorie și natură. Aici vei găsi Mausoleul și Monumentul Eroilor Martiri, precum și Grădina Botanică "Dimitrie Brândză", cu o colecție impresionantă de plante.
@@ -94,6 +99,11 @@ Capitala are o varietate de muzee interesante, care te invită să explorezi ist
 Muzeul Național de Artă al României găzduiește o colecție impresionantă de artă românească și europeană, cu lucrări ale unor maeștri precum Rembrandt, Rubens și Bruegel. Aici poți admira tablouri, sculpturi și obiecte decorative care reprezintă evoluția artei de-a lungul secolelor.
 
 Muzeul Antipa este unul dintre cele mai mari și mai cunoscute muzee de științe naturale din România. Acesta oferă o perspectivă asupra evoluției vieții pe Pământ, cu exponate variate care includ fosile, animale împăiate și ecosisteme reconstituite. Muzeul găzduiește, de asemenea, exponate temporare și evenimente educaționale pentru toate vârstele.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Muzeul Național al Satului "Dimitrie Gusti" este un muzeu în aer liber situat în Parcul Herăstrău. Aici, vizitatorii pot explora case tradiționale românești, biserici de lemn și gospodării rurale aduse din toate regiunile țării. Muzeul oferă o perspectivă asupra vieții rurale românești și a tradițiilor populare, permițându-ți să faci o călătorie în timp și să te bucuri de autenticitatea acestor locuri.
 
@@ -180,6 +190,11 @@ Bucureștiul, un oraș cu o istorie bogată și o arhitectură impresionantă, a
 Centrul Vechi, de exemplu, este inima istorică a orașului și un loc unde trecutul se întâlnește cu prezentul. Aici, vei găsi clădiri vechi și monumente importante, precum Curtea Veche, Biserica Stavropoleos și Hanul lui Manuc. 
 
 Străduțele înguste, pavate cu piatră, sunt pline de terase animate, cafenele, restaurante și baruri, care oferă un amestec perfect de cultură, istorie și divertisment.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Un alt cartier istoric de vizitat este Cotroceni, situat în apropiere de Palatul Cotroceni, reședința oficială a președintelui României. 
 

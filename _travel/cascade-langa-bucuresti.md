@@ -55,6 +55,11 @@ Cascada și-a primit numele tocmai datorită acestui zgomot – "urlătoare" în
 
 Frumusețea acestei cascade, împreună cu experiența unei drumeții în Masivul Bucegi, face din acest loc un punct de reper al turismului românesc.
 
+{% include cta-cazare.html 
+locatie="BUȘTENI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBu%C5%9Fteni%2CRomania-c66413%2F1rooms%2F2adults"
+%}
+
 ---
 ## Cascada Pruncea
 
@@ -75,6 +80,12 @@ Pădurea se schimbă cu fiecare pas, oferind un peisaj nou și fascinant la fiec
 Odată ajunși la Cascada Pruncea, veți fi uimiți de frumusețea și puterea naturii. 
 
 Apa curge cu o viteză impresionantă de la o înălțime de aproximativ 7 metri, creând un spectacol vizual și sonor memorabil. 
+
+{% include cta-cazare.html 
+locatie="CAȘOCA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FCa%C8%99oca%2CRomania-c93405%2F1rooms%2F2adults"
+%}
+
 
 Cascada Pruncea este, în esență, un simbol al forței și vitalității naturii, un adevărat testament al frumuseții sălbatice a României.
 
@@ -108,32 +119,9 @@ Cascada Caraiman, cu răcorirea ei continuă și măreția sa naturală, este o 
 
 Priveliștea apei căzând de la înălțime, înconjurată de stânci și vegetație verde, este un spectacol memorabil.
 
----
-## Bijuteria Naturii: Descoperirea Cascadei Șușara
-
-Cascada Șușara, un mic dar prețios monument al naturii, este un loc încărcat de frumusețe și liniște. 
-
-Acest perete de apă se află în inima Parcului Natural Comana, la doar o aruncătură de băț de București, transformându-se într-un refugiu perfect pentru cei care doresc să evadeze din agitația urbană.
-
-<img src="/assets/images/travel/cascade-bucuresti/cascada-susara.webp" width="740" height="432" loading="lazy" alt="{{ page.keyword }} cascada susara">
-
-### În Drum Spre Cascada Șușara
-
-Drumul spre Cascada Șușara este un parcurs fascinant. În timp ce vă apropiați de destinație, veți fi însoțiți de cântecul păsărilor și de parfumul dulceag al florilor de câmp. 
-
-Peisajul este o poezie vizuală, îmbinând frumusețea neschimbată a naturii cu sclipirea apei.
-
-### Fascinația Cascadei Șușara
-
-Cascada Șușara, deși nu se poate lăuda cu o înălțime impresionantă, știe să încânte privirile prin alte aspecte. 
-
-Sunetul apei curgătoare și strălucirea ei sub razele soarelui creează un tablou dinamic, de o frumusețe rară. 
-
-Peisajul este completat de liniștea ce învăluie întreaga zonă, transformând vizita la Cascada Șușara într-o experiență cu adevărat relaxantă.
-
-{% include link.html 
-anchor="Locuri De Relaxare Langa Bucuresti"
-link="https://totredus.ro/travel/locuri-relaxare-langa-bucuresti/"
+{% include cta-cazare.html 
+locatie="BUȘTENI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBu%C5%9Fteni%2CRomania-c66413%2F1rooms%2F2adults"
 %}
 
 ---
@@ -178,6 +166,11 @@ Indiferent de cascadă pe care alegeți să o vizitați, este important să fiț
 Asigurați-vă că aveți încălțăminte potrivită pentru drumeție, haine care vă protejează de vreme, apă, alimente și un kit de prim ajutor. 
 
 De asemenea, nu uitați să luați cu voi aparatul de fotografiat pentru a imortaliza peisajele minunate pe care le veți întâlni.
+
+{% include cta-cazare.html 
+locatie="RÂNCA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2nca%2CRomania-c303796%2F1rooms%2F2adults"
+%}
 
 ---
 ## Concluzie

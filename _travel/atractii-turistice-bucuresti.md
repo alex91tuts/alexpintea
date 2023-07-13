@@ -35,6 +35,11 @@ Diversitatea atracțiilor este uimitoare - aici vei găsi totul, de la [monument
 
 Nu numai clădirile impresionează în București, ci și viața culturală vibrantă. Teatrele, galeriile de artă și evenimentele culturale sunt doar câteva dintre motivele pentru care turiștii se îndrăgostesc de acest oraș.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Iar dacă ești pofticios sau dornic să descoperi bucătăria locală, nu vei fi dezamăgit! Restaurantele și terasele bucureștene oferă preparate tradiționale românești delicioase şi opțiuni internaționale tentante.
 
 De asemenea, transportul accesibil face ca explorarea Bucureștiului să fie o experiență plăcută și ușoară pentru toată lumea. Așadar, e timpul să te pregătești pentru aventura ta în București!
@@ -113,6 +118,11 @@ Când te afli în fața acestui simbol al triumfului național, nu poți să nu 
 
 O plimbare în jurul Arcului de Triumf oferă o perspectivă asupra evoluției arhitecturale a Bucureștiului, fiind un punct de referință important pentru turiștii care doresc să descopere **locuri de vizitat în capitala** României.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 ### Basoreliefurile care spun povestea României
 
 Vizitatorii pot admira basoreliefurile care împodobesc fațadele Arcului de Triumf și care înfățișează scene din Primul Război Mondial și personalități marcante ale istoriei românești, precum Regele Ferdinand și Regina Maria. Aceste opere artistice sunt mărturii ale curajului și sacrificiilor făcute de români pentru a-și câștiga independența și suveranitatea.
@@ -189,6 +199,11 @@ Situat în inima Centrului Istoric, ansamblul arhitectural al Curții Vechi cupr
 2.  Biserica Curtea Veche, cea mai veche biserică din București, cu fresce vechi de sute de ani
 
 3.  Muzeul Curții Vechi, unde poți afla mai multe despre istoria locului și personalitățile care l-au frecventat
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 ### Evenimente culturale și artistice: Centrul Istoric vibrant
 
@@ -346,6 +361,11 @@ src="/assets/images/travel/bucuresti/botanica" width="740" height="493" %}
 Aici puteți admira diferite tipuri de arbori, flori și plante exotice, precum și să vă bucurați de un peisaj natural impresionant. 
 
 Grădina Botanică "Dimitrie Brândză" este un loc ideal pentru relaxare și plimbări în natură, fiind un spațiu verde în mijlocul agitației orașului.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Pe lângă numeroasele specii de plante, grădina oferă și diverse facilități precum sere, un muzeu botanic și zone de recreere pentru toate vârstele. De asemenea, grădina este locul perfect pentru a învăța despre flora României și a altor regiuni ale lumii.
 

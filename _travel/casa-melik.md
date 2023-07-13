@@ -50,6 +50,11 @@ Construcția Casei Melik a fost realizată de meșteri locali, care au folosit t
 
 Casa a fost inițial concepută ca o locuință unifamilială, cu un parter și un etaj, și cu un design care să reflecte atât gusturile familiei Melik, cât și tendințele arhitecturale ale vremii.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Primele decenii de existență ale Casei Melik au fost marcate de o viață liniștită și prosperă pentru familia Melik și pentru cei care au locuit în această casă. 
 
 În acea perioadă, Bucureștiul se transforma într-un oraș modern și cosmopolit, iar Casa Melik reprezenta un exemplu de arhitectură și stil de viață care se încadra în această nouă realitate urbană.
@@ -70,6 +75,11 @@ Pe parcursul secolului al XIX-lea, Casa Melik a trecut prin mai multe transform�
 De exemplu, în a doua jumătate a secolului, au fost adăugate noi aripi și curți interioare, pentru a crește suprafața locuibilă și a îmbunătăți funcționalitatea casei.
 
 Sub influența lui Hagi Kevork Nazaretoglu, Casa Melik a devenit un spațiu de întâlnire pentru artiști, scriitori și intelectuali români, consolidându-și astfel statutul de centru cultural și artistic în București. 
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Prezența acestor personalități și evenimentele culturale găzduite de Casa Melik au contribuit la creșterea prestigiului și notorietății clădirii în societatea bucureșteană.
 
@@ -151,6 +161,11 @@ De asemenea, decorațiunile interioare ale Casei Melik includ fresce, basorelief
 Casa Melik a fost supusă de-a lungul timpului unor eforturi susținute de conservare și restaurare, menite să păstreze și să pună în valoare patrimoniul arhitectural și cultural al clădirii. 
 
 Aceste lucrări au vizat atât elementele exterioare, precum fațada și acoperișul, cât și spațiile interioare și detaliile decorative, precum vitraliile și frescele.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 De exemplu, în perioada comunistă, Casa Melik a fost naționalizată și transformată în Muzeul Theodor Pallady, ceea ce a necesitat unele modificări și adaptări ale spațiilor interioare. 
 

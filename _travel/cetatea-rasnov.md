@@ -29,6 +29,11 @@ tags: ['Rasnov', 'Cetate', '2023']
 
 Se poate vizita doar grădina / partea de jos a cetații, nu se percepe taxa de vizitare iar programul este de la 9.00 – 18.00.
 
+{% include cta-cazare.html 
+locatie="RÂȘNOV"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
+%}
+
 ---
 ## Cum ajungi la Cetatea Râșnov?
 
@@ -83,6 +88,11 @@ Cetatea Râșnov nu este doar un [simbol al trecutului](https://www.rador.ro/201
 
 Importanța acestei fortărețe nu se rezumă doar la valoarea sa istorică. Ea reprezintă și un pilon al identității românești, o sursă de inspirație pentru literatură, cinematografie și artă, un simbol al rezistenței și curajului.
 
+{% include cta-cazare.html 
+locatie="RÂȘNOV"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
+%}
+
 Cetatea Râșnov este, așadar, o adevărată capsulă a timpului, un loc unde trecutul, prezentul și viitorul se întâlnesc și se împletesc într-o poveste fascinantă despre istoria României. 
 
 Este un loc de vizitat obligatoriu pentru orice iubitor de istorie și cultură, oferind o experiență de neuitat, un izvor de cunoaștere și inspirație.
@@ -126,6 +136,11 @@ Cetatea Râșnov a fost martora a numeroase momente cruciale din istoria Români
 Unul dintre cele mai notabile evenimente a avut loc în 1600, când cetatea, sub conducerea lui Simion Movilă, a rezistat atacurilor trupelor lui Mihai Viteazul. 
 
 În 1612, un incendiu devastator a distrus mare parte din cetate, necesitând lucrări extinse de restaurare.
+
+{% include cta-cazare.html 
+locatie="RÂȘNOV"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
+%}
 
 Un alt moment important în istoria cetății l-a constituit construcția fântânii din incinta cetății, realizată în secolul al XVII-lea. 
 

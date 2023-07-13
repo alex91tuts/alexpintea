@@ -43,6 +43,11 @@ Biserica Stavropoleos, situată în inima Bucureștiului, este un loc care nu tr
 
 Cu arhitectura sa unică și impresionantă, această biserică reprezintă o oază de liniște și spiritualitate în mijlocul agitației urbane.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 În acest articol, veți descoperi istoria, arhitectura și semnificația acestei biserici remarcabile și veți înțelege de ce este considerată o bijuterie ascunsă a Bucureștiului.
 
 ## Istoria Bisericii Stavropoleos
@@ -114,6 +119,11 @@ De la coloanele exterioare sculptate în piatră, până la ferestrele în arcad
 ### Un simbol al tradiției și credinței românești
 
 Biserica Stavropoleos reprezintă nu doar o capodoperă arhitecturală, ci și un simbol al tradiției și credinței românești.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Prin stilul său arhitectural unic și colecția sa valoroasă de icoane și obiecte religioase, biserica păstrează vie memoria trecutului și transmite încrederea în puterea spiritualității.
 

@@ -24,6 +24,11 @@ Ce știi despre minunatele **locuri de vizitat în apropiere de Timișoara?** Re
 
 Cu siguranță vei fi impresionat de castelele și cetățile care își povestesc trecutul glorios, dar și de parcurile naturale și rezervațiile unde poți face drumeții, te poți relaxa sau observa fauna sălbatică.
 
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
+
 Nu uita să explorezi satele tradiționale și orașele pitorești din apropierea Timișoarei, pentru a descoperi autenticitatea vieții rurale și arhitectura locală.
 
 Fie că ești interesat de locuri de vizitat pe lângă Timișoara sau dorești să afli mai multe despre locurile de văzut în apropiere, această regiune are cu siguranță ceva special pentru oricine. Aventura te așteaptă în inima Banatului!
@@ -53,6 +58,7 @@ Fie că ești interesat de locuri de vizitat pe lângă Timișoara sau dorești 
 
 La centrul ecvestru al domeniului, poți lua lecții de călărie indiferent dacă ești începător sau avansat. Instrucțiunea se face sub supravegherea unor profesioniști experimentați, iar atmosfera este prietenoasă.
 
+
 Pentru cei care preferă să exploreze frumusețile naturale ale zonei, plimbările cu calul sunt o opțiune excelentă. Acestea pot dura între 30 minute şi câteva ore, în funcție de preferințele vizitatorilor.
 
 ### Herneacova Adventure Park: adrenalina în aer liber
@@ -72,6 +78,11 @@ Domeniul Herneacova, situat în apropierea orașului Timișoara, reprezintă o d
 Acesta oferă numeroase oportunități pentru activități recreative, cum ar fi drumețiile pe potecile bine întreținute sau plimbările cu bicicleta prin pădurea înconjurătoare, care este bogată în vegetație și faună specifică zonei.
 
 Pe lângă aceste activități, domeniul dispune de facilități moderne, precum un centru ecvestru, unde vizitatorii pot lua lecții de călărie sau pot participa la diverse evenimente tematice. De asemenea, există și un lac în incinta domeniului, care permite practicarea pescuitului sportiv sau relaxarea pe malul său.
+
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
 
 Pentru cei interesați de istorie și cultură, în apropiere se află și Castelul Herneacova, o construcție impozantă care datează din secolul al XVIII-lea. Acesta poate fi vizitat în cadrul unui tur ghidat, oferind ocazia de a afla mai multe despre istoria locală și personalitățile care au locuit aici de-a lungul timpului.
 
@@ -205,6 +216,11 @@ Nu ratați ocazia să vă bucurați de experiențe gastronomice autentice cu pre
 
 **Domeniul Regal Săvârșin** este o altă destinație turistică demnă de luat în considerare pentru un weekend lângă Timișoara. Vizitarea castelului istoric, care a fost reședința de vară a Regelui Mihai, vă va oferi o incursiune în trecutul nobil al României.
 
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
+
 ## Explorând ținutul Pădurenilor: Lelese, Cerișor, Alun și Complexul Turistic Zolt
 
 <img src="/assets/images/travel/langa-timisoara/tinutul-padurenilor.webp" width="740" height="347" loading="lazy" alt="{{ page.keyword }};">
@@ -320,6 +336,11 @@ Construită pe **Dealul Cetății**, această cetate oferă o priveliște panora
 Nu uita să explorezi și cultura locală la muzeele Banatului sau să te relaxezi într-un weekend prelungit vizitând cascadele, domeniile viticole și castelele din zonă. Iar pentru un plus de autenticitate, descoperă tradițiile ținutului Pădurenilor și vestigiile istorice ale cetăților din regiune.
 
 Nu mai sta pe gânduri! Planifică-ți următoarea escapadă în aceste locuri fabuloase și redescoperă frumusețea ascunsă a Banatului. Fii pregătit să fii surprins!
+
+{% include cta-cazare.html 
+locatie="TIMIȘOARA"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FTimisoara%2CRomania-c14912%2F1rooms%2F2adults"
+%}
 
 ### Care sunt cele mai bune locuri de vizitat lângă Timișoara?
 

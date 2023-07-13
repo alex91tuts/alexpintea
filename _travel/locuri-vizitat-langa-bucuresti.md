@@ -28,6 +28,11 @@ Te-ai săturat de agitația orașului și vrei să evadezi într-un loc liniști
 
 Majoritatea destinațiilor sunt ușor accesibile, situate la distanțe relativ scurte față de capitală. Astfel, poți planifica excursii de o zi sau weekend pentru a te bucura din plin de tot ce au ele de oferit.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Pe lângă importanța istorică și culturală pe care o reprezintă aceste locuri, vei avea parte și de numeroase activități recreative și sportive precum drumeții, ciclism, pescuit sau plimbări cu barca.
 
 Și cum am putea vorbi despre călătorii fără să menționăm deliciile culinare locale? Fiecare dintre aceste destinații îți oferă posibilitatea să deguști preparate tradiționale românești care îți vor face papilele gustative să danseze!
@@ -129,6 +134,11 @@ Lacul Snagov reprezintă atracția principală a zonei și este ideal pentru pra
 ### Insula Snagov și legenda lui Dracula
 
 Unul dintre cele mai interesante locuri din zonă este Insula Snagov, unde se află **Mănăstirea Snagov**, construită în secolul al XIV-lea. Acest lăcaș de cult este legat de figura istorică a lui Vlad Țepeș, cunoscut și ca Dracula, fiind spus că mormântul său ar fi amplasat aici.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Vizitarea insulei poate fi o experiență fascinantă pentru cei interesați de istorie și legendele locale. Pe lângă mormântul presupus al lui Vlad Țepeș, veți descoperi și alte elemente interesante ale mânăstirii precum frescele vechi sau arhitectura specific brâncovenească.
 
@@ -278,6 +288,11 @@ De asemenea, cei care doresc să contribuie la protejarea acestor animale impres
 
 La aproximativ 150 km de București, Cascada Urlătoarea din Buzău este o destinație de neegalat în România. Situată în apropierea orașului Nehoiu, cascada impresionează cu o cădere de apă de peste 15 metri, creând un spectacol natural memorabil.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Pentru a ajunge la Cascada Urlătoarea din Buzău, veți parcurge un traseu pitoresc și ușor accesibil.
 
 În timpul călătoriei, veți fi încântați de splendoarea munților și de aerul pur al regiunii.
@@ -416,6 +431,11 @@ La doar câțiva kilometri distanță de Domeniul Știrbey se situează Mânăst
 Situat în apropiere de București, Muzeul Atelier Școala de la Piscu oferă vizitatorilor o experiență unică prin care pot explora istoria și obiceiurile românești.
 
 Acest loc este ideal pentru cei care doresc să cunoască mai bine cultura și tradițiile locale, fiind un adevărat tezaur al patrimoniului cultural și artistic al zonei.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Muzeul se află în posesia familiei Piscu, care a contribuit semnificativ la păstrarea și promovarea patrimoniului cultural.
 

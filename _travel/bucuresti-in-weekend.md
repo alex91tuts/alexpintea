@@ -23,6 +23,11 @@ Există, de asemenea, o mulțime de restaurante și cafenele grozave de vizitat,
 
 Fie că sunteți în căutarea unui weekend romantic sau pentru o experiență culturală interesantă, Bucureștiul are ceva de oferit fiecărui călător sau locuitor.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Dacă sunteți în căutarea unei escapade de weekend sau dacă sunteți chiar din București și vă plictisiți, capitala este o opțiune excelentă.
 
 Orașul oferă o mulțime de activități și atracții interesante de explorat iar prețurile sale accesibile fac din aceasta o destinație ideală pentru călătorii cu buget redus. 
@@ -61,7 +66,12 @@ Puteți chiar să închiriați biciclete sau quad-uri pentru a traversa drumuril
 - Strada Xenofon: este situată în apropierea Fântânii Zodiac și este unică, din mai multe puncte de vedere. Unul dintre ele ar fi faptul că este construită numai din trepte și, astfel, nu a fost călcată niciodată de roțile unei mașini;
 
 - Casa Melik este casa vieții și artei lui Theodor Pallady. Aici și-a petrecut o mare parte din viața de adult și și-a creat cele mai emblematice lucrări. Casa este acum un muzeu dedicat artistului, expunând o colecție impresionantă de picturi, sculpturi, schițe, fotografii și obiecte personale ale acestuia. Vizitatorii pot explora și două expoziții permanente: una dedicată vieții și operei lui Pallady, iar cealaltă axată pe modernismul românesc.
-	
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 - Biserica Mihai Vodă: construcția se remarcă prin arhitectura sa barocă impresionantă, având în centru o cupolă mare înconjurată de patru semidomuri mai mici. În interior, vizitatorii pot admira fresce complicate care înfățișează diverse scene și teme religioase, precum și mai multe statui ale sfinților. Pereții sunt decorați cu mai multe picturi istorice care înfățișează evenimente importante din istoria României.
  
  - Templul Coral Evreiesc din București: este o destinație emblematică care stă ca o mărturie a bogatei istorii culturale a țării. Templul, care datează de la sfârșitul secolului al XIX-lea, este cea mai mare sinagogă din România și una dintre cele mai mari din toată Europa. Situat pe Strada Sfântul Iosif, servește ca o amintire a cât de adânc înrădăcinat este iudaismul în cultura românească.
@@ -123,6 +133,11 @@ Sunt șanse ca în București să aibă loc un eveniment în fiecare weekend - d
 
 Aceste evenimente nu numai că vor oferi o mulțime de divertisment, dar vă pot oferi și o perspectivă asupra culturii locale. Unele dintre cele mai populare evenimente includ Bucharest International Jazz Festival, Bucharest Street Arts Festival și Bucharest Street Food Festival. 
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 Există, de asemenea, multe evenimente culturale mai mici, cum ar fi expoziții de artă, spectacole de teatru și proiecții de filme. 
 
 Pe lângă aceste festivaluri, există o mulțime de muzee și galerii de explorat în București, care prezintă cultura și istoria românească.
@@ -135,5 +150,10 @@ Pe lângă aceste festivaluri, există o mulțime de muzee și galerii de explor
 Concluzia este că, Bucureștiul oferă o multime de lucruri de facut în weekend. De la plimbari relaxante la evenimente și activități distractive, exista ceva pentru toata lumea. 
 
 Daca vrei sa experimentezi ceva nou, poți încerca unele dintre activitățile menționate mai sus. De asemenea, vei găsi multe restaurante și cafenele locale unde să petreci timpul cu prietenii și să savurezi mâncare delicioasa. 
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 Mai mult decat atat, orasul are o mulțime de parcuri și grădini minunate care merita explorate!

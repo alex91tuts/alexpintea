@@ -60,6 +60,11 @@ Dacă ești interesat de istoria României, acest muzeu este locul potrivit pent
 
 Acest muzeu este dedicat culturii și tradițiilor țărănești românești. Aici vei putea vedea costume populare, obiecte de uz casnic și alte artefacte care îți vor oferi o perspectivă autentică asupra vieții rurale din România.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
+
 ### Catedrala Patriarhală
 
 Este cea mai importantă biserică ortodoxă din București și sediul Patriarhiei Române. Arhitectura impresionantă și frumusețea interioară a acestei catedrale te vor cuceri cu siguranță.
@@ -132,6 +137,11 @@ Parcul este frecventat de localnici și turiști deopotrivă, iar în timpul ver
 Parcul Titan este situat în partea de est a orașului și este un loc preferat pentru plimbări și activități în aer liber.
 
 Acesta oferă alei frumoase pentru plimbări, zone de picnic și terenuri de sport. Parcul este înconjurat de blocuri de locuințe și este o destinație populară pentru familiile cu copii.
+
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 ---
 ## Încearcă mâncarea locală
@@ -211,6 +221,10 @@ Dacă preferi să vezi filme pe marele ecran, Cinema City este alegerea perfect�
 
 Sălile de cinema sunt dotate cu tehnologie de ultimă generație, asigurându-ți o experiență cinematografică deosebită.
 
+{% include cta-cazare.html 
+locatie="BUCUREȘTI"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FBucharest%2CRomania-c25578%2F1rooms%2F2adults"
+%}
 
 ### CinemaPRO
 

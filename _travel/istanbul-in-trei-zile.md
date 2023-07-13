@@ -50,6 +50,11 @@ tags: ['Istanbul', 'CityBreak', '2023']
 
 ---
 
+{% include cta-cazare.html 
+locatie="ISTANBUL"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FIstanbul%2CTurkey-c3430%2F1rooms%2F2adults"
+%}
+
 Salutare, dragă călătorule! Gata să descoperi Istanbulul în doar 3 zile? Acest ghid îți va arăta cum să te bucuri de cele mai bune atracții, mâncăruri și experiențe pe care acest oraș fascinant le are de oferit. 
 
 Te întrebi ce este atât de special la Istanbul? Ei bine, este un oraș magic care se întinde între două continente, Europa și Asia, și îmbină perfect istoria cu modernismul.
@@ -143,6 +148,11 @@ Acest complex de clădiri luxoase și grădini somptuoase este acum un muzeu imp
 <img src="/assets/images/travel/citybreak/istanbul/tokapi.webp" width="740" height="491" loading="lazy" alt="{{ page.keyword }}">
 
 De asemenea, nu rata priveliștea panoramică asupra Bosforului și Cornului de Aur de pe terasele palatului.
+
+{% include cta-cazare.html 
+locatie="ISTANBUL"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FIstanbul%2CTurkey-c3430%2F1rooms%2F2adults"
+%}
 
 ### Cină la un restaurant cu vedere la Bosfor
 
@@ -255,6 +265,11 @@ Participă la spectacol și învață câțiva pași de dans pentru a te simți 
 La sfârșitul celei de-a doua zile, te vei întoarce la cazare cu amintiri minunate și cu o înțelegere mai aprofundată a culturii și istoriei acestui oraș fascinant. 
 
 Pregătește-te pentru ultima zi a călătoriei tale în Istanbul, când vei explora partea asiatică a orașului și te vei relaxa într-un hamam tradițional.
+
+{% include cta-cazare.html 
+locatie="ISTANBUL"
+link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FIstanbul%2CTurkey-c3430%2F1rooms%2F2adults"
+%}
 
 ---
 ## Ziua 3 - Aventură în partea asiatică a Istanbulului și relaxare într-un hamam
