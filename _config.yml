@@ -61,5 +61,4 @@ compress_html:
 
 kramdown:
   auto_ids: true
-plugins:
-  - jekyll-image-size
+
