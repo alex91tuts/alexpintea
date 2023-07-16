@@ -35,7 +35,7 @@ tags:
 
 **Biserica Stavropoleos - hartă**
 
-<img src="/assets/images/travel/stavropoleos/harta.webp" width="740" height="356" alt="{{ page.keyword }}">
+<img src="/assets/images/travel/stavropoleos/harta.webp" {% imagesize /assets/images/travel/stavropoleos/harta.webp:props %} alt="{{ page.keyword }}">
 
 ***
 

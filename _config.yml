@@ -58,3 +58,8 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
+
+kramdown:
+  auto_ids: true
+plugins:
+  - jekyll-image-size

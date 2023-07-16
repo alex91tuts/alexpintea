@@ -15,3 +15,4 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
 end
 gem "jekyll-autoprefixer", "~> 1.0"
+gem 'jekyll-image-size'
