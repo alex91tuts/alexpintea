@@ -132,6 +132,11 @@ Peștera Valea Cetății din Râșnov poate fi vizitată în mai multe moduri, d
 
 În prezent, Peștera Valea Cetății este deschisă pentru vizitatori și oferă o priveliște impresionantă cu săli și galerii impresionante formate de eroziunea apei de-a lungul a mii de ani. 
 
+{% include link.html 
+anchor="Rezervația de Ursi Libearty Zărnești"
+link="https://totredus.ro/travel/rezervatia-de-ursi-libearty-zarnesti/"
+%}
+
 Aceasta a fost adaptată pentru a primi vizitatori, fiind amenajată cu un sistem de iluminat modern și trepte și poduri pentru o navigare ușoară. 
 
 În ciuda amenajărilor, peștera își păstrează misterul și frumusețea naturală, fiind un loc minunat pentru a reflecta asupra poveștilor și legendelor care o înconjoară.

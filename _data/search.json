@@ -438,12 +438,27 @@
     {
       "title"    : "Peștera Valea Cetății din Râșnov - O bijuterie subterană de 958 m",
       "category" : "ROMANIA",
-      "tags"     : "",
+      "tags"     : "Rasnov, Pestera, Valea-Cetatii",
       "url"      : "/travel/pestera-valea-cetatii-rasnov/",
       "date"     : "2023-07-19 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/valea-cetatii/pestera-valea-cetatii-main.webp",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "Descoperă frumusețea naturală a Peșterii Valea Cetății din Râșnov. O peșteră situată la 3 km de oraș, cu o lungime de aproximativ 958 m. Vizitează acum și bucură-te...",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Rezervația de Urși Libearty Zărnești",
+      "category" : "ROMANIA",
+      "tags"     : "Rasnov, Urși, Rezervație",
+      "url"      : "/travel/rezervatia-de-ursi-libearty-zarnesti/",
+      "date"     : "2023-07-21 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/ursi/rezervatia-de-ursi-libearty-zarnesti-main.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Explorăm Sanctuarul Libearty Zărnești, o casă a libertății pentru urșii captivi. Alăturați-vă și cunoașteți poveștile lor remarcabile în acest articol profund...",
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",

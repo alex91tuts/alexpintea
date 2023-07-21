@@ -112,7 +112,7 @@ Poiana Narciselor este o arie protejată unde veţi putea admira narcisele sălb
 
 ### Rezervația de Urși Libearty Zărnești
 
-Rezervația de Urși Libearty Zărnești, situată în apropierea orașului Râșnov, este un sanctuar dedicat urșilor salvați din captivitate și condiții precare. 
+**[Rezervația de Urși Libearty Zărnești](https://totredus.ro/travel/rezervatia-de-ursi-libearty-zarnesti)**, situată în apropierea orașului Râșnov, este un sanctuar dedicat urșilor salvați din captivitate și condiții precare. 
 
 Acesta a fost înființat în anul 2005 de către Asociația Milioane de Prieteni, cu scopul de a oferi un mediu sigur, natural și îngrijit pentru aceste animale minunate.
 
