@@ -271,7 +271,7 @@
     } ,
   
     {
-      "title"    : "Secretele Cetății Râșnov: O Călătorie În Timp Prin Istoria Medievală",
+      "title"    : "Cetatea Râșnov 2023: O Călătorie În Timp Prin Istoria Medievală",
       "category" : "ROMANIA",
       "tags"     : "Rasnov, Cetate, 2023",
       "url"      : "/travel/cetatea-rasnov/",
@@ -429,6 +429,21 @@
 	    "image"     : "/assets/images/travel/copii/ce-sa-faci-in-bucuresti-cu-copiii.webp",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "Descoperă cele mai atractive activități pentru copii în București. De la parcuri și muzee, la locuri de joacă indoor și evenimente culturale, aventura începe aici!",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Peștera Valea Cetății din Râșnov - O bijuterie subterană de 958 m",
+      "category" : "ROMANIA",
+      "tags"     : "",
+      "url"      : "/travel/pestera-valea-cetatii-rasnov/",
+      "date"     : "2023-07-19 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/valea-cetatii/pestera-valea-cetatii-main.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperă frumusețea naturală a Peșterii Valea Cetății din Râșnov. O peșteră situată la 3 km de oraș, cu o lungime de aproximativ 958 m. Vizitează acum și bucură-te...",
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",

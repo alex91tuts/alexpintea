@@ -13,6 +13,7 @@ tara: "ROMANIA"
 oras: "RÂȘNOV"
 lang: "ro_RO"
 keyword: "pestera valea cetatii"
+tags: ['Rasnov', 'Pestera', 'Valea-Cetatii']
 
 ---
 Peștera Valea Cetății este o peșteră situată în apropierea orașului Râșnov, județul Brașov, România. Peștera se află la o altitudine de 825 de metri și are o lungime de 958 de metri. 
