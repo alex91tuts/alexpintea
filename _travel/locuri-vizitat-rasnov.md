@@ -75,7 +75,7 @@ Acest lăcaș de cult săpat în stâncă e un loc plin de spiritualitate și li
 
 ### Biserica Evanghelică
 
-Mai mult decât doar un loc de cult, [Biserica Evanghelică din Râșnov](https://ro.wikipedia.org/wiki/Biserica_evanghelic%C4%83_din_R%C3%A2%C8%99nov){:target="_blank"} este un exemplu extraordinar de arhitectură săsească, cu elemente gotice și baroce. 
+Mai mult decât doar un loc de cult, [Biserica Evanghelică din Râșnov](https://ro.wikipedia.org/wiki/Biserica_evanghelic%C4%83_din_R%C3%A2%C8%99nov) este un exemplu extraordinar de arhitectură săsească, cu elemente gotice și baroce. 
 
 <img src="/assets/images/travel/rasnov/biserica-evanghelica-rasnov.webp" width="740" height="647" loading="lazy" alt="biserica evanghelica din rasnov;">
 
@@ -106,7 +106,7 @@ Un alt punct de atracție în zoną este **Rezervaţia Naturalā Valea Zimbrilor
 
 ### Cheile Râșnoavei
 
-**[Cheile Râșnoavei](https://cheile-rasnoavei.ro/){:target="_blank"}** sunt renumite pentru formațiunile stâncoase impresionante care atrag iubitorii de natură și sporturi extreme. Aici poți practica escaladă, bungee jumping sau vizita Poienii Narciselor, un loc plin de frumusețe în mijlocul naturii.
+[Cheile Râșnoavei](https://cheile-rasnoavei.ro/) sunt renumite pentru formațiunile stâncoase impresionante care atrag iubitorii de natură și sporturi extreme. Aici poți practica escaladă, bungee jumping sau vizita Poienii Narciselor, un loc plin de frumusețe în mijlocul naturii.
 
 Poiana Narciselor este o arie protejată unde veţi putea admira narcisele sălbatice înflorite în primăvară. Este un spectacol al naturii ce merită trǎit mǎcar o datǎ în viaţǎ.
 
@@ -144,7 +144,7 @@ link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR
 
 Cheile Râșnoavei sunt o destinație de top pentru iubitorii de natură și aventură. Situat la aproximativ 10 kilometri de Râșnov, acest loc îți oferă o mulțime de posibilități de a te bucura de natură și de a-ți pune la încercare curajul.
 
-[Cheile Râșnoavei](https://cheile-rasnoavei.ro/){:target="_blank"} sunt o adevărată capodoperă naturală, cu peisaje montane abrupte și stânci spectaculoase care se înalță deasupra văii. Aceste formațiuni stâncoase, cu forme unice și culori diverse, oferă un spectacol vizual impresionant și sunt un cadru perfect pentru fotografii memorabile.
+[Cheile Râșnoavei](https://cheile-rasnoavei.ro/) sunt o adevărată capodoperă naturală, cu peisaje montane abrupte și stânci spectaculoase care se înalță deasupra văii. Aceste formațiuni stâncoase, cu forme unice și culori diverse, oferă un spectacol vizual impresionant și sunt un cadru perfect pentru fotografii memorabile.
 
 Pe lângă priveliștea minunată, Cheile Râșnoavei oferă și o serie de activități de agrement care îți pot satisface pofta de aventură. Drumețiile sunt o alegere excelentă pentru cei care doresc să exploreze zona în ritm propriu. 
 
@@ -185,7 +185,7 @@ Fie că e vorba despre Peștera Liliecilor sau despre Grota Haiducilor, ai parte
 
 ### Valea Cetății: drumeții și activități în aer liber
 
-Dacă îți place natura, atunci Valea Cetății e locul perfect pentru tine. Aici poți face drumeții printre dealuri și pajiști, să te bucuri de priveliști pitorești și să respiri aer curat. Iar dac-ai chef de ceva mai palpitant, poți încerca tiroliana sau escalada pe stâncile din zonă(https://www.pestera-valeacetatii.ro/).
+Dacă îți place natura, atunci Valea Cetății e locul perfect pentru tine. Aici poți face drumeții printre dealuri și pajiști, să te bucuri de priveliști pitorești și să respiri aer curat. Iar dac-ai chef de ceva mai palpitant, poți încerca tiroliana sau escalada pe stâncile din zonă.
 
 ### Peștera Valea Cetății: o experiență educativă
 
@@ -193,7 +193,7 @@ Pe lângă aspectul lor spectaculos, peșterile din zonă au și o valoare știi
 
 ### Concluzie
 
-Deci, dac-ai ajuns prin Râșnov și vrei să vezi ceva cu adevărat special, nu rata Peștera Valea Cetății și alte peșteri din zon(URL 'https://www.ziaruldeiasi.
+Deci, dac-ai ajuns prin Râșnov și vrei să vezi ceva cu adevărat special, nu rata **[Peștera Valea Cetății](https://totredus.ro/travel/pestera-valea-cetatii-rasnov/)** și alte peșteri din zonă.
 
 ---
 ## Distracție pentru toate vârstele: Dino Parc Râșnov și tururi ghidate în peșteri și cetăți

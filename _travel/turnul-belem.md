@@ -28,7 +28,7 @@ Vezi [aici un top atracții turistice în Lisabona](https://totredus.ro/travel/a
 <img src="/assets/images/travel/belem/1.webp" width="740" height="555" alt="{{ page.keyword }};">
 
 
-Turnul Belem este o fortăreață din secolul al XVI-lea situată în Lisabona, Portugalia. Turnul a fost construit între 1514 și 1520, sub conducerea arhitectului Francisco de Arruda, în stil manuelin, o formă de arhitectură portugheză distinctivă, care combină elemente gotice, renascentiste și islamice.
+**Turnul Belem** este o fortăreață din secolul al XVI-lea situată în Lisabona, Portugalia. Turnul a fost construit între 1514 și 1520, sub conducerea arhitectului Francisco de Arruda, în stil manuelin, o formă de arhitectură portugheză distinctivă, care combină elemente gotice, renascentiste și islamice.
 
 Obiectivul este situat pe malul râului Tajo, în apropierea intrării în portul Lisabona. Acesta a fost construit din piatră și cărămidă, cu un plan pătrat, cu laturile de aproximativ 12 metri și o înălțime totală de 30 de metri. În partea de sus, turnul este înconjurat de un balcon cu balustradă, de unde se poate admira peisajul înconjurător.
 

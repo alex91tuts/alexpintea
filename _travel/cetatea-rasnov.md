@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Secretele Cetății Râșnov: O Călătorie În Timp Prin Istoria Medievală"
+title: "Cetatea Râșnov 2023: O Călătorie În Timp Prin Istoria Medievală"
 descriere: "Explorează Cetatea Râșnov - bijuteria Transilvaniei. Află istoria sa bogată, viziunea panoramică impresionantă și atracțiile uimitoare din apropiere."  
 description: "Explorează Cetatea Râșnov - bijuteria Transilvaniei. Află istoria sa bogată, viziunea panoramică impresionantă și atracțiile uimitoare din apropiere."   
 meta_image: assets/images/travel/cetatea-rasnov/cetatea-rasnov-main.webp 
@@ -13,6 +13,7 @@ categorie: CITY BREAK
 lang: ro_RO
 keyword: "cetate rasnov"
 date: 2023-05-18
+date-modified: 2023-07-21
 tags: ['Rasnov', 'Cetate', '2023']
 
 ---
@@ -23,7 +24,7 @@ tags: ['Rasnov', 'Cetate', '2023']
 În inima istoriei românești, ascunsă între crestele Carpaților, se află un adevărat tezaur de patrimoniu cultural: **Cetatea Râșnov.** Vizitată anual de mii de turiști și cercetători, aceasta constituie un punct de reper fascinant pentru înțelegerea istoriei noastre medievale.
 
 ---
-## Program Vizitare
+## Cetatea Rasnov program 2023
 
 În acest moment cetatea Râșnov este închisă pentru restaurare. 
 
@@ -33,6 +34,10 @@ Se poate vizita doar grădina / partea de jos a cetații, nu se percepe taxa de 
 locatie="RÂȘNOV"
 link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FR%C3%A2%C5%9Fnov%2CRomania-c62565%2F1rooms%2F2adults"
 %}
+
+## Cetatea Rasnov pret intrare 2023
+
+Având în cedere faptul că cetatea se află în prin proces de restaurare, s poate vizita doar grădina Cetăţii Râșnov. În acest sens, pretul de intrare este **gratuit**.
 
 ---
 ## Cum ajungi la Cetatea Râșnov?
@@ -208,6 +213,11 @@ Astfel, de la o fortificație simplă, cetatea a devenit un complex fortificat i
 Astăzi, Cetatea Râșnov stă mărturie a istoriei tumultoase a regiunii, iar complexitatea sa arhitectonică fascinează vizitatorii din întreaga lume.
 
 Fiecare piatră, fiecare turn, fiecare încăpere are o poveste de spus, iar descoperirea acestor povești este o parte esențială a vizitei la Cetatea Râșnov.
+
+{% include link.html 
+anchor="Peștera Valea Cetății din Râșnov"
+link="https://totredus.ro/travel/pestera-valea-cetatii-rasnov/"
+%}
 
 ---
 ## Secretele și Legendele Cetății Râșnov 
