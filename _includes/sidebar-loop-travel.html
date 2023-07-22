@@ -27,6 +27,17 @@
 		</a>
 	{% endfor %}
 </div>
+<div class="col review-side">
+<span class="title-section-sidebar">ORAȘE</span>
+	<hr>
+		{% assign orase = site.travel | map: 'oras' | uniq %}
+		{% for item in orase reversed %}
+		<a href="{{ site.url }}/travel" onclick="window.name = '{{ item }}';" style="color: black;">
+			{{ item }}
+		<hr style="border: 0;">
+		</a>
+	{% endfor %}
+</div>
 
 </div>
 </div>

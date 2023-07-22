@@ -4,13 +4,21 @@ layout: default
 
 
 <section>
-    <div class="section-title">
-        <h1><span>{{ page.title }}</span></h1>
+<div class="row align-items-center">
+    <div class="col-12 col-md-6 text-start text-md-center">
+        <div class="section-title">
+            <h1><span>{{ page.title }}</span></h1>
+        </div>
     </div>
-    
+    <div class="col-12 col-md-6 text-start text-md-center">
+        {% if page.title == "CALATORII"%}<input type="text" class="cauta-travel form-control" id="searchBox" placeholder="Caută...">{% endif %}
+    </div>
+</div>
+
+
+	<hr>
     <div class="article-post">
     {{content}}
     </div>
-    
-       
+        
 </section>

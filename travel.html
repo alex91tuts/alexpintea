@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: CALATORII
+title: "CALATORII"
 permalink: /travel/
 description: Am fost acolo - secțiune de călătorii. Află cele mai bune destinații din țară și de afară. 
 meta_image: /assets/images/amfostacolo.jpg
@@ -11,71 +11,169 @@ date: 2023-04-20
 ---
 <div><button id='categorie-selectata' style="margin-left: 0;" class="btn btn-dark btn-sm cat-small"></button></div>
 <div class="row reviews-wrapper">
-<div id="outputReview" class="row col-lg-8"></div>
+<div class="row col-lg-8">
+<div id="outputReview" class="col-12" style="flex-wrap: inherit;"></div>
+<div style="width: 100%;"><button id="loadMore" class="cta-load-more">MAI MULTE</button></div>
+</div>
 {% include sidebar-loop-travel.html %}
 
 </div>
+
 <script>
-	
 let url = '{{ site.url }}/api/travel/travel_api.json',
-		fil = [],
-		categorie = window.name;
+    fil = [],
+    categorie = window.name.toUpperCase();
+
 function getFilters() {
-fetch(url)
-	.then((res)  => res.json())
-	.then((data) => {
-		var outputReview = '';
-	  fil = [];
-		for (var i=0; i<data.length; i++) {
-			if (data[i].categorie.toUpperCase().indexOf(categorie) > -1 || data[i].tag1.toUpperCase().indexOf(categorie) > -1 || data[i].tag2.toUpperCase().indexOf(categorie) > -1 || data[i].tag3.toUpperCase().indexOf(categorie) > -1 ) {
-					fil.push(data[i])
-			}
-		}
-		fil.forEach(function(prod){
-			outputReview += `
-				<div class="card-wrapper col-lg-6">
-					<div class="for-style">
-					<div class="imagine-post" style="background-image: url('${prod.imagine}')">
-						<a href="{{site.url }}/{{ post.category }}/index.html"><span class="categ">${prod.categorie}</span></a>
-					</div>
-					<div class="footer-post">
-						<h2>${prod.titlu}</h2>
-						<p>${prod.descriere}</p>
-						<a href="${prod.link}"><button>Citeste</button></a>
-					</div>
-					</div>
-				</div>
-				`	
-		});
-		document.getElementById('outputReview').innerHTML = outputReview;
-	  document.getElementById('categorie-selectata').innerHTML = categorie;
-	  categorie = '';
-	  buttonInner();
-	})
+  fetch(url)
+    .then((res)  => res.json())
+    .then((data) => {
+      fil = data.filter(item => {
+        if (!item) {
+          return false;
+        }
+        const categorieUpper = item.categorie ? item.categorie.toUpperCase() : '';
+        const orasUpper = item.oras ? item.oras.toUpperCase() : '';
+        const taraUpper = item.tara ? item.tara.toUpperCase() : '';
+        return categorieUpper.includes(categorie) || orasUpper.includes(categorie) || taraUpper.includes(categorie);
+      });
+
+      // Initial load of 8 posts
+      loadMore(0, 8);
+
+      // Load more button
+      document.getElementById('loadMore').addEventListener('click', function() {
+        var currentLength = document.getElementById('outputReview').children.length;
+        loadMore(currentLength, currentLength + 8);
+      });
+
+      // Hide load more button if a category is selected
+      buttonInner();
+      
+      // Live search
+			document.getElementById('searchBox').addEventListener('input', debounce(function(e) {
+					console.log('Entering debounce() function');
+					var searchQuery = removeDiacritics(e.target.value.toLowerCase());
+					console.log('searchQuery:', searchQuery);  // Log the searchQuery value
+					var searchResults;
+
+					if (searchQuery) {
+							document.getElementById('loadMore').style.display = 'none';
+							searchResults = fil.filter(item => {
+									const isMatch = 
+											(item.titlu ? removeDiacritics(item.titlu.toLowerCase()).includes(searchQuery) : false) ||
+											(item.categorie ? removeDiacritics(item.categorie.toLowerCase()).includes(searchQuery) : false) ||
+											(item.oras ? removeDiacritics(item.oras.toLowerCase()).includes(searchQuery) : false);
+									return isMatch;
+							});
+					} else {
+							searchResults = fil.slice(0, 8);
+							document.getElementById('loadMore').style.display = 'block';
+					}
+
+					document.getElementById('outputReview').innerHTML = '';
+					renderPosts(searchResults);
+			console.log('Leaving debounce() function');
+			}, 300));
+    });
 }
+
+function removeDiacritics(str) {
+  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+}
+
+function debounce(func, delay) {
+  let inDebounce;
+  return function() {
+    const context = this;
+    const args = arguments;
+    clearTimeout(inDebounce);
+    inDebounce = setTimeout(() => func.apply(context, args), delay);
+  }
+}
+
 window.onload = getFilters();
 
 function buttonInner () {
-	var x = document.getElementById('categorie-selectata');
-	var u = document.getElementById('categorie-selectata').innerText;
-	u == '' ? x.style.display = 'none' : x.style.display = 'block';
+	console.log('Entering buttonInner()');
+  var x = document.getElementById('categorie-selectata');
+  var u = document.getElementById('categorie-selectata').innerText;
+  if(u == '') {
+    document.getElementById('loadMore').style.display = 'block';
+    x.style.display = 'none';
+  } else {
+    document.getElementById('loadMore').style.display = 'none';
+    x.style.display = 'block';
+  }
+	console.log('Leaving buttonInner()');
 }
 
-	
-
 document.getElementById('categorie-selectata').addEventListener('click', function() {
-	categorie = [];
-	window.name = '';
-	getFilters();
+  categorie = '';
+  window.name = '';
+  document.getElementById('outputReview').innerHTML = '';
+  getFilters();
 });
 
-	
+function loadMore(start, end) {
+  var slicedFil = fil.slice(start, end);
+  renderPosts(slicedFil);
+}
+
+function renderPosts(posts) {
+  var outputReview = '';
+  posts.forEach(function(prod){
+    outputReview += `
+      <div class="card-wrapper col-lg-6">
+        <div class="for-style">
+        <div class="imagine-post" style="background-image: url('${prod.imagine}')">
+          <span class="categ">${prod.categorie}</span><span class="oras">${prod.oras}</span>
+        </div>
+        <div class="footer-post">
+          <h2>${prod.titlu}</h2>
+          <p>${prod.descriere}</p>
+          <a href="${prod.link}"><button>Citeste</button></a>
+        </div>
+        </div>
+      </div>
+      `	
+  });
+
+  document.getElementById('outputReview').innerHTML += outputReview;
+  document.getElementById('categorie-selectata').innerHTML = categorie;
+  categorie = '';
+  // buttonInner();
+}
+
 </script>
 
 
 
 <style>
 
+	.cauta-travel {
+		width: 100%;
+    height: 52px;
+    border: solid 2px lightgray;
+    border-radius: 20px;
+    padding-left: 15px;
+    font-size: 16px;
+    background: #d3d3d308;
+	}
+	.cta-load-more {
+    background-color: #772f1a;
+    background-image: linear-gradient(315deg, #772f1a 0%, #f2a65a 74%);
+    text-decoration: none;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    text-transform: uppercase;
+    padding: 13px 49px;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+		margin: auto;
+}
 	.categ {
 		background-color: transparent;
     background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
@@ -86,6 +184,18 @@ document.getElementById('categorie-selectata').addEventListener('click', functio
     margin-left: 5px;
 		margin-top: 5px;
 		font-size: 13px;
+	}
+	.oras {
+		background-color: transparent;
+    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+		color: white;
+		font-weight: 500;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-right: 5px;
+		margin-top: 5px;
+		font-size: 13px;
+		float: right;
 	}
 	.author-thumb {
 		width: 50px;
@@ -109,6 +219,7 @@ document.getElementById('categorie-selectata').addEventListener('click', functio
 		padding-left: 10px;
 		padding-bottom: 20px;
 	}
+	
 	.for-style:hover {
 		box-shadow: 0 0 0 0 white;
 		transition: all 0.5s;
