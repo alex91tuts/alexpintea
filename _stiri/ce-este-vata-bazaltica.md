@@ -3,7 +3,7 @@ title: 'Ce este vata bazaltica? Izolatorul Ideal Pentru Constructii'
 image_path: stiri/vata-bazaltica/vata-bazaltica.webp
 layout: stiri
 date: 2023-05-20
-date-modified: 
+date-modified: 2023-05-20
 categorie: DESIGN INTERIOR
 tags: ['Izolatie', 'Vata', 'Bazaltica']
 nume: "ce este vata bazaltica"
@@ -60,7 +60,7 @@ Vata bazaltică este cunoscută pentru durabilitatea sa. Nu se degradează în t
 ---
 ## Dezavantajele vatei bazaltice
 
-Deși vata bazaltică are multe avantaje, există și câteva dezavantaje care ar trebui luate în considerare:
+Deși vata bazaltică are multe avantaje, există și câteva **[dezavantaje](https://totredus.ro/stiri/dezavantaje-vata-bazaltica/)** care ar trebui luate în considerare:
 
 ### Greutate
 
