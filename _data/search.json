@@ -1025,6 +1025,20 @@
 			"cat"    : "CASA SI GRADINA",
       "subcat" : "INTERIOR",
       "subcat1"     : "RIFLAJE"
+    } ,
+  
+    {
+      "title"    : "Panouri SIP - Ce Sunt? Randament, Avantaje, Dezavantaje - Preturi",
+      "category" : "DESIGN INTERIOR",
+      "tags"     : "Panouri, Sip, Casa",
+      "url"      : "/stiri/panouri-sip/",
+      "date"     : "2023-07-27 00:00:00 +0300",
+	    "image"     : "/assets/images/stiri/sip/panouri-sip-main.webp",
+			"author"    : "Home Best",
+	    "description"     : "Descoperă avantajele panourilor SIP: rezistență structurală, izolație termică superioară, adaptabilitate la diverse stiluri arhitecturale și rapiditate în construcție.",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "EXTERIOR",
+      "subcat1"     : ""
     } 
   
 	,

@@ -31,6 +31,11 @@ Este considerată un material complet nedăunător, cu care se poate lucra făr�
 3. "Cum se instalează vata bazaltică"
 4. "Ce se întâmplă dacă se udă vata bazaltică"
 
+{% include link.html 
+anchor="Panouri SIP - Un mod inovator de constructii"
+link="https://totredus.ro/stiri/panouri-sip/"
+%}
+
 ---
 ## Avantajele vatei bazaltice
 
