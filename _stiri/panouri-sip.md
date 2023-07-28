@@ -65,8 +65,6 @@ Panourile SIP oferă un beneficiu major în ceea ce privește montajul rapid și
 
 Pentru a înțelege mai bine avantajele montajului rapid și ușor oferite de panourile SIP, iată o comparație între acestea și metodele tradiționale de construcție:
 
-Sure, here's the table rewritten in markdown format:
-
 |  | Metode tradiționale de construcție | Panouri SIP |
 | --- | --- | --- |
 | Durata montajului | Montajul poate dura săptămâni sau luni, în funcție de dimensiunea și complexitatea proiectului | Montajul poate fi finalizat în câteva zile sau chiar ore |
