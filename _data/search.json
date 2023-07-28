@@ -1053,6 +1053,20 @@
 			"cat"    : "CASA SI GRADINA",
       "subcat" : "EXTERIOR",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Vata Bazaltica vs. Polistiren - Care este cel mai bun izolator?",
+      "category" : "",
+      "tags"     : "Vata Bazaltica, Polistiren, Comparatie",
+      "url"      : "/stiri/vata-bazaltica-vs-polistiren/",
+      "date"     : "2023-07-28 00:00:00 +0300",
+	    "image"     : "/assets/images/stiri/vb-polis/main-vm-po.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă avantajele și dezavantajele vatei bazaltice și polistirenului. Află care este cea mai bună soluție pentru izolarea termică și acustică a locuinței tale. ",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "EXTERIOR",
+      "subcat1"     : ""
     } 
   
 	,

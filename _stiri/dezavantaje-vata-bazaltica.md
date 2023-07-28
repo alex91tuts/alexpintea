@@ -183,7 +183,7 @@ Vata bazaltică oferă o izolare termică și fonică superioară, o rezistenț�
 
 Pe de altă parte, polistirenul expandat este mai puțin costisitor, oferă o rezistență bună la apă, dar are o rezistență mai scăzută la foc și oferă o izolare fonică moderată.
 
-Decizia de a alege între aceste două materiale va depinde în mare măsură de necesitățile specifice ale proiectului, buget și alte considerente personale sau profesionale.
+Decizia de a alege între vata **[bazaltica vs polistiren](https://totredus.ro/stiri/vata-bazaltica-vs-polistiren/)** va depinde în mare măsură de necesitățile specifice ale proiectului, buget și alte considerente personale sau profesionale.
 
 ---
 ## Concluzie

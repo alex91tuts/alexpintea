@@ -118,6 +118,11 @@ Când vine vorba de izolare, vata minerală de sticlă și vata bazaltică sunt 
 
 Ambele materiale oferă o izolare termică și fonică de înaltă calitate, dar diferențele lor pot fi decisive în alegerea celui mai potrivit material de izolare pentru proiectul dumneavoastră.
 
+{% include link.html 
+anchor="Vata Bazaltica vs Polisitren"
+link="https://totredus.ro/stiri/vata-bazaltica-vs-polistiren/"
+%}
+
 ---
 ## Cum se instalează vata bazaltică
 

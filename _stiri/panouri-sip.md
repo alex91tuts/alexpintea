@@ -82,6 +82,11 @@ Panourile SIP (Structural Insulated Panels) reprezintă o soluție inovatoare î
 
 Aceste panouri sunt alcătuite dintr-un miez izolant între două straturi rigide, de obicei din OSB (placaj cu particule orientate). Utilizarea lor în construcții a devenit tot mai populară datorită proprietăților lor excelente.
 
+{% include link.html 
+anchor="Vata Bazaltica vs Polisitren"
+link="https://totredus.ro/stiri/vata-bazaltica-vs-polistiren/"
+%}
+
 ### Cum se integrează panourile SIP în structura unei clădiri
 
 Panourile SIP pot fi utilizate pentru toate elementele structurale ale unei clădiri, inclusiv pereți exteriori, pereți interiori, planșee și acoperișuri.
