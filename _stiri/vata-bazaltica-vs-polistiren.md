@@ -56,7 +56,7 @@ Să înțelegem acest concept printr-un exemplu simplu. Dacă avem două materia
 ---
 ## nZeb? Ce înseamnă?
 
-Conceptul de clădiri cu **consum energetic aproape zero** (**nZEB**) reprezintă viitorul construcțiilor sustenabile și ecologice. **nZEB** se referă la clădiri cu performanță energetică foarte înaltă. Energia foarte redusă de care au nevoie aceste clădiri este produsă în mare parte din surse regenerabile, inclusiv surse produse pe loc sau în apropiere.
+Conceptul de clădiri cu **consum energetic aproape zero** (**nZEB**) reprezintă viitorul construcțiilor sustenabile și ecologice. **[nZEB](https://totredus.ro/stiri/standardul-nzeb-si-locuinta-pasiva/)** se referă la clădiri cu performanță energetică foarte înaltă. Energia foarte redusă de care au nevoie aceste clădiri este produsă în mare parte din surse regenerabile, inclusiv surse produse pe loc sau în apropiere.
 
 Directiva UE privind performanța energetică a clădirilor (**EPBD**) prevede că toate clădirile noi construite după 31 decembrie 2020 trebuie să fie nZEB. În plus, statele membre UE trebuie să se asigure că toate clădirile existente, care trec printr-o renovare majoră, îndeplinesc cerințele nZEB.
 

@@ -111,6 +111,11 @@ Cu toate acestea, cercetările mai recente și modificările în procesele de pr
 
 În ciuda acestor îmbunătățiri, există încă unele preocupări în legătură cu efectele pe termen lung ale expunerii la fibrele de vată minerală. 
 
+{% include link.html 
+anchor="Ce inseamna nZeb?" 
+link="https://totredus.ro/stiri/standardul-nzeb-si-locuinta-pasiva/" 
+%}
+
 Ca atare, se recomandă ca cei care manipulează și instalează vată minerală bazaltică să utilizeze echipament de protecție adecvat, inclusiv măști de protecție sau respiratoare, pentru a limita inhalarea fibrelor.
 
 ---
