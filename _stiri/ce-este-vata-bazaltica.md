@@ -150,6 +150,12 @@ Ultimul pas în procesul de instalare este verificarea lucrării. Asigurați-vă
 
 Instalarea corectă a vatei bazaltice va asigura o izolare termică și fonică eficientă, contribuind la confortul și eficiența energetică a locuinței dumneavoastră. În cazul în care aveți nelămuriri, nu ezitați să contactați un profesionist.
 
+{% include link.html 
+anchor="Bariera De Vapori - Rol și Beneficii" 
+link="https://totredus.ro/stiri/unde-se-pune-bariera-antivapori/" 
+%}
+
+
 ---
 ## Ce se întâmplă dacă se udă vata bazaltică
 

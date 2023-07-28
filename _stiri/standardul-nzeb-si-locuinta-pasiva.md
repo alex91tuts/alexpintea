@@ -67,6 +67,11 @@ Deși Directiva stabilește un cadru general, este responsabilitatea fiecărui s
 
 Este important de menționat că **Directiva EPBD** nu se referă doar la eficiența energetică, ci și la confortul și sănătatea ocupanților clădirilor. Acesta subliniază importanța ventilației adecvate, a calității aerului interior și a iluminării naturale, pentru a asigura un mediu sănătos și plăcut pentru persoanele care locuiesc sau lucrează în clădiri.
 
+{% include link.html 
+anchor="Unde Se Pune Bariera De Vapori" 
+link="https://totredus.ro/stiri/unde-se-pune-bariera-antivapori/" 
+%}
+
 În următorul capitol, vom discuta mai multe despre avantajele clădirilor nZEB, nu doar în ceea ce privește economiile de energie și protecția mediului, ci și beneficiile pentru ocupanți și societate în ansamblu.
 
 ---

@@ -97,226 +97,54 @@ description: "Ghidul tău de încredere într-o lume în mișcare!"
 		<div class="col-12" id="smarthome">
       <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">SMARTHOME<span class="text-megna">.</span></h2>
       <div class="row">
+				{% assign stiri = site.smarthome | sort: 'date' | reverse %}
+				{% for post in stiri limit:4 %}
         <div class="col-lg-3 post">
-					{% assign stiri = site.smarthome | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 %}
           <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
             <div class="grad-back">
               <h2 class="post-title-2 post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
             </div>
           </div>
-					{% endfor %}
         </div>
-  			<div class="col-lg-3 post">
-					{% assign stiri = site.smarthome | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 offset:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-        <div class="col-lg-3 post">
-					{% assign stiri = site.smarthome | sort: 'date' | reverse %}
-					{% for post in stiri offset:2 limit:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-				<div class="col-lg-3 post">
-					{% assign stiri = site.smarthome | sort: 'date' | reverse %}
-					{% for post in stiri offset:3 limit:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-      </div>
+				{% endfor %}
     </div>
+		
 		
 		 <div class="col" id="casa">
       <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">CASĂ SI GRĂDINĂ<span class="text-megna">.</span></h2>
       <div class="row">
+				{% assign stiri = site.stiri | where: "cat", "CASA SI GRADINA" | sort: 'date' | reverse %}
+				{% for post in stiri limit:6 %}
         <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 %}
           <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
             <div class="grad-back">
               <h2 class="post-title-2 post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
             </div>
           </div>
-					{% endfor %}
         </div>
-  			<div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 offset:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-        <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
-					{% for post in stiri offset:2 limit:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-      </div>
-			 
-			  <div class="row">
-        <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 offset:3 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-  			<div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 offset:4 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-        <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "DESIGN INTERIOR" | sort: 'date' | reverse %}
-					{% for post in stiri offset:5 limit:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
+				{% endfor %}
       </div> 
     </div>
 		
 		
 		
-		
-		
-		
-		
+			
 		 <div class="col-12" id="review">
       <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">REVIEW<span class="text-megna">.</span></h2>
       <div class="row">
+				{% assign stiri = site.reviews | sort: 'date' | reverse %}
+					{% for post in stiri offset:2 limit:8 %}
 				<div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:2 limit:1 %}
           <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
             <div class="grad-back">
               <h2 class="post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
             </div>
           </div>
-					{% endfor %}
         </div>
-        <div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:3 limit:1 %}
-          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-  			<div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:4 limit:1 %}
-          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-       <div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:5 limit:1 %}
-          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-			  <div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:6 limit:1 %}
-          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-				  <div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:7 limit:1 %}
-          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-				  <div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:8 limit:1 %}
-          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-				  <div class="col-lg-3 col-6 post">
-					{% assign stiri = site.reviews | sort: 'date' | reverse %}
-					{% for post in stiri offset:9 limit:1 %}
-          <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-      </div>
+				{% endfor %}
     </div>	
 		
 		
@@ -325,120 +153,17 @@ description: "Ghidul tău de încredere într-o lume în mișcare!"
 		 <div class="col-12" id="travel">
       <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">CALĂTORII<span class="text-megna">.</span></h2>
       <div class="row">
+				{% assign stiri = site.travel | sort: 'date' | reverse %}
+				{% for post in stiri offset:1 limit:8 %}
 				<div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:1 limit:1 %}
           <div class="post-content rowing" style="background-image: url({{ post.image }});">
             <div class="grad-back">
               <h2 class="post-title-2 post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
             </div>
           </div>
-					{% endfor %}
         </div>
-        <div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:2 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-  			<div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:3 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-       <div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:4 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-      </div>
-			 
-			 
-			    <div class="row">
-				<div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:5 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-        <div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:6 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-  			<div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:7 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-       <div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:8 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-				 <div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:9 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-				 <div class="col-lg-6 col-12 post">
-					{% assign stiri = site.travel | sort: 'date' | reverse %}
-					{% for post in stiri offset:10 limit:1 %}
-          <div class="post-content rowing" style="background-image: url({{ post.image }});">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
+				{% endfor %}
       </div>
     </div>	
 		
@@ -446,85 +171,29 @@ description: "Ghidul tău de încredere într-o lume în mișcare!"
 		 <div class="col-12" id="financiar">
       <h2 class="title fade-in" style="margin-left: -10px;line-height: 45px; padding-top: 30px;">FINANCIAR<span class="text-megna">.</span></h2>
       <div class="row">
+				{% assign stiri = site.stiri | where: "categorie", "FINANCIAR" | sort: 'date' | reverse %}
+				{% for post in stiri limit:6 %}
         <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "FINANCIAR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 %}
           <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
             <div class="grad-back">
               <h2 class="post-title-2 post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
             </div>
           </div>
-					{% endfor %}
         </div>
-  			<div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "FINANCIAR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 offset:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-        <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "FINANCIAR" | sort: 'date' | reverse %}
-					{% for post in stiri offset:2 limit:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
+				{% endfor %}
       </div>
-			 
-			  <div class="row">
-        <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "FINANCIAR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 offset:3 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-  			<div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "FINANCIAR" | sort: 'date' | reverse %}
-					{% for post in stiri limit:1 offset:4 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-        <div class="col-lg-4 post">
-					{% assign stiri = site.stiri | where: "categorie", "FINANCIAR" | sort: 'date' | reverse %}
-					{% for post in stiri offset:5 limit:1 %}
-          <div class="post-content" style="background-image: url('/assets/images/{{ post.image_path }}');">
-            <div class="grad-back">
-              <h2 class="post-title-2 post-title">{{ post.title }}</h2>
-              <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>
-            </div>
-          </div>
-					{% endfor %}
-        </div>
-      </div> 
+
     </div>
 		
 		
   </div>
 </div>
 
-
-		
 </div>
+</div>
+	
+	
 <div class="static-slider2 spacer" style="background-color: rgb(244, 248, 250) !important;">
     <div class="container">
         <!-- Row  -->

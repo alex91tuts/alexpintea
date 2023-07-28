@@ -128,6 +128,11 @@ Cu toate acestea, **polistirenul** are și câteva **dezavantaje**. Deși este r
 
 Acum că am examinat caracteristicile individuale ale vatei bazaltice și polistirenului, este timpul să le comparăm direct pentru a avea o imagine mai clară a avantajelor și dezavantajelor fiecăruia. 
 
+{% include link.html 
+anchor="Totul Despre Bariera De Vapori" 
+link="https://totredus.ro/stiri/unde-se-pune-bariera-antivapori/" 
+%}
+
 Acest lucru ne va ajuta să înțelegem ce material este mai potrivit pentru diferite tipuri de aplicații.
 
 **Rezistența termică**: Atât vata bazaltică cât și polistirenul prezintă o bună rezistență termică, deși valoarea exactă a coeficientului R poate varia în funcție de producător și de grosimea materialului. În general, vata bazaltică are o valoare R ușor mai mare decât polistirenul, ceea ce o face mai eficientă în blocarea transferului de căldură.
