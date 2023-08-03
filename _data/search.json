@@ -463,6 +463,21 @@
       "subcat" : "",
       "subcat1"     : "",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sovata - Obiective Turistice | Topul Atractiilor și Locurilor de Vizitat",
+      "category" : "ROMANIA",
+      "tags"     : "Salina, Helioterm, Am Fost Acolo",
+      "url"      : "/travel/sovata-obiective-turistice/",
+      "date"     : "2023-08-03 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/sovata/main-sovata.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
     } 
   
 	,
