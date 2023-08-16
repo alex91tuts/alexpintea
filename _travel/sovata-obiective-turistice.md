@@ -4,7 +4,7 @@ title: "Sovata - Obiective Turistice | Topul Atractiilor și Locurilor de Vizita
 descriere: "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid"
 description: "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid"
 date: 2023-08-03
-date-modified: 2023-08-03
+date-modified: 2023-08-16
 meta_image: /assets/images/travel/sovata/main-sovata.webp
 image: /assets/images/travel/sovata/main-sovata.webp
 author: "Fabrica de amintiri"
@@ -14,6 +14,11 @@ oras: "SOVATA"
 lang: "ro_RO"
 keyword: "sovata obiective turistice"
 tags: ['Salina','Helioterm','Am Fost Acolo']
+video: "yes"
+video_thumb: "/assets/images/travel/bucuresti/video_primaverii.webp"
+video_name: "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid"
+video_update: "2023-08-16"
+video_url: "https://www.youtube.com/embed/HaowVOeHTZ8"
 
 ---
 În inima Transilvaniei, acolo unde dealurile îmbrățișează cu drag misterul și frumusețea naturii, există un loc cu totul și cu totul special. Acesta este Sovata, o comoară ascunsă în liniștea verde a munților, un spațiu unde timpul pare să își încetinească ritmul, oferindu-ți ocazia să te reconectezi cu tine însuți și cu minunatele spectacole ale naturii. 
@@ -23,6 +28,12 @@ tags: ['Salina','Helioterm','Am Fost Acolo']
 Sovata este recunoscută pentru combinația unică de farmec tradițional și peisaje spectaculoase. Fie că ești un călător dornic de aventură, un iubitor al naturii sau pur și simplu îți dorești să te bucuri de o pauză liniștită departe de agitația cotidiană, Sovata îți oferă o experiență de neuitat. 
 
 Alătură-te nouă în această călătorie prin frumusețea și istoria Sovatei, în timp ce descoperim împreună ceea ce face din acest loc o destinație perfectă pentru orice tip de vizitator.
+
+{% include youtube.html 
+link="https://www.youtube.com/embed/HaowVOeHTZ8"
+image="/assets/images/travel/sovata/sovata-thumb.webp"
+alt="Locuri de vizitat in Sovata - Topul Obiectivelor Turistice"
+%}
 
 ---
 ## Mocănița din Sovata
@@ -188,6 +199,27 @@ Este cunoscut faptul că aerul încărcat cu particule de sare poate avea efecte
 Pe lângă beneficiile pentru sănătate, Aleea Terapeutică este și un loc plăcut pentru plimbări. Mărginită de arbori înalți și flancată de Lacul Ursu și Muntele de Sare, aleea oferă o priveliște frumoasă și un mediu relaxant. 
 
 Fie că alegi să te plimbi dimineața, când aerul este proaspăt, sau seara, când soarele apune și culorile cerului se oglindesc în apa lacului, fiecare moment al zilei aduce o atmosferă specială pe alee.
+
+---
+## Cascada Vărșag
+
+Cascada Vărșag a devenit tot mai populară în ultimii ani, datorită frumuseții sale naturale și a proximității față de stațiunea Sovata.
+
+<img src="/assets/images/travel/sovata/cascada-langa-sovata-varsag.webp" width="740" height="493" loading="lazy" alt="{{ page.keyword }} cascada varsag">
+
+Iată câteva informații despre Cascada Vărșag:
+
+**Localizare**: [Cascada Vărșag](https://totredus.ro/travel/cascada-sovata-varsag/) se află în județul Harghita, la o distanță relativ mică de stațiunea Sovata. Este situată pe râul Vărșag, de unde și-a luat și numele.
+
+**Accesibilitate**: Pentru a ajunge la cascada Vărșag, poți parcurge un traseu pe jos printr-un peisaj natural deosebit. Drumul este marcat și accesibil pentru majoritatea oamenilor.
+
+**Caracteristici**: Cascada este formată din mai multe trepte de apă care cad spectaculos peste stânci. Sunetul apei și priveliștea fac din acest loc un adevărat colț de rai pentru iubitorii de natură.
+
+**Activități**: În zona cascadei, poți face drumeții, picnic sau poți profita de momente de relaxare în mijlocul naturii. Este un loc ideal pentru fotografiile de peisaj și pentru cei care doresc să se deconecteze de la agitația cotidiană.
+
+**Biodiversitate**: Zona înconjurătoare este bogată în specii de floră și faună specifică Carpaților. Astfel, cu puțin noroc, poți întâlni diferite animale sălbatice sau poți admira florile de munte.
+
+**Conservare**: Datorită frumuseții sale și a importanței ecologice, este important ca turiștii să respecte regulile de protecție a mediului și să nu lase gunoaie sau să perturbe fauna și flora locului.
 
 ---
 ## Lacul Negru Sovata
