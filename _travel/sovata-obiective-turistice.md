@@ -61,7 +61,7 @@ Numele lacului vine de la forma sa asemănătoare cu aceea a unui urs, și nu es
 
 Cu un microclimat specific și apele sale sărate, care pot atinge temperatura de 30-40 de grade Celsius în timpul verii, **Lacul Ursu** este o adevărată oază de sănătate. Se spune că aceste ape au proprietăți curative pentru diverse afecțiuni, cum ar fi cele reumatice, endocrine sau ale sistemului nervos.
 
-Pe lângă beneficiile pentru sănătate, vizitatorii se pot bucura și de plajele amenajate din jurul lacului, ideal pentru zilele calde de vară. Fie că optezi pentru un **tratament balnear**, înot sau pur și simplu te relaxezi pe malul lacului, atmosfera liniștită și peisajele magnifice oferă o experiență unică.
+Pe lângă beneficiile pentru sănătate, vizitatorii se pot bucura și de plajele amenajate din jurul lacului, ideal pentru zilele calde de vară. Fie că optezi pentru un **[tratament balnear](https://totredus.ro/travel/ce-boli-se-trateaza-in-statiunea-sovata/)**, înot sau pur și simplu te relaxezi pe malul lacului, atmosfera liniștită și peisajele magnifice oferă o experiență unică.
 
 Un alt element de fascinație oferit de Lacul Ursu este legat de legendele locale care îl înconjoară. Poveștile despre formarea acestui lac misterios, dar și numeroasele mituri și legende despre vindecările miraculoase care au avut loc aici, adaugă un strat de mister și atracție acestui minunat loc de vizitat.
 
