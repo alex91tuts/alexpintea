@@ -63,6 +63,10 @@ Poate te gândești că 3 zile nu sunt suficiente pentru a explora acest oraș m
 
 Înainte de a începe aventura, nu uita să îți faci temele: verifică prognoza meteo, pregătește-ți echipamentul potrivit și asigură-te că ai o hartă la îndemână un telefon cu conexiune la internet la indemână.
 
+{% include link.html 
+anchor="Locuri de vizitat in Croatia" 
+link="https://totredus.ro/travel/locuri-de-vizitat-croatia/" 
+%}
 
 ---
 ## Ziua 1 - Descoperă partea europeană a Istanbulului

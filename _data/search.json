@@ -508,6 +508,36 @@
       "subcat" : "",
       "subcat1"     : "",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Top 10 Locuri de Vizitat în Croația: Ghidul Complet al Obiectivelor Turistice 2023",
+      "category" : "CROATIA",
+      "tags"     : "Croatia, Obiective, Turism",
+      "url"      : "/travel/locuri-de-vizitat-croatia/",
+      "date"     : "2023-10-09 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/croatia/locuri-vizitat-croatia-main.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperă cele mai impresionante 10 obiective turistice din Croația! De la zidurile istorice ale Dubrovnikului până la insulele Hvar, acest ghid îți ofera tot ce trebuie să știi pentru o vacanță de neuitat. ",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Obiective Turistice Praid - Cele Mai Frumoase Locuri de Vizitat",
+      "category" : "ROMANIA",
+      "tags"     : "Praid, Obiective, Atractii",
+      "url"      : "/travel/obiective-turistice-praid/",
+      "date"     : "2023-10-09 00:00:00 +0300",
+	    "image"     : "/assets/images/travel/obiective-praid/obiective-turistice-praid-main.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Praid, o perlă a Transilvaniei, te invită să descoperi cele mai frumoase obiective turistice. Explorează tradiția, cultura și peisajele unice ale acestei destinații și lasă-te fascinat de comorile ascunse ale inimii României.",
+			"cat"    : "",
+      "subcat" : "",
+      "subcat1"     : "",
+			"type"     : "travel"
     } 
   
 	,
