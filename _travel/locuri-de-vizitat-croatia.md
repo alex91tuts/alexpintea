@@ -38,9 +38,9 @@ Croația, o țară situată la răscruce dintre Europa Centrală, Balcani și Ma
 
 În ultimii ani, aceasta țară a devenit tot mai populară în rândul turiștilor, nu doar datorită poziționării sale geografice ideale, dar și grație comorilor sale ascunse, a orașelor istorice și a peisajelor de coastă care taie răsuflarea.
 
-**Locuri de vizitat în Croația** sunt atât de variate și captivante, încât este aproape imposibil să alegi doar câteva. De la orașe pline de istorie precum [Dubrovnik](https://www.tripadvisor.com/Tourism-g295371-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia-Vacations.html) și Rovinj, până la parcurile naționale unde natura pare să-și fi dat întâlnire cu arta, Croația oferă o experiență turistică de neegalat.
+**Atracțiile turistice din Croația** sunt atât de variate și captivante, încât este aproape imposibil să alegi doar câteva. De la orașe pline de istorie precum [Dubrovnik](https://www.tripadvisor.com/Tourism-g295371-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia-Vacations.html) și Rovinj, până la parcurile naționale unde natura pare să-și fi dat întâlnire cu arta, Croația oferă o experiență turistică de neegalat.
 
-În plus, **obiective turistice Croația** reflectă o moștenire culturală profundă și diversă. Romanii, venețienii, ungurii și mulți alții și-au lăsat amprenta asupra acestei țări, făcând din Croația un adevărat amalgam de culturi și tradiții.
+În plus, **obiectivele turistice din Croația** reflectă o moștenire culturală profundă și diversă. Romanii, venețienii, ungurii și mulți alții și-au lăsat amprenta asupra acestei țări, făcând din Croația un adevărat amalgam de culturi și tradiții.
 
 În paginile ce urmează, vă vom ghida prin cele mai remarcabile și captivante 10 destinații din Croația, oferindu-vă o privire detaliată asupra fiecărei regiuni și a ceea ce o face specială. 
 
@@ -51,7 +51,7 @@ Fie că sunteți un călător avid în căutare de aventură sau pur și simplu 
 
 <img src="/assets/images/travel/croatia/mare-dubrovnik.webp" width="740" height="335" loading="lazy" alt="{{ page.keyword }} mare dubrovnik">
 
-Dubrovnik, deseori numit "Perla Adriaticii", este un oraș emblematic și unul dintre cele mai vizitate **locuri de vizitat în Croația**. Orașul medieval, înconjurat de ziduri impresionante, oferă o combinație fascinantă de istorie, arhitectură și frumusețe naturală.
+Dubrovnik, deseori numit "Perla Adriaticii", este un oraș emblematic și unul dintre cele mai vizitate **obiective turistice din Croația**. Orașul medieval, înconjurat de ziduri impresionante, oferă o combinație fascinantă de istorie, arhitectură și frumusețe naturală.
 
 ### Zidurile Orașului
 
@@ -77,7 +77,7 @@ Orașul găzduiește numeroase palate, biserici și muzee. Palatul Rectorului, B
 
 Dubrovnik nu este doar un oraș cu o istorie bogată și o arhitectură impresionantă, dar și cu o atmosferă vibrantă și plină de viață. 
 
-Fie că sunteți un pasionat al istoriei, un iubitor al frumuseților naturale sau pur și simplu căutați o destinație de vacanță de neuitat, Dubrovnik este cu siguranță unul dintre locurile pe care trebuie să le aveți pe lista de **locuri de vizitat în Croația**.
+Fie că sunteți un pasionat al istoriei, un iubitor al frumuseților naturale sau pur și simplu căutați o destinație de vacanță de neuitat, Dubrovnik este cu siguranță unul dintre locațiile pe care trebuie să le aveți pe lista de **locuri de vizitat în Croația**.
 
 {% include link.html 
 anchor="Ce sa faci 3 zile in Istanbul" 
@@ -93,7 +93,7 @@ Korčula, cunoscută drept "**Micul Dubrovnik**", este una dintre perlele ascuns
 
 ### Orașul Korčula
 
-- **Istoria vie: **Străzile pietruite și clădirile din piatră ale orașului Korčula păstrează poveștile unei istorii bogate. Legende locale spun că celebrul explorator Marco Polo s-a născut chiar aici.
+- **Istoria vie:** Străzile pietruite și clădirile din piatră ale orașului Korčula păstrează poveștile unei istorii bogate. Legende locale spun că celebrul explorator Marco Polo s-a născut chiar aici.
 
 - **Arhitectura medievală**: Fortărețele și turnurile orașului, precum și zidurile sale defensive, oferă o privire retrospectivă în timpurile medievale.
 
@@ -204,9 +204,9 @@ Riviera Makarska se întinde pe o lungime de peste 60 de kilometri de coastă, o
 
 <img src="/assets/images/travel/croatia/omis.webp" width="740" height="360" loading="lazy" alt="{{ page.keyword }} omis">
 
-Omiš, situat la gura Canionului Cetina, este un oraș cu o istorie bogată și multe **obiective turistice din Croația**:
+Omiš, situat la gura Canionului Cetina, este un oraș cu o istorie bogată și multe **obiective turistice de vizitat**:
 
-- **Istorie de Pirat**: În Evul Mediu, Omiš era reședința temuților pirați Omiš, care au controlat această parte a Adriaticii. Ruinele fortăreței Mirabella sunt mărturia acestor vremuri și oferă o priveliște panoramică asupra orașului și a mării.
+- **Istoria Piraților**: În Evul Mediu, Omiš era reședința temuților pirați Omiš, care au controlat această parte a Adriaticii. Ruinele fortăreței Mirabella sunt mărturia acestor vremuri și oferă o priveliște panoramică asupra orașului și a mării.
 
 - **Aventuri pe Râul Cetina**: Canionul Cetina oferă o gamă largă de activități, de la rafting până la tiroliană peste peisaje spectaculoase.
 
@@ -374,7 +374,7 @@ Situat în apropiere de Dugi Otok, arhipelagul Kornati este un ansamblu de insul
 ---
 ## Bine de știut înainte de a vizita Croația
 
-O călătorie în Croația poate fi o experiență de neuitat, dar pentru a te asigura că vizita ta se desfășoară fără probleme, este esențial să fii bine informat. Așadar, iată câteva aspecte pe care trebuie să le iei în considerare atunci când planifici să descoperi **locuri de vizitat în Croația** și **obiective turistice Croația**.
+O călătorie în Croația poate fi o experiență de neuitat, dar pentru a te asigura că vizita ta se desfășoară fără probleme, este esențial să fii bine informat. Așadar, iată câteva aspecte pe care trebuie să le iei în considerare atunci când planifici să descoperi cele mai frumoase **locuri de vizitat în Croația**.
 
 ### Moneda
 
@@ -407,7 +407,7 @@ O călătorie în Croația poate fi o experiență de neuitat, dar pentru a te a
 ---
 ## FAQ: Întrebări frecvente despre Croația
 
-Croația este o destinație turistică populară, dar dacă ești la prima vizită, este posibil să ai câteva întrebări. Iată răspunsurile la cele mai frecvente întrebări legate de **locuri de vizitat în Croația** și **obiective turistice Croația**.
+Croația este o destinație turistică populară, dar dacă ești la prima vizită, este posibil să ai câteva întrebări. Iată răspunsurile la cele mai frecvente întrebări legate de **vizitarea Croației**.
 
 ### 1. Ce perioadă este cea mai bună pentru a vizita Croația?
 
