@@ -16,7 +16,8 @@ keyword: "sovata obiective turistice"
 tags: ['Salina','Helioterm','Am Fost Acolo']
 video: "yes"
 video_thumb: "/assets/images/travel/bucuresti/video_primaverii.webp"
-video_name: "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid"
+video_name: "Sovata Obiective Turistice - Cele mai frumoase locuri de vizitat"
+video_description: "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid"
 video_update: "2023-08-16"
 video_url: "https://www.youtube.com/embed/HaowVOeHTZ8"
 

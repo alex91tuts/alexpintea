@@ -17,7 +17,8 @@ tags: ['Praid','Obiective','Atractii']
 
 video: "yes"
 video_thumb: "/assets/images/travel/obiective-praid/salina-praid-video.webp"
-video_name: "Praid, o perlă a Transilvaniei, te invită să descoperi cele mai frumoase obiective turistice. Explorează tradiția, cultura și peisajele unice ale acestei destinații și lasă-te fascinat de comorile ascunse ale inimii României."
+video_name: "Obiective Turistice Praid - topul locurilor de vizitat"
+video_description: "Praid, o perlă a Transilvaniei, te invită să descoperi cele mai frumoase obiective turistice. Explorează tradiția, cultura și peisajele unice ale acestei destinații și lasă-te fascinat de comorile ascunse ale inimii României."
 video_update: "2023-09-10"
 video_url: "https://www.youtube.com/embed/3W9_p4rsm-w"
 
