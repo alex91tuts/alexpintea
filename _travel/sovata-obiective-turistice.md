@@ -376,6 +376,11 @@ Un alt aspect care fascinează la **Salina Praid** este dimensiunea sa impresion
 
 La suprafață, în apropierea salinei, se află un parc amenajat, cu zone de picnic, locuri de joacă pentru copii și un muzeu al sării, unde vizitatorii pot afla mai multe despre istoria și importanța exploatării sării în această zonă.
 
+{% include link.html 
+anchor="Obiective Turistice Praid"
+link="https://totredus.ro/travel/obiective-turistice-praid/"
+%}
+
 ---
 ## Casa Fluturilor Praid
 
