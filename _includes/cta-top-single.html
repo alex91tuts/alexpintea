@@ -1,5 +1,5 @@
 
-<div class="card-wrapper col-lg-12 col-12" style="margin-top: 50px; margin-bottom: 30px;">
+<div class="card-wrapper marg col-lg-12 col-12" style="">
 	<div class="for-style row">
 	<div class="imagine-lat col-6" style="background-image: url({{include.imagine1}})">
 		<span class="categtop">{{include.nota1}}</span>
@@ -17,18 +17,10 @@
 <style>
 	@media only screen and (max-width: 600px) {
 		.top-nota {
-		position: absolute;
-    border: solid 3px !important;
-    width: 50px !important;
-    height: 50px !important;
-    top: -9px !important;
-    left: -1px !important;
-    border-color: #1dc8cd !important;
+		width: 70px !important;
 		}
 		.top-caps {
-    font-size: 31px!important;
-    font-weight: 700 !important;
-    line-height: 42px !important;
+    
 		}
 		.card-wrapper {
 			padding-left: 2px !important;
@@ -59,31 +51,55 @@
 			padding: 7px;
 		}
 }
-	.top-caps {
-		font-size: 48px;
-    font-weight: 700;
-    line-height: 57px;
-    color: #63d3d9;
-    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
-    background: linear-gradient(to right,#ff8a00,#da1b60);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -webkit-box-decoration-break: clone;
-	}
 
-	.top-nota {
-	  position: absolute;
-    border: solid 5px;
-    border-radius: 60px;
-    width: 70px;
-    height: 70px;
-    text-align: center;
-    padding: 0px;
-    top: -30px;
-    left: -17px;
-    background: white;
-    border-color: #1dc8cd;
-	}
+.marg {
+	margin-top: 25px; 
+	}	
+.top-caps {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 57px;
+  color: #63d3d9;
+  position: relative;
+  background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+  background: linear-gradient(to right,#ff8a00,#da1b60);
+    background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  top: -19px;
+}
+
+.top-nota {
+  position: absolute;
+  border: solid 1px;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: currentcolor;
+  border-top-color: currentcolor;
+  border-right-color: currentcolor;
+  border-bottom-color: currentcolor;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-left-color: currentcolor;
+  border-radius: 0;
+    border-top-left-radius: 0px;
+  width: 100px;
+  height: 23px;
+  text-align: center;
+  padding: 0px;
+  top: -23px;
+  left: -1px;
+  background: white;
+  border-color: #eee;
+    border-bottom-color: rgb(238, 238, 238);
+  border-bottom-color: rgb(29, 200, 205);
+  border-bottom: 0;
+  border-top-left-radius: 3px;
+}
 	
 	.categtop {
 		background-color: transparent;
@@ -99,10 +115,12 @@
 	}
 
 	.for-style {
-		border: 1px solid #dddddd7d;
-    box-shadow: 0 0 20px #F0F0F0;
-		border-radius: 4px;
-	}
+  border: 1px solid #dddddd7d;
+  box-shadow: 0 0 20px #F0F0F0;
+  border-radius: 4px;
+    border-top-right-radius: 4px;
+  border-top-right-radius: 0;
+}
 	.card-wrapper {
 		padding-left: 10px;
 		padding-bottom: 20px;
@@ -146,8 +164,8 @@
     text-align: center;
 }
 	.footer-post button {
-		background-color: transparent;
-    background-image: linear-gradient(260deg, #8062d4 0%, #41dcab 100%);
+		background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60)) !important;
+    background: linear-gradient(to right,#ff8a00,#da1b60) !important;
     text-decoration: none;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
 		border: none;

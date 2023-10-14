@@ -62,7 +62,7 @@ Motivul pentru care Remington S9500 Pearl este câștigătorul se datorează com
 
 {% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/S9500.webp" 
-locula="1" 
+locula="Locul 1" 
 nota1="9.5"
 titlu1="Remington S9500 Pearl"
 url1="https://l.profitshare.ro/l/11660687" %}
@@ -88,44 +88,46 @@ Vezi si: **[Remington S9500 Pro - review detaliat](https://totredus.ro/review/re
 ## Top 6 plăci de par Remington
 
 
-
-{% include cta-top.html 
+{% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/S9500.webp" 
-locula="1" 
+locula="Locul 1" 
 nota1="9.5"
 titlu1="Remington S9500 Pearl"
-url1="https://l.profitshare.ro/l/11660687" 
+url1="https://l.profitshare.ro/l/11660687" %}
 
-imagine2="/assets/images/reviews/remington/S5505.webp" 
-loculb="2" 
-nota2="9.0"
-titlu2="Remington S5505 1” Anti-Static Flat Ironl"
-url2="https://l.profitshare.ro/l/11660699" %}
+{% include cta-top-single.html 
+imagine1="/assets/images/reviews/remington/S5505.webp" 
+locula="Locul 2" 
+nota1="9.0"
+titlu1="Remington S5505 1” Anti-Static Flat Ironl"
+url1="https://l.profitshare.ro/l/11660699" %}
 
-{% include cta-top.html 
+{% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/8590.webp" 
-locula="3" 
+locula="Locul 3" 
 nota1="8.5"
 titlu1="Remington S8590 Keratin Therapy Pro"
-url1="https://l.profitshare.ro/l/11660714" 
+url1="https://l.profitshare.ro/l/11660714" %}
 
-imagine2="/assets/images/reviews/remington/7300.webp" 
-loculb="4" 
-nota2="8.3"
-titlu2="Remington S7300 Wet2Straight"
-url2="https://l.profitshare.ro/l/11660724" %}
+{% include cta-top-single.html 
+imagine1="/assets/images/reviews/remington/7300.webp" 
+locula="Locul 4" 
+nota1="8.3"
+titlu1="Remington S7300 Wet2Straight"
+url1="https://l.profitshare.ro/l/11660724" %}
 
-{% include cta-top.html 
+{% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/9100.webp" 
-locula="5" 
+locula="Locul 5" 
 nota1="8.0"
 titlu1="Remington S9100 PROluxe"
-url1="https://l.profitshare.ro/l/11660747" 
+url1="https://l.profitshare.ro/l/11660747" %}
 
-imagine2="/assets/images/reviews/remington/7480.webp" 
-loculb="6" 
-nota2="7.8"
-titlu2="Remington Pro 2-in-1 Heated Straightening Brush CB7480" url2="https://l.profitshare.ro/l/11660760" %}
+{% include cta-top-single.html 
+imagine1="/assets/images/reviews/remington/7480.webp" 
+locula="Locul 6" 
+nota1="7.8"
+titlu1="Remington Pro 2-in-1 Heated Straightening Brush CB7480" url1="https://l.profitshare.ro/l/11660760" %}
 
 ---
 ## Locul 1 - Remington S9500 Pearl
@@ -134,7 +136,7 @@ Remington S9500 Pearl este o placă de păr de înaltă calitate cu plăci ceram
 
 {% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/S9500.webp" 
-locula="1" 
+locula="Locul 1" 
 nota1="9.5"
 titlu1="Remington S9500 Pearl"
 url1="https://l.profitshare.ro/l/11660687" %}
@@ -204,7 +206,7 @@ Remington S5505 este o placă de păr cu tehnologie anti-statică și plăci de 
 
 {% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/S5505.webp" 
-locula="2" 
+locula="Locul 2" 
 nota1="9.0"
 titlu1="Remington S5505 1” Anti-Static Flat Ironl"
 url1="https://l.profitshare.ro/l/11660699" %}
@@ -274,7 +276,7 @@ Remington S8590 Keratin Therapy Pro este o placă de păr cu plăci îmbogățit
 
 {% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/8590.webp" 
-locula="3" 
+locula="Locul 3" 
 nota1="8.5"
 titlu1="Remington S8590 Keratin Therapy Pro"
 url1="https://l.profitshare.ro/l/11660714" %}
@@ -338,7 +340,7 @@ Remington S7300 Wet2Straight este o placă de păr proiectată pentru a fi folos
 
 {% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/7300.webp" 
-locula="4" 
+locula="Locul 4" 
 nota1="8.3"
 titlu1="Remington S7300 Wet2Straight"
 url1="https://l.profitshare.ro/l/11660724" %}
@@ -406,7 +408,7 @@ Remington S9100 PROluxe este o placă de păr cu înveliș ceramic Ultimate Glid
 
 {% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/9100.webp" 
-locula="5" 
+locula="Locul 5" 
 nota1="8.0"
 titlu1="Remington S9100 PROluxe"
 url1="https://l.profitshare.ro/l/11660747" %}
@@ -474,7 +476,7 @@ Remington Pro 2-in-1 Heated Straightening Brush CB7480 este o perie de îndrepta
 
 {% include cta-top-single.html 
 imagine1="/assets/images/reviews/remington/7480.webp" 
-locula="6" 
+locula="Locul 6" 
 nota1="7.8"
 titlu1="Remington Pro 2-in-1 Heated Straightening Brush CB7480" url1="https://l.profitshare.ro/l/11660760" %}
 
