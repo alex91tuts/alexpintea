@@ -4,7 +4,7 @@ image_path: applewatchse/main.webp
 meta_image: assets/images/reviews/applewatchse/main.webp
 layout: review
 date: 2023-05-16
-date-modified: 2023-06-04
+date-modified: 2023-10-14
 categorie-review: WEARABLES
 tags: ['Apple', 'SmartWatch', 'SE2']
 nume: Apple Watch SE 2

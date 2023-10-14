@@ -4,7 +4,7 @@ image_path: remington9500/utilizator.webp
 meta_image: assets/images/reviews/remington9500/utilizator.webp
 layout: review
 date: 2023-05-06
-date-modified:
+date-modified: 2023-10-14
 categorie-review: ELECTROCASNICE
 tags: ['Remington', 'Placa de par', 'S9500']
 nume: Remington S9500 Pearl
