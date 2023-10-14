@@ -56,16 +56,10 @@ subcat1:
 Cu plăci de ceramică îmbogățite cu perle reale, această unealtă pentru coafat vă oferă o experiență profesională chiar în confortul propriei case.
 
 
-{% include cta-photo.html 
-imagine1="/assets/images/reviews/remington9500/produs.webp" 
-badge1="OFERTA 1" 
-titlu1="Remington S9500, 235 grade, LCD, Easy lock" 
-url1="https://l.profitshare.ro/l/11789072" 
-
-imagine2="/assets/images/reviews/remington9500/produsflanco.webp" 
-badge2="OFERTA 2" 
-titlu2="Remington S9500, Invelis ceramic, 235º C" 
-url2="https://l.profitshare.ro/l/11789073" %}
+{% include cta-single.html 
+imagine1="/assets/images/reviews/remington/S9500.webp" 
+titlu1="Remington S9500 Pearl Pro Ceramic"
+url1="https://l.profitshare.ro/l/11660687" %}
 
 Cu un preț accesibil și tehnologia avansată a plăcilor de ceramică cu perle, Remington S9500 Pearl Pro Ceramic oferă un raport excelent calitate-preț. 
 
@@ -104,16 +98,10 @@ Designul Remington S9500 Pearl Pro Ceramic este ergonomic și ușor de utilizat,
 
 Remington S9500 Pearl Pro Ceramic are un preț accesibil, fiind o opțiune atractivă pentru cei care caută o placă de îndreptat părul de calitate la un preț rezonabil.
 
-{% include cta-photo.html 
-imagine1="/assets/images/reviews/remington9500/produs.webp" 
-badge1="OFERTA 1" 
-titlu1="Remington S9500, 235 grade, LCD, Easy lock" 
-url1="https://l.profitshare.ro/l/11789072" 
-
-imagine2="/assets/images/reviews/remington9500/produsflanco.webp" 
-badge2="OFERTA 2" 
-titlu2="Remington S9500, Invelis ceramic, 235º C" 
-url2="https://l.profitshare.ro/l/11789073" %}
+{% include cta-single.html 
+imagine1="/assets/images/reviews/remington/S9500.webp" 
+titlu1="Remington S9500 Pearl Pro Ceramic"
+url1="https://l.profitshare.ro/l/11660687" %}
 
 ---
 ## Eficacitate
@@ -208,6 +196,11 @@ Unii utilizatori au raportat că placa nu a avut o durată de viață foarte lun
 O mică parte a clienților au considerat că placa devine prea caldă în timpul utilizării și că ar fi preferat o protecție împotriva căldurii pe exterior.
 
 </div>
+
+{% include cta-single.html 
+imagine1="/assets/images/reviews/remington/S9500.webp" 
+titlu1="Remington S9500 Pearl Pro Ceramic"
+url1="https://l.profitshare.ro/l/11660687" %}
 
 ---
 ## Concluzie
