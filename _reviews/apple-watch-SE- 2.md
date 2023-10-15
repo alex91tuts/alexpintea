@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch SE 2: stil și funcționalitate | Pareri | Review"
-image_path: applewatchse/main.webp
-meta_image: assets/images/reviews/applewatchse/main.webp
+image_path: "applewatchse/main.webp"
+meta_image: "assets/images/reviews/applewatchse/main.webp"
 layout: review
 date: 2023-05-16
 date-modified: 2023-10-14
@@ -45,8 +45,6 @@ verdict: "Apple Watch SE 2 (2022) este un ceas inteligent cu un design elegant, 
 
 colors: ['red', 'green', 'blue', 'orange']
 
-sku: 
-
 cat: "SMARTWATCH"
 subcat:
 subcat1:
@@ -76,6 +74,11 @@ Apple Watch SE 2 este o dovadă clară a acestui progres, oferind o experiență
 Acest articol își propune să vă ofere o trecere în revistă detaliată a Apple Watch SE 2, acoperind aspecte precum designul, performanța, funcționalitățile, pro și contra, precum și un verdict clar privind meritul său de a fi achiziționat. 
 
 Vom începe prin a arunca o privire asupra specificațiilor tehnice ale produsului.
+
+{% include link.html 
+anchor="Apple Watch Ultra 2 - Ghid complet | Pareri | Review" 
+link="https://totredus.ro/review/apple-watch-ultra-2-review/" 
+%}
 
 ---
 ## Specificații

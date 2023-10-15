@@ -1527,6 +1527,20 @@
 			"cat"    : "FRUMUSETE",
       "subcat" : "EPILARE",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Apple Watch Ultra 2: Ghidul Complet și Analiza Performanței | Pareri | Review",
+      "category" : "REVIEW",
+      "tags"     : "Apple, Ultra 2, Ceas",
+      "url"      : "/review/apple-watch-ultra-2-review/",
+      "date"     : "2023-10-15 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/ultra2/main-ultra-watch-apple-2.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Analiză Apple Watch Ultra 2: un dispozitiv de ultimă generație cu performanțe de top și design modern.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]
