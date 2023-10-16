@@ -154,6 +154,11 @@ Totuși, watchOS 10 nu se limitează la aceste hărți. Sistemul de operare îmb
 
 Concluzionând, watchOS 10 aduce nu doar o serie de îmbunătățiri estetice, ci și o gamă extinsă de funcționalități care subliniază angajamentul Apple de a oferi experiențe tech inovatoare pentru pasionații de sport și mișcare.
 
+{% include link.html 
+anchor="Galaxy Watch 6 și Galaxy Watch 6 - Review" 
+link="https://totredus.ro/review/galaxy-watch-6-galaxy-watch-6-clasic-pareri-review/" 
+%}
+
 ---
 ## Caracteristici legate de sport și fitness
 
