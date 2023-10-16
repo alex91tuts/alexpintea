@@ -1,0 +1,156 @@
+{% for post in site.reviews %}
+{% if post.url == include.link %}
+	{% assign sum = 0 %}
+		{% for item in post.opt %}
+			{% assign sum = sum | plus:item.value %}
+		{% endfor %}
+	{% assign number = post.opt | size | times: 10.0 %}
+	{% assign total = sum | divided_by: number | round: 1 %}
+
+	{% capture decimal %}{% endcapture %}
+
+	{% capture progress4times %} {{ 10 | minus: total | times: 0.1 }} {% endcapture %}
+
+	{% capture progress %}{{ 339.292 | times: progress4times }}{% endcapture %} 
+
+<div id="scor" class="scor-box" style="margin-top: 15px;">
+	 {% include preturi.html %}
+	<div class="circle-progress" style="margin-bottom: 50px;">
+		 <div itemscope itemtype="http://schema.org/Rating" class="progress-bar-total">
+				 <div style="position: relative;"><span class="percent" itemprop="ratingValue">{{ total }}</span><meta itemprop="bestRating" content="10" /></div>
+				<svg class="progress-circle" width="120" height="120" viewBox="0 0 120 120">
+					<circle cx="60" cy="60" r="50" fill="none" stroke="lightgray" stroke-width="12" stroke-dasharray="1, 8"/>
+					<circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
+					<circle class="progress__value-circle" style=" stroke-dashoffset: {{ progress }};" cx="60" cy="60" r="54" fill="none" stroke="#f77a52" stroke-width="12" />
+				</svg>
+			</div>
+		<h3 class="scorebox-title" style="margin-bottom: 0; font-size: larger;">SCOR: <span itemprop="itemReviewed">{{ post.nume }}</span></h3>
+		 <p>{{ post.scor-intro }}</p>
+	</div>
+	<div class="col">
+			{% for item in post.opt %}
+				<div class="progress-div;" style="background: lightgrey; 	border-radius: 0.25rem;">
+						{% if item.value <= 25 %}
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background-color: #dc3545;"></div>
+						{% elsif item.value > 25 and item.value <= 50 %}
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background-color: #ffc107;"></div>
+						{% elsif item.value > 50 and item.value <= 75 %}
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background: #17a2b8"></div>
+						{% elsif item.value > 75 %}
+							<div class="progress-bar" role="progressbar" aria-valuenow="{{ item.value }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ item.value }}%; height: 6px; background-color: #28a745;"></div>
+						{% endif %}
+			</div>
+			<p class="features-score">{{ item.name | upcase }}<span style="float: right;">{{ item.value }}</span></p>
+			{% endfor %}
+	</div>
+	<hr>
+	<div class="pros-cons row col-12">
+			<div class="col-md-6 pros">
+					<h3 class="scorebox-title">PRO</h3>
+					<ul style="list-style: none; padding-left: 24px;">
+						{% for item in post.pro %}
+							<li>{{ item }}</li>
+						{% endfor %}
+					</ul>
+			</div>
+			<div class="col-md-6 cons">
+					<h3 class="scorebox-title">CONTRA</h3>
+					<ul style="list-style: none; padding-left: 24px;">
+						{% for item in post.contra %}
+							<li>{{ item }}</li>
+						{% endfor %}
+					</ul>
+			</div>
+	</div>
+  <hr>
+  <div class="key row">
+			<h3 class="col-12 scorebox-title">SPECIFICATII CHEIE</h3>
+				<ul style="list-style: none; padding: 0;">
+					{% for item in post.key %}
+						<li>{{ item }}</li>
+					{% endfor %}
+				</ul>
+	</div>
+	<hr>
+	<div>
+			<h3 class="scorebox-title">VERDICT</h3>
+			<img class="verdict-img" src="/assets/images/reviews/verdict.webp" alt="{{ page.title }}" width="100" height="100">
+			<p>{{ post.verdict }}</p>
+	</div>
+</div>
+
+
+
+<style>
+.scorebox-title::after {
+	height: 0 !important;
+	}
+.progress-div {
+  height: 1rem;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  background: lightgrey;
+	border-radius: 0.25rem;
+}
+
+.progress-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  transition: width 0.6s ease;
+  background-color: #007bff;
+	border-radius: 0.25rem;
+}
+
+#read-table-btn {
+		background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+		border: 0;
+		cursor: pointer;
+		height: 44px;
+	  font-size: larger;
+	}
+	.table-trunc {
+		height: 196px;
+		overflow: hidden;
+	}
+	.table-all {
+		height: 100%;
+	}
+ .key ul li {
+    border: solid 1px #d3d3d382;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: 500;
+	  box-shadow: 0 0 19px -2px lightgrey;
+    }
+	.key {
+		text-align: center;
+	}
+</style>
+
+<script>
+function toggle() {
+var content =	document.getElementById('read-table');
+var button = document.getElementById('read-table-btn');
+	if (content.className === "table-all") {
+		content.className = "table-trunc";
+		button.innerHTML = "vezi mai multe"
+	} else {
+		content.className = "table-all";
+		button.innerHTML = "vezi mai putin";
+	}
+}
+</script>
+{% endif %}
+{% endfor %}

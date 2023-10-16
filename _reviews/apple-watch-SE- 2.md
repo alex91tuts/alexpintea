@@ -132,6 +132,11 @@ url1="https://l.profitshare.ro/l/11826241" %}
 
 Să nu ne lăsăm păcăliți de mărimea sa compactă: **Apple Watch SE 2** este la fel de capabil ca și frații săi mai mari. De la ecranul luminos la senzorii preciși, este clar că Apple a mizat pe calitate.
 
+{% include link.html 
+anchor="Google Pixel Watch 2 | Pareri | Review" 
+link="https://totredus.ro/review/google-pixel-watch-2-pareri-review/" 
+%}
+
 ---
 
 Apple Watch SE 2 (2022) este poate unul dintre cele mai subestimate produse ale momentului. Deși nu strălucește cu caracteristici revoluționare, aduce exact ceea ce majoritatea dintre noi caută într-un smartwatch la un preț decent. Și, la urma urmei, nu asta e esența unui gadget de succes?

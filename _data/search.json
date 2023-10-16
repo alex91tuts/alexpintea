@@ -1569,6 +1569,20 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Google Pixel Watch 2: Analiză Detaliată - Pareri | Review 2023",
+      "category" : "REVIEW",
+      "tags"     : "Google, Pixel 2, Watch",
+      "url"      : "/review/google-pixel-watch-2-pareri-review/",
+      "date"     : "2023-10-16 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/pixelwatch2/main-pixel-watch.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Analiză aprofundată a Google Pixel Watch 2: Notă generală bazată pe caracteristici esențiale. Descoperă performanța reală în această recenzie.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]
