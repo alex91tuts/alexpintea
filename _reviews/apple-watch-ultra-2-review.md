@@ -264,7 +264,7 @@ Pe drumul evoluției tehnologice, detaliile fac adesea diferența. Apple Watch U
 
 ### Cum funcționează și avantajele acesteia
 
-<span class="drop-caps">D</span>ouble Tap, sau atingerea dublă, a fost implementată pentru a oferi o cale rapidă și simplă de a accesa anumite funcții fără a naviga printr-un meniu complex sau a utiliza coroana digitală. Prin simpla atingere de două ori consecutiv a ecranului, utilizatorii pot:
+<span class="drop-caps">D</span>ouble Tap, sau atingerea dublă, a fost implementată pentru a oferi o cale rapidă și simplă de a accesa anumite funcții fără a naviga printr-un meniu complex sau a utiliza coroana digitală. Pentru a utiliza funcția Double Tap pe Apple Watch, utilizatorii trebuie să atingă rapid degetul arătător și degetul mare împreună, ceea ce va declanșa o acțiune pe ecranul ceasului:
 
 - **Activa sau dezactiva modul silențios**: Ideal atunci când te afli într-o situație în care zgomotul poate fi deranjant.
 
