@@ -1541,6 +1541,20 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Galaxy Watch 6 și Galaxy Watch 6 Clasic - Analiza Detaliata - Pareri | Review",
+      "category" : "REVIEW",
+      "tags"     : "Galaxy, Watch 6, Watch 6 Clasic",
+      "url"      : "/review/galaxy-watch-6-galaxy-watch-6-clasic-pareri-review/",
+      "date"     : "2023-10-16 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/watch6/prezentare-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "O analiză detaliată a Samsung Galaxy Watch 6: Descoperă caracteristici esențiale, performanța reală și punctele forte și slabe ale ceasului.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]
