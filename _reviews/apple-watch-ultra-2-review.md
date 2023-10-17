@@ -327,7 +327,7 @@ Feedback-ul utilizatorilor pentru Apple Watch Ultra 2 este în mare parte poziti
 ---
 ## Apple Watch Ultra 2 vs Samsung Galaxy Watch 5 Pro
 
-<span class="drop-caps">C</span>omparând Apple Watch Ultra 2 cu Samsung Galaxy Watch 5 Pro, am reușit să identificăm puncte forte și puncte slabe pentru ambele dispozitive. Această comparație detaliată are ca scop să vă ofere toate informațiile necesare pentru a face o alegere informată între cele două smartwatch-uri de top.
+<span class="drop-caps">C</span>omparând Apple Watch Ultra 2 cu **[Samsung Galaxy Watch 5 Pro](https://totredus.ro/review/samsung-galaxy-watch-5-pro-review-pareri/)**, am reușit să identificăm puncte forte și puncte slabe pentru ambele dispozitive. Această comparație detaliată are ca scop să vă ofere toate informațiile necesare pentru a face o alegere informată între cele două smartwatch-uri de top.
 
 <img src="/assets/images/reviews/ultra2/apple-vs-samsung.webp" width="740" height="353" loading="lazy" alt="{{ page.keyword }} apple vs samsung">
 

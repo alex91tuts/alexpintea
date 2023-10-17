@@ -1583,6 +1583,20 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy Watch 5 Pro: Review și Păreri - Un Ghid Detaliat",
+      "category" : "REVIEW",
+      "tags"     : "Galaxy, Samsung, SmartWatch",
+      "url"      : "/review/samsung-galaxy-watch-5-pro-review-pareri/",
+      "date"     : "2023-10-17 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/watch5pro/watch-5-pro-galaxy-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Analiză detaliată a Samsung Galaxy Watch 5 Pro: puncte forte, slabe și caracteristici esențiale. Descoperă ce face acest smartwatch special.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]
