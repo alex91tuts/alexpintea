@@ -8,7 +8,7 @@ date: 2023-05-16
 date-modified: 2023-10-14
 categorie-review: WEARABLES
 tags: ['Apple', 'SmartWatch', 'SE2']
-nume: Apple Watch SE 2
+nume: Apple Watch SE 2 (2022)
 topic: review
 author: "Alex P."
 author-link: "alexp"
