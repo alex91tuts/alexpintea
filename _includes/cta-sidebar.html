@@ -1,18 +1,17 @@
 
-<div class="card-wrapper marg col-lg-12 col-12" style="">
-	<div class="for-style row">
-		<img fetchpriority="high" src="/assets/images/svg/buy.svg" class="small-svg buynow" width="40" height="40" alt="cumpara daca icon">
-	<div class="imagine-container col-lg-4 col-6">
-	<div class="imagine-lat " style="background-image: url({{include.imagine1}})">
+<div id="offer" class="card-wrapper sidewrap marg col-lg-12 col-12" style="">
+	<div class="for-style row" style="flex-wrap: wrap">
+		<img fetchpriority="high" src="/assets/images/svg/buy.svg" class="small-svg mobile-buy buynow" width="40" height="40" alt="cumpara daca icon">
+	<div class="imagine-container col-lg-12 col-2">
+	<div class="imagine-sidebar" style="background-image: url({{include.imagine1}})">
 	</div>
 	</div>
-	<div class="col-lg-2 col-0 discount-box">
-		<img class="imagine-discount" src="/assets/images/svg/discount.svg" alt="imagine discount" width="96" height="96">
-	</div>
-	<div class="footer-post-single col-lg-6 col-6">
-		<p class="">{{include.titlu1}}</p>
-		<hr style="margin-bottom: 15px;">
-		<div class=""><a href="{{ include.url1 }}"><button>VEZI PREȚURI</button></a></div>
+	<div class="footer-post-single row col-lg-12 col-10" style="padding-bottom: 10px;">
+		<div class="col-lg-12 col-6">
+		<p class="" style="height: 41px; font-size: 21px; text-align: center;">{{include.titlu1}}</p>
+		</div>
+		<hr class="mobhr" style="margin-bottom: 15px;">
+		<div class="button-holder col-lg-12 col-6"><a href="{{ include.url1 }}"><button>VEZI PREȚURI</button></a></div>
 	</div>
 	</div>
 </div>
@@ -20,6 +19,7 @@
 
 
 <style>
+
 	.buynow {
 		position: absolute;
     top: -8px;
@@ -27,6 +27,27 @@
 		z-index: 1;
 	}
 	@media only screen and (max-width: 600px) {
+		.button-holder {
+			padding: 4px 0;
+		}
+		.sidewrap {
+			padding-bottom: 0;
+		}
+		.imagine-sidebar {
+			height: 52px !important;
+		}
+		.mobhr {
+		display: none;
+		}
+		.mobile-buy {
+			display: none;
+		}
+		#offer {
+			width: 100% !important;
+			margin-top: 0;
+			opacity: 0;  /* Initially hidden */
+    	transition: opacity 0.3s ease-in-out; 
+		}
 		.buynow {
 		position: absolute;
     top: -8px;
@@ -47,6 +68,7 @@
 		.card-wrapper {
 			padding-left: 2px !important;
 			padding-right: 2px !important;
+			padding-bottom: 0 !important;
 		}
 		#outputReview {
 			padding-left: 0 !important;
@@ -55,16 +77,13 @@
 		}
 		.footer-post-single button {
 			font-size: small !important;
-			height: 35px !important;
+			height: 48px !important;
 		}
 		.footer-post-single p {
 			font-weight: bold !important;
 			line-height: 15px !important;
 			font-size: 15px !important;
 			height: 56px !important;
-		}
-		.imagine-lat {
-			height: 120px !important;
 		}
 		.categtop {
 			font-size: 13px;
@@ -156,12 +175,17 @@
 	.card-wrapper {
 		padding-left: 10px;
 		padding-bottom: 20px;
+		background: white;
+	}
+	#offer {
+		width: 345px;
+		z-index: 10000;
 	}
 	.for-style:hover {
 		box-shadow: 0 0 0 0 white;
 		transition: all 0.5s;
 	}
-	.imagine-lat {
+	.imagine-sidebar {
 		height: 150px;
 		background-size: contain;
 		background-repeat: no-repeat;
@@ -169,7 +193,7 @@
 		border-top-right-radius: 3px;
 		background-position: center;
 	}
-	.imagine-lat a:hover {
+	.imagine-sidebar a:hover {
 		text-decoration: none;
 	}
 	.footer-post {
@@ -218,3 +242,42 @@
 	}
 
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    let offerDiv = document.getElementById('offer');
+    let adjustment = 420;
+    let initialPosition = offerDiv.offsetTop + adjustment;
+    let lastScrollPosition = 0;
+
+    function checkSticky() {
+        let currentScrollPosition = window.pageYOffset;
+
+        if (window.innerWidth > 1200) {
+            offerDiv.style.opacity = '1';  // Make it visible
+            if (currentScrollPosition >= initialPosition) {
+                offerDiv.style.position = 'fixed';
+                offerDiv.style.top = '20px';
+            } else {
+                offerDiv.style.position = 'relative';
+            }
+        } else {
+            if (currentScrollPosition > lastScrollPosition && currentScrollPosition >= 50) {
+                offerDiv.style.opacity = '1';  // Make it visible
+                offerDiv.style.position = 'fixed';
+                offerDiv.style.top = '0';
+                offerDiv.style.left = '0';
+            } else if (currentScrollPosition < lastScrollPosition) {
+                offerDiv.style.opacity = '0';  // Hide it
+            }
+        }
+
+        lastScrollPosition = currentScrollPosition;
+    }
+
+    console.log(window.pageYOffset);
+    window.addEventListener('scroll', checkSticky);
+});
+
+
+</script>

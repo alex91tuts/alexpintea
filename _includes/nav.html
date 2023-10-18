@@ -2,7 +2,7 @@
 		<a href="/search.html" class="search"><img class="search-icon"	src="/assets/images/svg/search.svg" alt="icon cautare in site" width="26.67" height="26.67"></a>
   	<input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon" aria-label="menu-icon"/>
   	<label for="menu-icon"></label>
-  	<nav class="nav"> 		
+  	<nav class="nav" id="navigation"> 		
   		<ul class="pt-5">
 				<li><a href="/">ACASA</a></li>
 			  <li><a href="/despre.html">DESPRE</a></li>
@@ -20,6 +20,10 @@
 
 <style>
 
+	#navigation {
+    opacity: 1;  /* Initially visible */
+    transition: opacity 0.3s ease-in-out;  /* 0.3s duration for the fade effect, adjust as needed */
+}
 
 /* Please ❤ this if you like it! */
 	.search-icon {
@@ -308,3 +312,27 @@
 
 }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    let navigationDiv = document.getElementById('navigation');
+    let lastScrollPosition = 0;
+
+    function checkNavigationVisibility() {
+        let currentScrollPosition = window.pageYOffset;
+
+        if (window.innerWidth <= 1200) {
+            if (currentScrollPosition > lastScrollPosition && currentScrollPosition >= 50) {
+                navigationDiv.style.opacity = '0';  // Hide the navigation when scrolling down
+            } else if (currentScrollPosition < lastScrollPosition) {
+                navigationDiv.style.opacity = '1';  // Show the navigation when scrolling up
+            }
+        }
+
+        lastScrollPosition = currentScrollPosition;
+    }
+
+    window.addEventListener('scroll', checkNavigationVisibility);
+});
+
+</script>

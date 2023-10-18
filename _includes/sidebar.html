@@ -29,7 +29,15 @@
 		<hr style="border: 0;">
 		</a>
 	{% endfor %}
-</div>	
+</div>
+{% if page.layout == "review" %}
+{% if page.imagineProdus %}
+{% include cta-sidebar.html 
+imagine1=page.imagineProdus 
+titlu1=page.nume 
+url1="https://l.profitshare.ro/l/12409899" %}
+{% endif %}
+{% endif %}
 	
 </div>	
 </div>
