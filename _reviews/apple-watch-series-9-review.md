@@ -56,11 +56,13 @@ dontbuyif: ['Bugetul tău este limitat și consideri prețul prea mare', 'Utiliz
 
 verdict: "Apple Watch Series 9 se remarcă ca fiind un produs de top pe piața smartwatch-urilor. Cu un ecran impresionant, durata lungă a bateriei și funcții avansate, este o alegere excelentă pentru fanii Apple. Totuși, prețul și compatibilitatea pot fi puncte de refracție pentru unii utilizatori."
 
+url1: https://l.profitshare.ro/l/12404114?hash=series-9
+
 ---
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12404114?hash=series-9" %}
+url1=page.url1 %}
 
 ---
 ## Introducere
@@ -93,7 +95,7 @@ link="https://totredus.ro/review/apple-watch-SE-%202/"
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12404114?hash=series-9" %}
+url1=page.url1 %}
 
 ---
 ## Specificații
@@ -188,7 +190,7 @@ Pierderea unui dispozitiv poate fi frustrantă, dar cu funcția îmbunătățit�
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12404114?hash=series-9" %}
+url1=page.url1 %}
 
 ---
 ## Performanță
@@ -247,7 +249,7 @@ Odată cu apariția Apple Watch Series 9, Apple a răspuns feedback-ului primit 
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12404114?hash=series-9" %}
+url1=page.url1 %}
 
 ---
 ## Apple Watch Series 9 vs Galaxy Watch 6
@@ -375,7 +377,7 @@ Concluzionând, Apple Watch Series 9 aduce multe caracteristici pozitive care im
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12404114?hash=series-9" %}
+url1=page.url1 %}
 
 ---
 ## Concluzie
@@ -405,6 +407,6 @@ url1="https://l.profitshare.ro/l/12404114?hash=series-9" %}
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12404114?hash=series-9" %}
+url1=page.url1 %}
 
 

@@ -70,6 +70,7 @@ dontbuyif:
 
 verdict: "Samsung Galaxy Watch 6 oferă o combinație de estetică, funcționalitate și performanță. Dacă îți dorești un smartwatch care să exceleze în monitorizarea sănătății și să aibă un afișaj de top, acesta este alegerea potrivită. Totuși, dacă bugetul este o constrângere, s-ar putea să dorești să cercetezi și alte opțiuni."
 
+url1: "https://l.profitshare.ro/l/12403973?hash=watch6"
 
 ---
 {% include cta-single.html 

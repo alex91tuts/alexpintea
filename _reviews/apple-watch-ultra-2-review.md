@@ -53,11 +53,13 @@ dontbuyif: ['Ești sensibil la prețuri premium', 'Nu dorești să investești �
 
 verdict: "Apple Watch Ultra 2 este fără îndoială un smartwatch de top, care oferă o combinație excepțională de stil și funcționalitate. Cu toate acestea, prețul premium și costurile asociate accesorizării pot fi descurajante pentru unii utilizatori. Recomandăm produsul celor care caută performanță și design de excepție în lumea ceasurilor inteligente."
 
+url1: "https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple"
+
 ---
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
+url1=page.url1 %}
 
 <span class="drop-caps">Î</span>n lumea în continuă evoluție a tehnologiei, recenziile sunt adesea ghidul esențial al consumatorilor în ceea ce privește luarea deciziilor de achiziție. Cu multitudinea de opțiuni disponibile, este esențial să înțelegem profunditatea și importanța fiecărui produs tech înainte de a face o investiție semnificativă.
 
@@ -98,7 +100,7 @@ Cu un focus pe autonomie și conectivitate, acest smartwatch se adresează atât
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
+url1=page.url1 %}
 
 ---
 ## Specificații Apple Watch Ultra 2
@@ -170,7 +172,7 @@ link="https://totredus.ro/review/galaxy-watch-6-galaxy-watch-6-clasic-pareri-rev
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
+url1=page.url1 %}
 
 ### Bazele monitorizării activității și cum se compară cu modelele anterioare
 
@@ -258,7 +260,7 @@ Desigur, Apple Watch Ultra 2, cu noul său chipset S9, este o declarație putern
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
+url1=page.url1 %}
 
 ---
 ## Funcționalitatea Double Tap
@@ -294,7 +296,7 @@ Pentru a înțelege adevărata valoare a funcționalității **Double Tap**, e u
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
+url1=page.url1 %}
 
 ---
 ## Păreri pro și păreri contra 
@@ -475,7 +477,7 @@ Pentru orice alte întrebări legate de Apple Watch Ultra 2, vă recomandăm să
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
+url1=page.url1 %}
 
 ---
 ## Concluzie
@@ -501,6 +503,6 @@ url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
 {% include cta-single.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 
-url1="https://l.profitshare.ro/l/12401390?hash=Ultra 2 Apple" %}
+url1=page.url1 %}
 
 

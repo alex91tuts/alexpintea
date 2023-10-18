@@ -54,13 +54,15 @@ cat: "SMARTWATCH"
 subcat:
 subcat1:
 
+url1: https://l.profitshare.ro/l/11826241
+
 ---
 
 ---
 {% include cta-single.html 
 imagine1="/assets/images/reviews/applewatchse/produsemag.webp" 
 titlu1="Apple Watch SE 2 (2022), GPS, Carcasa Midnight Aluminium 40mm"
-url1="https://l.profitshare.ro/l/11826241" %}
+url1=page.url1 %}
 
 ## Introducere
 
@@ -116,7 +118,7 @@ link="https://totredus.ro/review/apple-watch-ultra-2-review/"
 {% include cta-single.html 
 imagine1="/assets/images/reviews/applewatchse/produsemag.webp" 
 titlu1="Apple Watch SE 2 (2022), GPS, Carcasa Midnight Aluminium 40mm"
-url1="https://l.profitshare.ro/l/11826241" %}
+url1=page.url1 %}
 
 ---
 ## Design și dimensiuni
@@ -247,7 +249,7 @@ Unul dintre cele mai notabile upgrade-uri este procesorul. Apple Watch SE 2 vine
 {% include cta-single.html 
 imagine1="/assets/images/reviews/applewatchse/produsemag.webp" 
 titlu1="Apple Watch SE 2 (2022), GPS, Carcasa Midnight Aluminium 40mm"
-url1="https://l.profitshare.ro/l/11826241" %}
+url1=page.url1 %}
 
 Un alt aspect major îmbunătățit este monitorizarea sănătății. Apple Watch SE 2 include acum o gamă mai largă de senzori, inclusiv un senzor de oxigen în sânge și un ECG, îmbunătățind astfel capacitatea de a urmări și monitoriza diferite aspecte ale sănătății utilizatorului.
 
@@ -293,7 +295,7 @@ Prețul variază în funcție de comerciant și de specificații, dar în medie,
 {% include cta-single.html 
 imagine1="/assets/images/reviews/applewatchse/produsemag.webp" 
 titlu1="Apple Watch SE 2 (2022), GPS, Carcasa Midnight Aluminium 40mm"
-url1="https://l.profitshare.ro/l/11826241" %}
+url1=page.url1 %}
 
 Este important de menționat că aceste prețuri sunt orientative și pot varia în funcție de ofertele și promoțiile disponibile la momentul achiziției.
 
