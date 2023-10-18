@@ -2,6 +2,7 @@
 title: "Apple Watch SE 2: stil și funcționalitate | Pareri | Review"
 image_path: "applewatchse/main.webp"
 meta_image: "assets/images/reviews/applewatchse/main.webp"
+imagineProdus: /assets/images/reviews/applewatchse/produsemag.webp
 layout: review
 date: 2023-05-16
 date-modified: 2023-10-14
