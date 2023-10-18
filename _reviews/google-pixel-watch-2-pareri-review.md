@@ -54,6 +54,15 @@ key:
   - "Încărcare wireless rapidă"
   - "Moduri personalizabile"
   - "Interfață Wear 4"
+buyif:
+  - "Ești un entuziast al tehnologiei și vrei ultimele inovații"
+  - "Prioritizezi monitorizarea sănătății"
+  - "Cauți un design modern și funcții avansate"
+
+dontbuyif:
+  - "Bugetul tău este limitat"
+  - "Nu folosești frecvent aplicații Google"
+  - "Cauți un smartwatch cu o compatibilitate extinsă la aplicații"
 
 verdict: "Google Pixel Watch 2 este, fără îndoială, un smartwatch premium care oferă o experiență utilizator excepțională. Datorită performanței sale și funcțiilor de sănătate, este un must-have pentru cei pasionați de tehnologie. Totuși, prețul și anumite limitări ale compatibilității pot fi considerate impedimente pentru unii utilizatori."
 

@@ -72,6 +72,27 @@
 				</ul>
 	</div>
 	<hr>
+	{% if post.buyif %}
+		<div class="pros-cons row col-12">
+			<div class="col-md-6 pros">
+					<h3>CUMPĂRĂ DACĂ...</h3>
+					<div style="list-style: none; padding-left: 24px;">
+						{% for item in post.buyif %}
+							<img fetchpriority="high" src="/assets/images/svg/buy.svg" class="small-svg buy" width="25" height="25" alt="cumpara daca icon"><span>{{ item }}</span><br>
+						{% endfor %}
+					</div>
+			</div>
+			<div class="col-md-6 cons">
+					<h3>NU CUMPĂRA DACĂ...</h3>
+					<div style="list-style: none; padding-left: 24px;">
+						{% for item in post.dontbuyif %}
+						<img fetchpriority="high" src="/assets/images/svg/dontbuy.svg" class="small-svg buy" width="25" height="25" alt="icon nu cumpara daca">	<span>{{ item }}</span><br>
+						{% endfor %}
+					</div>
+			</div>
+	</div>
+	<hr>
+	{% endif %}
 	<div>
 			<h3 class="scorebox-title">VERDICT</h3>
 			<img class="verdict-img" src="/assets/images/reviews/verdict.webp" alt="{{ page.title }}" width="100" height="100">
@@ -82,6 +103,16 @@
 
 
 <style>
+@media (min-width: 1000px) {
+		.cons {
+			border-left: solid 1px #e7e6e6;	
+			}
+}
+.buy {
+		position: relative;
+		top: 8px;
+		margin-right: 7px;
+	}
 .scorebox-title::after {
 	height: 0 !important;
 	}

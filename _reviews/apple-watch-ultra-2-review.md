@@ -48,6 +48,9 @@ key:
   - Chipset S9 pentru performanțe sporite
   - Modul de economisire a energiei
 
+buyif: ['Ești pasionat de tehnologie și vrei ultimele inovații', 'Dorești integrare perfectă cu ecosistemul Apple', 'Cauți performanță și funcționalități avansate într-un smartwatch']
+dontbuyif: ['Ești sensibil la prețuri premium', 'Nu dorești să investești în accesorii costisitoare', 'Preferi un sistem de operare diferit']
+
 verdict: "Apple Watch Ultra 2 este fără îndoială un smartwatch de top, care oferă o combinație excepțională de stil și funcționalitate. Cu toate acestea, prețul premium și costurile asociate accesorizării pot fi descurajante pentru unii utilizatori. Recomandăm produsul celor care caută performanță și design de excepție în lumea ceasurilor inteligente."
 
 ---

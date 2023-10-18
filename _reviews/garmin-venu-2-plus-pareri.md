@@ -47,6 +47,18 @@ contra:
     - "Integrarea funcționalităților vocale ar putea fi îmbunătățită"
     - "Compatibilitatea limitată cu anumite aplicații"
 
+buyif:
+ - "Dorești funcționalitate vocală de pe încheietura mâinii"
+ - "Cauți un smartwatch sportiv cu funcționalități complete"
+ - "Vrei o autonomie mare a bateriei"
+ - "Îți dorești un design modern și elegant"
+
+dontbuyif:
+ - "Îți dorești opțiuni multiple de dimensiuni"
+ - "Preferi încărcarea wireless"
+ - "Vrei sa nu iei telefonul cu tine"
+ - "Nu faci fitness regulat"
+
 key:
   - "Rezoluție Display AMOLED"
   - "Durată de viață a bateriei de până la 10 zile"
@@ -114,7 +126,7 @@ Marginea finisată cu precizie și butoanele tactile oferă o interacțiune plă
 
 - **Mărimea Unică:** Garmin Venu 2 Plus vine într-o mărime unică de 43mm, care se potrivește confortabil majorității încheieturilor. Este o abordare echilibrată care încearcă să satisfacă o gamă largă de preferințe personale.
 
-- **Varietatea de Culori: **Disponibilitatea în mai multe culori oferă o libertate de exprimare și permite asortarea ușoară cu diferite ținute. Fie că preferi un ton neutru sau unul mai îndrăzneț, opțiunile de culoare ale Garmin Venu 2 Plus satisfac o varietate de gusturi.
+- **Varietatea de Culori:** Disponibilitatea în mai multe culori oferă o libertate de exprimare și permite asortarea ușoară cu diferite ținute. Fie că preferi un ton neutru sau unul mai îndrăzneț, opțiunile de culoare ale Garmin Venu 2 Plus satisfac o varietate de gusturi.
 
 ### Rezistența la Apă și Materialul Carcasei
 

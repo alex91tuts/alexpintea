@@ -39,7 +39,7 @@ description: "O analiză detaliată a Samsung Galaxy Watch 6: Descoperă caracte
 scor-intro: "Samsung Galaxy Watch 6 impresionează prin calitatea afișajului și interfața software bine lucrată. Cu o durată decentă a bateriei și funcționalități avansate pentru sănătate, acesta se situează în topul preferințelor utilizatorilor."
 
 pro: 
-  - 'Afișaj luminoas și clar'
+  - 'Afișaj luminos și clar'
   - 'Interfață intuitivă și rapidă'
   - 'Monitorizare sănătate avansată'
   
@@ -57,7 +57,17 @@ key:
   - 'Conectivitate LTE'
   - 'Plăți NFC prin Samsung Pay'
   - 'Capabilitate de răspuns la mesaje'
-  
+
+buyif: 
+  - Căutați un smartwatch cu afișaj de calitate superioară
+  - Vrei monitorizare avansată a sănătății
+  - Prioritizezi interfața software rapidă și intuitivă
+
+dontbuyif:
+  - Bugetul este o constrângere majoră
+  - Preferi o durată mai lungă a bateriei
+  - Vrei opțiuni extinse de personalizare
+
 verdict: "Samsung Galaxy Watch 6 oferă o combinație de estetică, funcționalitate și performanță. Dacă îți dorești un smartwatch care să exceleze în monitorizarea sănătății și să aibă un afișaj de top, acesta este alegerea potrivită. Totuși, dacă bugetul este o constrângere, s-ar putea să dorești să cercetezi și alte opțiuni."
 
 

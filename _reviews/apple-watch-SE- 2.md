@@ -40,6 +40,11 @@ key:
   - Posibilitatea de a efectua și primi apeluri
   - Notificări inteligente
 
+buyif: 
+  ['Ești un fan al produselor Apple', 'Cauți un smartwatch cu performanță și design de top', 'Dorești o baterie de lungă durată']
+dontbuyif: 
+  ['Bugetul tău este limitat', 'Ai nevoie de compatibilitate extinsă cu dispozitive non-Apple', 'Cauți un ceas cu caracteristici sportive avansate']
+
 verdict: "Apple Watch SE 2 (2022) este un ceas inteligent cu un design elegant, performanță de top și o autonomie bună a bateriei. Cu toate acestea, prețul poate fi considerat ridicat pentru anumiți utilizatori, iar compatibilitatea este limitată cu dispozitivele non-Apple. În ciuda acestor aspecte, rămâne o alegere excelentă pentru iubitorii de gadgeturi Apple."
 
 

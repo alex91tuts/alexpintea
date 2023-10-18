@@ -40,11 +40,20 @@ pro: ['Ecran AMOLED vibrant', 'Diversitate de funcționalități', 'Autonomie im
 contra: ['Prețul poate fi considerat piperat', 'Compatibilitate limitată cu unele dispozitive']
 
 key:
-  - Ecran AMOLED de înaltă rezoluție
-  - Monitorizare sănătate avansată
-  - GPS integrat pentru urmărirea activităților
-  - Interfață Tizen fluidă și personalizabilă
-  - Rezistență la apă și praf
+ - Ecran AMOLED de înaltă rezoluție
+ - Monitorizare sănătate avansată
+ - GPS integrat pentru urmărirea activităților
+ - Interfață Tizen fluidă și personalizabilă
+ - Rezistență la apă și praf	
+buyif:
+  - 'Ești un entuziast al fitness-ului în aer liber'
+  - 'Cauți un smartwatch cu funcții avansate de fitness'
+  - 'Preferi un design robust și atrăgător'
+
+dontbuyif:
+  - 'Bugetul este o preocupare majoră'
+  - 'Preferi un dispozitiv mai compact'
+  - 'Nu ai nevoie de funcționalități avansate de fitness'
 
 verdict: "Samsung Galaxy Watch 5 Pro este o alegere excelentă pentru cei care caută un smartwatch de top. Cu un ecran de calitate, funcții variate de sănătate și design premium, este un aliat de nădejde. Totuși, prețul său poate descuraja pe unii utilizatori, iar compatibilitatea limitată cu anumite dispozitive poate fi un dezavantaj."
 

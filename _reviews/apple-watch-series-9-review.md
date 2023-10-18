@@ -51,6 +51,9 @@ key:
   - Mod de economisire a energiei
   - Capacitatea de a detecta căderi
 
+buyif: ['Ești fan Apple și dorești integrare perfectă cu iPhone', 'Cauți un smartwatch cu ecran de calitate și durată mare a bateriei', 'Prioritizezi rezistența la apă și zgârieturi']
+dontbuyif: ['Bugetul tău este limitat și consideri prețul prea mare', 'Utilizezi în principal dispozitive non-Apple', 'Dorești un smartwatch mai simplu fără caracteristici avansate']
+
 verdict: "Apple Watch Series 9 se remarcă ca fiind un produs de top pe piața smartwatch-urilor. Cu un ecran impresionant, durata lungă a bateriei și funcții avansate, este o alegere excelentă pentru fanii Apple. Totuși, prețul și compatibilitatea pot fi puncte de refracție pentru unii utilizatori."
 
 ---
