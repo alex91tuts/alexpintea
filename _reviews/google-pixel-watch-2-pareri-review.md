@@ -19,18 +19,18 @@ subcat1: ""
 lang: "ro_RO"
 procons: "yes"
 
-rating-value: 8.7
+rating-value: 8.6
 opt:
   - name: Performanță Procesor
-    value: 85
+    value: 84
   - name: Autonomie Baterie
-    value: 82
+    value: 81
   - name: Funcționalități de Sănătate
-    value: 90
+    value: 89
   - name: Calitate Afișaj
-    value: 88
+    value: 90
   - name: Rezistență la apă și praf
-    value: 86
+    value: 85
 
 description: "Analiză aprofundată a Google Pixel Watch 2: Notă generală bazată pe caracteristici esențiale. Descoperă performanța reală în această recenzie."
 

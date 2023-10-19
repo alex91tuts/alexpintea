@@ -75,7 +75,7 @@
 	{% if post.buyif %}
 		<div class="pros-cons row col-12">
 			<div class="col-md-6 pros">
-					<h3>CUMPĂRĂ DACĂ...</h3>
+					<h3 class="scorebox-title">CUMPĂRĂ DACĂ...</h3>
 					<div style="list-style: none; padding-left: 24px;">
 						{% for item in post.buyif %}
 							<img fetchpriority="high" src="/assets/images/svg/buy.svg" class="small-svg buy" width="25" height="25" alt="cumpara daca icon"><span>{{ item }}</span><br>
@@ -83,7 +83,7 @@
 					</div>
 			</div>
 			<div class="col-md-6 cons">
-					<h3>NU CUMPĂRA DACĂ...</h3>
+					<h3 class="scorebox-title">NU CUMPĂRA DACĂ...</h3>
 					<div style="list-style: none; padding-left: 24px;">
 						{% for item in post.dontbuyif %}
 						<img fetchpriority="high" src="/assets/images/svg/dontbuy.svg" class="small-svg buy" width="25" height="25" alt="icon nu cumpara daca">	<span>{{ item }}</span><br>
@@ -98,8 +98,19 @@
 			<img class="verdict-img" src="/assets/images/reviews/verdict.webp" alt="{{ page.title }}" width="100" height="100">
 			<p>{{ post.verdict }}</p>
 	</div>
+	<hr>
+	<div>
+			<h3 class="scorebox-title">REVIEW COMPLET</h3>
+			<img class="verdict-img" src="/assets/images/svg/link.svg" alt="link-icon" width="40" height="40"><b><a href="{{ post.url }}">{{post.title}}</a></b>
+	</div>
 </div>
 
+{% if post.imagineProdus and post.url1 %}
+{% include cta-single.html 
+imagine1=post.imagineProdus 
+titlu1=post.nume 
+url1=post.url1 %}
+{% endif %}
 
 
 <style>

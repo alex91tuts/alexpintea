@@ -19,18 +19,18 @@ subcat1: ""
 lang: "ro_RO"
 procons: "yes"
 
-rating-value: 8.4
+rating-value: 8.7
 opt:
   - name: Performanță
-    value: 90
+    value: 92
   - name: Design și Estetică
-    value: 85
+    value: 87
   - name: Autonomie Baterie
-    value: 82
+    value: 85
   - name: Sistem de Operare
-    value: 80
+    value: 82
   - name: Funcționalități Adăugate
-    value: 88
+    value: 90
 
 description: "Analiză Apple Watch Ultra 2: un dispozitiv de ultimă generație cu performanțe de top și design modern."
 

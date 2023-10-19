@@ -19,20 +19,20 @@ subcat1: ""
 lang: "ro_RO"
 procons: "yes"
 
-rating-value: 8.4
+rating-value: 8.5
 opt:
   - name: Calitatea afișajului
-    value: 87
+    value: 88
   - name: Durata bateriei
-    value: 80
+    value: 81
   - name: Funcționalități sănătate
-    value: 85
+    value: 86
   - name: Interfața software
-    value: 90
+    value: 91
   - name: Design și ergonomie
-    value: 82
+    value: 83
   - name: Conectivitate
-    value: 82
+    value: 83
 
 description: "O analiză detaliată a Samsung Galaxy Watch 6: Descoperă caracteristici esențiale, performanța reală și punctele forte și slabe ale ceasului."
 
@@ -59,7 +59,7 @@ key:
   - 'Capabilitate de răspuns la mesaje'
 
 buyif: 
-  - Căutați un smartwatch cu afișaj de calitate superioară
+  - Cauți un smartwatch cu afișaj de calitate superioară
   - Vrei monitorizare avansată a sănătății
   - Prioritizezi interfața software rapidă și intuitivă
 

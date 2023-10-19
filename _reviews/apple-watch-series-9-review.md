@@ -19,18 +19,18 @@ subcat1: ""
 lang: "ro_RO"
 procons: "yes"
 
-rating-value: 8.7
+rating-value: 8.6
 opt:
   - name: Calitatea Ecranului
-    value: 92
+    value: 91
   - name: Durata de Viață a Bateriei
-    value: 85
+    value: 84
   - name: Integrarea cu Ecosistemul Apple
-    value: 90
+    value: 89
   - name: Conectivitate
-    value: 88
+    value: 80
   - name: Design și Confort
-    value: 86
+    value: 85
 
 description: "Analiză Apple Watch Series 9: O privire detaliată asupra celor mai reprezentative caracteristici și performanțe. Află ce îl face unic!"
 

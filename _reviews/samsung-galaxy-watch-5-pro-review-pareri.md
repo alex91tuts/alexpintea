@@ -19,18 +19,18 @@ subcat1: ""
 lang: "ro_RO"
 procons: "yes"
 
-rating-value: 8.7
+rating-value: 8.5
 opt:
   - name: Calitatea Ecranului
-    value: 92
+    value: 90
   - name: Autonomia Bateriei
-    value: 85
+    value: 83
   - name: Funcționalități Fitness
-    value: 88
-  - name: Interfață Utilizator
     value: 86
+  - name: Interfață Utilizator
+    value: 85
   - name: Design și Construcție
-    value: 84
+    value: 82
 
 description: "Analiză detaliată a Samsung Galaxy Watch 5 Pro: puncte forte, slabe și caracteristici esențiale. Descoperă ce face acest smartwatch special."
 

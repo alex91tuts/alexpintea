@@ -13,17 +13,16 @@ topic: review
 author: "Alex P."
 author-link: "alexp"
 procons: "yes"
-rating-value: 8.5
-
+rating-value: 8.4
 opt:
   - name: Performanță 
     value: 85
   - name: Design 
-    value: 90
+    value: 88
   - name: Autonomie baterie 
-    value: 80
+    value: 78
   - name: Raport calitate-preț 
-    value: 85
+    value: 84
 
 description: "Explorăm Apple Watch SE 2 (2022), ceasul inteligent cu un design elegant și funcționalități impresionante. Descoperă un review complet și obiectiv."
 

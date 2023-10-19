@@ -1611,6 +1611,20 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Cel Mai Bun Smartwatch 2023 - Top 7 Recomandări",
+      "category" : "REVIEW",
+      "tags"     : "Top smartwatch, Cel mai bun, Calitate/ Preț",
+      "url"      : "/review/cel-mai-bun-smartwatch/",
+      "date"     : "2023-10-19 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/top-smartwatch/cel-mai-bun-smartwatch.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Analiză detaliată pentru cel mai bun smartwatch. Descoperă caracteristicile esențiale și nota pe baza parametrilor cheie.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]
