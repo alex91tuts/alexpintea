@@ -79,6 +79,11 @@ Ecranul său vibrant și clar oferă o vizualizare impecabilă, indiferent de co
 
 Cu o varietate de funcții inovative, acest ceas este mai mult decât un simplu accesoriu; el devine un partener de nădejde în gestionarea rutinei zilnice.
 
+{% include link.html 
+anchor="Vezi și: Top 7 Smartwatch 2023 - Care Este Cel Mai Bun" 
+link="https://totredus.ro/review/cel-mai-bun-smartwatch/" 
+%}
+
 ### De la modelul anterior
 
 Dacă ne referim la predecesorul său, **Google Pixel Watch**, modelul nou aduce o serie de îmbunătățiri semnificative. Pixel Watch 2 beneficiază de o autonomie a bateriei extinsă, răspunde mai rapid la comenzi și oferă o experiență utilizator mult mai fluidă. 
