@@ -38,6 +38,8 @@ Croația, o țară situată la răscruce dintre Europa Centrală, Balcani și Ma
 
 În ultimii ani, aceasta țară a devenit tot mai populară în rândul turiștilor, nu doar datorită poziționării sale geografice ideale, dar și grație comorilor sale ascunse, a orașelor istorice și a peisajelor de coastă care taie răsuflarea.
 
+<div id="formPlaceholder"></div>
+
 **Atracțiile turistice din Croația** sunt atât de variate și captivante, încât este aproape imposibil să alegi doar câteva. De la orașe pline de istorie precum [Dubrovnik](https://www.tripadvisor.com/Tourism-g295371-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia-Vacations.html) și Rovinj, până la parcurile naționale unde natura pare să-și fi dat întâlnire cu arta, Croația oferă o experiență turistică de neegalat.
 
 În plus, **obiectivele turistice din Croația** reflectă o moștenire culturală profundă și diversă. Romanii, venețienii, ungurii și mulți alții și-au lăsat amprenta asupra acestei țări, făcând din Croația un adevărat amalgam de culturi și tradiții.
