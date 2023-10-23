@@ -1185,6 +1185,20 @@
 			"cat"    : "CASA SI GRADINA",
       "subcat" : "EXTERIOR",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Vopsea Faianta - Pareri | Utilizare | Avantaje | Dezavantaje ",
+      "category" : "",
+      "tags"     : "vopsea, faianta, pareri",
+      "url"      : "/stiri/vopsea-faianta-pareri/",
+      "date"     : "2023-10-23 00:00:00 +0300",
+	    "image"     : "/assets/images/stiri/vf/vopsea-faianta-pareri-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "",
+			"cat"    : "CASA SI GRADINA",
+      "subcat" : "INTERIOR",
+      "subcat1"     : ""
     } 
   
 	,
@@ -1622,6 +1636,20 @@
 	    "image"     : "/assets/images/reviews/top-smartwatch/cel-mai-bun-smartwatch.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Analiză detaliată pentru cel mai bun smartwatch. Descoperă caracteristicile esențiale și nota pe baza parametrilor cheie.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Xiaomi Redmi Watch 2 Lite Pareri | Review | Calitate la un preț accesibil",
+      "category" : "REVIEW",
+      "tags"     : "Redmi, Xiaomi, Ceas",
+      "url"      : "/review/xiaomi-redmi-watch-2-lite-pareri-review/",
+      "date"     : "2023-10-23 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/rw2l/xiomi-redmi-watc-lite-2-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Xiaomi Redmi Watch 2 Lite Review: ecran de calitate, baterie durabilă și conectivitate excelentă. Descoperă analiza noastră detaliată.",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
