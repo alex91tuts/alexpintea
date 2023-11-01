@@ -1,6 +1,6 @@
 ---
 layout: autor
-description: Pasionat de tehnologie, gadgeturi și inovație, explorează cele mai recente tendințe și descoperiri. În articolele sale regăsim o combinație între pasiunea pentru gadgeturi și înțelegerea modului în care inovațiile tehnologice ne influențează viața de zi cu zi.
+description: Bună! Sunt Victoria Ailenei, expert în psihologia banilor și educație financiară. Scopul meu este să îți ofer un înțeles mai profund al deciziilor și comportamentelor financiare.
 title: Victoria Aelenei - Coach Educatie Financiara
 cod: "3"
 author: "Victoria Aelenei"
