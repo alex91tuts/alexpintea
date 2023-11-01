@@ -7,7 +7,8 @@ date-modified:
 categorie: FINANCIAR
 tags: ['BIROU', 'CREDIT', 'FINANTE']
 nume: "stergere biroul de credit"
-author: "Happy Money"
+author: "Victoria Aelenei"
+author-link: "v-aelenei"
 scor-intro: Aflați cum să vă ștergeți din Biroul de Credite și să vă îmbunătățiți scorul de credit. Sfaturi utile, proceduri legale și multe altele pentru a vă asigura independența financiară.
 
 description: Aflați cum să vă ștergeți din Biroul de Credite și să vă îmbunătățiți scorul de credit. Sfaturi utile, proceduri legale și multe altele pentru a vă asigura independența financiară.

@@ -5,6 +5,7 @@ name: Pagina de autor
 
 
 <section>
+		<div class="background-image"></div>
     <div class="section-title">
         <h1><span>{{ page.title }}</span></h1>
     </div>
@@ -70,6 +71,42 @@ name: Pagina de autor
 			</div>
 		</div>
  </div>
+
+{% elsif page.cod == "3" %}
+<div class="container">
+<div class="row">
+  <div class="row-lg-4 stic">  	
+		<div class="card-container">
+			<span class="pro">EDUCAȚIE</span>
+			<img class="round" src="/assets/images/victoria-aelenei.webp" width="176" height="176"  alt="poza profil alex p" />
+			<h3>Victoria Aelenei</h3>
+			<h4>Bucuresti</h6>
+	
+			<a href="https://www.facebook.com/victoria.aelenei"><img class="icon-so" src="/assets/images/svg/facebook.svg" alt="facebook icon" width="30" height="20" target="_blank"></a>
+			<a href="https://www.tiktok.com/@victoriaaelenei7"><img class="icon-so" src="/assets/images/svg/tiktok.svg" alt="tiktok icon" width="30" height="30" target="_blank"></a>
+			<a href="https://www.instagram.com/aeleneivictoria/"><img class="icon-so" src="/assets/images/svg/instagram.svg" alt="instagram icon" width="30" height="20" target="_blank"></a>
+			<br>
+			<br>
+			<a class="intalnire" href="https://calendly.com/victoriaaelenei/coaching" target="_blank"><span class="small-text">Programeaza o</span><span>INTALNIRE 1:1</span></a>
+			<div class="skills">
+				<h6>DOMENII</h6>
+				<br>
+				<ul>
+					<li>EDUCAȚIE</li>
+					<li>FINANCIARĂ</li>
+					<li>PSIHOLOGIE</li>
+					<li>BANI</li>
+					<li>MINDSET</li>
+					<li>FINANȚE</li>
+					<li>INVESTIȚII</li>
+					<li>VENITURI</li>
+					<li>ORGANIZARE</li>
+					<li>HAPPY MONEY</li>
+					<li>ECONOMISIRE</li>
+				</ul>
+			</div>
+		</div>
+ </div>
 {% endif %}
 	<div class="col-lg-8">
 		<div class="article-post special">	
@@ -83,6 +120,79 @@ name: Pagina de autor
 </section>
 
 <style>
+	
+	@media (max-width: 570px) {
+		h1 {
+			font-size: 22px;
+		}
+.card-container {
+	width: auto	!important;
+}
+	.cat-small {
+		margin-left: 0;
+	}
+	.card-wrapper {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#outputReview {
+    padding-left: 0;
+		padding-right: 0;
+	}
+}
+	.small-text {
+		position: absolute;
+    top: -14px;
+    font-size: 10px;
+    font-weight: 100;
+    font-style: italic;
+    color: white;
+    left: 0;
+	}
+	.intalnire {
+		background: #febb0b;
+    padding: 11px 55px;
+    color: black !important;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+		position: relative;
+		top: 11px;
+	}
+.section-title {
+		padding-top: 20px;
+		margin-top: 0 !important;
+	}
+	body {
+		background: lightgray;
+		background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+	}
+	.liste p {
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px -5px #8e8a8a;
+    background: #231e3929;
+    color: white;
+    font-weight: 700;
+		margin: 5px;
+	}
+	.liste {
+		margin-bottom: 20px;
+	}
+	
+	
+		
+	h1 {
+		font-weight: bold;
+		background: #231E39;
+    padding: 12px;
+    color: white;
+    border-radius: 5px;
+	}
+	
+	h2 {
+		color: white;
+	}
 
 	.p-desc {
 		font-weight: 600;
@@ -105,8 +215,11 @@ h6 {
 }
 
 p {
-	font-size: 14px;
-	line-height: 21px;
+	font-size: 20px;
+  line-height: 30px;
+  font-weight: 100;
+	color: white;
+	text-align: justify;
 }
 
 .card-container {
@@ -131,8 +244,8 @@ p {
 	font-weight: bold;
 	padding: 3px 7px;
 	position: absolute;
-	top: 30px;
-	left: 30px;
+  top: 15px;
+  left: 13px;
 }
 
 .card-container .round {
@@ -204,22 +317,7 @@ footer a {
 }
 	
 
-	@media (max-width: 570px) {
-.card-container {
-	width: auto	!important;
-}
-	.cat-small {
-		margin-left: 0;
-	}
-	.card-wrapper {
-		padding-left: 0;
-		padding-right: 0;
-	}
-	#outputReview {
-    padding-left: 0;
-		padding-right: 0;
-	}
-}
+
 	#outputReview {
 		margin-left: 0;
 		margin-right: 0;
@@ -507,9 +605,8 @@ footer a {
     background-position: center;
 	}
 	.for-style {
-		border: 1px solid #dddddd7d;
-    box-shadow: 0 0 20px #F0F0F0;
 		border-radius: 4px;
+		background: white;
 	}
 	.card-wrapper {
 		padding-left: 10px;
@@ -552,6 +649,7 @@ footer a {
 		line-height: 1.7;
     font-size: 13px;
 		font-style: italic;
+		color: black;
 	}
 	.footer-post button {
 		background-color: transparent;

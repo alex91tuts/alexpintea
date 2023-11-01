@@ -7,7 +7,8 @@ date-modified:
 categorie: FINANCIAR
 tags: ['EDUCATIE', 'COPII', 'EXEMPLU']
 nume: "educatie financiara copii"
-author: "Happy Money"
+author: "Victoria Aelenei"
+author-link: "v-aelenei"
 scor-intro: Descoperă cum să îți înveți copiii despre educația financiară prin metoda învățării prin exemplu, abordând teme precum economisirea, investițiile și responsabilitatea financiară.
 
 description: Descoperă cum să îți înveți copiii despre educația financiară prin metoda învățării prin exemplu, abordând teme precum economisirea, investițiile și responsabilitatea financiară.
@@ -19,33 +20,6 @@ subcat: "EDUCATIE"
 subcat1:
 
 ---
-
-<div class="rowinv">
-<div class="formDiv panel">
-<h2>Calculator investitii</h2>
-<form class="forminv">
-  <label for="startingBal">SUMA INIȚIALĂ</label>
-  <input type="number" class="form-control" id="startingBal"/>
-  <label for="expectedReturn"> RATA DE CREȘTERE ANUALĂ(%)</label>
-  <input type="number" class="form-control" id="expectedReturn"/>
-  <label for="monthlyDep">CONTRIBUȚIA LUNARĂ</label>
-  <input type="number" class="form-control" id="monthlyDep"/>
-  <label for="duration">DURATA (ANI)</label>
-  <input type="number" class="form-control" id="duration"/>
-	<div class="row">
-	<div class="col-12 col-lg-6" style="display: flex; align-content: center; flex-wrap: wrap;">
-  <button type="submit" class="btn btn-primary" id="submitinv">CALCULEAZA</button>
-	</div>
-	<div class="col-12 col-lg-6">
-		<label id="finalValue"></label>
-	</div>
-	</div>
-</form>
-</div>
-</div>
-
-[Vezi aici și un Calculator Rambursare Anticipata Credit]({{ site.url }}/calculator/calculator-plata-anticipata)
-
 
 ---
 ## Puncte cheie
@@ -130,55 +104,3 @@ Profitați de aceste resurse pentru a consolida învățarea și a le oferi copi
 Educația financiară este esențială pentru a asigura succesul copiilor în viața adultă. Prin împărtășirea propriilor experiențe financiare și prin implicarea copiilor în activități financiare de zi cu zi, părinții pot servi drept modele solide pentru o educație financiară sănătoasă. 
 
 Urmând aceste puncte cheie, veți contribui la dezvoltarea abilităților financiare ale copiilor și îi veți ajuta să devină adulți responsabili și independenți din punct de vedere financiar.
-
-<script>
-// Create event listener on submit button CALCULATOR DE INVESTITII
-document.getElementById("submitinv").addEventListener("click", (e) => calculate(e))
-// Function to make calculations and build table
-function calculate(e) {
-  e.preventDefault();
-  let labels = [];
-  let balances = [];
-  // Take form input and assign them to variables 
-  const formItems = document.querySelector("form").children;
-  let startingBal = parseInt(formItems[1].value);
-  const expReturn = parseInt(formItems[3].value)/100;
-  const monthlyDep = parseInt(formItems[5].value);
-  const duration = parseInt(formItems[7].value);
-  const monthlyReturn = expReturn/12;
-  if(startingBal === null || startingBal === undefined ||
-     expReturn === null || expReturn === undefined ||
-     monthlyDep === null || monthlyDep === undefined ||
-     duration === null || duration === undefined) {
-    return;
-  }
-  if(monthlyDep < 0) {
-    return;
-  }
-  // Create formatter for USD
-  const formatter = new Intl.NumberFormat('ro-RO', {
-  style: 'currency',
-  currency: 'RON',
-  minimumFractionDigits: 2
-  })
-  // Loop through items to update starting balance and build out table rows
-  for(let i = 1; i <= duration*12; i++) {
-    startingBal = (startingBal * (1 + monthlyReturn)) + monthlyDep;
-    if(i % 12 === 0) {
-      const year = i/12;
-      balances.push(startingBal.toFixed(2));
-      labels.push(`Year ${year}`);
-    }
-  }
-  // Make table and chart appear and have the total presented at the bottom of the screen
-  if(document.querySelector("#finalValue")) {
-    document.querySelector("#finalValue").innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-  } else {
-    const finalValue = document.createElement("h3");
-    finalValue.setAttribute("id", "finalValue");
-    finalValue.innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-    document.querySelector(".chartDiv").appendChild(finalValue);
-  }
-  document.getElementById("submitinv").innerHTML = "Re-Calculează"
-}
-</script>

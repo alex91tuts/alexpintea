@@ -363,21 +363,3 @@ post_class: post-template
 		}
 }
 </style>
-<script>
-window.addEventListener('scroll', function() {
-    if (window.scrollY >= 200) {
-        // Check if the script has already been loaded
-        if (!document.querySelector('#customScript')) {
-            var script = document.createElement('script');
-            script.src = 'https://tp.media/content?trs=219198&shmarker=208457&locale=en&sustainable=false&border_radius=5&plain=true&powered_by=true&promo_id=2693&campaign_id=84';
-            script.async = true;
-            script.charset = 'utf-8';
-            script.id = 'customScript'; // Add an ID to prevent loading the script multiple times
-
-            // Append the script to the placeholder
-            document.getElementById('formPlaceholder').appendChild(script);
-        }
-    }
-});
-
-</script>

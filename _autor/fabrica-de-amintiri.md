@@ -5,7 +5,7 @@ title: Fabrica de Amintiri
 cod: "2"
 author: "Fabrica de amintiri"
 image: "/assets/images/fabrica.webp"
-mesaj: "👫 Salutare! Noi suntem Damian și Simina, un cuplu de îndrăgostiți, îndrăgostit de călătorii. 😜"
+mesaj: "👫 Salutare! Noi suntem Damian și Simina, un cuplu de îndrăgostiți, îndrăgostit de călătorii. Haide ]mpreună cu noi să descoperi cele mai frumoase destinații ale lumii...cu buget redus 😜"
 emoji: "✈ 🌄 ⛵ 🌍" 
 
 ---

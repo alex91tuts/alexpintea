@@ -3,11 +3,12 @@ title: "Acțiuni la bursă | ghid de investiții pentru începători"
 image_path: stiri/actiuni/actiuni.webp
 layout: stiri
 date: 2023-04-27
-date-modified: 
+date-modified: 2023-11-02
 categorie: FINANCIAR
 tags: ['ACTIUNI', 'BURSA', 'FINANTE']
 nume: "actiuni la bursa"
-author: "Happy Money"
+author: "Victoria Aelenei"
+author-link: "v-aelenei"
 scor-intro: Descoperă cum să investești în acțiuni pe bursă cu acest ghid esențial pentru începători, care te va învăța despre acțiuni, piața bursieră și strategii pentru a-ți crește investițiile.
 
 description: Descoperă cum să investești în acțiuni pe bursă cu acest ghid esențial pentru începători, care te va învăța despre acțiuni, piața bursieră și strategii pentru a-ți crește investițiile.
@@ -19,32 +20,6 @@ subcat: "EDUCATIE"
 subcat1:
 
 ---
-
-<div class="rowinv">
-<div class="formDiv panel">
-<h2>Calculator investitii</h2>
-<form class="forminv">
-  <label for="startingBal">SUMA INIȚIALĂ</label>
-  <input type="number" class="form-control" id="startingBal"/>
-  <label for="expectedReturn"> RATA DE CREȘTERE ANUALĂ(%)</label>
-  <input type="number" class="form-control" id="expectedReturn"/>
-  <label for="monthlyDep">CONTRIBUȚIA LUNARĂ</label>
-  <input type="number" class="form-control" id="monthlyDep"/>
-  <label for="duration">DURATA (ANI)</label>
-  <input type="number" class="form-control" id="duration"/>
-	<div class="row">
-	<div class="col-12 col-lg-6" style="display: flex; align-content: center; flex-wrap: wrap;">
-  <button type="submit" class="btn btn-primary" id="submitinv">CALCULEAZA</button>
-	</div>
-	<div class="col-12 col-lg-6">
-		<label id="finalValue"></label>
-	</div>
-	</div>
-</form>
-</div>
-</div>
-
-[Vezi aici și un Calculator Rambursare Anticipata Credit]({{ site.url }}/calculator/calculator-plata-anticipata)
 
 ---
 ## Introducere
@@ -268,55 +243,3 @@ Diversificarea portofoliului și gestionarea riscului sunt aspecte-cheie ale inv
 Nu uita să folosești resursele disponibile, precum cărți, bloguri, podcast-uri și comunități de investitori, pentru a învăța și a te inspira.
 
 **Succes în investițiile tale!**
-
-<script>
-// Create event listener on submit button CALCULATOR DE INVESTITII
-document.getElementById("submitinv").addEventListener("click", (e) => calculate(e))
-// Function to make calculations and build table
-function calculate(e) {
-  e.preventDefault();
-  let labels = [];
-  let balances = [];
-  // Take form input and assign them to variables 
-  const formItems = document.querySelector("form").children;
-  let startingBal = parseInt(formItems[1].value);
-  const expReturn = parseInt(formItems[3].value)/100;
-  const monthlyDep = parseInt(formItems[5].value);
-  const duration = parseInt(formItems[7].value);
-  const monthlyReturn = expReturn/12;
-  if(startingBal === null || startingBal === undefined ||
-     expReturn === null || expReturn === undefined ||
-     monthlyDep === null || monthlyDep === undefined ||
-     duration === null || duration === undefined) {
-    return;
-  }
-  if(monthlyDep < 0) {
-    return;
-  }
-  // Create formatter for USD
-  const formatter = new Intl.NumberFormat('ro-RO', {
-  style: 'currency',
-  currency: 'RON',
-  minimumFractionDigits: 2
-  })
-  // Loop through items to update starting balance and build out table rows
-  for(let i = 1; i <= duration*12; i++) {
-    startingBal = (startingBal * (1 + monthlyReturn)) + monthlyDep;
-    if(i % 12 === 0) {
-      const year = i/12;
-      balances.push(startingBal.toFixed(2));
-      labels.push(`Year ${year}`);
-    }
-  }
-  // Make table and chart appear and have the total presented at the bottom of the screen
-  if(document.querySelector("#finalValue")) {
-    document.querySelector("#finalValue").innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-  } else {
-    const finalValue = document.createElement("h3");
-    finalValue.setAttribute("id", "finalValue");
-    finalValue.innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-    document.querySelector(".chartDiv").appendChild(finalValue);
-  }
-  document.getElementById("submitinv").innerHTML = "Re-Calculează"
-}
-</script>

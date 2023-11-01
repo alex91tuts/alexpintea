@@ -3,11 +3,12 @@ title: "Ce este un ETF? O introducere simplă pentru investitorii începători"
 image_path: stiri/etf/grafic.webp
 layout: stiri
 date: 2023-04-24
-date-modified: 
+date-modified: 2023-11-02
 categorie: FINANCIAR
 tags: ['FOND', 'ETF', 'FINANTE']
 nume: "ce este un etf"
-author: "Happy Money"
+author: "Victoria Aelenei"
+author-link: "v-aelenei"
 scor-intro: Învață despre ETF-uri printr-un ghid simplu și prietenos, care explică conceptele de bază și te ajută să înțelegi cum poți folosi ETF-urile în portofoliul tău de investiții.
 
 description: Învață despre ETF-uri printr-un ghid simplu și prietenos, care explică conceptele de bază și te ajută să înțelegi cum poți folosi ETF-urile în portofoliul tău de investiții.
@@ -19,32 +20,6 @@ subcat: "EDUCATIE"
 subcat1:
 
 ---
-
-<div class="rowinv">
-<div class="formDiv panel">
-<h2>Calculator investitii</h2>
-<form class="forminv">
-  <label for="startingBal">SUMA INIȚIALĂ</label>
-  <input type="number" class="form-control" id="startingBal"/>
-  <label for="expectedReturn"> RATA DE CREȘTERE ANUALĂ(%)</label>
-  <input type="number" class="form-control" id="expectedReturn"/>
-  <label for="monthlyDep">CONTRIBUȚIA LUNARĂ</label>
-  <input type="number" class="form-control" id="monthlyDep"/>
-  <label for="duration">DURATA (ANI)</label>
-  <input type="number" class="form-control" id="duration"/>
-	<div class="row">
-	<div class="col-12 col-lg-6" style="display: flex; align-content: center; flex-wrap: wrap;">
-  <button type="submit" class="btn btn-primary" id="submitinv">CALCULEAZA</button>
-	</div>
-	<div class="col-12 col-lg-6">
-		<label id="finalValue"></label>
-	</div>
-	</div>
-</form>
-</div>
-</div>
-
-[Vezi aici și un Calculator Rambursare Anticipata Credit]({{ site.url }}/calculator/calculator-plata-anticipata)
 
 În lumea investițiilor, cu siguranță ai auzit de ETF-uri (Fonduri Tranzacționate pe Bursă). Poate până acum nu ai înțeles cu adevărat ce sunt și cum funcționează aceste instrumente financiare. Ei bine, acest ghid este creat special pentru tine!
 
@@ -227,55 +202,3 @@ Pe parcursul acestui ghid, am discutat despre conceptele de bază ale ETF-urilor
 Investițiile sunt personale și unice pentru fiecare dintre noi, așadar vă încurajăm să continuați să vă informați și să luați decizii de investiții bine fundamentate.
 
 ETF-urile pot fi o parte importantă a portofoliului de investiții, iar înțelegerea lor vă poate ajuta să vă îmbunătățiți strategia de investiții pe termen lung.
-
-<script>
-// Create event listener on submit button CALCULATOR DE INVESTITII
-document.getElementById("submitinv").addEventListener("click", (e) => calculate(e))
-// Function to make calculations and build table
-function calculate(e) {
-  e.preventDefault();
-  let labels = [];
-  let balances = [];
-  // Take form input and assign them to variables 
-  const formItems = document.querySelector("form").children;
-  let startingBal = parseInt(formItems[1].value);
-  const expReturn = parseInt(formItems[3].value)/100;
-  const monthlyDep = parseInt(formItems[5].value);
-  const duration = parseInt(formItems[7].value);
-  const monthlyReturn = expReturn/12;
-  if(startingBal === null || startingBal === undefined ||
-     expReturn === null || expReturn === undefined ||
-     monthlyDep === null || monthlyDep === undefined ||
-     duration === null || duration === undefined) {
-    return;
-  }
-  if(monthlyDep < 0) {
-    return;
-  }
-  // Create formatter for USD
-  const formatter = new Intl.NumberFormat('ro-RO', {
-  style: 'currency',
-  currency: 'RON',
-  minimumFractionDigits: 2
-  })
-  // Loop through items to update starting balance and build out table rows
-  for(let i = 1; i <= duration*12; i++) {
-    startingBal = (startingBal * (1 + monthlyReturn)) + monthlyDep;
-    if(i % 12 === 0) {
-      const year = i/12;
-      balances.push(startingBal.toFixed(2));
-      labels.push(`Year ${year}`);
-    }
-  }
-  // Make table and chart appear and have the total presented at the bottom of the screen
-  if(document.querySelector("#finalValue")) {
-    document.querySelector("#finalValue").innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-  } else {
-    const finalValue = document.createElement("h3");
-    finalValue.setAttribute("id", "finalValue");
-    finalValue.innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-    document.querySelector(".chartDiv").appendChild(finalValue);
-  }
-  document.getElementById("submitinv").innerHTML = "Re-Calculează"
-}
-</script>

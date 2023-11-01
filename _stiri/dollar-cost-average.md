@@ -3,11 +3,12 @@ title: Cum te ajuta Dollar Cost Average (DCA) să îți crești portofoliul
 image_path: stiri/dca/main.webp
 layout: stiri
 date: 2023-02-28
-date-modified: 
+date-modified: 2023-11-02
 categorie: "FINANCIAR"
 tags: ['DCA', 'BUGET', 'INVESTITII']
 nume: dollar cost average
-author: "Happy Money"
+author: "Victoria Aelenei"
+author-link: "v-aelenei"
 scor-intro: DCA este o strategie care implică investirea unei sume fixe de bani într-un activ sau într-un grup de active la intervale regulate, indiferent de condițiile actuale de piață.
 
 description: DCA este o strategie care implică investirea unei sume fixe de bani într-un activ sau într-un grup de active la intervale regulate, indiferent de condițiile actuale de piață.
@@ -20,33 +21,7 @@ subcat1:
 
 ---
 
-<div class="rowinv">
-<div class="formDiv panel">
-<h2>Calculator investitii</h2>
-<form class="forminv">
-  <label for="startingBal">SUMA INIȚIALĂ</label>
-  <input type="number" class="form-control" id="startingBal"/>
-  <label for="expectedReturn"> RATA DE CREȘTERE ANUALĂ(%)</label>
-  <input type="number" class="form-control" id="expectedReturn"/>
-  <label for="monthlyDep">CONTRIBUȚIA LUNARĂ</label>
-  <input type="number" class="form-control" id="monthlyDep"/>
-  <label for="duration">DURATA (ANI)</label>
-  <input type="number" class="form-control" id="duration"/>
-	<div class="row">
-	<div class="col-12 col-lg-6" style="display: flex; align-content: center; flex-wrap: wrap;">
-  <button type="submit" class="btn btn-primary" id="submitinv">CALCULEAZA</button>
-	</div>
-	<div class="col-12 col-lg-6">
-		<label id="finalValue"></label>
-	</div>
-	</div>
-</form>
-</div>
-</div>
-
-[Vezi aici și un Calculator Rambursare Anticipata Credit]({{ site.url }}/calculator/calculator-plata-anticipata)
-
-_Căutați o modalitate fiabilă de a vă crește investițiile în timp? Medierea costului (DCA) ar putea fi strategia perfectă pentru dvs. În timp, această metodă de investiție vă poate ajuta să vă creșteți investițiile și să reduceți riscul volatilității pieței._
+Căutați o modalitate fiabilă de a vă crește investițiile în timp? Medierea costului (DCA) ar putea fi strategia perfectă pentru dvs. În timp, această metodă de investiție vă poate ajuta să vă creșteți investițiile și să reduceți riscul volatilității pieței.
 
 ---
 
@@ -116,55 +91,3 @@ DCA poate ajuta la atenuarea riscului de a cumpăra la un preț ridicat prin cum
 Indiferent dacă sunteți la început sau ați investit de ceva vreme, este o strategie inteligentă care vă ajută să vă gestionați portofoliul.
 
 DCA implică investirea unei sume fixe de bani pe piață într-un program regulat, indiferent de ceea ce fac piețele. Aceasta înseamnă că, dacă piețele sunt sus, puteți cumpăra mai puține acțiuni pentru aceeași sumă de bani. Dacă piețele sunt în scădere, totuși, puteți profita și cumpăra mai multe acțiuni pentru banii tăi. În timp, acest lucru vă ajută să vă echilibrați portofoliul și să minimizați pierderile cauzate de volatilitatea pieței.
-
-<script>
-// Create event listener on submit button CALCULATOR DE INVESTITII
-document.getElementById("submitinv").addEventListener("click", (e) => calculate(e))
-// Function to make calculations and build table
-function calculate(e) {
-  e.preventDefault();
-  let labels = [];
-  let balances = [];
-  // Take form input and assign them to variables 
-  const formItems = document.querySelector("form").children;
-  let startingBal = parseInt(formItems[1].value);
-  const expReturn = parseInt(formItems[3].value)/100;
-  const monthlyDep = parseInt(formItems[5].value);
-  const duration = parseInt(formItems[7].value);
-  const monthlyReturn = expReturn/12;
-  if(startingBal === null || startingBal === undefined ||
-     expReturn === null || expReturn === undefined ||
-     monthlyDep === null || monthlyDep === undefined ||
-     duration === null || duration === undefined) {
-    return;
-  }
-  if(monthlyDep < 0) {
-    return;
-  }
-  // Create formatter for USD
-  const formatter = new Intl.NumberFormat('ro-RO', {
-  style: 'currency',
-  currency: 'RON',
-  minimumFractionDigits: 2
-  })
-  // Loop through items to update starting balance and build out table rows
-  for(let i = 1; i <= duration*12; i++) {
-    startingBal = (startingBal * (1 + monthlyReturn)) + monthlyDep;
-    if(i % 12 === 0) {
-      const year = i/12;
-      balances.push(startingBal.toFixed(2));
-      labels.push(`Year ${year}`);
-    }
-  }
-  // Make table and chart appear and have the total presented at the bottom of the screen
-  if(document.querySelector("#finalValue")) {
-    document.querySelector("#finalValue").innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-  } else {
-    const finalValue = document.createElement("h3");
-    finalValue.setAttribute("id", "finalValue");
-    finalValue.innerHTML = `Total după ${duration} ani: ` + formatter.format(startingBal);
-    document.querySelector(".chartDiv").appendChild(finalValue);
-  }
-  document.getElementById("submitinv").innerHTML = "Re-Calculează"
-}
-</script>

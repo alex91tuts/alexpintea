@@ -5,11 +5,10 @@ title: Alex P. - Autor și dezvoltator
 cod: "1"
 author: "Alex P."
 image: "/assets/images/alexp.webp"
-mesaj: "Salut! Sunt Alex și sunt pasionat de inovația tehnologică. Misiunea mea? Să îți aduc cele mai recente și mai sincere recenzii pentru produsele de tehnologie care îți pot îmbunătăți viața zilnică. De la cele mai noi gadgeturi și accesorii, la dispozitive inteligente și inovații în domeniul software-ului, explorez lumea tehnologiei cu entuziasm și o abordare critică."
+mesaj: "Salut! Sunt Alex și sunt pasionat de inovația tehnologică. Misiunea mea? Să îți aduc cele mai recente și mai sincere recenzii pentru produsele de tehnologie care îți pot îmbunătăți viața zilnică."
 emoji: "🍳 🏆 🏠 💱" 
 
 ---
-
 ## Articole<span class="text-megna">.</span>
 
 <div class="row reviews-wrapper">

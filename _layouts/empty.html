@@ -26,13 +26,38 @@
 let list = [],x = [], continut, he, outputList = '', bottom, rect;
 
 function toggleShow() {
-	var toc = document.getElementById('tocid');
-	var state = toc.style.display;
-	console.log(state);
-	if (state === "none" || state === "") {
-    	toc.style.display = "block";
+  var toc = document.getElementById('tocid');
+  var state = toc.style.display;
+
+  if (state === "none" || state === "") {
+    toc.style.display = "block";
+
+    var mobileActivate = document.getElementById('mobileActivate');
+
+    // Check if the close button already exists
+    var existingCloseButton = mobileActivate.querySelector('.close-button');
+    if (!existingCloseButton) {
+      // Create and append the close button
+      var closeButton = document.createElement('span');
+      closeButton.innerHTML = 'x';
+      closeButton.classList.add('close-button');
+      closeButton.style.cssText = 'position: absolute; top: 0; right: -8px; cursor: pointer; padding: 3px; background: #329932; color: white; font-size: xx-large; font-weight: bold; border-radius: 6px; padding-bottom: 8px;';
+
+      // Add an event listener to close the TOC on click
+      closeButton.addEventListener('click', function() {
+        toc.style.display = 'none';
+        // Optionally remove the close button when TOC is hidden
+        mobileActivate.removeChild(this);
+      });
+
+      // Append the close button to mobileActivate
+      mobileActivate.appendChild(closeButton);
+    }
   } else {
-    	toc.style.display = "none";
+    toc.style.display = "none";
+    // Optionally remove the close button when TOC is hidden
+    var closeButton = document.getElementById('mobileActivate').querySelector('.close-button');
+    if (closeButton) closeButton.parentElement.removeChild(closeButton);
   }
 }
 

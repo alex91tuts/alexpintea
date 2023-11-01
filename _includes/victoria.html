@@ -1,0 +1,239 @@
+ 	
+		<div id="victoria" class="card-container">
+			<span class="pro">Autor</span>
+			<img class="round" src="/assets/images/victoria-aelenei.webp" width="176" height="176"  alt="poza profil alex p" />
+			<br>
+			<span class="nume-de-autor">Victoria Aelenei</span>
+			<br>
+			<span class="functie">Consultant financiar</span>
+			<br>
+			<a class="profil" href="/autor/v-aelenei/"><span>Profil</span></a>
+			<br>
+			<a href="https://www.facebook.com/victoria.aelenei"><img class="icon-so" src="/assets/images/svg/facebook.svg" alt="facebook icon" width="30" height="20" target="_blank"></a>
+			<a href="https://www.tiktok.com/@victoriaaelenei7"><img class="icon-so" src="/assets/images/svg/tiktok.svg" alt="tiktok icon" width="30" height="30" target="_blank"></a>
+			<a href="https://www.instagram.com/aeleneivictoria/"><img class="icon-so" src="/assets/images/svg/instagram.svg" alt="instagram icon" width="30" height="20" target="_blank"></a>
+			<br>
+			<br>
+			<a class="intalnire" href="https://calendly.com/victoriaaelenei/coaching" target="_blank"><span class="small-text">Programeaza o</span><span>INTALNIRE 1:1</span></a>
+		</div>
+
+<style>
+	.profil {
+		background: #ffffff;
+    padding: 9px 55px;
+    color: black !important;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+	}
+	.icon-so {
+		margin-top: 20px;
+		width: 70px;
+	}
+	.functie {
+		
+	}
+	.nume-de-autor {
+		font-size: x-large;
+    font-weight: bold;
+	}
+	@media (max-width: 570px) {
+		.icon-so {
+			display: none;
+		}
+		.intalnire {
+			display: none;
+		}
+		.small-text {
+			display: none;
+		}
+		.pro {
+			display: none;
+		}
+		.profil {
+		display: block;
+    background: #febb0b;
+    padding: 10px 46px;
+    color: black !important;
+    font-weight: bold;
+    font-size: 13px;
+    border-radius: 5px;
+    position: relative;
+    top: -103px;
+    float: right;
+    margin-right: 8px;
+		}
+		.round {
+	  float: left;
+    width: 61px;
+    margin-left: 5px;
+    position: relative;
+    top: -29px;
+    margin-right: 8px;
+    padding: 4px;
+		}
+		.card-container {
+			height: 64px;
+		}
+		.card-container .pro {
+		color: #231E39;
+    background-color: #FEBB0B;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0px 7px;
+    position: absolute;
+    top: 49px;
+    left: 84px;
+		}
+		.nume-de-autor {
+			float: left;
+    	position: relative;
+    	top: -49px;
+    	font-size: 18px;
+		}
+		.functie {
+			position: relative;
+    top: -50px;
+    left: -133px;
+    float: left;
+		}
+		.card-container {
+			width: auto	!important;
+}
+}
+	.small-text {
+		position: absolute;
+    top: -14px;
+    font-size: 10px;
+    font-weight: 100;
+    font-style: italic;
+    color: white;
+    left: 0;
+	}
+	.intalnire {
+		background: #febb0b;
+    padding: 11px 55px;
+    color: black !important;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+		position: relative;
+		top: 11px;
+	}
+
+
+.card-container {
+	background-color: #231E39;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
+	color: #B3B8CD;
+	padding-top: 30px;
+	max-width: 100%;
+	text-align: center;
+	margin-bottom: 50px;
+	top: 10px;
+  position: relative;
+	width: 345px;
+	z-index: 9999;
+}
+
+.card-container .pro {
+	color: #231E39;
+	background-color: #FEBB0B;
+	border-radius: 3px;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 3px 7px;
+	position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.card-container .round {
+	border: 1px solid #03BFCB;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+button.primary {
+	background-color: #03BFCB;
+	border: 1px solid #03BFCB;
+	border-radius: 3px;
+	color: #231E39;
+	font-family: Verdana, sans-serif;
+	font-weight: 500;
+	padding: 10px 25px;
+}
+
+button.primary.ghost {
+	background-color: transparent;
+	color: #02899C;
+}
+	.skills h6 {
+		font-size: 15px;
+	}
+.skills {
+	background-color: #1F1A36;
+	text-align: left;
+	padding: 15px;
+	margin-top: 30px;
+}
+
+.skills ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.skills ul li {
+	border: 1px solid #2D2747;
+	border-radius: 2px;
+	display: inline-block;
+	font-size: 12px;
+	margin: 0 7px 7px 0;
+	padding: 7px;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    let offerDiv = document.getElementById('victoria');
+    let adjustment = 420;
+    let initialPosition = offerDiv.offsetTop + adjustment;
+    let lastScrollPosition = 0;
+
+    function checkOfferSticky() {
+        let currentScrollPosition = window.pageYOffset;
+
+        if (window.innerWidth > 1200) {
+            offerDiv.style.opacity = '1';
+            offerDiv.style.pointerEvents = 'auto';  // Make it interactive
+            if (currentScrollPosition >= initialPosition) {
+                offerDiv.style.position = 'fixed';
+                offerDiv.style.top = '20px';
+            } else {
+                offerDiv.style.position = 'relative';
+            }
+        } else {
+            if (currentScrollPosition > lastScrollPosition && currentScrollPosition >= 50) {
+                offerDiv.style.opacity = '1';
+                offerDiv.style.position = 'fixed';
+                offerDiv.style.top = '0';
+                offerDiv.style.left = '0';
+								offerDiv.style.right = '0';
+                offerDiv.style.pointerEvents = 'auto';  // Make it interactive
+            } else if (currentScrollPosition < lastScrollPosition) {
+                offerDiv.style.opacity = '0';
+                offerDiv.style.pointerEvents = 'none';  // Make it non-interactive
+            }
+        }
+
+        lastScrollPosition = currentScrollPosition;
+    }
+
+    window.addEventListener('scroll', checkOfferSticky);
+});
+</script>

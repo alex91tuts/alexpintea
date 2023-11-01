@@ -3,11 +3,12 @@ title: Independența financiară | Ce inseamnă? | Calculator
 image_path: stiri/independentafinanciara/main.webp
 layout: stiri
 date: 2023-02-28
-date-modified: 2023-04-27
+date-modified: 2023-11-02
 categorie: FINANCIAR
 tags: ['FIRE', 'BUGET', 'INVESTITII']
 nume: Independenta financiara
-author: "Happy Money"
+author: "Victoria Aelenei"
+author-link: "v-aelenei"
 scor-intro: Independența financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit.
 
 description: Independenta financiara este capacitatea de a te intretine financiar fara a te baza pe un salariu traditional sau pe o sursa de venit
