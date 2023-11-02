@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Locuri de Vizitat lângă București: Top 15 Destinații Uimitoare"
+title: "Locuri de Vizitat langa Bucuresti: Top 15 Destinatii Uimitoare"
 descriere: "Descoperă cele mai frumoase destinații de vizitat în apropierea Bucureștiului. Palate, domenii și locuri pitorești așteaptă să fie explorezate. Află mai multe!" 
 description: "Descoperă cele mai frumoase destinații de vizitat în apropierea Bucureștiului. Palate, domenii și locuri pitorești așteaptă să fie explorezate. Află mai multe!"    
 meta_image: assets/images/travel/langabucuresti/snagov-main.webp  

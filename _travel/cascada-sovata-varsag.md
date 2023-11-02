@@ -1,6 +1,6 @@
 ---
 layout: "travel"
-title: "Cascada Vărșag: O Comoară Ascunsă a României lângă Stațiunea Sovata"
+title: "Cascada Varsag: O Comoară Ascunsa a României langa Sovata"
 descriere: "Descoperă frumusețea și misterul Cascadei Vărșag, o bijuterie naturală situată lângă stațiunea Sovata. Ghidul nostru te conduce prin istoric, biodiversitate și... "
 description: "Descoperă frumusețea și misterul Cascadei Vărșag, o bijuterie naturală situată lângă stațiunea Sovata. Ghidul nostru te conduce prin istoric, biodiversitate și... "
 date: 2023-08-16

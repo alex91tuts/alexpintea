@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Locuri de vizitat în București: 30 Atracții Uimitoare pentru Iulie 2023"
+title: "Locuri de vizitat in Bucuresti: 30 Atracții Uimitoare pentru 2023"
 descriere: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi.  
 description: Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi. 
 meta_image: assets/images/travel/bucuresti/main.webp 

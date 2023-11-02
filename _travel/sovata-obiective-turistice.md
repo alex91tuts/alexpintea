@@ -1,6 +1,6 @@
 ---
 layout: "travel"
-title: "Sovata - Obiective Turistice | Topul Atractiilor și Locurilor de Vizitat"
+title: "Sovata - Obiective Turistice | Topul Atractiilor si Locurilor de Vizitat"
 descriere: "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid"
 description: "Descoperă farmecul Sovatei, o stațiune balneo-climaterică din inima Transilvaniei. Explorează atracțiile sale, de la Lacul Ursu și Mocănița Sovata, până la Salina Praid"
 date: 2023-08-03

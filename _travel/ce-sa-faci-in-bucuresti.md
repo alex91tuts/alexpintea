@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Ce Să Faci În București? Ghid Complet Pentru Turiști și Localnici"
+title: "Ce Sa Faci In Bucuresti? Ghid Complet Pentru Turisti si Localnici"
 descriere: "Descoperă CE SĂ FACI ÎN BUCUREȘTI - un oraș vibrant cu istorie bogată, parcuri frumoase, mâncare delicioasă și multă cultură. Explorare, relaxare și distracție te așteaptă aici!"  
 description: "Descoperă CE SĂ FACI ÎN BUCUREȘTI - un oraș vibrant cu istorie bogată, parcuri frumoase, mâncare delicioasă și multă cultură. Explorare, relaxare și distracție te așteaptă aici!"  
 meta_image: assets/images/travel/cefacibuc/ce-sa-faci-in-bucuresti.webp 

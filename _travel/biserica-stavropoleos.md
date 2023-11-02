@@ -1,12 +1,8 @@
 ---
 layout: travel
 title: Biserica Stavropoleos - Bijuteria ascunsă a Bucureștiului
-descriere: >-
-  Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o
-  oază de liniște și spiritualitate în mijlocul agitației urbane.
-description: >-
-  Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o
-  oază de liniște și spiritualitate în mijlocul agitației urbane.
+descriere: Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o oază de liniște și spiritualitate în mijlocul agitației urbane.
+description: Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o oază de liniște și spiritualitate în mijlocul agitației urbane.
 meta_image: assets/images/travel/stavropoleos/stavropoleos.webp
 image: /assets/images/travel/stavropoleos/stavropoleos.webp
 author: Fabrica de amintiri

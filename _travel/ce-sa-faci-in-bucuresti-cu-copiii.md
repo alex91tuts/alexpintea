@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Ce sa faci în București cu copiii - Cele mai populare activități"
+title: "Ce sa faci în Bucuresti cu copiii - Cele mai populare activitati"
 descriere: "Descoperă cele mai atractive activități pentru copii în București. De la parcuri și muzee, la locuri de joacă indoor și evenimente culturale, aventura începe aici!"  
 description: "Descoperă cele mai atractive activități pentru copii în București. De la parcuri și muzee, la locuri de joacă indoor și evenimente culturale, aventura începe aici!"  
 meta_image: assets/images/travel/copii/ce-sa-faci-in-bucuresti-cu-copiii.webp 

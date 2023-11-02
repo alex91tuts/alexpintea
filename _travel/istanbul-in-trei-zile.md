@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Ce să faci în Istanbul 3 zile: Ghid pentru o călătorie memorabilă"
+title: "Ce sa faci în Istanbul 3 zile: Ghid pentru o calatorie memorabila"
 descriere: În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.  
 description: În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele.   
 meta_image: assets/images/travel/citybreak/istanbul/main.webp 
