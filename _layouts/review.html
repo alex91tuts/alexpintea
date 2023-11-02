@@ -19,11 +19,12 @@ post_class: post-template
 		"datePublished": "{{page.date}}",
 		"reviewBody": "{{ page.content | strip_html }}",
     "name": "{{ page.nume }}",
-		"reviewRating": {
+		{% if page.rating-value %}
+    "reviewRating": {
 			"@type": "Rating",
 			"ratingValue": "{{page.rating-value}}",
 			"bestRating": "10"
-		},
+		},{% endif %}
 		"author": {
 			"@type": "Person",
 			"name": "{{page.author}}"
