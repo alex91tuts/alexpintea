@@ -107,7 +107,7 @@ url1=page.url1 %}
 ### Preț și disponibilitate
 
 Apple Watch Series 9 a fost lansat în două variante de preț, în funcție de capacitatea de stocare și de funcționalitățile suplimentare. 
-Pentru cei care sunt dispuși să investească în funcționalitate maximă, există varianta cu LTE, care permite conectivitate chiar și în lipsa unui telefon în apropiere. În ceea ce privește disponibilitatea, ceasul poate fi achiziționat din magazinele Apple, dar și de la distribuitorii autorizați.
+Pentru cei care sunt dispuși să investească în funcționalitate maximă, există varianta de **[smartwatch cu LTE](/review/ce-inseamna-lte-la-smartwatch/)**, care permite conectivitate chiar și în lipsa unui telefon în apropiere. În ceea ce privește disponibilitatea, ceasul poate fi achiziționat din magazinele Apple, dar și de la distribuitorii autorizați.
 
 {% include link.html 
 anchor="Vezi si: Apple Watch SE 2 2022 - Review Detaliat" 

@@ -1653,6 +1653,20 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Ce Înseamnă LTE la Smartwatch: Tehnologie și Beneficii",
+      "category" : "REVIEW",
+      "tags"     : "LTE, 4G, Conectivitate",
+      "url"      : "/review/ce-inseamna-lte-la-smartwatch/",
+      "date"     : "2023-11-02 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/LTE/LTE-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]
