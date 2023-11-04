@@ -1711,6 +1711,20 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Care este cel mai bun smartwatch Xiaomi? ",
+      "category" : "REVIEW",
+      "tags"     : "xiaomi, top, ceas",
+      "url"      : "/review/cel-mai-bun-smartwatch-xiaomi/",
+      "date"     : "2023-11-04 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/topxiaomi/xiaomi-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă care este cel mai bun smartwatch Xiaomi pentru tine. Comparăm funcționalități, design și preț pentru a-ți oferi recomandările noastre. Află acum mai multe!",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]
