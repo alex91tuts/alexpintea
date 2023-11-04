@@ -31,6 +31,8 @@ Un fond de urgență este o sumă de bani pe care o pui deoparte pentru a acoper
 
 În acest articol, vom explora importanța fondului de urgență, cum să stabilești dimensiunea potrivită a acestuia și cum să îl construiești pentru a te asigura că ești pregătit(ă) să faci față situațiilor neprevăzute.
 
+Citește si: **[Ce Este Inflatia](https://totredus.ro/ce-este-inflatia//)** 
+
 ---
 ## Puncte cheie
 
