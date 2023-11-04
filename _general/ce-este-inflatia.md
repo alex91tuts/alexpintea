@@ -61,7 +61,12 @@ Unul dintre instrumentele primare utilizate pentru a evalua inflația este **Ind
 
 Acesta urmărește variațiile prețurilor unui coș standard de bunuri și servicii pe care o gospodărie tipică le-ar achiziționa.
 
-Să despicăm acest concept: imaginează-ți că iei un coș imaginar de produse - alimente, îmbrăcăminte, servicii, și așa mai departe. IPC măsoară cum fluctuează costul acestui coș de-a lungul timpului. 
+Să despicăm acest concept: imaginează-ți că iei un coș imaginar de produse - alimente, îmbrăcăminte, servicii, și așa mai departe. IPC măsoară cum fluctuează costul acestui coș de-a lungul timpului.
+
+{% include link.html 
+anchor="Afla Cum Se Formeaza Bulele Speculative" 
+link="https://totredus.ro/cum-se-formeaza-bulele-speculative/" 
+%}
 
 Dacă costul coșului crește, se spune că inflația este în creștere, ceea ce indică o diminuare a puterii tale de cumpărare.
 

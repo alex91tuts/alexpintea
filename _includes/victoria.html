@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function checkOfferSticky() {
         let currentScrollPosition = window.pageYOffset;
 
-        if (window.innerWidth > 1200) {
+        if (window.innerWidth > 600) {
             offerDiv.style.opacity = '1';
             offerDiv.style.pointerEvents = 'auto';  // Make it interactive
             if (currentScrollPosition >= initialPosition) {
