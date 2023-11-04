@@ -91,7 +91,7 @@
     } ,
   
     {
-      "title"    : "Locuri de vizitat în București: 30 Atracții Uimitoare pentru Iulie 2023",
+      "title"    : "Locuri de vizitat in Bucuresti: 30 Atracții Uimitoare pentru 2023",
       "category" : "ROMÂNIA",
       "tags"     : "București, capitale, atractii",
       "url"      : "/travel/atractii-turistice-bucuresti/",
@@ -151,7 +151,7 @@
     } ,
   
     {
-      "title"    : "Ce să faci o zi in Bucuresti: aventură urbană!",
+      "title"    : "Ce sa faci o zi in Bucuresti: aventura urbana!",
       "category" : "ROMÂNIA",
       "tags"     : "București, Excursii, 2023",
       "url"      : "/travel/excursii-zi-bucuresti/",
@@ -166,7 +166,7 @@
     } ,
   
     {
-      "title"    : "Ce să faci în Istanbul 3 zile: Ghid pentru o călătorie memorabilă",
+      "title"    : "Ce sa faci în Istanbul 3 zile: Ghid pentru o calatorie memorabila",
       "category" : "TURCIA",
       "tags"     : "Istanbul, CityBreak, 2023",
       "url"      : "/travel/istanbul-in-trei-zile/",
@@ -271,7 +271,7 @@
     } ,
   
     {
-      "title"    : "Cetatea Râșnov 2023: O Călătorie În Timp Prin Istoria Medievală",
+      "title"    : "Cetatea Rasnov 2023: O Calatorie In Timp Prin Istoria Medievala",
       "category" : "ROMANIA",
       "tags"     : "Rasnov, Cetate, 2023",
       "url"      : "/travel/cetatea-rasnov/",
@@ -286,7 +286,7 @@
     } ,
   
     {
-      "title"    : "Locuri de Vizitat lângă București: Top 15 Destinații Uimitoare",
+      "title"    : "Locuri de Vizitat langa Bucuresti: Top 15 Destinatii Uimitoare",
       "category" : "ROMANIA",
       "tags"     : "București, Locuri de vizitat, Apropiere",
       "url"      : "/travel/locuri-vizitat-langa-bucuresti/",
@@ -406,7 +406,7 @@
     } ,
   
     {
-      "title"    : "Ce Să Faci În București? Ghid Complet Pentru Turiști și Localnici",
+      "title"    : "Ce Sa Faci In Bucuresti? Ghid Complet Pentru Turisti si Localnici",
       "category" : "ROMÂNIA",
       "tags"     : "București, Ce sa faci?, Activități",
       "url"      : "/travel/ce-sa-faci-in-bucuresti/",
@@ -421,7 +421,7 @@
     } ,
   
     {
-      "title"    : "Ce sa faci în București cu copiii - Cele mai populare activități",
+      "title"    : "Ce sa faci în Bucuresti cu copiii - Cele mai populare activitati",
       "category" : "ROMÂNIA",
       "tags"     : "București, Ce sa faci?, Copii",
       "url"      : "/travel/ce-sa-faci-in-bucuresti-cu-copiii/",
@@ -466,7 +466,7 @@
     } ,
   
     {
-      "title"    : "Sovata - Obiective Turistice | Topul Atractiilor și Locurilor de Vizitat",
+      "title"    : "Sovata - Obiective Turistice | Topul Atractiilor si Locurilor de Vizitat",
       "category" : "ROMANIA",
       "tags"     : "Salina, Helioterm, Am Fost Acolo",
       "url"      : "/travel/sovata-obiective-turistice/",
@@ -481,7 +481,7 @@
     } ,
   
     {
-      "title"    : "Cascada Vărșag: O Comoară Ascunsă a României lângă Stațiunea Sovata",
+      "title"    : "Cascada Varsag: O Comoară Ascunsa a României langa Sovata",
       "category" : "ROMANIA",
       "tags"     : "cascada, sovata, natura",
       "url"      : "/travel/cascada-sovata-varsag/",
@@ -1332,6 +1332,22 @@
     } 
   
 	,
+  
+    {
+      "title"    : "Ce Boli Vindecă Rozmarinul? Explorăm Puterea Naturală a Aromaterapiei",
+      "category" : "",
+      "tags"     : "Rozmarin, Natural, Remediu",
+      "url"      : "/ce-boli-trateaza-rozmarinul/",
+      "date"     : "2023-11-04 00:00:00 +0200",
+	    "image"     : "/assets/images/stiri/rozmarin/rozmarin-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Rozmarinul, un aliat natural în sănătate: află cum te ajută în ameliorarea problemelor respiratorii, durerilor și îmbunătățirea stării de spirit.",
+			"cat"    : "SANATATE",
+      "subcat" : "",
+      "subcat1"     : ""
+    } 
+  
+	,
 	
     {
       "title"    : "Huawei P30 Pro | Pareri | Preturi | Review | Limba Romana",
@@ -1663,7 +1679,7 @@
       "date"     : "2023-11-02 00:00:00 +0200",
 	    "image"     : "/assets/images/reviews/LTE/LTE-main.webp",
 			"author"    : "Alex P.",
-	    "description"     : "",
+	    "description"     : "Descoperiți ce înseamnă LTE la smartwatch, avantajele conectivității LTE și cum transformă această tehnologie modul în care interacționăm cu dispozitivele wearables.",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""

@@ -44,7 +44,13 @@ collections:
     permalink: /:path/ 
   categorie:
     output: true     
-    permalink: /:path/ 
+    permalink: /:path/
+  magazine:
+    output: true     
+    permalink: /:path/
+  general:
+    output: true     
+    permalink: /:path/
 
 
 exclude: ['node_modules']

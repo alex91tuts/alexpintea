@@ -10,12 +10,15 @@ tags:
   - COSMETICE
   - CURAȚARE
 nume: ZIVADA.RO
-author: Alexandru
+author: "Alex P."
+author-link: "alexp"
 logo: /assets/images/magazine/logo-zivada.webp
 adresa: zivada.ro
-description: >-
-  Vezi o recenzie a magazinului Zivada.ro dar Și ce păreri au clienții despre
-  platformă, produse și comenzi.
+description: Vezi o recenzie a magazinului Zivada.ro dar Și ce păreri au clienții despre platformă, produse și comenzi.
+cat: "MAGAZINE"
+subcat: ""
+subcat1: ""
+
 ---
 
 <span class="drop-caps">Z</span>ivada.ro este un magazin online specializat în vânzarea de parfumuri și produse similare pentru femei, bărbați și unisex.
@@ -35,8 +38,6 @@ Parfumurile bărbătești de calitate ridică pot completa cu eleganță și dis
 În plus, magazinul se mândrește cu o selecție de parfumuri unisex, potrivite pentru oricine, indiferent de gen.
 
 Aceste parfumuri au arome echilibrate, care combină elemente feminine și masculine, creând astfel produse versatile și accesibile pentru toată lumea.
-
-***
 
 ## Alte Produse
 

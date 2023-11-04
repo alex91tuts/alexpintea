@@ -14,7 +14,7 @@
 
 {% else %}
 <div id="breadcrumbs">
-{%- assign crumbs = page.url | remove:'/index.html' | remove: '/stiri' | remove: '/review' | remove: '/smarthome' | split: '/' -%}
+{%- assign crumbs = page.url | remove:'/index.html' | remove: '/stiri' | remove: '/review' | remove: '/magazine' | remove: '/smarthome' | split: '/' -%}
 <a href="/">Acasa</a>
 <a href="{{ site.url }}/{{ page.cat | replace: ' ', '-' | downcase }}/">/ {{ page.cat | downcase | capitalize | strip }} /</a>
 {% for crumb in crumbs offset: 1 %}

@@ -1,0 +1,78 @@
+<div class="row card-magazin">
+  <div class="col-7 col-lg-8 img-holder">
+   <img src="{{include.imagine1}}">
+  </div>
+  <span class="link-mic">{{include.titlu1}}</span>
+  <div class="col-5 col-lg-4 but-holder">
+    <a class="" href="{{inlude.url1}}">
+    <button class="buton-magazin">VEZI MAGAZIN</button>
+    </a>  
+  </div>
+</div>
+
+
+
+<style>
+@media only screen and (max-width: 600px) {
+  .buton-magazin {
+    height: 57px;
+    font-size: 15px !important;
+  }
+  } 
+  
+  .link-mic {
+    position: absolute;
+    font-weight: bold;
+    font-size: 10px;
+    top: 0;
+  }
+  .img-holder {
+    padding-left: 0 !important;
+    display: flex;
+    align-items: center;
+  }
+  .but-holder {
+    padding: 0 !important;
+  }
+ .card-magazin {
+   border: solid 1px #d3d3d361;
+    padding: 20px 10px;
+    border-radius: 5px;
+    box-shadow: 0 8px 15px rgba(0,0,0,.1);
+    margin-top: 15px;
+   position: relative;
+  }
+.buton-magazin {
+    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60)) !important;
+    background: linear-gradient(to right,#ff8a00,#da1b60) !important;
+    text-decoration: none;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    border: none;
+    color: white;
+    border-radius: 3px;
+    text-transform: uppercase;
+    padding: 7px 16px;
+    font-weight: 600;
+    width: 100%;
+    height: 54px;
+    font-size: 20px;
+}
+
+.buton-magazin::before {
+  content: "";
+  background-color: rgb(248, 50, 93);
+  width: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  transition: width 700ms ease-in-out;
+  display: inline-block;
+}
+
+.buton-magazin:hover::before {
+  width: 100%;
+}
+
+</style>

@@ -30,8 +30,8 @@
 		</a>
 	{% endfor %}
 </div>
-{% if page.layout == "review" %}
-{% if page.imagineProdus %}
+{% if page.layout == "review" or page.layout == "stiri" %}
+{% if page.imagineProdus and page.url1 %}
 {% include cta-sidebar.html 
 imagine1=page.imagineProdus 
 titlu1=page.nume 

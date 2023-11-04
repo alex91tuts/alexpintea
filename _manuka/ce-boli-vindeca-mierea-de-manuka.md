@@ -17,6 +17,7 @@ cat: "SANATATE"
 subcat: "MANUKA"
 
 url1: https://l.profitshare.ro/l/12429256
+imagineProdus: /assets/images/manuka/boli/miere-de-manuka-originala-produs.webp
 
 ---
 
@@ -73,6 +74,10 @@ Pe lângă aceste beneficii, mierea de manuka este apreciată și pentru capacit
 Așadar, dacă ești curios să afli mai multe despre **ce boli vindeca mierea de manuka** și cum poți profita de proprietățile sale excepționale, ai nimerit la fix!
 
 În acest articol, vom explora în detaliu originea, utilizările și beneficiile acestei mieri unice. Așa că pregătește-te să descoperi lumea fascinantă a mierii manuka!
+
+<div class="custom-link" markdown="1">
+📝**[Afla Ce Boli Vindeca Rozmarinul?](/ce-boli-trateaza-rozmarinul/)**
+</div>
 
 ## Proprietăți și beneficii remarcabile ale mierii de manuka
 
