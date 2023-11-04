@@ -6,7 +6,7 @@ date: 2023-06-22
 date-modified: 2023-06-25 
 categorie: MANUKA
 tags: ['Miere', 'Manuka', 'H: Pylory']
-nume: "ce boli vindeca mierea de manuka"
+nume: "Miere de Manuka Originala"
 keyword: "ce boli vindeca mierea de manuka"
 author: "Alex P."
 author-link: "alexp"
