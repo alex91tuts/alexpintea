@@ -3,6 +3,7 @@
 {% if page.sidebar != "cat" %}
 
 <div class="col review-side">
+
 <span class="title-section-sidebar">RECENTE</span>
 	<hr>
 		{% assign cate = site.data.search | where: "cat", page.cat %}
@@ -30,6 +31,7 @@
 		</a>
 	{% endfor %}
 </div>
+
 {% if page.layout == "review" or page.layout == "stiri" %}
 {% if page.imagineProdus and page.url1 %}
 {% include cta-sidebar.html 

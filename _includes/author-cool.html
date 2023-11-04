@@ -1,301 +1,143 @@
-<div class="profile">
-  <div class="photo"><img src="/assets/images/reviews/author.png"/></div>
-  <div class="content">
-    <div class="text">
-      <h3>TotRedus</h3>
-      <h6>Admin, editor</h6>
+<div class="card-sme">
+<div class="styling"></div>
+<header class="card-sme-header">
+  <p>May 3rd 2023</p>
+  <span class="title">Ce sa vizitezi in Bucuresti?</span>
+</header>
+<div class="card-sme-author">
+  <a class="author-avatar" href="#">
+    <span>
+  </span></a>
+  <svg class="half-circle" viewBox="0 0 106 57">
+    <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+  </svg>
+  <div class="author-name">
+    <div class="author-name-prefix">Autor</div> Alex P.
     </div>
-    <div class="btn"><span></span></div>
   </div>
-	<div class="box"><a href="#"><span>DETALII</span></a></div>
+  <div class="tags">
+    <a href="#">html</a>
+    <a href="#">css</a>
+    <a href="#">web-dev</a>
+  </div>
 </div>
 
 <style>
-
-.profile {
-		width: 410px;
-    height: 100px;
-    position: relative;
-		transform: translate(0);
-    border-radius: 5px;
-    background-color: #fafafa;
-    box-shadow: 0 0 2rem #babbbc;
-    animation: show-profile .5s forwards ease-in-out;
-	  left: 50px;
+  .styling {
+    background: black;
+  }
+.card-sme {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  height: 350px;
+  min-width: 250px;
+  padding: 1rem;
+  border-radius: 16px;
+  background: #17141d;
+  transition: .2s;
+  font-family: 'Inter', sans-serif;
+  margin-top: 15px;
+  background-image: url(/assets/images/smart/casa-inteligenta/boxa-google.webp);
+  background-position: center;
+  background-size: cover;
 }
 
-@keyframes show-profile {
-	0% {
-		width: 0;
-	}
+.card-sme:hover {
+  transform: translateY(-0.4rem);
 }
 
-.profile .photo, .profile .content {
-	box-sizing: border-box;
+.card-sme-author {
+  position: relative;
+  display: grid;
+  grid-template-columns: 75px 1fr;
+  align-items: center;
+  margin: 3rem 0 0;
 }
 
-.profile .photo {
-	width: 100px;
-	height: 100px;
-	border-radius: 50%;
-	overflow: hidden;
-	border: 5px solid #fafafa;
-	background-color: #fafafa;
-	margin-left: -50px;
-	box-shadow: 0 0 .5rem #babbbc;
-	animation: rotate-photo .5s forwards ease-in-out;
+.author-name {
+  color: #7a7a8c;
 }
 
-@keyframes rotate-photo {
-	100% {
-		transform: rotate(-360deg);
-	}
+.author-name-prefix {
+  color: #e52e71;
+  font-weight: 600;
 }
 
-.profile .photo img {
-	width: 100%;
+.author-avatar span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #f2f2f2;
+  margin: 16px 10px;
 }
 
-.profile .content {
-	padding: 10px;
-	overflow: hidden;
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
+.half-circle {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 48px;
+  fill: none;
+  stroke: #ff8a00;
+  stroke-width: 8;
+  stroke-linecap: round;
 }
 
-.profile .content::before {
-	  content: '';
-    position: absolute;
-    width: 290px;
-    height: 188px;
-    background-color: #e9f3e6;
-    left: 0;
-    top: -37px;
-    z-index: -1;
-    transform: rotate(-17deg);
+.card-sme-header {
+  margin-bottom: auto;
+  color: #7a7a8c;
 }
 
-.profile .content .text {
-	margin-top: 20px;
-	margin-left: 50px;
+.card-sme-header p {
+  font-size: 14px;
+  margin: 0 0 1rem;
+  color: #7a7a8c;
 }
 
-.profile .content .text h3, .profile .content .text h6 {
-	font-weight: normal;
-	margin: 3px 0;
-	letter-spacing: .5px;
-	white-space: nowrap;
+.card-sme-header .title {
+  font-size: 25px;
+  margin: .25rem 0 auto;
+  cursor: pointer;
+  font-family: 'Arial Black', sans-serif;
 }
 
-.profile .content .btn {
-	background-color: #abc;
-	width: 50px;
-	height: 50px;
-	position: absolute;
-	right: 25px;
-	top: 25px;
-	border-radius: 50%;
-	z-index: 1;
-	cursor: pointer;
-	transition-duration: .3s;
-	animation: pop-btn .3s both ease-in-out .5s;
+.card-sme-header .title:hover {
+  background: linear-gradient(90deg,#ff8a00,#e52e71);
+  text-shadow: none;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-@keyframes pop-btn {
-	0% {
-		transform: scale(0);
-	}
-
-	80% {
-		transform: scale(1.2);
-	}
-
-	100% {
-		transform: scale(1);
-	}
+.tags {
+  margin: 1rem 0 2rem;
+  padding: .5rem 0 1rem;
+  line-height: 2;
+  margin-bottom: 0;
 }
 
-.profile .content .btn:hover {
-	box-shadow: 0 0 0 5px rgba(170, 187, 204, 0.5);
+.tags a {
+  font-style: normal;
+  font-weight: 700;
+  color: #7a7a8c;
+  text-transform: uppercase;
+  font-size: .66rem;
+  border: 3px solid #28242f;
+  border-radius: 2rem;
+  padding: .2rem .85rem .25rem;
+  position: relative;
 }
 
-.profile .content .btn span {
-	width: 60%;
-	height: 2px;
-	position: absolute;
-	background-color: white;
-	top: 50%;
-	left: 20%;
-	transform: translateY(-50%);
-	animation: to-hamburger .3s forwards ease-in-out;
+.tags a:hover {
+  background: linear-gradient(90deg,#ff8a00,#e52e71);
+  text-shadow: none;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  background-clip: text;
+  border-color: white;
 }
-
-.profile .content .btn span::before, .profile .content .btn span::after {
-	content: '';
-	width: 100%;
-	height: 2px;
-	position: absolute;
-	background-color: white;
-	transition-duration: .3s;
-	transform: rotate(0deg);
-	right: 0;
-}
-
-.profile .content .btn span::before {
-	margin-top: -7px;
-}
-
-.profile .content .btn span::after {
-	margin-top: 7px;
-}
-
-.profile .content .btn.active span {
-	animation: to-arrow .3s forwards ease-in-out;
-}
-
-.profile .content .btn.active span::before, .profile .content .btn.active span::after {
-	width: 60%;
-	right: -1px;
-}
-
-.profile .content .btn.active span::before {
-	transform: rotate(45deg);
-}
-
-.profile .content .btn.active span::after {
-	transform: rotate(-45deg);
-}
-
-@keyframes to-hamburger {
-	from {
-		transform: translateY(-50%) rotate(-180deg);
-	}
-}
-
-@keyframes to-arrow {
-	from {
-		transform: translateY(-50%) rotate(0deg);
-	}
-
-	to {
-		transform: translateY(-50%) rotate(180deg);
-	}
-}
-
-.profile .box {
-	width: 150px;
-	height: 150px;
-	opacity: 100;
-	border-radius: 50%;
-	background-color: rgba(255, 255, 255, 0.7);
-	position: absolute;
-	top: 50%;
-	right: -40%;
-	transform: translate(-50%, -50%);
-	transition-duration: .3s;
-}
-
-.profile .box span {
-	border-radius: 3px;
-	background-color: #ececec;
-	font-size: 26px;
-	font-weight: 700;
-	text-align: center;
-	line-height: 50px;
-	position: absolute;
-	left: 18px;
-	top: calc(75px - 50px/2);
-	box-shadow: 0 0 .5rem #babbbc;
-	transition-duration: .3s;
-	background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
-	background: linear-gradient(to right,#ff8a00,#da1b60);
-	color: white;
-	padding: 0px 20px;
-}
-	.profile .box span:hover {
-		letter-spacing: 2px;
-    font-weight: 900;
-    transition: all 1s;
-    transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
-    color: white !important;
-	}
-.profile .box i:hover {
-	transition-delay: initial !important;
-	box-shadow: 0 0 0 5px #babbbc;
-}
-
-.profile .box.open {
-	opacity: 1;
-}
-
-.profile .box.open i {
-	left: 60px;
-}
-
-.profile .box.open span {
-	transform: rotate(0deg) translateX(80px) rotate(0deg);
-	transition-delay: 0.2s;
-}
-	
-.profile .box.open i:nth-of-type(1) {
-	transform: rotate(0deg) translateX(120px) rotate(0deg);
-	transition-delay: 0.2s;
-}
-
-.profile .box.open i:nth-of-type(2) {
-	transform: rotate(-45deg) translateX(120px) rotate(45deg);
-	transition-delay: 0.1s;
-}
-
-.profile .box.open i:nth-of-type(3) {
-	transform: rotate(0deg) translateX(120px) rotate(0deg);
-	transition-delay: 0.2s;
-}
-
-.profile .box.open i:nth-of-type(4) {
-	transform: rotate(45deg) translateX(120px) rotate(-45deg);
-	transition-delay: 0.3s;
-}
-
-.profile .box.open i:nth-of-type(5) {
-	transform: rotate(90deg) translateX(120px) rotate(-90deg);
-	transition-delay: 0.4s;
-}
-	
-	@media (max-width: 570px) {
-		.profile .content::before {
-			width: 212px;
-		}
-		.profile .box.open span {
-   transform: rotate(0deg) translateX(-154px) rotate(0deg) translateY(-37px);
-		}
-		.profile .box {
-			top: 122%;
-    	right: -22%;
-			background-color: rgba(255, 255, 255, 0);
-		}
-		.profile {
-			width: 100%;
-			border-top-left-radius: 100px;
-    	border-bottom-left-radius: 100px;
-			left: 0;
-		}
-		.profile .photo {
-			margin-left: 0;
-		}
-		.profile .content {
-			left: 0px;
-		}
-		.profile .content .btn {
-			right: 10px;
-		}
-		.profile .content .text {
-			margin-left: 96px;
-		}
-	}
-
 </style>
-

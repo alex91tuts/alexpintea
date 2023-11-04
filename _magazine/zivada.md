@@ -10,6 +10,7 @@ tags:
   - COSMETICE
   - CURAȚARE
 nume: ZIVADA.RO
+keyword: "zivada pareri"
 author: "Alex P."
 author-link: "alexp"
 logo: /assets/images/magazine/logo-zivada.webp

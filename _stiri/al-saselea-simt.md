@@ -7,6 +7,7 @@ date-modified:
 categorie: ELECTROCASNICE
 tags: ['Electrocasnice', 'Tehnologii', '2023']
 nume: ce este al saselea simt la electrocasnice
+keyword: "ce este al saselea simt la electrocasnice"
 author: "Alex P."
 author-link: "alexp"
 scor-intro: Al saselea simt la electrocasnice este capacitatea acestora de a detecta și reacționea în anumite condiții sau situații.

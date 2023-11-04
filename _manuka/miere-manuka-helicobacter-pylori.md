@@ -7,6 +7,7 @@ date-modified:
 categorie: MANUKA
 tags: ['Miere', 'Manuka', 'H: Pylory']
 nume: "miere de manuka helicobacter pylori"
+keyword: "miere de manuka helicobacter pylori"
 author: "Alex P."
 author-link: "alexp"
 scor-intro: "Descoperiți mierea de Manuka ca soluție eficientă împotriva Helicobacter Pylori. Explorați cercetările, beneficiile și cum să o utilizați corect. Sănătatea la îndemână."

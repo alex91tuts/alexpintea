@@ -13,7 +13,7 @@ post_class: post-template
  "image": "{{ site.url }}/assets/images/{{ page.image_path }}",
  "author": "{{ page.author }}", 
  "genre": "{{ page.categorie }}", 
- "keywords": "{{ page.title }}", 
+ "keywords": "{% if page.keyword %}{{ page.keyword }}{% else %}{{ page.nume }}{% endif %}", 
 "publisher": {
     "@type": "Organization",
     "name": "Totredus",
