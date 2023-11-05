@@ -1,0 +1,38 @@
+<div class="zboruri" style="height: 845px;">
+  
+    <script>
+        // Flag to ensure the script is loaded only once
+        var scriptLoaded = false;
+        // Function to handle scroll event
+        function handleScroll() {
+            if (!scriptLoaded) {
+                scriptLoaded = true; // Set the flag to true
+                setTimeout(function() {
+                    // Create the script tag dynamically
+                    var script = document.createElement('script');
+                    script.src = "{{page.kiwi-results}}";
+                    script.charset = "utf-8";
+                    script.async = true;
+                    // Append the script tag to the desired div
+                    document.querySelector('.zboruri').appendChild(script);
+                }, 1000); // 2000 milliseconds = 2 seconds
+            }
+        }
+        // Add event listener for scroll event
+        window.addEventListener('scroll', handleScroll);
+    </script>
+     
+</div>
+
+<style>
+    .zboruri {
+        height: 845px;
+    }
+
+
+@media screen and (max-width: 650px) {
+  .zboruri {
+    height: 1120px !important;
+  }
+}
+</style>

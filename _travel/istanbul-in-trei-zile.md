@@ -15,6 +15,10 @@ keyword: ce sa faci in istanbul 3 zile
 date: 29.03.2023
 tags: ['Istanbul', 'CityBreak', '2023']
 
+booking-form: "https://tp.media/content?trs=219198&shmarker=208457.istanbul&locale=ro&default_direction=Istanbul&sustainable=false&border_radius=9&plain=true&powered_by=true&promo_id=2693&campaign_id=84"
+kiwi-results: "https://c111.travelpayouts.com/content?currency=eur&trs=219198&shmarker=208457.istanbul&powered_by=true&locale=ro&from_name=OTP&to_name=SAW&show_header=false&limit=2&primary_color=00AE98&results_background_color=FFFFFF&form_background_color=FFFFFF&promo_id=4478"
+getyourguide: "https://c108.travelpayouts.com/content?trs=219198&shmarker=208457.istanbul&place=istanbul&items=3&locale=ro&powered_by=true&promo_id=4039"
+
 ---
 
 În Istanbul 3 zile poți vizita cele mai importante atractii turistice, precum: Moscheea Albastră, Palatul Tokapi, Turnul Galata, Moschea Sakirin și altele. Vezi propunerea nostră de city-break și alte informații utile.
@@ -50,10 +54,7 @@ tags: ['Istanbul', 'CityBreak', '2023']
 
 ---
 
-{% include cta-cazare.html 
-locatie="ISTANBUL"
-link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FIstanbul%2CTurkey-c3430%2F1rooms%2F2adults"
-%}
+
 
 Salutare, dragă călătorule! Gata să descoperi Istanbulul în doar 3 zile? Acest ghid îți va arăta cum să te bucuri de cele mai bune atracții, mâncăruri și experiențe pe care acest oraș fascinant le are de oferit. 
 
@@ -81,6 +82,10 @@ Savurează specialități precum simit (un covrig în formă de inel acoperit cu
 
 Dacă vrei să te simți ca un localnic, încearcă să iei micul dejun într-o cafenea de cartier.
 
+## Cazare in Istanbul
+
+{% include booking-form.html %}
+
 ### Vizitarea Moscheii Albastre și a Hipodromului
 
 După ce te-ai delectat cu micul dejun, porneste spre Moscheea Albastră, una dintre cele mai emblematice moschei din Istanbul. 
@@ -96,6 +101,11 @@ Asigură-te că respecți codul de îmbrăcăminte și te încalți corespunzăt
 La doar câțiva pași de Moscheea Albastră, vei găsi Hipodromul, care datează din epoca bizantină.
 
 Acesta era locul unde se desfășurau curse de care și evenimente sportive în trecut, iar astăzi, în mijlocul spațiului verde, se pot observa obiecte istorice precum Coloana Serpentină și Obeliscul Teodosius.
+
+---
+## Zboruri către istanbul
+
+{% include kiwi-results.html %}
 
 **După-amiaza**
 
@@ -122,6 +132,7 @@ Plimbă-te printre cele 336 de coloane de marmură și fii atent la cele două c
 ### Prânzul la un restaurant local
 
 După vizitarea acestor obiective, este timpul pentru o pauză de prânz la un restaurant local. 
+
 
 Alege un loc care servește mâncăruri tradiționale turcești, precum kebab, meze sau pide (o variantă turcească de pizza). 
 
@@ -153,10 +164,10 @@ Acest complex de clădiri luxoase și grădini somptuoase este acum un muzeu imp
 
 De asemenea, nu rata priveliștea panoramică asupra Bosforului și Cornului de Aur de pe terasele palatului.
 
-{% include cta-cazare.html 
-locatie="ISTANBUL"
-link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FIstanbul%2CTurkey-c3430%2F1rooms%2F2adults"
-%}
+---
+## Activitati și tururi ghidate in Istanbul
+
+{% include get-your-guide.html %}
 
 ### Cină la un restaurant cu vedere la Bosfor
 
@@ -270,10 +281,6 @@ La sfârșitul celei de-a doua zile, te vei întoarce la cazare cu amintiri minu
 
 Pregătește-te pentru ultima zi a călătoriei tale în Istanbul, când vei explora partea asiatică a orașului și te vei relaxa într-un hamam tradițional.
 
-{% include cta-cazare.html 
-locatie="ISTANBUL"
-link="https://momondo.ro/in?a=kan_253075_563714&lc=ro&url=%2Fhotels-dateless%2FIstanbul%2CTurkey-c3430%2F1rooms%2F2adults"
-%}
 
 ---
 ## Ziua 3 - Aventură în partea asiatică a Istanbulului și relaxare într-un hamam
@@ -406,3 +413,5 @@ Pe lângă vizitarea obiectivelor turistice majore, precum Moscheea Albastră, H
 Cu siguranță vei dori să te întorci în acest oraș captivant pentru a descoperi și mai multe din secretele și comorile pe care le are de oferit. 
 
 Pe măsură ce te îndrepți spre casă, vei purta în inimă amintirile frumoase și un sentiment de încântare pentru că ai avut șansa să experimentezi câteva dintre minunile pe care Istanbulul le oferă vizitatorilor săi.
+
+

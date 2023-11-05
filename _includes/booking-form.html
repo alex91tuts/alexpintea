@@ -1,0 +1,38 @@
+<div class="cazare">
+  
+    <script>
+        // Flag to ensure the script is loaded only once
+        var scriptLoadedCazare = false;
+        // Function to handle scroll event
+        function handleScrollCazare() {
+            if (!scriptLoadedCazare) {
+                scriptLoadedCazare = true; // Set the flag to true
+                setTimeout(function() {
+                    // Create the script tag dynamically
+                    var script = document.createElement('script');
+                    script.src = "{{ page.booking-form }}";
+                    script.charset = "utf-8";
+                    script.async = true;
+                    // Append the script tag to the desired div
+                    document.querySelector('.cazare').appendChild(script);
+                }, 1000); // 2000 milliseconds = 2 seconds
+            }
+        }
+        // Add event listener for scroll event
+        window.addEventListener('scroll', handleScrollCazare);
+    </script>
+     
+</div>
+
+<style>
+    .cazare {
+        height: 293px;
+    }
+
+
+@media screen and (max-width: 650px) {
+  .cazare {
+    height: 365px !important;
+  }
+}
+</style>

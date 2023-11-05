@@ -1,0 +1,39 @@
+<div class="getyourguide">
+
+
+<script>
+    // Flag to ensure the script is loaded only once
+    var scriptLoadedGetYourGuide = false;
+    // Function to handle scroll event
+    function handleScrollGetYourGuide() {
+        if (!scriptLoadedGetYourGuide) {
+            scriptLoadedGetYourGuide = true; // Set the flag to true
+            setTimeout(function() {
+                // Create the script tag dynamically
+                var script = document.createElement('script');
+                script.src = "{{ page.getyourguide }}";
+                script.charset = "utf-8";
+                script.async = true;
+                // Append the script tag to the desired div
+                document.querySelector('.getyourguide').appendChild(script);
+            }, 3000); // 2000 milliseconds = 2 seconds
+        }
+    }
+    // Add event listener for scroll event
+    window.addEventListener('scroll', handleScrollGetYourGuide);
+</script>
+
+</div>
+
+<style>
+    .zboruri {
+        height: 410px;
+    }
+
+
+@media screen and (max-width: 650px) {
+  .zboruri {
+    height: 600px !important;
+  }
+}
+</style>
