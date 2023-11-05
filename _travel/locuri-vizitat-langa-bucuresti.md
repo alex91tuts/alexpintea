@@ -16,8 +16,9 @@ date: 2023-06-04
 date-modified: 2023-07-02
 tags: ['București', 'Locuri de vizitat', 'Apropiere']
 
----
+getyourguide: "https://c108.travelpayouts.com/content?trs=219198&shmarker=208457.istanbul&tour=205842%2C%2061467%2C%2061485&items=3&locale=en-US&powered_by=true&promo_id=4039"
 
+---
 
 ---
 ## Introducere: Top locuri de vizitat lângă București
@@ -95,6 +96,11 @@ O vizită la vulcanii noroioși poate fi combinată cu alte locuri de interes di
 anchor="Peșteri Lângă București"
 link="https://totredus.ro/travel/pesteri-langa-bucuresti/"
 %}
+
+---
+## Activitati și tururi ghidate
+
+{% include get-your-guide.html %}
 
 ---
 ## Pădurea și lacul Snagov: Destinație pentru relaxare în natură
