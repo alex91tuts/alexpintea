@@ -4,6 +4,7 @@ description: "Fii la curent cu ultimele strategii și sfaturi pentru a câștiga
 title: "BANI ONLINE"
 sidebar: "cat"
 date: 2023-06-24
+image: "bani-online.webp"
 
 ---
 

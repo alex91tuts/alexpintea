@@ -4,6 +4,7 @@ description: "Sfaturi, idei și perspective unice despre stilul de viață conte
 title: "LIFESTYLE"
 sidebar: "cat"
 date: 2023-06-24
+image: "lifestyle.webp"
 
 ---
 

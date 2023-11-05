@@ -4,6 +4,7 @@ description: "Explorați categoria SANATATE pe blogul nostru pentru a descoperi 
 title: "SANATATE"
 sidebar: "cat"
 date: 2023-06-24
+image: "sanatate.webp"
 
 ---
 

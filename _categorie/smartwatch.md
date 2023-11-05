@@ -4,6 +4,7 @@ description: "Descoperiți ultimele știri, recenzii și ghiduri pentru smartwat
 title: "SMARTWATCH"
 sidebar: "cat"
 date: 2023-06-24
+image: "smartwatch.webp"
 
 ---
 

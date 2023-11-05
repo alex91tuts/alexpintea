@@ -4,6 +4,7 @@ description: "Descoperiți ultimele recenzii, știri și articole despre trotine
 title: "TROTINETE"
 sidebar: "cat"
 date: 2023-06-24
+image: "trotineta.webp"
 
 ---
 

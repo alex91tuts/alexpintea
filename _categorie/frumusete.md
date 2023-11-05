@@ -4,6 +4,7 @@ description: "Descoperiți sfaturi, trucuri și tendințe în materie de frumuse
 title: "FRUMUSETE"
 sidebar: "cat"
 date: 2023-06-24
+image: "frumusete.webp"
 
 ---
 

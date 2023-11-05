@@ -4,6 +4,7 @@ description: "Descoperiți articole incisive și informative din categoria finan
 title: "FINANCIAR"
 sidebar: "cat"
 date: 2023-06-24
+image: "financiar.webp"
 
 ---
 

@@ -9,15 +9,19 @@ date: 2023-04-20
 
 ---
 
-<div class="container" style="">
+<div class="container" style="margin-bottom: 15px;">
 <div class="row">
 {% for categorii in site.categorie %}
-	<div class="col-lg-6 col-12 sur">
+	
+  <div class="col-lg-4 col-6 sur">
+    <a href="{{ categorii.url }}">
 		<div class="card-categ">
-	 		<h2>{{ categorii.title }}</h2>
-			<a class="btn btn-success-gradiant btn-md btn-arrow m-t-20 m-b-10" href="{{ categorii.url }}"><span>VEZI ARTICOLE ➤</span></a>
-		</div>
+      <div class="imag" style="background-image: url(/assets/images/categorii/categ/{{ categorii.image }});"></div> 
+	 		<h2>{{ categorii.title }}</h2>   
+    </div>
+     </a> 
 	</div>
+  
 {% endfor %}
 	
 </div>	
@@ -26,12 +30,40 @@ date: 2023-04-20
 </div>
 
 <style>
+  @media only screen and (max-width: 600px) {
+    .sur {
+      padding-top: 13px !important;
+      padding-right: 0 !important;
+    }
+    .imag {
+      width: 75px !important;
+      height: 75px !important;
+    }
+    a .card-categ h2 {
+      font-size: 12px !important;
+    }
+  }
+  .imag {
+    background-size: cover;
+    background-blend-mode: difference;
+    height: 95px;
+    width: 95px;
+    margin: auto;
+  }
+  a .card-categ h2 {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+  }
 	.sur {
 		padding-top: 30px;
 	}
-	.card-categ {
+	a .card-categ {
 		box-shadow: 0 0 33px -2px #e3e3e3;
     border-radius: 8px;
-    padding: 20px;
+    padding: 10px;
+    text-align: center;
+    
 	}
 </style>

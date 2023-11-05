@@ -4,6 +4,7 @@ description: "Găsește tot ce ai nevoie pentru a-ți crea un spațiu plăcut ș
 title: "CASA SI GRADINA"
 sidebar: "cat"
 date: 2023-06-24
+image: "casa-si-gradina.webp"
 
 ---
 
