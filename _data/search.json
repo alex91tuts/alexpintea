@@ -1725,6 +1725,20 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Smartwatch vs Fitness Tracker: Ghid Complet pentru Alegerea Potrivită",
+      "category" : "REVIEW",
+      "tags"     : "Fitness tracker, Smartwatch, Comparatie",
+      "url"      : "/review/smartwatch-vs-fitness-tracker/",
+      "date"     : "2023-11-05 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/fit-vs-watch/smartwatch-vs-fitnes-tracker.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă diferențele esențiale între smartwatch și fitness tracker pentru a alege dispozitivul ideal în funcție de nevoile și stilul tău de viață. Află mai multe",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 ]

@@ -63,6 +63,11 @@ Tehnologia LTE, cunoscută și sub denumirea de **Long Term Evolution**, reprezi
 
 Tehnologia LTE a repurtat un succes imens în industria smartphone-urilor, iar acum își face loc și în domeniul smartwatches-urilor, aducând o serie de avantaje care îmbunătățesc semnificativ utilitatea acestor dispozitive. 
 
+{% include link.html 
+anchor="Smartwatch vs Fitness Tracker? Cum alegi?" 
+link="https://totredus.ro/review/smartwatch-vs-fitness-tracker/" 
+%}
+
 ---
 ## LTE în Ceasurile Smart
 
