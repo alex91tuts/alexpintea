@@ -1,0 +1,525 @@
+<!-- TLDR -->
+{% if page.capitol-1 %}
+  <div style="text-align: center; font-weight: 900;">
+  <h2 id="{{ page.capitol-1.chapter_name }}" class="tldr-h">{{ page.capitol-1.chapter_name }}</h2>
+  </div>
+  <div class="tldr">
+  {% for element in page.capitol-1.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+          <h2>{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+          <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+    
+          {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+    
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+<br>
+</div>
+
+<!-- INTRODUCERE -->
+<div class="capitol">
+{% if page.capitol-2 %}
+  {% for element in page.capitol-2.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+          <h2 id="{{ page.capitol-2.chapter_name | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+        <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+        {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+<!-- Performanta si conectivitate -->
+<div class="capitol">
+{% if page.capitol-3 %}
+  {% for element in page.capitol-3.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+          <h2 id="{{ page.capitol-3.chapter_name | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+          <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+        {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+<!-- DESIGN SI CONSTRUCTIE -->
+<div class="capitol">
+{% if page.capitol-4 %}
+  {% for element in page.capitol-4.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+          <h2 id="{{ page.capitol-4.chapter_name | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+          <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+        {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+<!-- AUTONOMIE SI INCARCARE -->
+<div class="capitol">
+{% if page.capitol-5 %}
+  {% for element in page.capitol-5.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+          <h2 id="{{ page.capitol-5.chapter_name | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+          <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+        {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+<!-- EVOLUTIA DE LA MODELUL ANTERIOR -->
+<div class="capitol">
+{% if page.capitol-6 %}
+  {% for element in page.capitol-6.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+          <h2 id="{{ page.capitol-6.chapter_name | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+          <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+        {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+<!-- PARERI UTILIZATORI -->
+<div class="capitol">
+{% if page.capitol-7 %}
+  {% for element in page.capitol-7.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+          <h2 id="{{ page.capitol-7.chapter_name | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+          <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+        {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+      
+      {% when 'html' %}
+          {{ element.content }}
+
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+<!-- CONCLUZIE -->
+<div class="capitol">
+{% if page.capitol-8 %}
+  {% for element in page.capitol-8.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+           <h2 id="{{ page.capitol-8.chapter_name | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+          <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+      {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+
+      {% when 'unordered_list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+  
+      {% when 'ordered_list' %}
+        <ol>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ol>
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+<!-- FAQ -->
+<div class="capitol">
+{% if page.capitol-9 %}
+  {% for element in page.capitol-9.content %}
+    {% case element.type %}
+      {% when 'header' %}
+        {% if element.level == 2 %}
+        <h2 id="{{ element.content | slugify }}">{{ element.content }}</h2>
+        {% elsif element.level == 3 %}
+        <h3>{{ element.content }}</h3>
+        {% endif %}
+
+      {% when 'paragraph' %}
+        <p>{{ element.content }}</p>
+  
+        {% when 'first-paragraph' %}
+        <p>{{ element.content }}</p>
+
+      {% when 'list' %}
+        <ul>
+          {% for item in element.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+
+      {% when 'table' %}
+        <table>
+          <tr>
+            {% for header in element.headers %}
+              <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in element.rows %}
+            <tr>
+              {% for cell in row %}
+                <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+
+      {% when 'hr' %}
+        {% if element.hr %}
+          <hr>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+{% endif %}
+</div>
+<br>
+
+

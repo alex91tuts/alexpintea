@@ -99,5 +99,21 @@ robots: YES
       "subcat1"     : "{{ post.subcat1 }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+  ,
+  {% for post in site.new-reviews %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.topic | upcase}}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}",
+	    "image"     : "/{{ post.meta_image }}",
+			"author"    : "{{ post.author }}",
+	    "description"     : "{{ post.description }}",
+			"cat"    : "{{ post.cat }}",
+      "subcat" : "{{ post.subcat }}",
+      "subcat1"     : "{{ post.subcat1 }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
 

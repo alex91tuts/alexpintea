@@ -16,7 +16,7 @@ date: 29.03.2023
 tags: ['Istanbul', 'CityBreak', '2023']
 
 booking-form: "https://tp.media/content?trs=219198&shmarker=208457.istanbul&locale=ro&default_direction=Istanbul&sustainable=false&border_radius=9&plain=true&powered_by=true&promo_id=2693&campaign_id=84"
-kiwi-results: "https://c111.travelpayouts.com/content?currency=eur&trs=219198&shmarker=208457.istanbul&powered_by=true&locale=ro&from_name=OTP&to_name=SAW&show_header=false&limit=2&primary_color=00AE98&results_background_color=FFFFFF&form_background_color=FFFFFF&promo_id=4478"
+kiwi-results: "https://c111.travelpayouts.com/content?currency=ron&trs=219198&shmarker=208457.istanbul&powered_by=true&locale=ro&from_name=OTP&to_name=SAW&show_header=false&limit=2&primary_color=00AE98&results_background_color=FFFFFF&form_background_color=FFFFFF&promo_id=4478"
 getyourguide: "https://c108.travelpayouts.com/content?trs=219198&shmarker=208457.istanbul&place=istanbul&items=3&locale=ro&powered_by=true&promo_id=4039"
 
 ---

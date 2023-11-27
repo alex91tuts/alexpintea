@@ -54,7 +54,6 @@ cat: "SMARTWATCH"
 subcat:
 subcat1:
 
-url1: https://l.profitshare.ro/l/11826241
 
 ---
 
@@ -64,6 +63,10 @@ imagine1="/assets/images/reviews/applewatchse/produsemag.webp"
 titlu1="Apple Watch SE 2 (2022), GPS, Carcasa Midnight Aluminium 40mm"
 url1=page.url1 %}
 
+{% include tagcloud-travel.html %}
+
+<div class="box" markdown="1">
+  
 ## Introducere
 
 <span class="drop-caps">Î</span>ntr-o lume în care tehnologia avansează rapid, ceasurile inteligente au devenit un accesoriu indispensabil pentru mulți dintre noi. 
@@ -87,6 +90,7 @@ anchor="Cel Mai Bun Smartwatch - Top 7"
 link="https://totredus.ro/review/cel-mai-bun-smartwatch/" 
 %}
 
+</div>
 ---
 ## Specificații
 
@@ -190,7 +194,7 @@ Apple Watch SE (2022) nu este doar un alt ceas inteligent. Este un partener de �
 ---
 ## Autonomie și compatibilitate
 
-### **Autonomia: Tot ce ai putea dori și chiar mai mult**
+### Autonomia: Tot ce ai putea dori și chiar mai mult
 
 <span class="drop-caps">S</span>e spune că marile puteri vin cu mari responsabilități. Ei bine, Apple Watch SE 2 știe cum să țină pasul cu asta. Povestea de dragoste dintre tine și ceasul tău nu va fi întreruptă de pauze nedorite pentru reîncărcare.
 

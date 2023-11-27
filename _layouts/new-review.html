@@ -1,0 +1,612 @@
+---
+layout: empty
+disqus: false
+archive: false
+post_class: post-template
+
+---
+
+<script type="application/ld+json">
+
+{
+	"@context": "https://schema.org/",
+	"@type": "Product",
+	"name": "{{page.title}}",
+	"image": "{{site.url}}/{{page.meta_image}}",
+	"description": "{{page.description}}",
+	"review": {
+		"@type": "Review",
+		"datePublished": "{{page.date}}",
+		"reviewBody": "{{ page.content | strip_html }}",
+    "name": "{{ page.nume }}",
+		{% if page.rating-value %}
+    "reviewRating": {
+			"@type": "Rating",
+			"ratingValue": "{{page.rating-value}}",
+			"bestRating": "10"
+		},{% endif %}
+		"author": {
+			"@type": "Person",
+			"name": "{{page.author}}"
+		}{% if page.procons == "yes" %},
+		 "positiveNotes": [
+			{
+					"@type": "ItemList",
+					"itemListElement": [
+							{
+									"@type": "ListItem",
+									"position": 1,
+									"name": "{% for pros in page.pro limit: 1 %}{{pros}}{% endfor %}"
+							},
+							{
+									"@type": "ListItem",
+									"position": 2,
+									"name": "{% for pros in page.pro limit: 1 offset: 1 %}{{pros}}{% endfor %}"
+							}
+					]
+			}
+	],
+	"negativeNotes": [
+	{
+			"@type": "ItemList",
+			"itemListElement": [
+					{
+							"@type": "ListItem",
+							"position": 1,
+							"name": "{% for cons in page.contra limit: 1 %}{{cons}}{% endfor %}"
+					},
+					{
+							"@type": "ListItem",
+							"position": 2,
+							"name": "{% for cons in page.contra limit: 1 offset: 1 %}{{cons}}{% endfor %}"
+					}
+			]
+		}
+   ]
+	 {% endif %}
+	}
+}
+</script>
+<!-- Begin Article
+================================================== -->
+<div class="container review-cont;" style="font-family: montserrat;line-height: 36px;">
+<!-- Post Featured Image -->
+<meta itemprop="image" content="{{ site.url }}/assets/images/reviews/{{ page.image_path }}"></meta>
+<div id="top-featured" class="banner-review" style="background-image:url({{ site.url }}/assets/images/reviews/{{ page.image_path }}); background-size: 1110px 500px; background-position: center;">
+  <div class="gradient">
+    <div class="bread-crumbs">
+				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>
+    </div>
+    <div class="continut-imagine">
+				<div class="">
+						<div class="categorie-review">
+							<span>{{ page.categorie-review }}</span>
+						</div>
+				 <h1 class="banner-title">{{ page.title }}</h1>
+						<div class="review-meta" style="font-family: montserrat; font-weight: 700;">
+							<span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon">{%if page.author-link %}<a href="{{ site.url }}/autor/{{ page.author-link }}/"><span itemprop="author">{{ page.author }}</span></a>{% else %}<span itemprop="author">{{ page.author }}</span>{% endif %}</span> | 
+							<span><img src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> {% include reading-time.html %} </span> | 
+							<span><img src="/assets/images/svg/calendar.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
+						</div>
+				</div>
+    </div>
+  </div>
+</div>
+<!-- End Featured Image -->
+<div class="row">
+	<!-- Post Content -->
+	<div id="articol" class="article-post review-post col-lg-8 col-12">
+		<div class="cuprins" id="cuprins" onclick='toggleShow()'><span>CUPRINS</span></div>
+		<div id="tocid" class="toc col">
+			<span class="mobile-toc-trig"; id="mobileActivate"></span>
+			<ul id="outputList">
+			</ul>
+		</div>
+		{% if page.scoreb == da %}
+		{% include scorebox-v2.html %}
+		{% endif %}
+ <div>
+<div style="text-align: center;"><img class="" src="/assets/images/svg/reading.svg" alt="{{ page.title }}" width="100" height="100"></div>
+	 <div class="reviewBody" itemprop="reviewBody" id="continut">
+    <hr>
+     
+   	{{content}}
+
+	 </div>
+	 {% include author.html %}
+   {% include tags.html %}
+	 {% include next.html%}
+		</div>
+ </div>
+<div id="bottom" class="col-12 order-last">
+</div>
+
+{% include sidebar.html %}
+</div>
+		<!-- End Post -->
+</div>
+
+<style>
+  
+/* Link intern */
+  
+@media only screen and (max-width: 600px) {
+  
+  .categ-cust {
+    display: none;
+  }
+  .span-cust {
+    display: none;
+  }
+  .link-cust {
+    font-size: 10px;
+    font-weight: 600;
+  }
+}
+  .image-cust img {
+    border-radius: 3px;
+  }
+  .categ-cust {
+    border: solid 1px lightgray;
+    border-radius: 3px;
+    padding: 0px 11px;
+    background: gray;
+    color: white;
+    font-weight: 700;
+    right: 15px;
+  }
+  .text-cust {
+    line-height: 1.4;
+  }
+  .link-cust {
+    font-weight: 900;
+
+  }
+  .span-cust {
+    font-weight: 700;
+    font-size: 12px;
+  }
+  .link-to {
+    border: solid 1px #ececec;
+    padding: 8px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 14px -7px #0000009c;
+  }
+
+  
+  
+  .pareri-neg p, .pareri-poz p {
+    box-shadow: 0 6px 20px -12px #000000b8;
+    padding: 15px 15px;
+    margin-top: 35px;
+}
+  .tldr-h::after {
+    display: none !important;
+  }
+   .tldr::before {
+    content: "";
+    position: absolute;
+    border-left: solid 6px #63d3d9;
+    border-top: solid 6px #63d3d9;
+    height: 100px;
+    width: 100px;
+    margin-top: -23px;
+    }
+  .tldr::after {
+    content: "";
+    position: absolute;
+    border-right: solid 6px #63d3d9;
+    border-top: solid 6px #63d3d9;
+    height: 100px;
+    width: 100px;
+    margin-top: -100px;
+    right: 0;
+    transform: rotate(90deg);
+    }
+  .tldr {
+    text-align: justify;
+    padding: 10px;
+    padding-right: 40px;
+    font-family: montserrat;
+    }
+  .tldr ul li {
+    list-style: none;
+    margin-top: 15px;
+    }
+  .tldr ul li::before {
+    content: url(/assets/images/svg/pros.svg);
+    margin-right: 10px;
+    position: relative;
+    top: 2px;
+    }
+    @media only screen and (max-width: 600px) {
+      .tldr {
+        padding: 5px !important;
+      } 
+      .tldr ul {
+        padding-left: 23px;
+        padding-right: 18px;
+        }
+  }
+  .reviewBody h2, h3, h4, h5, h6, review-cont h1, h2, h3, h4, h5, h6, p, span {
+    font-family: montserrat !important;
+  }
+.reviewBody p {
+  text-align: justify !important;
+  font-size: 18px;
+}
+.small-post {
+  line-height: 19px;
+  max-height: 42px;
+}
+.toc {
+line-height: 19px;    
+  }  
+table {
+		border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+   	width: 100%;
+	}
+	th, td {
+	 padding: 8px 15px;
+	 font-family: Montserrat;
+	}
+  th {
+    font-size: 15px;
+  }
+	table tr th {
+    background-color: #009879;
+    color: #ffffff !important;
+    text-align: left;
+	}
+	tbody tr {
+    border-bottom: 1px solid #dddddd;
+	}
+	tbody tr:nth-of-type(even) {
+    background-color: white;
+	}
+	tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+	}
+	.img-pret {
+		text-align: center;
+		padding: 5px;
+	}
+	.img-pret img {
+		max-height: 54px;
+	}
+	.div-pret {
+		text-align: center;
+		padding: 0;
+	}
+	.btn-preturi {
+		position: absolute;
+    left: 0;
+    bottom: 0;
+    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    transition: all 1s;
+		border-radius: 0px 0px 3px;
+	}
+	.btn-preturi:hover {
+		letter-spacing: 2px;
+		font-weight: 900;
+		transition: all 1s;
+		transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+		color: white !important;
+	}
+	.p-new-price {
+		font-size: 15px;
+	}
+	.price-box {
+		box-shadow: 0 0 14px -4px lightgrey;
+		border: solid 1px #d3d3d375;
+		border-radius: 3px;      
+		}
+	.logo-shop {
+		max-height: 30px;
+		max-width: 75%;
+	}
+	.old-p {
+		position: absolute;
+    font-size: 10px;
+    top: 19px;
+    text-decoration: line-through red;
+    left: 0;
+    right: 0;
+    margin: auto;
+	}
+	@media (max-width: 570px) {
+		.old-p {
+			top: 19px;
+		}
+		.attention {
+  padding: 6px 10px !important;
+  font-size: 14px !important;
+	}
+		.tabel-top td {
+		padding: 6px 8px !important;
+    font-size: 11px !important;
+		}
+    .toc {
+      left: 10px !important;
+    }
+	}
+	
+
+	#continut h2 {
+		display: inline-block;
+	}
+
+	.attention {
+		background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60)) !important;
+  background: linear-gradient(to right,#ff8a00,#da1b60) !important;
+  text-decoration: none;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+  border: none;
+  color: white;
+  border-radius: 3px;
+  text-transform: uppercase;
+  padding: 7px 16px;
+  font-weight: 600;
+  width: 100%;
+  height: 54px;
+  font-size: 20px;
+	}
+
+	#outputList li {
+		border-bottom: solid 1px lightgray;
+    padding: 3px;
+    font-size: 10px;
+    font-weight: 500;
+		color: black !important;
+		font-style: italic;
+	}
+
+		.go-img {
+				position: absolute;
+				right: 14px;
+				top: 12px;
+				width: 48px;
+				transform: rotate(180deg);
+		}
+	.go-img:hover {
+		right: 10px;
+		transition: right 0.3s;
+	}
+    .verdict-img {
+    float: left;
+    shape-outside: circle(43%);
+    margin-right: 26px;
+    }
+    .review-meta span i {
+    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+    }
+    .tag {
+        font-size: 15px;
+        border-radius: 62px;
+        background: #63d3d9;
+        color: white;
+        padding: 4px 20px;  
+    }
+    
+    .categorie-review { color: #63d3d9; font-weight: 600; }
+    
+    .bread-crumbs { padding: 0 20px; }
+    
+    #breadcrumbs { color: white; }
+    
+    #breadcrumbs a { color: #63d3d9; font-weight: 600; }
+    
+    .review-meta span {
+    font-size: 13px;
+    color: white;
+    }
+    .gradient {
+    background-color: #ffffff00;
+    background-image:  linear-gradient(black,#d3d3d300, #00000091, black);
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+    }
+    .scor-box {
+        background-color: #f5f5f54d;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+    
+    .progress-bar-total {
+    float: left;
+    margin-right: 36px;
+    border-radius: 50%;
+    -webkit-shape-outside: circle();
+    shape-outside: circle();
+    }
+.percent {
+    position: absolute;
+    font-size: 40px;
+    font-weight: 800;
+    left: 29px;
+    top: 42px;
+    }
+.progress-circle {
+    transform: rotate(-90deg);
+}
+
+.progress__value-circle {
+    stroke-dasharray: 339.292;
+     stroke-linecap: round;
+}
+
+    .drop-caps {
+    font-size: 48px!important;
+    font-weight: 700;
+    margin-right: 15px;
+    line-height: 1.3;
+    float: left;
+    margin: 23px 35px;
+    color: #63d3d9;
+    background: -webkit-gradient(linear,left top,right top,from(#13616bc9),to(#8BC34A));
+    background: linear-gradient(to right,#13616bc9,#8BC34A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+    }
+	.score {
+    font-size: -webkit-xxx-large;
+    font-weight: 400;
+    border: solid 4px;
+    border-radius: 100px;
+    padding-right: 20px;
+    padding-left: 23px;
+    border-color: coral;
+    box-shadow: 0 0 9px 0px;
+    position: absolute;
+    right: -42px;
+    bottom: -29px;
+    background: white;
+}
+	.review-cont .row {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	}
+	.features-score {
+	font-size: 15px;
+	font-weight: 700;
+	}
+	.wrapper-side {
+	padding-left: 25px; 
+	padding-right: 0;	
+	}
+
+    .continut-imagine {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 15px 20px;
+    }
+	  .banner-title {
+    font-size: 48px;
+    margin-bottom: 5px;
+    line-height: 100%!important;
+    color: #fff;
+    text-shadow: 0 1px 1px #000;
+    font-weight: 700;
+	align-self: flex-end;
+	}
+	.review-cont {
+	max-width: 1080;
+	}
+	.review-post {
+	padding: 0;
+  padding-left: 15px;
+	}
+ 
+
+	.review-side {
+        height: fit-content;
+        background-color: #f5f5f54d;
+        border-radius: 8px;
+        padding: 15px;
+        box-shadow: 0 0 14px -4px lightgrey;
+        margin-bottom: 20px;
+	}
+  .review-post h2::after, h3:after {
+    margin-left: 16px;
+  }
+	
+  .pareri-neg p::before, .pareri-poz p::before {
+    top: -18px;
+    font-size: 28px;
+  }
+	@media only screen and (max-width: 600px) {
+		
+		.go-img {
+			width: 41px;
+		}		
+		
+			#continut h2 {
+			margin-top: -10px; 
+			padding-top: 10px; 
+			display: inline-block;
+			margin-bottom: 25px;
+			}
+		
+			.mobile-toc-trig {
+				cursor: pointer;
+				display: block;
+				position: absolute;
+				top: 0;
+				right: -9px;
+				height: 100%;
+				line-height: 20px;
+				opacity: 0.8;
+				width: 13px;
+				background: green;
+				color: #fff;
+				text-align: center;
+			}
+
+        #breadcumbs { font-size: 10;}
+        .scor-box {
+            font-size: 14px;
+        }
+        .review-cont {
+        margin-top: 20px;
+        }
+		.score {
+			font-size: xx-large;
+			font-weight: 500;
+			padding-right: 15px;
+			padding-left: 15px;
+			position: absolute;
+			right: 2px;
+			bottom: 2px;
+		} 
+		.banner-title {
+			font-weight: 600;
+			font-size: 22px;
+		  }
+		  .banner-review {
+			max-height: 330px;
+			margin-top: 0;
+			background-size: 792px 330px !important;
+		  }
+		  .wrapper-side {
+			padding-left: 0 !important;
+			margin-bottom: 15px;  
+			}
+		.review-side {
+			padding: 10px;
+		}
+		.review-post {
+			font-size: 16px;
+			margin-bottom: 15px;
+      padding-right: 15px;
+		}
+}
+</style>
+<!-- Start ProfitShare Zone -->
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement("script");
+     bsa.type = "text/javascript";
+     bsa.async = true;
+     bsa.src = "//l.profitshare.ro/files_shared/lps/js/RNv/kE.js?v=1700593318";
+  (document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(bsa);
+})();
+  </script>
+<!-- End ProfitShare Zone -->		
+<script src="https://cdn.2performant.com/l2/link2.js" id="linkTwoPerformant" data-id="l2/0/1/9/8/2/0/3/8/9/9" data-api-host="https://cdn.2performant.com"></script>

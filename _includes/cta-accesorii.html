@@ -1,0 +1,27 @@
+{% assign products = page.offers | where: "categorie", "ACCESORII" %}
+{% if products %}
+<h2>Acesorii Disponibile</h2>
+
+<div class="" style="padding: 15px; position: relative;">
+  <div class="row hori" id="scrollContent2">
+    {% for product in products %}
+    <div class="col-lg-4 col-7 latime" style="padding: 5px 5px;">
+      <div class="formare produs">
+      <div class="product-header"><p style="text-align: center !important; font-size: 16px !important;">{{ product.titlu }}</p></div>
+      <div style="padding: 5px;">
+      <div class="product-imagine"><img src="/assets/images/reviews/recHBuDZNzHBpARA8/{{ product.image-link }}"></div>
+      </div>
+      <div class="product-footer">
+        <a href="{{ product.url-produs }}"><button>VEZI PRET</button></a>
+        <div class="magazin">
+        <span>{{ product.magazin }}</span>
+        </div>
+      </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+    <button class="scroll-arrow left-arrow" data-target="scrollContent2">&lt;</button>
+    <button class="scroll-arrow right-arrow" data-target="scrollContent2">&gt;</button>
+  </div>
+{% endif %}

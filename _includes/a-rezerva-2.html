@@ -1,0 +1,14 @@
+{% if page.previous.url %}
+<div class="link-to">
+<div class="row" markdown="1">
+<div class="col-lg-2 col-3 image-cust">
+  <img src="/assets/images/reviews/{{ page.previous.image_path | split: '/' | join: '/link-'}}">
+</div>
+<div class="col-lg-10 col-9 text-cust">
+  <a href="{{ post.previous.url }}" class="link-cust">{{ page.previous.title }}</a>
+  <br>
+</div>
+
+</div>
+</div>
+{% endif %}

@@ -40,6 +40,10 @@ titlu1=page.nume
 url1=page.url1 %}
 {% endif %}
 {% endif %}
+  
+{% if page.layout == "new-review" %}
+  {% include cta-sidebar-new-review.html %}
+{% endif %}
 	
 {% if page.cat == "FINANCIAR" %}
 	{% include victoria.html %}

@@ -16,6 +16,7 @@ subcat1: ""
 lang: "ro_RO"
 
 ---
+
 Rozmarinul este cunoscut pentru proprietățile sale terapeutice în combaterea afecțiunilor respiratorii, ameliorarea stării mentale, susținerea sănătății cardiovasculare și atenuarea durerilor musculare și articulare.
 
 <img src="/assets/images/stiri/rozmarin/gatire.webp" width="740" height="1118" loading="lazy" alt="{{ page.nume }} gatire">
