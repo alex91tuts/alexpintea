@@ -8,7 +8,7 @@ layout: new-review
 date: "2023-11-25"
 date-modified: "2023-11-25"
 tags: ['Rezistent', 'GPS', 'Sănătate']
-nume: "Watch Ultra"
+nume: "Apple Watch Ultra"
 topic: review
 folder: "recqgafh1GyN73bsj"
 author: "Alex P."
