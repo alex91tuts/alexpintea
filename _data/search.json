@@ -1744,6 +1744,20 @@
   ,
   
     {
+      "title"    : "Apple Watch Series 8 Review: Pareri si Specificatii",
+      "category" : "REVIEW",
+      "tags"     : "Monitorizare-Sănătate, Rezistent-la-Apă, Ecran-Retina",
+      "url"      : "/review/apple-watch-series-8/",
+      "date"     : "2023-11-25 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/rec4lYUWpG7diQAsc/main-apple-watch-series-8-f39705f2.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Apple Watch Series 8: performanță excepțională, ecran de top, funcții sănătate avansate, într-un design confortabil.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
       "title"    : "Watch Ultra Review: Pareri si Specificatii Detaliate",
       "category" : "REVIEW",
       "tags"     : "Rezistent, GPS, Sănătate",

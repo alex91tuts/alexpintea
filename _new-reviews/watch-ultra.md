@@ -276,7 +276,7 @@ galerie:
 
 {% include cta-accesorii.html %}
 
-
+---
 <span class="drop-caps">D</span>escoperă Watch Ultra, ultimul răcnet în tehnologia wearable, conceput pentru cei care nu se mulțumesc cu mediocritatea. 
 
 Acest ceas nu doar că îți monitorizează pașii, dar redefinește limitele performanței, rezistenței și stilului. 
