@@ -2,7 +2,8 @@
 <div class="link-to">
 <div class="row" markdown="1">
 <div class="col-lg-2 col-3 image-cust">
-  <img src="/assets/images/reviews/{{ page.next.image_path | split: '/' | join: '/link-'}}">
+  <div class="container-imaglink" style="background-image: url(/assets/images/reviews/{{ page.next.image_path | split: '/' | join: '/link-'}})">
+  </div>
 </div>
 <div class="col-lg-10 col-9 text-cust">
   <a href="{{ post.next.url }}" class="link-cust">{{ page.next.title }}</a>
