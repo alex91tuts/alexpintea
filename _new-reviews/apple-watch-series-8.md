@@ -300,25 +300,27 @@ Apple Watch Series 8 nu este doar un accesoriu elegant, ci și un partener de î
 {% include a-rezerva-2.html %}
 
 ---
-## Funcții de Sănătate și Fitness
+## Sănătate și fitness
 
-<span class="drop-caps">C</span>easul inteligent Apple Watch Series 8 vine cu un arsenal impresionant de funcții pentru sănătate și fitness, gândite să te ajute să îți monitorizezi starea de bine și să te menții activ. 
+<span class="drop-caps">C</span>ei care caută un partener de încredere pentru monitorizarea sănătății și activităților fizice vor găsi în Apple Watch Series 8 un aliat de nădejde. 
 
-Unul dintre cele mai apreciate instrumente este monitorul de ritm cardiac, care măsoară constant pulsul și te alertează dacă detectează ceva neobișnuit. Această funcție este esențială, mai ales pentru cei care au probleme cardiace sau doresc să își supravegheze sănătatea inimii.
+Cu noile sale funcții, ceasul împinge și mai departe limitele tehnologiei purtabile în domeniul wellness.
 
-Dacă te îngrijorează siguranța personală, detecția de cădere și funcția SOS de urgență sunt aici să te liniștească. Ceasul simte când ai căzut și poate trimite automat un apel de urgență și un mesaj cu locația ta către contactele de urgență, dacă nu reacționezi în timp util. Este o caracteristică vitală pentru persoanele în vârstă sau pentru cei care practică sporturi extreme.
+Monitorizarea sănătății inimii a fost întotdeauna un punct forte pentru Apple Watch, iar Series 8 continuă tradiția cu un ECG (electrocardiogramă) încorporat. 
 
-Nu trebuie să uităm de monitorizarea oxigenului din sânge și de capacitatea de a efectua un ECG direct de pe încheietura mâinii. Aceste funcții avansate îți oferă o imagine mai clară a stării tale de sănătate și pot detecta semne timpurii ale unor posibile probleme de sănătate.
+Această funcție permite utilizatorilor să-și verifice ritmul cardiac pentru a detecta semnele timpurii ale fibrilației atriale, o condiție care poate crește riscul de accident vascular cerebral și alte complicații cardiace.
 
-Iar când vine vorba de menținerea unui stil de viață activ, Apple Watch Series 8 este un antrenor personal la încheietura ta. 
+Somnul reprezintă o componentă esențială a sănătății generale, iar Apple Watch Series 8 vine cu o funcție de monitorizare îmbunătățită a somnului. Noii senzori de temperatură ajută la detectarea variațiilor minore ale temperaturii corpului pe timpul nopții, oferind astfel o imagine mai clară a calității somnului și a fazele acestuia. 
 
-Cu o gamă largă de moduri de antrenament, de la alergare la yoga și chiar dans, ceasul te încurajează să te miști și să îți atingi obiectivele zilnice. 
+Aceste date pot ajuta utilizatorii să înțeleagă mai bine cum diferiți factori, cum ar fi stresul sau consumul de alcool, pot influența odihna nocturnă.
 
-Tracking-ul activităților fizice este detaliat și precis, oferindu-ți toate datele de care ai nevoie pentru a urmări progresul și pentru a te motiva să fii constant activ.
+WatchOS 9 aduce memento-uri personalizate pentru medicamente, o funcție utilă pentru cei care au nevoie să își administreze tratamente la ore regulate. Această caracteristică simplifică gestionarea medicamentelor și ajută utilizatorii să rămână pe drumul cel bun cu regimul lor de sănătate.
 
-Apple Watch Series 8 transformă modul în care ne gândim la sănătate și fitness, oferindu-ne uneltele necesare pentru a trăi o viață mai sănătoasă și mai activă. 
+Pentru entuziaștii activităților fizice, Apple Watch Series 8 oferă măsurători noi pentru alergare și exerciții, inclusiv puterea de alergare și timpul de contact cu solul. Aceste date avansate permit sportivilor să își optimizeze antrenamentele și să își îmbunătățească performanțele.
 
-Cu aceste funcții la dispoziție, ești mereu la un pas de a-ți îmbunătăți starea de bine și de a te bucura de beneficiile unui stil de viață activ.
+În final, efectele consumului de alcool asupra calității somnului nu sunt de neglijat. Apple Watch Series 8 poate ajuta utilizatorii să observe cum consumul de alcool înainte de culcare poate perturba somnul și, implicit, sănătatea. Prin monitorizarea regulată, utilizatorii pot lua decizii mai informate despre stilul lor de viață și pot îmbunătăți calitatea odihnei lor nocturne. 
+
+Apple Watch Series 8 se dovedește a fi un instrument valoros pentru cei care doresc să își îmbunătățească sănătatea și stilul de viață, oferind date precise și funcții personalizate pentru a sprijini o viață activă și echilibrată.
 
 {% include a-rezerva-3.html %}
 
@@ -376,6 +378,40 @@ De la partajarea ușoară a fișierelor cu AirDrop până la sincronizarea autom
 Apple Watch Series 8 nu este doar un ceas inteligent, ci o extensie a ecosistemului Apple, care îmbogățește și simplifică viața de zi cu zi.
 
 {% include a-rezerva-6.html %}
+
+---
+## Caracteristici de siguranță și urgență
+
+<span class="drop-caps">C</span>ând vorbim despre un ceas inteligent, siguranța utilizatorului nu este întotdeauna primul lucru care ne vine în minte. Totuși, Apple Watch Series 8 schimbă această percepție prin introducerea unor funcții de siguranță și urgență avansate, care pot face diferența în momente critice.
+
+Una dintre cele mai remarcabile noutăți este tehnologia de detectare a accidentelor severe. Ceasul folosește un accelerometru high-G, capabil să măsoare forțe de până la 256 de G-uri, pentru a detecta impacturile puternice, cum ar fi cele din timpul unui accident de mașină. 
+
+În cazul unui astfel de eveniment nefericit, Apple Watch Series 8 poate recunoaște automat situația și iniția un apel către serviciile de urgență, trimițând locația ta exactă și alertându-i pe cei dragi despre incident.
+
+Pe lângă detectarea accidentelor, ceasul a îmbunătățit și funcția de detectare a căderilor. Datorită accelerometrului îmbunătățit, ceasul poate acum să distingă mai bine între o cădere accidentală și activități zilnice obișnuite, reducând astfel alarmele false. 
+
+În cazul unei căderi reale, ceasul oferă utilizatorului posibilitatea de a contacta rapid serviciile de urgență sau de a respinge alerta dacă totul este în regulă.
+
+Sistemul integrat de alertă pentru serviciile de urgență este un alt strat de protecție care adaugă valoare dispozitivului. În momentele în care fiecare secundă contează, capacitatea ceasului de a acționa rapid poate salva vieți. Este reconfortant să știi că porți la încheietura mâinii nu doar un gadget avansat, ci și un dispozitiv care te poate ajuta în situații de urgență.
+
+Apple Watch Series 8 nu se limitează la a fi un accesoriu elegant și un companion pentru fitness; el devine un gardian personal care veghează asupra siguranței tale. Aceste caracteristici de siguranță și urgență demonstrează angajamentul Apple de a îmbina tehnologia cu îngrijirea umană, oferind utilizatorilor nu doar confort și stil, ci și liniște sufletească.
+
+---
+## Sănătatea reproductivă și cicluri
+
+<span class="drop-caps">M</span>onitorizarea sănătății reproductive a devenit un aspect tot mai important pentru utilizatoarele de smartwatch-uri, iar Apple Watch Series 8 aduce inovații semnificative în acest domeniu. 
+
+Cu ajutorul noilor senzori de temperatură, ceasul poate estima fazele ciclului menstrual și perioadele de ovulație, oferind astfel informații valoroase pentru planificarea familială sau pentru înțelegerea mai bună a propriului corp.
+
+Apple pune un accent deosebit pe confidențialitate și securitatea datelor personale. Informațiile legate de ciclul menstrual se criptează pe dispozitiv și sunt accesibile doar prin introducerea codului de acces sau prin autentificare biometrică. 
+
+Asta înseamnă că datele sensibile rămân private și protejate, oferind utilizatoarelor liniștea de care au nevoie când vine vorba de urmărirea sănătății lor reproductivă.
+
+Impactul acestor informații de sănătate reproductivă este profund, deoarece permite femeilor să aibă un control mai mare asupra propriului corp și să ia decizii informate legate de sănătatea lor. 
+
+Într-o lume în care timpul este prețios și stresul este o prezență constantă, a avea acces la date precise și ușor de interpretat poate face diferența în gestionarea eficientă a sănătății.
+
+Apple Watch Series 8 nu doar că oferă aceste funcții avansate, dar le face accesibile într-un mod care respectă intimitatea și necesitățile fiecărei utilizatoare. Este un pas important în direcția unui viitor în care tehnologia nu doar că ne simplifică viața, dar ne și dă puterea să avem grijă mai bine de noi înșine.
 
 
 ---

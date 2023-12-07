@@ -6,8 +6,9 @@
 
 <span class="title-section-sidebar">RECENTE</span>
 	<hr>
-		{% assign cate = site.data.search | where: "cat", page.cat %}
-		{% for item in cate reversed limit: 8 %}	
+		{% assign cate = site.data.search | where: "cat", page.cat | sort:"date" | reverse %}
+		{% for item in cate limit: 8 | offset: 1 %}	
+      {% if item.url != page.url %}
 			<a href="{{ item.url }}">
 				<div class="small-post">
 				<img class="small-post-image" alt="{{ item.title }}" src="http://images.weserv.nl/?url=https://totredus.ro{{ item.image }}&h=41&output=jpg&q=65" width="79" height="41">
@@ -16,6 +17,7 @@
 				<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{item.author}} </span>
 				<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ item.date | date_to_string }} </span>
 			</a>
+    {% endif %}
 	{% endfor %}
 </div>	
 {% endif %}	

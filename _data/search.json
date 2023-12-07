@@ -1769,6 +1769,34 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Review Apple Watch Series 7: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Fitness, Rezistent-la-apa",
+      "url"      : "/review/apple-watch-series-7/",
+      "date"     : "2023-12-04 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/recU8QYSWw2HnC2re/main-apple-watch-series-7-5014a07d.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Apple Watch Series 7: un smartwatch cu performanță excelentă, ecran de top și funcții de sănătate avansate.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple Watch SE: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, GPS",
+      "url"      : "/review/apple-watch-se/",
+      "date"     : "2023-12-05 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/recMYQI7s7CwMYEuR/main-apple-watch-se-15a075e5.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Apple Watch SE: o combinație echilibrata de performanta, functionalitati de sanatate si fitness si un design confortabil, la un pret accesibil.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
     } 
   
 ]

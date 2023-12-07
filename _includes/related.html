@@ -1,0 +1,21 @@
+{% assign cate = site.data.search | where: "cat", page.cat | sort:"date" | reverse %}
+<div class="row">
+    {% for item in cate limit: 2 %}		
+      <div class="card-wrapper col-lg-6">
+        <div class="for-style">
+        <div class="imagine-post" style="background-image: url({{ item.image }})">
+        <span class="author-post">✒️ {{ item.author }}</span>
+        </div>
+        <div class="footer-item">
+          <a href="{{ item.url }}"><h2>{{ item.title }}</h2></a>
+          <p>{{ item.description }}</p>
+          <span class="data-item">📅 {{ item.date | date: "%b %d, %Y" }}</span>
+        </div>
+        </div>
+      </div>
+	{% endfor %}
+</div>
+
+
+
+

@@ -18,10 +18,11 @@
   <div class="produse-modal-content">
     <span class="produse-close">&times;</span>
   
+{% assign products = page.offers | where: "categorie", "PRODUS" %}
+{% if products.size > 0 %}  
   <h2 style="font-weight: 900;">PRODUSE</h2>
   <div class="" style="padding: 15px; position: relative;">
   <div class="row hori" id="" style="flex-wrap: wrap;">
-    {% assign products = page.offers | where: "categorie", "PRODUS" %}
     {% for product in products %}
       <div class="col-lg-4 col-6" style="padding: 5px 5px;">
         <div class="formare produs">
@@ -40,7 +41,9 @@
       {% endfor %}
     </div>
     </div>
-    
+ {% else %}
+    <h2 style="font-weight: 900;">Din păcate nu există produse disponibile!!</h2>
+{% endif %}
     {% assign products = page.offers | where: "categorie", "ACCESORII" %}
     {% if products.size > 0 %}
     <h2 style="font-weight: 900;">ACCESORII</h2>
