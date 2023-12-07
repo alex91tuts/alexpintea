@@ -347,6 +347,8 @@ Iubitori de muzică și podcasturi, atenție! Apple Music și Podcasts vin direc
 
 
 ---
+## De la Apple Watch series 6 la Apple Watch Series 7
+
 Apple Watch Series 7 reprezintă o evoluție semnificativă față de modelul anterior, Apple Watch Series 6, aducând îmbunătățiri atât la nivel estetic, cât și funcțional. 
 
 Designul a fost rafinat, iar funcționalitățile au fost extinse pentru a oferi o experiență de utilizare îmbunătățită.
