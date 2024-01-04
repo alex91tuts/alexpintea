@@ -1,0 +1,170 @@
+<h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
+<div style="margin-bottom: 13px;">
+<div class="row">
+  {% for image in page.imagini limit:1 %}
+  <div class="col-6 poza-mare" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+  {% endfor %}
+  <div class="col-6">
+    {% for image in page.imagini limit:1 offset:1 %}
+    <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+    {% endfor %}
+    {% for image in page.imagini limit:1 offset:2 %}
+    <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');margin-top: 13px;"></div>
+    {% endfor %}
+  </div>
+</div>
+</div>
+<div class="row" style="padding-right:13px; margin-bottom:30px;">
+    {% for image in page.imagini limit:1 offset:3 %}
+    <div style="padding-right: 0; padding-left: 0;" class="col-4">
+    <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+    </div>
+    {% endfor %}
+    {% for image in page.imagini limit:1 offset:4 %}
+    <div style="padding-right: 0;" class="col-4">
+    <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+    </div>
+    {% endfor %}
+    {% for image in page.imagini limit:1 offset:5 %}
+    <div style="padding-right: 0;" class="col-4">
+      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');position:relative;">
+        <div class="dark"><button class="mai-multe" id="myBtn-travel">MAI MULTE...</button></div>
+      </div>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- The Modal -->
+<div id="myModal-travel" class="modal">
+<span class="close">&times;</span>
+  <!-- Modal content -->
+  <div class="modal-content">
+    {% for image in page.imagini %}
+      <img style="margin-bottom: 30px;" src="/assets/images/travel/{{ image }}" loading="lazy" alt="{{page.nume}}">
+    {% endfor %}
+  </div>
+
+</div>
+
+<hr class="hr-s1">
+
+<style>
+  @media only screen and (max-width: 600px) {
+   .poza-mare {
+      height: 250px !important;
+    }
+    .poza-mica {
+    height: 118px !important;
+    }
+    .dark {
+    line-height: 118px !important;
+    }
+    .mai-multe {
+    font-size: 14px !important;
+    }
+    .modal-content {
+    width: 90% !important;  
+    margin-top: 20px !important;
+    }
+    .close {
+    top: 16px !important;
+    background: black;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 9px -2px black;
+    padding: 6px 4px;
+    font-size: 45px !important;
+    line-height: .5;
+    }
+  }
+  .mai-multe {
+    color: white;
+    font-weight: 900;
+    background: none;
+    border: none;
+    cursor: pointer;
+    }
+  .dark {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #0000009c;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 193px;
+    }
+  .poza-mare {
+    height: 400px;
+    border-radius: 10px;
+    background-size: cover !important;
+    background-position: center !important;
+    }
+  .poza-mica {
+    height: 193px;
+    border-radius: 10px;
+    background-size: cover !important;
+    background-position: center !important;
+    }
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1030; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: #202020f5; /* Black w/ opacity */
+    }
+    /* Modal Content */
+    .modal-content {
+        background-color: #20202000;
+        margin: 1% auto;
+        /* padding: 20px; */
+        border: none;
+        width: 50%;
+        border-radius: 15px;
+    }
+    /* The Close Button */
+    .close {
+        color: white;
+        float: left;
+        font-size: 78px;
+        font-weight: bold;
+        position: fixed;
+        top: 10px;
+        left: 10px;
+    }
+    .close:hover,
+    .close:focus {
+        transform: rotate(45deg);
+        transition: 1s;
+        text-decoration: none;
+        cursor: pointer;
+    }
+</style>
+<script>
+  // Get the modal
+var modalTravel = document.getElementById("myModal-travel");
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn-travel");
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+    modalTravel.style.display = "block";
+}
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modalTravel.style.display = "none";
+}
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modalTravel) {
+        modalTravel.style.display = "none";
+    }
+}  
+</script>

@@ -1,0 +1,52 @@
+<div class="col-lg-5 col-12 harta sticky-top">
+
+<h2 class="fara-subliniere" id="harta-atractii-apropiere">Harta Atractii În Apropiere</h2>
+
+<div id="map" style = "width:100%; height:580px;">
+</div>
+
+</div>
+
+<script async>
+   // Creating map options
+   var mapOptions = {
+      center: [{{page.latitudine}}, {{page.longitudine}}],
+      zoom: 10
+   }
+
+   // Creating a map object
+   var map = new L.map('map', mapOptions);
+
+   // Creating a Layer object
+   var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+
+   // Adding layer to the map
+   map.addLayer(layer);
+  
+ 
+  // Custom icon options
+var iconOptions = {
+  iconUrl: '/assets/images/svg/map-marker.svg',
+  iconSize: [50, 50]
+};
+
+// Creating a custom icon
+var customIcon = L.icon(iconOptions);
+
+// Markers with popup content and custom icon
+var markers = [
+  { coords: [{{page.latitudine}}, {{page.longitudine}}], popup: "Catedrala St. Vincent" },
+  { coords: [50.117847, 14.400511], popup: "Zoo Praga" },
+  { coords: [50.093292, 14.325001], popup: "Divoka Sarka" },
+  // Add more markers if needed
+];
+
+// Adding markers to the map
+markers.forEach(function(marker) {
+  L.marker(marker.coords, { icon: customIcon })
+    .bindPopup(marker.popup)
+    .addTo(map);
+});
+
+  
+</script>

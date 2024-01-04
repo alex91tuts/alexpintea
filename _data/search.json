@@ -1758,6 +1758,20 @@
     } ,
   
     {
+      "title"    : "Review Samsung Galaxy Watch 4: Pareri si Specificatii Complete",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Ecran-Tactil, Notificări",
+      "url"      : "/review/samsung-galaxy-watch-4/",
+      "date"     : "2023-11-25 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/recMZMhnXNLUNE260/main-samsung-galaxy-watch-4-32a959a5.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Samsung Galaxy Watch 4: performanță solidă, ecran de top, funcții fitness avansate, într-un design confortabil.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "WEAR-OS"
+    } ,
+  
+    {
       "title"    : "Watch Ultra Review: Pareri si Specificatii Detaliate",
       "category" : "REVIEW",
       "tags"     : "Rezistent, GPS, Sănătate",
@@ -1794,6 +1808,20 @@
 	    "image"     : "/assets/images/reviews/recMYQI7s7CwMYEuR/main-apple-watch-se-15a075e5.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Apple Watch SE: o combinație echilibrata de performanta, functionalitati de sanatate si fitness si un design confortabil, la un pret accesibil.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Apple Watch Series 6: Specificatii, Pareri si Autonomie",
+      "category" : "REVIEW",
+      "tags"     : "Monitorizare, EKG, OxigenSange",
+      "url"      : "/review/apple-watch-series-6/",
+      "date"     : "2024-01-04 00:00:00 +0200",
+	    "image"     : "/assets/images/reviews/recSEJzhyleyhwnF9/main-apple-watch-series-6-8a8dab2c.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Apple Watch Series 6: performanță excepțională, ecran de top și funcții de sănătate avansate.",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"

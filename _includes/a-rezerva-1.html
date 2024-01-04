@@ -1,6 +1,7 @@
 {% for post in site.new-reviews %}
 {% if post.url == include.link %}
 <div class="link-to">
+<span class="vezi-si">Vezi și:</span>
 <div class="row" markdown="1">
 <div class="col-lg-2 col-3 image-cust">
   <div style="background-image: url(/assets/images/reviews/{{ post.image_path | split: '/' | join: '/link-'}})">

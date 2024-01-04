@@ -54,6 +54,9 @@ collections:
   general:
     output: true     
     permalink: /:path/
+  new-travel:
+    output: true     
+    permalink: /travel/:path/
   
 
 

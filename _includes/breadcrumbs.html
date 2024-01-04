@@ -1,4 +1,4 @@
-{% if page.layout == "travel" %}
+{% if page.layout == "travel" or "travel-attraction" -%}
 <div id="breadcrumbs">
 {% assign crumbs = page.url | remove:'/index.html' | remove: '/stiri' | remove: '/review' | remove: '/smarthome' | split: '/' %}
 <a href="/">Acasa</a>
@@ -9,10 +9,10 @@
   {% else %}
    <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }} /</a>
   {% endif %}
-{% endfor %}
+{% endfor -%}
 </div>
 
-{% else %}
+{% else -%}
 <div id="breadcrumbs">
 {%- assign crumbs = page.url | remove:'/index.html' | remove: '/stiri' | remove: '/review' | remove: '/magazine' | remove: '/smarthome' | split: '/' -%}
 <a href="/">Acasa</a>
@@ -25,4 +25,4 @@
   {% endif %}
 {% endfor %}
 </div>
-{% endif %}
+{% endif -%}
