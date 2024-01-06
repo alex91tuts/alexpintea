@@ -1,6 +1,10 @@
 <div class="card-wrapper col-lg-6">
 	<div class="for-style">
-	<div class="imagine-post" style="background-image: url({{ post.image }})">
+  {% if post.image contains "transparent" %}
+	<div class="imagine-post" style="background-image: url({{ post.image }}); background-size: contain; background-color: black;">
+  {% else %}
+  <div class="imagine-post" style="background-image: url({{ post.image }}); background-size: cover; background-color: black;">
+  {% endif %}
 	<span class="author-post">✒️ {{ post.author }}</span>
 	</div>
 	<div class="footer-post">

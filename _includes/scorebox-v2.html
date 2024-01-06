@@ -187,6 +187,8 @@
         {% assign category_name_ro = 'Baterie' %}
       {% when 'Misc' %}
         {% assign category_name_ro = 'Diverse' %}
+      {% when 'Tests' %}
+        {% assign category_name_ro = 'Teste' %}
       {% else %}
         {% assign category_name_ro = category_name %}
     {% endcase %}

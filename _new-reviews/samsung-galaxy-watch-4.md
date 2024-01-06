@@ -1,9 +1,10 @@
 ---
 title: "Review Samsung Galaxy Watch 4: Pareri si Specificatii Complete"
-image_path: "recMZMhnXNLUNE260/main-samsung-galaxy-watch-4-32a959a5.webp"
-meta_image: "assets/images/reviews/recMZMhnXNLUNE260/main-samsung-galaxy-watch-4-recMZMhnXNLUNE260.webp"
+image_path: ""
+meta_image: ""
 imagineProdus: "/assets/images/reviews/recMZMhnXNLUNE260/imagine-produs-samsung-galaxy-watch-4-recMZMhnXNLUNE260.webp"
 imagine-transparent: "/assets/images/reviews/recMZMhnXNLUNE260/transparent-samsung-galaxy-watch-4-recMZMhnXNLUNE260.webp"
+imagine-transparent-mobile: "/assets/images/reviews/recMZMhnXNLUNE260/mobile-transparent-samsung-galaxy-watch-4-recMZMhnXNLUNE260.webp"
 layout: new-review
 date: "2023-11-25"
 date-modified: "2023-11-25"
@@ -34,7 +35,7 @@ opt:
 
 description: "Descoperă Samsung Galaxy Watch 4: performanță solidă, ecran de top, funcții fitness avansate, într-un design confortabil."
 
-scor-intro: "Samsung Galaxy Watch 4 combină performanța puternică cu un ecran Super AMOLED vibrant, oferind o experiență de utilizare excelentă. Cu funcții avansate de sănătate și fitness și un design confortabil, acest smartwatch este un companion de încredere pentru ziua de zi."
+scor-intro: "Samsung Galaxy Watch 4 combină performanța puternică cu un ecran Super AMOLED vibrant, oferind o experiență de utilizare excelentă. Cu funcții avansate de sănătate și fitness și un design confortabil, acest smartwatch este un companion de încredere pentru purtarea de zi cu zi."
 
 pro: ['Procesor rapid Exynos W920', 'Ecran Super AMOLED luminos', 'Monitorizare avansată a sănătății', 'Design modern și confortabil']
 contra: ['Durata de viață a bateriei ar putea fi mai bună', 'Compatibilitate limitată cu dispozitive non-Android']

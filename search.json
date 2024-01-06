@@ -107,7 +107,8 @@ robots: YES
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-	    "image"     : "/{{ post.meta_image }}",
+      {% if post.meta_image != "" %}"image"     : "/{{ post.meta_image }}",{% else %}"image"     : "{{ post.imagine-transparent-mobile }}",
+      {% endif %}
 			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}",
 			"cat"    : "{{ post.cat }}",

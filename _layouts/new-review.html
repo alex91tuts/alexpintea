@@ -12,7 +12,11 @@ post_class: post-template
 	"@context": "https://schema.org/",
 	"@type": "Product",
 	"name": "{{page.title}}",
+  {% if page.meta_image != "" %}
 	"image": "{{site.url}}/{{page.meta_image}}",
+  {% else %}
+  "image": "{{site.url}}/{{page.imagine-transparent}}",
+  {% endif %}
 	"description": "{{page.description}}",
 	"review": {
 		"@type": "Review",
@@ -71,8 +75,11 @@ post_class: post-template
 ================================================== -->
 <div class="container review-cont;" style="font-family: montserrat;line-height: 36px;">
 <!-- Post Featured Image -->
-<meta itemprop="image" content="{{ site.url }}/assets/images/reviews/{{ page.image_path }}"></meta>
+{% if page.image_path != "" %}
 <div id="top-featured" class="banner-review" style="background-image:url({{ site.url }}/assets/images/reviews/{{ page.image_path }}); background-size: 1110px 500px; background-position: center;">
+{% else %}
+<div id="top-featured" class="banner-review" style="background-image:url({{ site.url }}{{ page.imagine-transparent }}); background-size: contain; background-position: center; background-repeat: no-repeat; background-color: #000000ba;"> 
+{% endif %}
   <div class="gradient">
     <div class="bread-crumbs">
 				<p itemprop="breadcrumb">{% include breadcrumbs.html %}</p>
@@ -609,7 +616,8 @@ table {
 		  .banner-review {
 			max-height: 330px;
 			margin-top: 0;
-			background-size: 792px 330px !important;
+			background-size: auto !important;
+      background-image: url({{page.imagine-transparent-mobile}}) !important;
 		  }
 		  .wrapper-side {
 			padding-left: 0 !important;

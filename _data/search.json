@@ -1749,7 +1749,7 @@
       "tags"     : "Monitorizare-Sănătate, Rezistent-la-Apă, Ecran-Retina",
       "url"      : "/review/apple-watch-series-8/",
       "date"     : "2023-11-25 00:00:00 +0200",
-	    "image"     : "/assets/images/reviews/rec4lYUWpG7diQAsc/main-apple-watch-series-8-f39705f2.webp",
+      "image"     : "/assets/images/reviews/rec4lYUWpG7diQAsc/main-apple-watch-series-8-f39705f2.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Apple Watch Series 8: performanță excepțională, ecran de top, funcții sănătate avansate, într-un design confortabil.",
 			"cat"    : "SMARTWATCH",
@@ -1763,7 +1763,8 @@
       "tags"     : "Fitness, Ecran-Tactil, Notificări",
       "url"      : "/review/samsung-galaxy-watch-4/",
       "date"     : "2023-11-25 00:00:00 +0200",
-	    "image"     : "/assets/images/reviews/recMZMhnXNLUNE260/main-samsung-galaxy-watch-4-recMZMhnXNLUNE260.webp",
+      "image"     : "/assets/images/reviews/recMZMhnXNLUNE260/mobile-transparent-samsung-galaxy-watch-4-recMZMhnXNLUNE260.webp",
+      
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Samsung Galaxy Watch 4: performanță solidă, ecran de top, funcții fitness avansate, într-un design confortabil.",
 			"cat"    : "SMARTWATCH",
@@ -1777,7 +1778,7 @@
       "tags"     : "Rezistent, GPS, Sănătate",
       "url"      : "/review/watch-ultra/",
       "date"     : "2023-11-25 00:00:00 +0200",
-	    "image"     : "/assets/images/reviews/recqgafh1GyN73bsj/main-watch-ultra-da87e222.webp",
+      "image"     : "/assets/images/reviews/recqgafh1GyN73bsj/main-watch-ultra-da87e222.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Apple Watch Ultra: performanță excepțională, ecran luminos, funcții fitness avansate și design robust.",
 			"cat"    : "SMARTWATCH",
@@ -1791,7 +1792,7 @@
       "tags"     : "Ecran, Fitness, Rezistent-la-apa",
       "url"      : "/review/apple-watch-series-7/",
       "date"     : "2023-12-04 00:00:00 +0200",
-	    "image"     : "/assets/images/reviews/recU8QYSWw2HnC2re/main-apple-watch-series-7-5014a07d.webp",
+      "image"     : "/assets/images/reviews/recU8QYSWw2HnC2re/main-apple-watch-series-7-5014a07d.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Apple Watch Series 7: un smartwatch cu performanță excelentă, ecran de top și funcții de sănătate avansate.",
 			"cat"    : "SMARTWATCH",
@@ -1805,7 +1806,7 @@
       "tags"     : "Fitness, Notificări, GPS",
       "url"      : "/review/apple-watch-se/",
       "date"     : "2023-12-05 00:00:00 +0200",
-	    "image"     : "/assets/images/reviews/recMYQI7s7CwMYEuR/main-apple-watch-se-15a075e5.webp",
+      "image"     : "/assets/images/reviews/recMYQI7s7CwMYEuR/main-apple-watch-se-15a075e5.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Apple Watch SE: o combinație echilibrata de performanta, functionalitati de sanatate si fitness si un design confortabil, la un pret accesibil.",
 			"cat"    : "SMARTWATCH",
@@ -1819,12 +1820,42 @@
       "tags"     : "Monitorizare, EKG, OxigenSange",
       "url"      : "/review/apple-watch-series-6/",
       "date"     : "2024-01-04 00:00:00 +0200",
-	    "image"     : "/assets/images/reviews/recSEJzhyleyhwnF9/main-apple-watch-series-6-8a8dab2c.webp",
+      "image"     : "/assets/images/reviews/recSEJzhyleyhwnF9/main-apple-watch-series-6-8a8dab2c.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Apple Watch Series 6: performanță excepțională, ecran de top și funcții de sănătate avansate.",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy Watch4 Classic: Pareri si Specificatii",
+      "category" : "REVIEW",
+      "tags"     : "Rotativ, Fitness, Ecran-Tactil",
+      "url"      : "/review/samsung-galaxy-watch4-classic/",
+      "date"     : "2024-01-05 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recWFjNiEYUbJcH7B/mobile-transparent-samsung-galaxy-watch4-classic-recWFjNiEYUbJcH7B.webp",
+      
+			"author"    : "Alex P",
+	    "description"     : "Samsung Galaxy Watch4 Classic: smartwatch premium cu performanțe și design de top. Află mai multe în review!",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "WEAR-OS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple iPhone 12 mini: Pareri si Specificatii",
+      "category" : "REVIEW",
+      "tags"     : "compact, performanta, ecran",
+      "url"      : "/review/apple-iphone-12-mini/",
+      "date"     : "2024-01-06 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recV8UhDDty0Wwx1t/mobile-transparent-apple-iphone-12-mini-recV8UhDDty0Wwx1t.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă iPhone 12 mini: performanță excelentă, ecran de top, într-un design compact.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "iOS"
     } 
   
 ]
