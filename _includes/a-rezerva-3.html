@@ -1,16 +1,28 @@
-{% if page.next.url %}
-<div class="link-to">
-<span class="vezi-si">Vezi și:</span>
-<div class="row" markdown="1">
-<div class="col-lg-2 col-3 image-cust">
-  <div class="container-imaglink" style="background-image: url(/assets/images/reviews/{{ page.next.image_path | split: '/' | join: '/link-'}})">
-  </div>
-</div>
-<div class="col-lg-10 col-9 text-cust">
-  <a href="{{ page.next.url }}" class="link-cust">{{ page.next.title }}</a>
-  <br>
-</div>
+{% assign sorted_posts = site.data.search | where: "cat", page.cat | sort: 'date' %}
+{% for post in sorted_posts %}
+  {% if post.url == page.url %}
+  <div>
+    {% assign current_index = forloop.index0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+    {% assign next_index = current_index | plus: 1 %}
 
-</div>
-</div>
-{% endif %}
+    {% if sorted_posts[next_index] %}
+      {% assign next_post = sorted_posts[next_index] %}
+          <div class="link-to">
+          <span class="vezi-si">Vezi și:</span>
+          <div class="row">
+          <div class="col-lg-2 col-3 image-cust" style="text-align: center;">
+            <div class="container-imaglink">
+              <img src="/assets/images/svg/related.svg" alt="{{ next_post.title }}" width="65" height="65">
+            </div>
+          </div>
+          <div class="col-lg-10 col-9 text-cust">
+            <a href="{{ next_post.url }}" class="link-cust">{{ next_post.title }}</a>
+            <br>
+          </div>
+          </div>
+        </div>
+    {% endif %}
+  </div>
+  {% endif %}
+{% endfor %}

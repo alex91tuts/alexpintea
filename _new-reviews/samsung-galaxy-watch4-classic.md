@@ -1,5 +1,5 @@
 ---
-title: "Recenzie Samsung Galaxy Watch4 Classic: Pareri si Specificatii"
+title: "Recenzie Samsung Galaxy Watch 4 Classic: Pareri si Specificatii"
 image_path: ""
 meta_image: ""
 imagineProdus: "/assets/images/reviews/recWFjNiEYUbJcH7B/imagine-produs-samsung-galaxy-watch4-classic-recWFjNiEYUbJcH7B.webp"
@@ -12,8 +12,8 @@ tags: ['Rotativ', 'Fitness', 'Ecran-Tactil']
 nume: "Samsung Galaxy Watch4 Classic"
 topic: review
 folder: "recWFjNiEYUbJcH7B"
-author: "Alex P"
-author-link: "alex-p"
+author: "Andrei I."
+author-link: "andrei-i"
 procons: "yes"
 cat: "SMARTWATCH"
 subcat: "SAMSUNG"

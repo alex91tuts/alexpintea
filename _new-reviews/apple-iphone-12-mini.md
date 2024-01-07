@@ -12,8 +12,8 @@ tags: ['compact', 'performanta', 'ecran']
 nume: "Apple iPhone 12 mini"
 topic: review
 folder: "recV8UhDDty0Wwx1t"
-author: "Alex P."
-author-link: "alex-p"
+author: "Razvan N."
+author-link: "razvan-n"
 procons: "yes"
 cat: "SMARTPHONES"
 subcat: "APPLE"

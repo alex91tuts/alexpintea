@@ -12,8 +12,8 @@ tags: ['Fitness', 'Ecran-Tactil', 'Notificări']
 nume: "Samsung Galaxy Watch 4"
 topic: review
 folder: "recMZMhnXNLUNE260"
-author: "Alex P."
-author-link: "alex-p"
+author: "Marius R."
+author-link: "marius-r"
 procons: "yes"
 cat: "SMARTWATCH"
 subcat: "SAMSUNG"

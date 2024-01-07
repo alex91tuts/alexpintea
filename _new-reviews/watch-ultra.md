@@ -12,7 +12,7 @@ nume: "Apple Watch Ultra"
 topic: review
 folder: "recqgafh1GyN73bsj"
 author: "Alex P."
-author-link: "alex-p"
+author-link: "alexp"
 procons: "yes"
 cat: "SMARTWATCH"
 subcat: "APPLE"

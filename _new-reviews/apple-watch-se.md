@@ -11,8 +11,8 @@ tags: ['Fitness', 'Notificări', 'GPS']
 nume: "Apple Watch SE"
 topic: review
 folder: "recMYQI7s7CwMYEuR"
-author: "Alex P."
-author-link: "alex-p"
+author: "Andreea A."
+author-link: "andreea-a"
 procons: "yes"
 cat: "SMARTWATCH"
 subcat: "APPLE"

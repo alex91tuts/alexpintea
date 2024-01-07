@@ -60,7 +60,11 @@ description: "Ghidul tău de încredere într-o lume în mișcare!"
         <div class="col-6 post">
 					{% assign stiri = site.new-reviews | sort: 'date' | reverse %}
 					{% for post in stiri limit:1 %}
+          {% if post.image_path != "" %}
           <div class="post-content" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+          {% else %}
+          <div class="post-content" style="background-image: url('{{ post.imagine-transparent-mobile }}'); background-size: contain; background-color: black;">
+          {% endif %}
             <div class="grad-back">
               <h2 class="post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{post.url}}">CITEȘTE ➤</a>
@@ -71,7 +75,11 @@ description: "Ghidul tău de încredere într-o lume în mișcare!"
        <div class="col-6 post">
 					{% assign stiri = site.new-reviews | sort: 'date' | reverse %}
 					{% for post in stiri offset:1 limit:1 %}
+          {% if post.image_path != "" %}
           <div class="post-content" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+          {% else %}
+          <div class="post-content" style="background-image: url('{{ post.imagine-transparent-mobile }}'); background-size: contain; background-color: black;">
+          {% endif %}
             <div class="grad-back">
               <h2 class="post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{post.url}}">CITEȘTE ➤</a>
@@ -138,7 +146,11 @@ description: "Ghidul tău de încredere într-o lume în mișcare!"
 				{% assign stiri = site.new-reviews | sort: 'date' | reverse %}
 					{% for post in stiri offset:2 limit:8 %}
 				<div class="col-lg-3 col-6 post">
+          {% if post.image_path != "" %}
           <div class="post-content rowf4" style="background-image: url('/assets/images/reviews/{{ post.image_path }}');">
+          {% else %}
+          <div class="post-content rowf4" style="background-image: url('{{ post.imagine-transparent-mobile }}'); background-size: contain; background-color: black;">
+          {% endif %}
             <div class="grad-back">
               <h2 class="post-title">{{ post.title }}</h2>
               <a class="btn btn-success-gradiant post-btn" href="{{ post.url }}">CITEȘTE ➤</a>

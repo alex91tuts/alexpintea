@@ -12,7 +12,7 @@ nume: "Apple Watch Series 6"
 topic: review
 folder: "recSEJzhyleyhwnF9"
 author: "Alex P."
-author-link: "alex-p"
+author-link: "alexp"
 procons: "yes"
 cat: "SMARTWATCH"
 subcat: "APPLE"

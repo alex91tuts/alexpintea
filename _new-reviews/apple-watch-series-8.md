@@ -12,7 +12,7 @@ nume: "Apple Watch Series 8"
 topic: review
 folder: "rec4lYUWpG7diQAsc"
 author: "Alex P."
-author-link: "alex-p"
+author-link: "alexp"
 procons: "yes"
 cat: "SMARTWATCH"
 subcat: "APPLE"

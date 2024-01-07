@@ -12,7 +12,7 @@ nume: "Apple Watch Series 7"
 topic: review
 folder: "recU8QYSWw2HnC2re"
 author: "Alex P."
-author-link: "alex-p"
+author-link: "alexp"
 procons: "yes"
 cat: "SMARTWATCH"
 subcat: "APPLE"
