@@ -1,9 +1,9 @@
 <div class="card-wrapper col-lg-6">
 	<div class="for-style">
   {% if trip.image contains "transparent" %}
-	<div class="imagine-post" style="background-image: url({{ trip.image }}); background-size: contain; background-color: black;">
+	<div class="imagine-post" style="background-image: url('{{ trip.image }}'); background-size: contain; background-color: black;">
   {% else %}
-  <div class="imagine-post" style="background-image: url({{ trip.image }})">
+  <div class="imagine-post" style="background-image: url('{{ trip.image }}')">
   {% endif %}
 	</div>
 	<div class="footer-post">

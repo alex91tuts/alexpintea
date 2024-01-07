@@ -1744,6 +1744,21 @@
   ,
   
     {
+      "title"    : "Recenzie Motorola Moto G Stylus 5G (2022): Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "Stylus, 5G, Motorola",
+      "url"      : "/review/motorola-moto-g-stylus-5g-(2022)/",
+      "date"     : "2023-11-05 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recrQ3DukL1ZwHTh9/mobile-transparent-motorola-moto-g-stylus-5g-(2022)-recrQ3DukL1ZwHTh9.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Descoperă Motorola Moto G Stylus 5G (2022): performanță solidă, ecran luminos, baterie durabilă și stylus practic.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "MOTOROLA",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
       "title"    : "Apple Watch Series 8 Review: Pareri si Specificatii",
       "category" : "REVIEW",
       "tags"     : "Monitorizare-Sănătate, Rezistent-la-Apă, Ecran-Retina",
@@ -1815,6 +1830,21 @@
     } ,
   
     {
+      "title"    : "Samsung Galaxy M53 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Performanță, Ecran, Cameră",
+      "url"      : "/review/samsung-galaxy-m53/",
+      "date"     : "2023-12-07 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recsuMxBnVdddt4of/mobile-transparent-samsung-galaxy-m53-recsuMxBnVdddt4of.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Samsung Galaxy M53 oferă performanță solidă, ecran vibrant și raport bun preț-calitate. Află mai multe în review-ul nostru!",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
       "title"    : "Apple Watch Series 6: Specificatii, Pareri si Autonomie",
       "category" : "REVIEW",
       "tags"     : "Monitorizare, EKG, OxigenSange",
@@ -1856,6 +1886,81 @@
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "iOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Motorola Edge (2022): Pareri si Specificatii",
+      "category" : "REVIEW",
+      "tags"     : "5G, OLED, CAMERA",
+      "url"      : "/review/motorola-edge-(2022)/",
+      "date"     : "2024-01-07 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recx6Y1S3DY3xtHHF/mobile-transparent-motorola-edge-2022-recx6Y1S3DY3xtHHF.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Descoperă Motorola Edge (2022): performanță solidă, ecran vibrant, baterie durabilă și design confortabil, la un preț competitiv.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "MOTOROLA",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Motorola Edge 30 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Performanță, Design, Cameră",
+      "url"      : "/review/motorola-edge-30/",
+      "date"     : "2024-01-07 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recvmcbMAe11fUc6t/mobile-transparent-motorola-edge-30-recvmcbMAe11fUc6t.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Motorola Edge 30 - performanță solidă, ecran vibrant, la un preț competitiv. Review detaliat pentru o alegere informată.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "MOTOROLA",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy A03s Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Baterie, Buget",
+      "url"      : "/review/samsung-galaxy-a03s/",
+      "date"     : "2024-01-07 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recMlgPIiTXIAlomW/mobile-transparent-samsung-galaxy-a03s-recMlgPIiTXIAlomW.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Samsung Galaxy A03s oferă un ecran decent și baterie durabilă la un preț accesibil, ideal pentru bugete modeste.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy M32 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, BATERIE, ECRAN",
+      "url"      : "/review/samsung-galaxy-m32-5g/",
+      "date"     : "2024-01-07 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recR3Yl7RASQLc21n/mobile-transparent-samsung-galaxy-m32-5g-recR3Yl7RASQLc21n.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Samsung Galaxy M32 5G: un smartphone echilibrat cu 5G și baterie solidă la un preț accesibil.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy Z Flip3 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "pliabil, 5G, Samsung",
+      "url"      : "/review/samsung-galaxy-z-flip3-5g/",
+      "date"     : "2024-01-07 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recyTk3rEWVxDGCFW/mobile-transparent-samsung-galaxy-z-flip3-5g-recyTk3rEWVxDGCFW.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Descoperă Samsung Galaxy Z Flip3 5G: design inovator, performanță solidă și ecran impresionant, într-un review detaliat.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
     } 
   
 ]
