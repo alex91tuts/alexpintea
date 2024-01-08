@@ -1961,6 +1961,96 @@
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy A14: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Baterie, Camera",
+      "url"      : "/review/samsung-galaxy-a14/",
+      "date"     : "2024-01-08 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recHpoiWVRsJGPmEA/mobile-transparent-samsung-galaxy-a14-recHpoiWVRsJGPmEA.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Samsung Galaxy A14: performanță solidă, ecran luminos, baterie durabilă și preț accesibil într-un design modern.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy A33 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, Ecran, Baterie",
+      "url"      : "/review/samsung-galaxy-a33-5g/",
+      "date"     : "2024-01-08 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rec79Pm4YSCoJPquN/mobile-transparent-samsung-galaxy-a33-5g-rec79Pm4YSCoJPquN.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Descoperă Samsung Galaxy A33 5G: performanță solidă, ecran vibrant, baterie durabilă și design modern la un preț competitiv.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy A53 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, Ecran, Baterie",
+      "url"      : "/review/samsung-galaxy-a53-5g/",
+      "date"     : "2024-01-08 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recYQ5Z9SGtFVfUxI/mobile-transparent-samsung-galaxy-a53-5g-recYQ5Z9SGtFVfUxI.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Samsung Galaxy A53 5G: performanță solidă, ecran vibrant, baterie durabilă și design atrăgător la un preț competitiv.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy F13 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Baterie, Camera",
+      "url"      : "/review/samsung-galaxy-f13/",
+      "date"     : "2024-01-08 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recrxnlxVQJ82IzpU/mobile-transparent-samsung-galaxy-f13-recrxnlxVQJ82IzpU.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Samsung Galaxy F13 oferă performanță decentă, ecran luminos și baterie durabilă la un preț accesibil.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy F23 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Baterie, Camera",
+      "url"      : "/review/samsung-galaxy-f23/",
+      "date"     : "2024-01-08 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recPjTqYTtoLHrIX0/mobile-transparent-samsung-galaxy-f23-recPjTqYTtoLHrIX0.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Samsung Galaxy F23: performanță solidă, ecran vibrant și baterie durabilă la un preț accesibil.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy Z Flip4 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "pliabil, performanță, design",
+      "url"      : "/review/samsung-galaxy-z-flip4/",
+      "date"     : "2024-01-08 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recL3IuQjmAEbAl0y/mobile-transparent-samsung-galaxy-z-flip4-recL3IuQjmAEbAl0y.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Descoperă Samsung Galaxy Z Flip4: performanță puternică, ecran vibrant și design inovator.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
     } 
   
 ]

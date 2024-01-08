@@ -1,7 +1,7 @@
 <div class="card-wrapper col-lg-6">
 	<div class="for-style">
   {% if post.image contains "transparent" %}
-	<div class="imagine-post" style="background-image: url('{{ post.image }}'); background-size: contain; background-color: black;">
+	<div class="imagine-post" style="background-image: url('{{ post.image }}'); background-size: contain; background-color: #f6f5f8;background-origin: content-box; padding: 15px;">
   {% else %}
   <div class="imagine-post" style="background-image: url('{{ post.image }}'); background-size: cover; background-color: black;">
   {% endif %}
