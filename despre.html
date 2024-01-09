@@ -72,60 +72,169 @@ description: Echipa totredus vine in sprijinul tau si te ajuta sa iei cele mai b
     </div>
 </div>
 
-<!-- sectiune -->
+<!-- Sectiune -->
 <div class="static-slider2 spacer" style="background-color: rgb(244, 248, 250) !important;">
-    <div class="container">
-        <!-- Row  -->
-        <div class="row">
-            <!-- Column -->
-            <div class="col-md-5 align-self-center">
-                <h2 class="title">ECHIPA DE CALATORI<span class="text-megna">.</span></h5>
-                <h3 class="subtitle" style="color: #4d4f55; font-weight: bold;">Salutare! Noi suntem Damian și Simina, un cuplu de îndrăgostiți, îndrăgostit de călătorii.</h6>
-                <a class="btn btn-success-gradiant btn-md btn-arrow m-t-20 m-b-10" href="https://totredus.ro/autor/fabrica-de-amintiri/"><span>VEZI PROFIL ➤</span></a>
-            </div>
-            <!-- Column -->
-            <div class="col-md-7 img-anim">
-										<div class="row-lg-4 stic">  	
-											<div class="card-container">
-												<span class="pro">TRAVEL</span>
-												<img class="round" src="/assets/images/fabrica.jpg" alt="profil fabrica cu amintiri" />
-												<h3>FABRICA CU AMINTIRI</h3>
-												<h4>Bucuresti</h6>
-
-												<a href="https://www.youtube.com/@FabricaDeAmintiri"><img class="icon-so" src="/assets/images/svg/youtube.svg" alt="youtube icon-son" width="30" height="20" target="_blank"></a>
-												<a href="https://www.facebook.com/fabricadeamintiri02"><img class="icon-so" src="/assets/images/svg/facebook.svg" alt="youtube icon" width="30" height="20" target="_blank"></a>
-												<a href="https://www.instagram.com/fabricadeamintiri_insta/"><img class="icon-so" src="/assets/images/svg/instagram.svg" alt="youtube icon" width="30" height="20" target="_blank"></a>
-												<br>
-
-												<div class="skills">
-													<h6>Locații</h6>
-													<ul>
-														<li>DUBAI</li>
-														<li>ROMANIA</li>
-														<li>MALDIVE</li>
-														<li>BUDAPESTA</li>
-														<li>ITALIA</li>
-														<li>GRECIA</li>
-														<li>SARDINIA</li>
-														<li>CATAMARAN</li>
-														<li>CINQUE TERRE</li>
-														<li>TURCIA</li>
-														<li>CIPRU</li>
-													</ul>
-												</div>
-											</div>
-									 </div>
-            </div>
-        </div>
+<div class="container">
+<div class="row">
+  <div class="col-md-12 align-self-center">
+    <h2 class="title">ECHIPA NOASTRĂ<span class="text-megna">.</span></h5>
+    <h3 class="subtitle" style="color: #4d4f55; font-weight: bold;">Pasionați, devotați și entuziaști</h6>
+  </div>
+ {% for autori in site.autor %}
+<div class="col-lg-6 col-12" style="padding: 0;">
+	<div class="card">
+    <div class="img">
+      <img src="{{ autori.image }}" alt="poza profil" width="100" height="100">
     </div>
+    <div class="infos">
+      <div class="name">
+				<h2>{{ autori.author }}</h2>	
+      </div>
+			<p>{{ autori.emoji }}</p>
+      <p class="text">
+        {{ autori.mesaj }}
+      </p>
+      <div class="links">
+        <a href="{{ site.url }}{{ autori.url }}"><button class="view">PROFIL</button></a>
+      </div>
+    </div>
+  </div>
+</div>
+	{% endfor %}
+</div>
+</div>
 </div>
 
 
 
-<!-- Sectiune -->
+<style>
+	/* Utilities */
+.card::after,
+.card img {
+  border-radius: 50%;
+}
+.card,
+.stats {
+  display: flex;
+}
 
+.ico {
+	width: 30px !important;	
+	min-width: auto !important;
+	}
+.card {
+  padding: 2.5rem 2rem;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, .5);
+  box-shadow: 0 0 30px rgba(0, 0, 0, .15);
+  margin: 1rem;
+  position: relative;
+  transform-style: preserve-3d;
+  overflow: hidden;
+}
+.card::before,
+.card::after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+}
+.card::before {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #FFF;
+  border-radius: 10px;
+  top: -.7rem;
+  left: -.7rem;
+}
+.card::after {
+  height: 15rem;
+  width: 15rem;
+  background-color: #4172f5aa;
+  top: -8rem;
+  right: -8rem;
+  box-shadow: 2rem 6rem 0 -3rem #FFF
+}
 
+.card img {
+  width: 8rem;
+  min-width: 80px;
+  box-shadow: 0 0 0 5px #FFF;
+}
 
+.infos {
+  margin-left: 1.5rem;
+}
+
+.name {
+  margin-bottom: 1rem;
+}
+.name h2 {
+  font-size: 1.3rem;
+}
+	.name h2::after {
+		display: none;
+	}
+.name h4 {
+  font-size: .8rem;
+  color: #333
+}
+
+.text {
+  font-size: .9rem;
+  margin-bottom: 1rem;
+}
+
+.stats {
+  margin-bottom: 1rem;
+}
+.stats li {
+  min-width: 5rem;
+}
+.stats li h3 {
+  font-size: .99rem;
+}
+.stats li h4 {
+  font-size: .75rem;
+}
+
+.links button {
+  font-family: 'Poppins', sans-serif;
+  min-width: 120px;
+  padding: .5rem;
+  border: 1px solid #222;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all .25s linear;
+}
+.links .follow,
+.links .view:hover {
+  background-color: #222;
+  color: #FFF;
+}
+.links .view,
+.links .follow:hover{
+  background-color: transparent;
+  color: #222;
+}
+
+@media screen and (max-width: 450px) {
+  .card {
+    display: block;
+  }
+  .infos {
+    margin-left: 0;
+    margin-top: 1.5rem;
+  }
+  .links button {
+    min-width: 100px;
+  }
+}
+
+</style>
+
+  
+  
 <div class="spacer feature22">
     <div class="container">
         <!-- Row -->
