@@ -2051,6 +2051,126 @@
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Review Apple iPhone 13 mini: Pareri si Specificatii",
+      "category" : "REVIEW",
+      "tags"     : "dimensiune, performanță, camera",
+      "url"      : "/review/apple-iphone-13-mini/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rechFvzpW63V3HEwk/mobile-transparent-apple-iphone-13-mini-rechFvzpW63V3HEwk.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Descoperă iPhone 13 mini: performanță excelentă, ecran vibrant și design compact.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "iOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple iPhone 13 Pro Max: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Procesor, Camera, Ecran",
+      "url"      : "/review/apple-iphone-13-pro-max/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rec2l6XGz0mylSTjz/mobile-transparent-apple-iphone-13-pro-max-rec2l6XGz0mylSTjz.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Descoperă iPhone 13 Pro Max: performanță excepțională, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple iPhone 13 Pro: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Procesor, Camera, Ecran",
+      "url"      : "/review/apple-iphone-13-pro/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recm3Kvp6fXB1V1qN/mobile-transparent-apple-iphone-13-pro-recm3Kvp6fXB1V1qN.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Descoperă iPhone 13 Pro: performanță excepțională, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Apple iPhone 13 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "dual-camera, A15, 5G",
+      "url"      : "/review/apple-iphone-13/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/reczTPr9acvEPsq8U/mobile-transparent-apple-iphone-13-reczTPr9acvEPsq8U.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă iPhone 13 - performanță excepțională, ecran vibrant și design premium, toate la un raport preț-calitate atractiv.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple iPhone 14 Plus: Pareri si Specificatii",
+      "category" : "REVIEW",
+      "tags"     : "ecran, camera, performanta",
+      "url"      : "/review/apple-iphone-14-plus/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/reciH7rbuypU7pVbz/mobile-transparent-apple-iphone-14-plus-reciH7rbuypU7pVbz.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă iPhone 14 Plus: performanță excelentă, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Apple iPhone 14 Pro Max Review: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Performanță, Fotografie, Design",
+      "url"      : "/review/apple-iphone-14-pro-max/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/reczDGs1wGK2FP0n8/mobile-transparent-apple-iphone-14-pro-max-reczDGs1wGK2FP0n8.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Descoperă iPhone 14 Pro Max: performanță excepțională, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Review Apple iPhone 14 Pro: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Proiectare, Camera, Performanta",
+      "url"      : "/review/apple-iphone-14-pro/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recPe8DPn4QZmnSJY/mobile-transparent-apple-iphone-14-pro-recPe8DPn4QZmnSJY.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Descoperă iPhone 14 Pro: performanță excepțională, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Apple iPhone 14 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Camera, Performanta",
+      "url"      : "/review/apple-iphone-14/",
+      "date"     : "2024-01-09 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recU9X0uX99Lo7HNQ/mobile-transparent-apple-iphone-14-recU9X0uX99Lo7HNQ.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Descoperă iPhone 14 - performanță de top, ecran vibrant și design premium, într-un review detaliat.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
     } 
   
 ]
