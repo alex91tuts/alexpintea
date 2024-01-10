@@ -2171,6 +2171,96 @@
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple iPhone 12 Pro Max: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "ecran, camera, performanta",
+      "url"      : "/review/apple-iphone-12-pro-max/",
+      "date"     : "2024-01-10 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rec8GIAq81UKye39n/mobile-transparent-apple-iphone-12-pro-max-rec8GIAq81UKye39n.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Descoperă iPhone 12 Pro Max: performanță excepțională, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple iPhone 12 Pro: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "ecran, camera, procesor",
+      "url"      : "/review/apple-iphone-12-pro/",
+      "date"     : "2024-01-10 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recGpqiIaoSXEeVgl/mobile-transparent-apple-iphone-12-pro-recGpqiIaoSXEeVgl.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Descoperă iPhone 12 Pro: performanță excepțională, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Apple iPhone 12 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "ecran, performanță, camera",
+      "url"      : "/review/apple-iphone-12/",
+      "date"     : "2024-01-10 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recZv3RupMYeMpFBh/mobile-transparent-apple-iphone-12-recZv3RupMYeMpFBh.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Descoperă iPhone 12: performanță puternică, ecran vibrant, design premium și valoare solidă pentru prețul său.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "APPLE",
+      "subcat1"     : "IOS"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy A13 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Baterie, Camera",
+      "url"      : "/review/samsung-galaxy-a13/",
+      "date"     : "2024-01-10 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recxpmJFRVMtedHoU/mobile-transparent-samsung-galaxy-a13-recxpmJFRVMtedHoU.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Descoperă Samsung Galaxy A13: performanță solidă, ecran luminos și baterie durabilă la un preț accesibil.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy A23 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Baterie, Camera",
+      "url"      : "/review/samsung-galaxy-a23/",
+      "date"     : "2024-01-10 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recRppqc4u8zAVOWS/mobile-transparent-samsung-galaxy-a23-recRppqc4u8zAVOWS.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Samsung Galaxy A23 oferă un ecran luminos, baterie durabilă și un raport preț-calitate avantajos pentru utilizatori.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy M33 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Baterie, Ecran, Performanță",
+      "url"      : "/review/samsung-galaxy-m33/",
+      "date"     : "2024-01-10 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recNe657tBmYDccQE/mobile-transparent-samsung-galaxy-m33-recNe657tBmYDccQE.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Samsung Galaxy M33, un smartphone echilibrat cu baterie durabilă și design plăcut, la un preț competitiv.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
     } 
   
 ]
