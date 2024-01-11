@@ -2261,6 +2261,156 @@
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Review Apple Watch Edition Series 7: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Fitness, Rezistent-la-apa",
+      "url"      : "/review/apple-watch-edition-series-7/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rec0kw4a3bX8h7yYN/mobile-transparent-apple-watch-edition-series-7-rec0kw4a3bX8h7yYN.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Apple Watch Edition Series 7: smartwatch de top, cu performanțe solide, ecran de calitate și funcții avansate pentru sănătate și fitness.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy A03 Core: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Baterie, Accesibil",
+      "url"      : "/review/samsung-galaxy-a03-core/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recBgMpUfQHC9BjgV/mobile-transparent-samsung-galaxy-a03-core-recBgMpUfQHC9BjgV.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Samsung Galaxy A03 Core oferă funcționalități de bază la un preț accesibil, ideal pentru utilizatorii cu buget redus.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy A03 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "buget, dual-sim, ecran",
+      "url"      : "/review/samsung-galaxy-a03/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recdFzxf2kPHKGS96/mobile-transparent-samsung-galaxy-a03-recdFzxf2kPHKGS96.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Samsung Galaxy A03 oferă un raport preț-calitate bun, cu baterie durabilă și design plăcut.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy A13 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, Ecran, Baterie",
+      "url"      : "/review/samsung-galaxy-a13-5g/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recfHkfWuYCxhSZ6K/mobile-transparent-samsung-galaxy-a13-5g-recfHkfWuYCxhSZ6K.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Descoperă Samsung Galaxy A13 5G: performanță solidă, baterie durabilă și preț accesibil într-un design modern.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy F42 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, Samsung, Mid-range",
+      "url"      : "/review/samsung-galaxy-f42-5g/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/reczBDikKABUwDDEg/mobile-transparent-samsung-galaxy-f42-5g-reczBDikKABUwDDEg.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Descoperă Samsung Galaxy F42 5G: performanță solidă, ecran vibrant, baterie durabilă și preț competitiv.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy M52 5G Recenzie: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, AMOLED, MULTICAMERA",
+      "url"      : "/review/samsung-galaxy-m52-5g/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recOF15VtEbjng89f/mobile-transparent-samsung-galaxy-m52-5g-recOF15VtEbjng89f.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Descoperă Samsung Galaxy M52 5G: performanță solidă, ecran vibrant, baterie durabilă și design modern la un preț competitiv.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy S21 FE 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, Ecran, Performanță",
+      "url"      : "/review/samsung-galaxy-s21-fe-5g/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recC25G9umxZziOI2/mobile-transparent-samsung-galaxy-s21-fe-5g-recC25G9umxZziOI2.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Descoperă Samsung Galaxy S21 FE 5G: performanță excelentă, ecran vibrant și raport solid preț-calitate.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy S22+ 5G: Specificatii si Pareri Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "5G, Samsung, Galaxy",
+      "url"      : "/review/samsung-galaxy-s22+-5g/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rech5i1LsCL9oIlLh/mobile-transparent-samsung-galaxy-s22+-5g-rech5i1LsCL9oIlLh.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Descoperă Samsung Galaxy S22+ 5G: performanță excelentă, ecran vibrant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy S22 5G Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "5G, Samsung, Galaxy",
+      "url"      : "/review/samsung-galaxy-s22-5g/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/reccKPVsSh92DftIm/mobile-transparent-samsung-galaxy-s22-5g-reccKPVsSh92DftIm.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Descoperă Samsung Galaxy S22 5G: performanță excelentă, ecran vibrant și raport solid preț-calitate.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy S22 Ultra 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "Performanță, Fotografie, Design",
+      "url"      : "/review/samsung-galaxy-s22-ultra-5g/",
+      "date"     : "2024-01-11 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recuMB8Ge8HR0yz0O/mobile-transparent-samsung-galaxy-s22-ultra-5g-recuMB8Ge8HR0yz0O.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Descoperă Samsung Galaxy S22 Ultra 5G: performanță excepțională, ecran impresionant și design premium.",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
     } 
   
 ]

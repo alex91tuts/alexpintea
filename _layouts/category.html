@@ -5,7 +5,7 @@ layout: default
 
 <section>
     <div class="section-title">
-        <h1><span>{{ page.title }}</span></h1>
+      <h1>{{ page.title }}</span></h1>
     </div>
     
     <div class="article-post">
@@ -16,7 +16,52 @@ layout: default
 </section>
 
 <style>
-
+@media (max-width: 570px) {
+  .footer-post p {
+    margin-bottom: -6px !important;
+    height: 37px !important;
+    overflow: hidden !important;
+    line-height: 1.4 !important;
+    font-size: 12px !important;
+    font-style: italic !important;
+    margin-top: 5px !important;
+  }
+  .footer-post a h2 {
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    overflow: hidden !important;
+    margin-bottom: 1px !important;
+    height: 44px !important;
+    margin-top: 0 !important;
+    color: #1d1c1c !important;
+  }
+  .data-post {
+    bottom: 129px ! important;
+  }
+	.author-post {
+    right: 0px !important;
+    font-size: 11px !important;
+	}
+	.cat-small {
+		margin-left: 0;
+	}
+	.card-wrapper {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#outputReview {
+    padding-left: 0;
+		padding-right: 0;
+	}
+}
+  
+  
+  .section-title {
+    margin-top: 95px;
+  }
+  .section-title h1 span {
+    float: right;
+  }
 	.author-post {
 		background: white;
     position: absolute;
@@ -132,22 +177,6 @@ layout: default
 		box-shadow: none;
 	}
 
-	@media (max-width: 570px) {
-	.author-post {
-    right: 0px !important;
-	}
-	.cat-small {
-		margin-left: 0;
-	}
-	.card-wrapper {
-		padding-left: 0;
-		padding-right: 0;
-	}
-	#outputReview {
-    padding-left: 0;
-		padding-right: 0;
-	}
-}
 	#outputReview {
 		margin-left: 0;
 		margin-right: 0;
