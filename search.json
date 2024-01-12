@@ -94,6 +94,7 @@ robots: YES
 	    "image"     : "/{{ post.meta_image }}",
 			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}",
+      "score"     : "{{ post.rating-value }}",
 			"cat"    : "{{ post.cat }}",
       "subcat" : "{{ post.subcat }}",
       "subcat1"     : "{{ post.subcat1 }}"
@@ -111,6 +112,7 @@ robots: YES
       {% endif %}
 			"author"    : "{{ post.author }}",
 	    "description"     : "{{ post.description }}",
+      "score"     : "{{ post.rating-value }}",
 			"cat"    : "{{ post.cat }}",
       "subcat" : "{{ post.subcat }}",
       "subcat1"     : "{{ post.subcat1 }}"

@@ -53,7 +53,7 @@ verdict: "Acest smartwatch este cel mai bun pentru cei care își doresc tehnolo
 
 ---
 
-## Top smartwatch 2023
+## Top smartwatch 2023 - 2024: Scor General
 
 <div class="tabel-top" markdown="1">
 

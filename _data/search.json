@@ -1386,6 +1386,7 @@
 	    "image"     : "/assets/images/reviews/huaweip30pro.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Huawei P30 Pro Pareri, Preturi, Specificatii - Camera cu caracteristici și trucuri impresionante și aspectul vibrant fac din Huawei P30 Pro un candidat serios pentru topul celor mai bune telefoane ale anului.",
+      "score"     : "9.1",
 			"cat"    : "SMARTPHONES",
       "subcat" : "",
       "subcat1"     : ""
@@ -1400,6 +1401,7 @@
 	    "image"     : "/assets/images/reviews/huawei-p20-lite.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Huawei P20 Lite Pareri, Preturi, Specificatii - Un smartphone mid-range bun ce capturează esența seriei P20, cu specificații medii la un preț accesibil.",
+      "score"     : "7.3",
 			"cat"    : "SMARTPHONES",
       "subcat" : "",
       "subcat1"     : ""
@@ -1414,6 +1416,7 @@
 	    "image"     : "/assets/images/reviews/psmart/psmart-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Huawwei P Smart 2019 Pareri, Pret, Specificatii - Un smartphone ce oferă o experiență surprinzătoare, un design curat și simplu și un set impresionant de caracteristici.",
+      "score"     : "7.8",
 			"cat"    : "SMARTPHONES",
       "subcat" : "",
       "subcat1"     : ""
@@ -1428,6 +1431,7 @@
 	    "image"     : "/assets/images/reviews/pareri-huawei/logo-huawei.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Pareri Telefoane Huawei - Huawei nu mai este o companie de ignorat. Cu tot mai multe terminale pe piața premium, compania se bate de la egal la egal cu Samsung, LG sau Sony. Însă în lumina unei încăierări dintre SUA și China, Huawei a fost printre entitățile care au avut de pierdut.",
+      "score"     : "7.8",
 			"cat"    : "SMARTPHONES",
       "subcat" : "",
       "subcat1"     : ""
@@ -1442,6 +1446,7 @@
 	    "image"     : "/assets/images/reviews/lenovom2/lenovo4.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Trotineta Lenovo M2, o optiune perfecta pentru cei care își doresc o trotineta calitativă fără să cheltuiască mulți bani.",
+      "score"     : "8.9",
 			"cat"    : "TROTINETE",
       "subcat" : "",
       "subcat1"     : ""
@@ -1456,6 +1461,7 @@
 	    "image"     : "/assets/images/reviews/inokimoxsuper/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Trotineta electrică Inokim Ox Super este un scuter electric uimitor, cu câteva caracteristici cu adevărat minunate, care poate face față tuturor provocărilor la care îl supuneți.",
+      "score"     : "8.6",
 			"cat"    : "TROTINETE",
       "subcat" : "",
       "subcat1"     : ""
@@ -1470,6 +1476,7 @@
 	    "image"     : "/assets/images/reviews/masinispheinner/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Te-ai uitat la o mașină de spălat Heinner? Află mai multe despre aceasta din recenziile clienților și analizele experților. Acest ghid compară diferite modele și evaluează valoarea produselor.",
+      "score"     : "8",
 			"cat"    : "CASA SI GRADINA",
       "subcat" : "ELECTROCASNICE",
       "subcat1"     : ""
@@ -1484,6 +1491,7 @@
 	    "image"     : "/assets/images/reviews/broadlink/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Cu un design compact și elegant, compatibilitate extinsă și integrare cu sistemele smart home, acest produs se dovedește a fi o alegere excelentă pentru cei care doresc să-și simplifice viața.",
+      "score"     : "8.6",
 			"cat"    : "CASA SI GRADINA",
       "subcat" : "SMARTHOME",
       "subcat1"     : ""
@@ -1498,6 +1506,7 @@
 	    "image"     : "/assets/images/reviews/remington/main.webp",
 			"author"    : "Tudor Stan",
 	    "description"     : "Remington S9500 Pearl este câștigătorul datorită combinației dintre performanța excelentă, tehnologia avansată și recenziile pozitive ale clienților.",
+      "score"     : "9.5",
 			"cat"    : "FRUMUSETE",
       "subcat" : "EPILARE",
       "subcat1"     : ""
@@ -1512,6 +1521,7 @@
 	    "image"     : "/assets/images/reviews/boshdrill/main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Bosch EasyDrill 1200 este o mașină de găurit și înșurubat excelentă pentru utilizatorul casnic și proiectele DIY. Cu un design compact și ergonomic, funcționalitate 2-în-1 și un acumulator cu încărcare rapidă, acest produs oferă un raport calitate-preț foarte bun.",
+      "score"     : "8.0",
 			"cat"    : "CASA SI GRADINA",
       "subcat" : "UNELTE",
       "subcat1"     : ""
@@ -1526,6 +1536,7 @@
 	    "image"     : "/assets/images/reviews/lumea/pachet.webp",
 			"author"    : "Mari D.",
 	    "description"     : "Epilatorul IPL Philips Lumea Seria 9000 - review, păreri și informații complete despre caracteristici, preț și eficacitate. Investește într-un dispozitiv de calitate pentru îndepărtarea părului la domiciliu sau în călătorii.",
+      "score"     : "8.4",
 			"cat"    : "FRUMUSETE",
       "subcat" : "EPILARE",
       "subcat1"     : ""
@@ -1540,6 +1551,7 @@
 	    "image"     : "/assets/images/reviews/remington9500/utilizator.webp",
 			"author"    : "Andreea",
 	    "description"     : "Descoperă Remington S9500 Pearl Pro Ceramic, placa de îndreptat părul cu tehnologie avansată și performanță excelentă. Află despre caracteristicile sale, comparația cu BaBylissPRO și îmbunătățirile față de modelele anterioare în acest review detaliat.",
+      "score"     : "8.5",
 			"cat"    : "FRUMUSETE",
       "subcat" : "EPILARE",
       "subcat1"     : ""
@@ -1554,6 +1566,7 @@
 	    "image"     : "/assets/images/reviews/dyson-corrale/dyson-main.webp",
 			"author"    : "Mari D.",
 	    "description"     : "Descoperă Dyson Corrale HS03: singura placă fără fir cu autonomie de 30 min și control temperatură inteligent. Rezultate profesionale oriunde.",
+      "score"     : "9.2",
 			"cat"    : "FRUMUSETE",
       "subcat" : "PAR",
       "subcat1"     : ""
@@ -1568,6 +1581,7 @@
 	    "image"     : "/assets/images/reviews/iplbraun/main-braun.webp",
 			"author"    : "Mari D.",
 	    "description"     : "Descoperiți o epilare eficientă cu Braun Silk Expert Pro 5 PL5124. Cu tehnologia SensoAdaptTM și 400.000 de impulsuri, îndepărtarea părului devine o briză!",
+      "score"     : "8.4",
 			"cat"    : "FRUMUSETE",
       "subcat" : "EPILARE",
       "subcat1"     : ""
@@ -1582,6 +1596,7 @@
 	    "image"     : "/assets/images/reviews/watch6/prezentare-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "O analiză detaliată a Samsung Galaxy Watch 6: Descoperă caracteristici esențiale, performanța reală și punctele forte și slabe ale ceasului.",
+      "score"     : "8.5",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1596,6 +1611,7 @@
 	    "image"     : "/assets/images/reviews/pixelwatch2/main-pixel-watch.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Analiză aprofundată a Google Pixel Watch 2: Notă generală bazată pe caracteristici esențiale. Descoperă performanța reală în această recenzie.",
+      "score"     : "8.6",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1610,6 +1626,7 @@
 	    "image"     : "/assets/images/reviews/venu2plus/garmin-venu-2-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Explorați Garmin Venu 2 Plus și descoperiți punctele forte și punctele slabe ale acestui smartwatch. Aflați dacă este alegerea potrivită pentru dumneavoastră.",
+      "score"     : "8.3",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1624,6 +1641,7 @@
 	    "image"     : "/assets/images/reviews/watch5pro/watch-5-pro-galaxy-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Analiză detaliată a Samsung Galaxy Watch 5 Pro: puncte forte, slabe și caracteristici esențiale. Descoperă ce face acest smartwatch special.",
+      "score"     : "8.5",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1638,6 +1656,7 @@
 	    "image"     : "/assets/images/reviews/top-smartwatch/cel-mai-bun-smartwatch.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Analiză detaliată pentru cel mai bun smartwatch. Descoperă caracteristicile esențiale și nota pe baza parametrilor cheie.",
+      "score"     : "8.7",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1652,6 +1671,7 @@
 	    "image"     : "/assets/images/reviews/rw2l/xiomi-redmi-watc-lite-2-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Xiaomi Redmi Watch 2 Lite Review: ecran de calitate, baterie durabilă și conectivitate excelentă. Descoperă analiza noastră detaliată.",
+      "score"     : "8.3",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1666,6 +1686,7 @@
 	    "image"     : "/assets/images/reviews/LTE/LTE-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperiți ce înseamnă LTE la smartwatch, avantajele conectivității LTE și cum transformă această tehnologie modul în care interacționăm cu dispozitivele wearables.",
+      "score"     : "",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1680,6 +1701,7 @@
 	    "image"     : "/assets/images/reviews/topxiaomi/xiaomi-main.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă care este cel mai bun smartwatch Xiaomi pentru tine. Comparăm funcționalități, design și preț pentru a-ți oferi recomandările noastre. Află acum mai multe!",
+      "score"     : "",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1694,6 +1716,7 @@
 	    "image"     : "/assets/images/reviews/fit-vs-watch/smartwatch-vs-fitnes-tracker.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă diferențele esențiale între smartwatch și fitness tracker pentru a alege dispozitivul ideal în funcție de nevoile și stilul tău de viață. Află mai multe",
+      "score"     : "",
 			"cat"    : "SMARTWATCH",
       "subcat" : "",
       "subcat1"     : ""
@@ -1710,6 +1733,7 @@
       "image"     : "/assets/images/reviews/ultra2/main-ultra-watch-apple-2.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Apple Watch Ultra 2, un smartwatch robust cu funcții avansate pentru sănătate și fitness, ideal pentru aventurieri și sportivi.",
+      "score"     : "8.4",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -1725,6 +1749,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Apple Watch Series 9 excellează în performanță și funcții de sănătate, oferind un design confortabil și un ecran de înaltă calitate.",
+      "score"     : "8.5",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -1740,6 +1765,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Descoperă Motorola Moto G Stylus 5G (2022): performanță solidă, ecran luminos, baterie durabilă și stylus practic.",
+      "score"     : "7.4",
 			"cat"    : "SMARTPHONES",
       "subcat" : "MOTOROLA",
       "subcat1"     : "ANDROID"
@@ -1754,6 +1780,7 @@
       "image"     : "/assets/images/reviews/rec4lYUWpG7diQAsc/main-apple-watch-series-8-f39705f2.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Apple Watch Series 8: performanță excepțională, ecran de top, funcții sănătate avansate, într-un design confortabil.",
+      "score"     : "8.6",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -1769,6 +1796,7 @@
       
 			"author"    : "Marius R.",
 	    "description"     : "Descoperă Samsung Galaxy Watch 4: performanță solidă, ecran de top, funcții fitness avansate, într-un design confortabil.",
+      "score"     : "8.2",
 			"cat"    : "SMARTWATCH",
       "subcat" : "SAMSUNG",
       "subcat1"     : "WEAR-OS"
@@ -1783,6 +1811,7 @@
       "image"     : "/assets/images/reviews/recqgafh1GyN73bsj/main-watch-ultra-da87e222.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Apple Watch Ultra: performanță excepțională, ecran luminos, funcții fitness avansate și design robust.",
+      "score"     : "8.9",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -1797,6 +1826,7 @@
       "image"     : "/assets/images/reviews/recU8QYSWw2HnC2re/main-apple-watch-series-7-5014a07d.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Apple Watch Series 7: un smartwatch cu performanță excelentă, ecran de top și funcții de sănătate avansate.",
+      "score"     : "8.6",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -1811,6 +1841,7 @@
       "image"     : "/assets/images/reviews/recMYQI7s7CwMYEuR/main-apple-watch-se-15a075e5.webp",
 			"author"    : "Andreea A.",
 	    "description"     : "Apple Watch SE: o combinație echilibrata de performanta, functionalitati de sanatate si fitness si un design confortabil, la un pret accesibil.",
+      "score"     : "7.9",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -1826,6 +1857,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Samsung Galaxy M53 oferă performanță solidă, ecran vibrant și raport bun preț-calitate. Află mai multe în review-ul nostru!",
+      "score"     : "7.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -1840,6 +1872,7 @@
       "image"     : "/assets/images/reviews/recSEJzhyleyhwnF9/main-apple-watch-series-6-8a8dab2c.webp",
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Apple Watch Series 6: performanță excepțională, ecran de top și funcții de sănătate avansate.",
+      "score"     : "8.6",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -1855,6 +1888,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Samsung Galaxy Watch4 Classic: smartwatch premium cu performanțe și design de top. Află mai multe în review!",
+      "score"     : "8.2",
 			"cat"    : "SMARTWATCH",
       "subcat" : "SAMSUNG",
       "subcat1"     : "WEAR-OS"
@@ -1870,6 +1904,7 @@
       
 			"author"    : "Razvan N.",
 	    "description"     : "Descoperă iPhone 12 mini: performanță excelentă, ecran de top, într-un design compact.",
+      "score"     : "8.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "iOS"
@@ -1885,6 +1920,7 @@
       
 			"author"    : "Razvan N.",
 	    "description"     : "Descoperă Motorola Edge (2022): performanță solidă, ecran vibrant, baterie durabilă și design confortabil, la un preț competitiv.",
+      "score"     : "7.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "MOTOROLA",
       "subcat1"     : "ANDROID"
@@ -1900,6 +1936,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Motorola Edge 30 - performanță solidă, ecran vibrant, la un preț competitiv. Review detaliat pentru o alegere informată.",
+      "score"     : "7.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "MOTOROLA",
       "subcat1"     : "ANDROID"
@@ -1915,6 +1952,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Samsung Galaxy A03s oferă un ecran decent și baterie durabilă la un preț accesibil, ideal pentru bugete modeste.",
+      "score"     : "6.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -1930,6 +1968,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Samsung Galaxy M32 5G: un smartphone echilibrat cu 5G și baterie solidă la un preț accesibil.",
+      "score"     : "7.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -1945,6 +1984,7 @@
       
 			"author"    : "Marius R.",
 	    "description"     : "Descoperă Samsung Galaxy Z Flip3 5G: design inovator, performanță solidă și ecran impresionant, într-un review detaliat.",
+      "score"     : "7.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -1960,6 +2000,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Samsung Galaxy A14: performanță solidă, ecran luminos, baterie durabilă și preț accesibil într-un design modern.",
+      "score"     : "7.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -1975,6 +2016,7 @@
       
 			"author"    : "Razvan N.",
 	    "description"     : "Descoperă Samsung Galaxy A33 5G: performanță solidă, ecran vibrant, baterie durabilă și design modern la un preț competitiv.",
+      "score"     : "7.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -1990,6 +2032,7 @@
       
 			"author"    : "Marius R.",
 	    "description"     : "Samsung Galaxy A53 5G: performanță solidă, ecran vibrant, baterie durabilă și design atrăgător la un preț competitiv.",
+      "score"     : "7.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2005,6 +2048,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Samsung Galaxy F13 oferă performanță decentă, ecran luminos și baterie durabilă la un preț accesibil.",
+      "score"     : "7.4",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2020,6 +2064,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Samsung Galaxy F23: performanță solidă, ecran vibrant și baterie durabilă la un preț accesibil.",
+      "score"     : "7.5",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2035,6 +2080,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Descoperă Samsung Galaxy Z Flip4: performanță puternică, ecran vibrant și design inovator.",
+      "score"     : "8.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2050,6 +2096,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Descoperă iPhone 13 mini: performanță excelentă, ecran vibrant și design compact.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "iOS"
@@ -2065,6 +2112,7 @@
       
 			"author"    : "Marius R.",
 	    "description"     : "Descoperă iPhone 13 Pro Max: performanță excepțională, ecran impresionant și design premium.",
+      "score"     : "8.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2080,6 +2128,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Descoperă iPhone 13 Pro: performanță excepțională, ecran impresionant și design premium.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2095,6 +2144,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă iPhone 13 - performanță excepțională, ecran vibrant și design premium, toate la un raport preț-calitate atractiv.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2110,6 +2160,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă iPhone 14 Plus: performanță excelentă, ecran impresionant și design premium.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2125,6 +2176,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Descoperă iPhone 14 Pro Max: performanță excepțională, ecran impresionant și design premium.",
+      "score"     : "8.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2140,6 +2192,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Descoperă iPhone 14 Pro: performanță excepțională, ecran impresionant și design premium.",
+      "score"     : "8.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2155,6 +2208,7 @@
       
 			"author"    : "Razvan N.",
 	    "description"     : "Descoperă iPhone 14 - performanță de top, ecran vibrant și design premium, într-un review detaliat.",
+      "score"     : "8.3",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2170,6 +2224,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Descoperă iPhone 12 Pro Max: performanță excepțională, ecran impresionant și design premium.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2185,6 +2240,7 @@
       
 			"author"    : "Marius R.",
 	    "description"     : "Descoperă iPhone 12 Pro: performanță excepțională, ecran impresionant și design premium.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2200,6 +2256,7 @@
       
 			"author"    : "Razvan N.",
 	    "description"     : "Descoperă iPhone 12: performanță puternică, ecran vibrant, design premium și valoare solidă pentru prețul său.",
+      "score"     : "8.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "APPLE",
       "subcat1"     : "IOS"
@@ -2215,6 +2272,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Descoperă Samsung Galaxy A13: performanță solidă, ecran luminos și baterie durabilă la un preț accesibil.",
+      "score"     : "7.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2230,6 +2288,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Samsung Galaxy A23 oferă un ecran luminos, baterie durabilă și un raport preț-calitate avantajos pentru utilizatori.",
+      "score"     : "7.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2245,6 +2304,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Samsung Galaxy M33, un smartphone echilibrat cu baterie durabilă și design plăcut, la un preț competitiv.",
+      "score"     : "7.5",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2260,6 +2320,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Apple Watch Edition Series 7: smartwatch de top, cu performanțe solide, ecran de calitate și funcții avansate pentru sănătate și fitness.",
+      "score"     : "8.4",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -2275,6 +2336,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Samsung Galaxy A03 Core oferă funcționalități de bază la un preț accesibil, ideal pentru utilizatorii cu buget redus.",
+      "score"     : "5.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2290,6 +2352,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Samsung Galaxy A03 oferă un raport preț-calitate bun, cu baterie durabilă și design plăcut.",
+      "score"     : "6.5",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2305,6 +2368,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Descoperă Samsung Galaxy A13 5G: performanță solidă, baterie durabilă și preț accesibil într-un design modern.",
+      "score"     : "7.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2320,6 +2384,7 @@
       
 			"author"    : "Marius R.",
 	    "description"     : "Descoperă Samsung Galaxy F42 5G: performanță solidă, ecran vibrant, baterie durabilă și preț competitiv.",
+      "score"     : "7.4",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2335,6 +2400,7 @@
       
 			"author"    : "Razvan N.",
 	    "description"     : "Descoperă Samsung Galaxy M52 5G: performanță solidă, ecran vibrant, baterie durabilă și design modern la un preț competitiv.",
+      "score"     : "7.9",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2350,6 +2416,7 @@
       
 			"author"    : "Razvan N.",
 	    "description"     : "Descoperă Samsung Galaxy S21 FE 5G: performanță excelentă, ecran vibrant și raport solid preț-calitate.",
+      "score"     : "8.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2365,6 +2432,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Descoperă Samsung Galaxy S22+ 5G: performanță excelentă, ecran vibrant și design premium.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2380,6 +2448,7 @@
       
 			"author"    : "Marius R.",
 	    "description"     : "Descoperă Samsung Galaxy S22 5G: performanță excelentă, ecran vibrant și raport solid preț-calitate.",
+      "score"     : "8.2",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2395,6 +2464,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Descoperă Samsung Galaxy S22 Ultra 5G: performanță excepțională, ecran impresionant și design premium.",
+      "score"     : "8.6",
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
@@ -2408,8 +2478,9 @@
       "date"     : "2024-01-12 00:00:00 +0200",
       "image"     : "/assets/images/reviews/recE7gaoKW7luSfcO/mobile-transparent-apple-watch-se-(2022)-recE7gaoKW7luSfcO.webp",
       
-			"author"    : "Marius R.",
+			"author"    : "Alex P.",
 	    "description"     : "Apple Watch SE (2022) oferă un echilibru între performanță, caracteristici de sănătate și fitness, și un preț accesibil.",
+      "score"     : "7.5",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -2425,6 +2496,7 @@
       
 			"author"    : "Andreea A.",
 	    "description"     : "Apple Watch Series 8 Aluminum combină performanța excelentă cu funcții inovatoare de sănătate și un design atrăgător.",
+      "score"     : "8.8",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -2440,6 +2512,7 @@
       
 			"author"    : "Andrei I.",
 	    "description"     : "Apple Watch Series 9 Aluminum aduce inovații în sănătate și fitness, cu design confortabil și funcții îmbunătățite pentru un stil de viață activ.",
+      "score"     : "8.5",
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
@@ -2455,6 +2528,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Google Pixel Watch: smartwatch versatil, cu design modern și caracteristici de sănătate avansate.",
+      "score"     : "7.5",
 			"cat"    : "SMARTWATCH",
       "subcat" : "GOOGLE",
       "subcat1"     : "WEAR-OS"
@@ -2470,6 +2544,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Huawei Watch 4 Pro impresionează cu funcții avansate de sănătate și fitness, ecran de înaltă calitate și un design elegant și confortabil.",
+      "score"     : "8.4",
 			"cat"    : "SMARTWATCH",
       "subcat" : "HUAWEI",
       "subcat1"     : "HARMONYOS"
@@ -2485,6 +2560,7 @@
       
 			"author"    : "Alex P.",
 	    "description"     : "Huawei Watch 4 Pro combină funcții avansate de sănătate și fitness cu un design elegant și confortabil, oferind o experiență de utilizare completă.",
+      "score"     : "7.6",
 			"cat"    : "SMARTWATCH",
       "subcat" : "HUAWEI",
       "subcat1"     : "OPERATING-SYSTEM"

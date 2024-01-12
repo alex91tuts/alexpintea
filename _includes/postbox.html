@@ -11,7 +11,11 @@
 	<div class="footer-post">
 		<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
 		<p>{{ post.description }}</p>
+    {% if post.cat == "SMARTWATCH" or post.cat == "SMARTPHONES" %}
+    <span class="data-post" style="background: #1d8a91; color: white;">{{ post.score }}</span>
+    {% else %}
 		<span class="data-post">📅 {{ post.date | date: "%b %d, %Y" }}</span>
+    {% endif %}
 	</div>
 	</div>
 </div>
