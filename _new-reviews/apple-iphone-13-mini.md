@@ -55,7 +55,7 @@ buyif:
 dontbuyif:
   ['Vrei o baterie cu durată de viață extinsă', 'Ai nevoie de un slot pentru card de memorie', 'Bugetul tău este limitat']
 
-verdict: "iPhone 13 mini excellează în performanță și calitatea ecranului, fiind ideal pentru cei care doresc un telefon compact. Cu toate acestea, durata bateriei și lipsa unui slot pentru card pot fi dezavantaje pentru unii utilizatori."
+verdict: "iPhone 13 mini excelează în performanță și calitatea ecranului, fiind ideal pentru cei care doresc un telefon compact. Cu toate acestea, durata bateriei și lipsa unui slot pentru card pot fi dezavantaje pentru unii utilizatori."
 
 spotlight:
   releaseDate: "Lansat 2021, 24 septembrie"

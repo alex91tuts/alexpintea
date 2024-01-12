@@ -61,7 +61,7 @@ dontbuyif:
   - 'Ai nevoie de un slot pentru card de memorie'
   - 'Cauți un telefon cu mufă de 3.5mm'
 
-verdict: "iPhone 13 este un smartphone care excellează la capitolul performanță și calitatea afișajului, oferind un design premium și funcții avansate. Cu toate acestea, absența slotului pentru card de memorie și a bateriei schimbabile ar putea fi dezavantaje pentru unii utilizatori."
+verdict: "iPhone 13 este un smartphone care excelează la capitolul performanță și calitatea afișajului, oferind un design premium și funcții avansate. Cu toate acestea, absența slotului pentru card de memorie și a bateriei schimbabile ar putea fi dezavantaje pentru unii utilizatori."
 
 spotlight:
   releaseDate: "Lansat 2021, 24 septembrie"

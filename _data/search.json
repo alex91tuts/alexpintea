@@ -1546,20 +1546,6 @@
     } ,
   
     {
-      "title"    : "Apple Watch SE 2: stil și funcționalitate | Pareri | Review",
-      "category" : "REVIEW",
-      "tags"     : "Apple, SmartWatch, SE2",
-      "url"      : "/review/apple-watch-SE-%202/",
-      "date"     : "2023-05-16 00:00:00 +0300",
-	    "image"     : "/assets/images/reviews/applewatchse/main.webp",
-			"author"    : "Alex P.",
-	    "description"     : "Explorăm Apple Watch SE 2 (2022), ceasul inteligent cu un design elegant și funcționalități impresionante. Descoperă un review complet și obiectiv.",
-			"cat"    : "SMARTWATCH",
-      "subcat" : "",
-      "subcat1"     : ""
-    } ,
-  
-    {
       "title"    : "Dyson Corrale HS03 - Placa de par Wireless cu Performanta Inalta: Pareri | Review",
       "category" : "REVIEW",
       "tags"     : "Dyson, Placa de par, Corrale",
@@ -1584,34 +1570,6 @@
 	    "description"     : "Descoperiți o epilare eficientă cu Braun Silk Expert Pro 5 PL5124. Cu tehnologia SensoAdaptTM și 400.000 de impulsuri, îndepărtarea părului devine o briză!",
 			"cat"    : "FRUMUSETE",
       "subcat" : "EPILARE",
-      "subcat1"     : ""
-    } ,
-  
-    {
-      "title"    : "Apple Watch Ultra 2: Ghidul Complet și Analiza Performanței | Pareri | Review",
-      "category" : "REVIEW",
-      "tags"     : "Apple, Ultra 2, Ceas",
-      "url"      : "/review/apple-watch-ultra-2-review/",
-      "date"     : "2023-10-15 00:00:00 +0300",
-	    "image"     : "/assets/images/reviews/ultra2/main-ultra-watch-apple-2.webp",
-			"author"    : "Alex P.",
-	    "description"     : "Analiză Apple Watch Ultra 2: un dispozitiv de ultimă generație cu performanțe de top și design modern.",
-			"cat"    : "SMARTWATCH",
-      "subcat" : "",
-      "subcat1"     : ""
-    } ,
-  
-    {
-      "title"    : "Apple Watch Series 9: Analiză Detaliată 2023 - Merită Investiția? Pareri | Review",
-      "category" : "REVIEW",
-      "tags"     : "Series-9, Apple, SmartWatch",
-      "url"      : "/review/apple-watch-series-9-review/",
-      "date"     : "2023-10-16 00:00:00 +0300",
-	    "image"     : "/assets/images/reviews/series9/main.webp",
-			"author"    : "Alex P.",
-	    "description"     : "Analiză Apple Watch Series 9: O privire detaliată asupra celor mai reprezentative caracteristici și performanțe. Află ce îl face unic!",
-			"cat"    : "SMARTWATCH",
-      "subcat" : "",
       "subcat1"     : ""
     } ,
   
@@ -1742,6 +1700,35 @@
     } 
   
   ,
+  
+    {
+      "title"    : "Apple Watch Ultra 2: Pareri si Specificatii Detaliate | Review",
+      "category" : "REVIEW",
+      "tags"     : "rezistent, GPS, monitorizare-sanatate",
+      "url"      : "/review/apple-watch-ultra-2-review/",
+      "date"     : "2023-10-15 00:00:00 +0300",
+      "image"     : "/assets/images/reviews/ultra2/main-ultra-watch-apple-2.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Apple Watch Ultra 2, un smartwatch robust cu funcții avansate pentru sănătate și fitness, ideal pentru aventurieri și sportivi.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Apple Watch Series 9 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Ecran-Tactil",
+      "url"      : "/review/apple-watch-series-9-review/",
+      "date"     : "2023-10-16 00:00:00 +0300",
+      "image"     : "/assets/images/reviews/rec17LZhOpGp9X0cp/mobile-transparent-apple-watch-series-9-rec17LZhOpGp9X0cp.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Apple Watch Series 9 excellează în performanță și funcții de sănătate, oferind un design confortabil și un ecran de înaltă calitate.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
   
     {
       "title"    : "Recenzie Motorola Moto G Stylus 5G (2022): Specificatii si Pareri",
@@ -2411,6 +2398,96 @@
 			"cat"    : "SMARTPHONES",
       "subcat" : "SAMSUNG",
       "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Apple Watch SE 2022: Specificatii, Pareri, Review",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Rezistent-la-apă",
+      "url"      : "/review/apple-watch-SE-%202/",
+      "date"     : "2024-01-12 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recE7gaoKW7luSfcO/mobile-transparent-apple-watch-se-(2022)-recE7gaoKW7luSfcO.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Apple Watch SE (2022) oferă un echilibru între performanță, caracteristici de sănătate și fitness, și un preț accesibil.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple Watch Series 8 Aluminum: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Ecran-Tactil",
+      "url"      : "/review/apple-watch-series-8-aluminum/",
+      "date"     : "2024-01-12 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recp3xZpeZxUHWYD0/mobile-transparent-apple-watch-series-8-aluminum-recp3xZpeZxUHWYD0.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Apple Watch Series 8 Aluminum combină performanța excelentă cu funcții inovatoare de sănătate și un design atrăgător.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple Watch Series 9 Aluminum: Pareri și Specificații",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Ecran-Tactil",
+      "url"      : "/review/apple-watch-series-9-aluminum/",
+      "date"     : "2024-01-12 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recGznt1cqmj9k8tp/mobile-transparent-apple-watch-series-9-aluminum-recGznt1cqmj9k8tp.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Apple Watch Series 9 Aluminum aduce inovații în sănătate și fitness, cu design confortabil și funcții îmbunătățite pentru un stil de viață activ.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Google Pixel Watch: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Design",
+      "url"      : "/review/google-pixel-watch/",
+      "date"     : "2024-01-12 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recYdPU0hUSUZ3c4c/mobile-transparent-google-pixel-watch-recYdPU0hUSUZ3c4c.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Google Pixel Watch: smartwatch versatil, cu design modern și caracteristici de sănătate avansate.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "GOOGLE",
+      "subcat1"     : "WEAR-OS"
+    } ,
+  
+    {
+      "title"    : "Huawei Watch 4 Pro Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificari, GPS",
+      "url"      : "/review/huawei-watch-4-pro/",
+      "date"     : "2024-01-12 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recyvmjwpZzxjSbgZ/mobile-transparent-huawei-watch-4-pro-recyvmjwpZzxjSbgZ.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Huawei Watch 4 Pro impresionează cu funcții avansate de sănătate și fitness, ecran de înaltă calitate și un design elegant și confortabil.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "HUAWEI",
+      "subcat1"     : "HARMONYOS"
+    } ,
+  
+    {
+      "title"    : "Huawei Watch 4 Recenzie: Pareri si Specificatii Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificari, GPS",
+      "url"      : "/review/huawei-watch-4/",
+      "date"     : "2024-01-12 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recwSHS3CiPfLbMND/mobile-transparent-huawei-watch-4-recwSHS3CiPfLbMND.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Huawei Watch 4 Pro combină funcții avansate de sănătate și fitness cu un design elegant și confortabil, oferind o experiență de utilizare completă.",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "HUAWEI",
+      "subcat1"     : "OPERATING-SYSTEM"
     } 
   
 ]

@@ -55,7 +55,7 @@ buyif:
 dontbuyif: 
   ['Vrei performanțe ridicate pentru jocuri sau aplicații', 'Cauți funcții avansate de sănătate și fitness', 'Preferi un design premium sau materiale de calitate superioară']
 
-verdict: "Samsung Galaxy A03 Core este un telefon de buget care excellează la capitolul autonomie a bateriei și accesibilitate. Cu toate acestea, performanța modestă și lipsa caracteristicilor premium îl fac mai puțin atractiv pentru utilizatorii avansați."
+verdict: "Samsung Galaxy A03 Core este un telefon de buget care excelează la capitolul autonomie a bateriei și accesibilitate. Cu toate acestea, performanța modestă și lipsa caracteristicilor premium îl fac mai puțin atractiv pentru utilizatorii avansați."
 
 spotlight:
   releaseDate: "Lansat 2021, 6 decembrie"
