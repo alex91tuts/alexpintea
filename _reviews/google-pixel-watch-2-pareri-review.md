@@ -1,8 +1,8 @@
 ---
 title: "Google Pixel Watch 2: Analiză Detaliată - Pareri | Review 2023"
 image_path: pixelwatch2/main-pixel-watch.webp
-meta_image: assets/images/reviews/pixelwatch2/main-pixel-watch.webp
-imaginexProdus: /assets/images/reviews/pixelwatch2/produs-pixel-watch.webp
+meta_image: "assets/images/reviews/pixelwatch2/main-pixel-watch.webp"
+imagineProdus: "/assets/images/reviews/pixelwatch2/produs-pixel-watch.webp"
 layout: "review"
 date: 2023-10-16
 date-modified: 2023-10-16

@@ -43,10 +43,10 @@ url1=page.url1 %}
 {% endif %}
 {% endif %}
   
-{% if page.layout == "new-review" %}
+{% if page.layout == "new-review" and page.type !="lista" %}
   {% include cta-sidebar-new-review.html %}
 {% endif %}
-	
+  
 {% if page.cat == "FINANCIAR" %}
 	{% include victoria.html %}
 {% endif %}

@@ -1648,21 +1648,6 @@
     } ,
   
     {
-      "title"    : "Cel Mai Bun Smartwatch 2023 - Top 7 Recomandări",
-      "category" : "REVIEW",
-      "tags"     : "Top smartwatch, Cel mai bun, Calitate/ Preț",
-      "url"      : "/review/cel-mai-bun-smartwatch/",
-      "date"     : "2023-10-19 00:00:00 +0300",
-	    "image"     : "/assets/images/reviews/top-smartwatch/cel-mai-bun-smartwatch.webp",
-			"author"    : "Alex P.",
-	    "description"     : "Analiză detaliată pentru cel mai bun smartwatch. Descoperă caracteristicile esențiale și nota pe baza parametrilor cheie.",
-      "score"     : "8.7",
-			"cat"    : "SMARTWATCH",
-      "subcat" : "",
-      "subcat1"     : ""
-    } ,
-  
-    {
       "title"    : "Xiaomi Redmi Watch 2 Lite Pareri | Review | Calitate la un preț accesibil",
       "category" : "REVIEW",
       "tags"     : "Redmi, Xiaomi, Ceas",
@@ -1753,6 +1738,21 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "APPLE",
       "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Cel Mai Bun Smartwatch 2023 - 2024 | Ieftin | Premium | Femei",
+      "category" : "REVIEW",
+      "tags"     : "ecran, performanță, camera",
+      "url"      : "/review/cel-mai-bun-smartwatch/",
+      "date"     : "2023-10-19 00:00:00 +0300",
+      "image"     : "/assets/images/reviews/top-smartwatch/cel-mai-bun-smartwatch.webp",
+			"author"    : "Alex P.",
+	    "description"     : "",
+      "score"     : "",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "TOP",
+      "subcat1"     : ""
     } ,
   
     {
@@ -2564,6 +2564,38 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "HUAWEI",
       "subcat1"     : "OPERATING-SYSTEM"
+    } ,
+  
+    {
+      "title"    : "Recenzie Honor Watch GS 3: Pareri și Specificații Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "monitorizare, fitness, autonomie",
+      "url"      : "/review/honor-watch-gs-3/",
+      "date"     : "2024-01-13 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/receTBm9V068mQPjC/mobile-transparent-honor-watch-gs-3-receTBm9V068mQPjC.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Honor Watch GS 3 impresionează cu designul său elegant, monitorizare precisă a sănătății și performanță decentă pentru prețul său.",
+      "score"     : "7.8",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "HONOR",
+      "subcat1"     : "LITEOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Huawei Watch Ultimate: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "monitorizare, rezistent, GPS",
+      "url"      : "/review/huawei-watch-ultimate/",
+      "date"     : "2024-01-13 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/reczqx6R3f7UA0hSJ/mobile-transparent-huawei-watch-ultimate-reczqx6R3f7UA0hSJ.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Huawei Watch Ultimate combină funcționalități de sănătate și fitness cu un design atrăgător și o autonomie satisfăcătoare.",
+      "score"     : "7.4",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "HUAWEI",
+      "subcat1"     : "HARMONYOS"
     } 
   
 ]

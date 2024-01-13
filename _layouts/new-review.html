@@ -156,6 +156,31 @@ post_class: post-template
     right: 10px !important;
   }
 }
+  
+  .hr-s1 {
+    padding: 0;
+    border: none;
+    height: 2px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgb(114 111 111 / 75%), rgba(0,0,0,0));
+    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    color: #333;
+    text-align: center;
+    overflow: visible;
+    margin: 35px 0;
+}
+.hr-s1:after {
+    content: " ";
+    display: inline-block;
+    position: relative;
+    top: -38px;
+    font-size: 1.5em;
+    padding: 27px 1em;
+    background: #fff url(/assets/images/svg/stars-yellow.svg) no-repeat scroll center;
+    background-size: 70px 70px;
+    height: 70px;
+}
   .vezi-si {
     position: absolute;
     top: -33px;
@@ -378,8 +403,14 @@ table {
 
 	#continut h2 {
 		display: inline-block;
+    color: black;
+    font-weight: 900 !important;
 	}
-
+  @media (min-width: 1000px) {
+    #continut h2 {
+    font-size: 2em !important;
+	}
+  }
 	.attention {
 		background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60)) !important;
   background: linear-gradient(to right,#ff8a00,#da1b60) !important;
