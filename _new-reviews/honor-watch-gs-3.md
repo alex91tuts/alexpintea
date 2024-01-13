@@ -217,7 +217,9 @@ tldr:
 ---
 
 
-{% include a-rezerva-1.html %}
+{% include a-rezerva-1.html 
+link="/review/cel-mai-bun-smartwatch/"
+%}
 
 
 {% include cta-accesorii.html %}

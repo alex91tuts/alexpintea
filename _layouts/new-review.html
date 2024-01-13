@@ -21,7 +21,6 @@ post_class: post-template
 	"review": {
 		"@type": "Review",
 		"datePublished": "{{page.date}}",
-		"reviewBody": "{{ page.content | strip_html }}",
     "name": "{{ page.nume }}",
 		{% if page.rating-value %}
     "reviewRating": {
