@@ -1,5 +1,5 @@
 ---
-title: "Cel Mai Bun Smartwatch 2023 - 2024 | Ieftin | Premium | Femei"
+title: "Cel Mai Bun Smartwatch 2023 - 2024 | Top Recomandari"
 image_path: top-smartwatch/cel-mai-bun-smartwatch.webp
 meta_image: assets/images/reviews/top-smartwatch/cel-mai-bun-smartwatch.webp
 imagineProdus: ""

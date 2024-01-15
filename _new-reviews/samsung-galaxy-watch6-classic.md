@@ -271,7 +271,7 @@ tldr:
 <hr>
 
 ### Păreri pozitive 
-<div class<div class="pareri-poz" markdown="1">
+<div class="pareri-poz" markdown="1">
 
 **Design:** Designul clasic și finisajele de înaltă calitate sunt foarte apreciate de utilizatori. Eleganța smartwatch-ului îl face potrivit pentru o varietate de ocazii, de la activități sportive la întâlniri formale.
 
