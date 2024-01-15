@@ -235,7 +235,7 @@ De ce este interesant acest subiect? Simplu, Apple Watch SE 2 nu este doar un ce
 
 Este un produs care ridică standardul în domeniu, prin performanțele sale remarcabile și designul elegant.
 
-De la primul model de Apple Watch lansat în 2015, domeniul a progresat într-un ritm rapid, cu îmbunătățiri semnificative în materie de performanță, funcționalități și design.
+De la primul **[model de Apple Watch](/review/cel-mai-bun-smartwatch-apple/)** lansat în 2015, domeniul a progresat într-un ritm rapid, cu îmbunătățiri semnificative în materie de performanță, funcționalități și design.
 
 Apple Watch SE 2 este o dovadă clară a acestui progres, oferind o experiență de utilizare care depășește așteptările.
 

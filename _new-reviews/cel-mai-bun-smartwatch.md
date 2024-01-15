@@ -20,6 +20,7 @@ subcat: "TOP"
 subcat1: ""
 scoreb: "no"
 type: "lista"
+description: "Descoperă cele mai bune smartwatch-uri din 2024, perfecte pentru stilul tău de viață activ și conectat. Cu tehnologie avansată și design elegant, aceste ceasuri inteligente..."
 concurenti1:
   - "/review/honor-watch-gs-3/"
 concurenti2:

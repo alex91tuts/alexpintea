@@ -258,7 +258,7 @@ link="/review/cel-mai-bun-smartwatch/"
 ---
 ## Introducere
 
-<span class="drop-caps">L</span>ansat în toamna anului trecut, **Apple Watch Series 9** nu a fost doar o altă adăugire la colecția de ceasuri inteligente a Apple, ci a marcat un pas înainte în evoluția acestei linii de produse. 
+<span class="drop-caps">L</span>ansat în toamna anului trecut, **Apple Watch Series 9** nu a fost doar o altă adăugire la colecția de ceasuri inteligente a Apple, ci a marcat un pas înainte în evoluția acestei linii de produse, fiind probabil unul dintre **[cele mai bune smartwatch-uri de la Apple](/review/cel-mai-bun-smartwatch-apple/)**. 
 
 Cu un design modern, specificații tehnice îmbunătățite și o serie de caracteristici noi, ceasul promite să aducă experiența utilizatorilor la un nivel superior.
 

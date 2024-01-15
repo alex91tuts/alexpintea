@@ -1748,7 +1748,7 @@
       "date"     : "2023-10-19 00:00:00 +0300",
       "image"     : "/assets/images/reviews/top-smartwatch/cel-mai-bun-smartwatch.webp",
 			"author"    : "Alex P.",
-	    "description"     : "",
+	    "description"     : "Descoperă cele mai bune smartwatch-uri din 2024, perfecte pentru stilul tău de viață activ și conectat. Cu tehnologie avansată și design elegant, aceste ceasuri inteligente...",
       "score"     : "",
 			"cat"    : "SMARTWATCH",
       "subcat" : "TOP",
@@ -2596,6 +2596,165 @@
 			"cat"    : "SMARTWATCH",
       "subcat" : "HUAWEI",
       "subcat1"     : "HARMONYOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple Watch Series 6 Aluminum: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, ECG, Oxigenare",
+      "url"      : "/review/apple-watch-series-6-aluminum/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rec7iUkI4KhTVqW66/mobile-transparent-apple-watch-series-6-aluminum-rec7iUkI4KhTVqW66.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Apple Watch Series 6 Aluminum excellează în performanță, oferind funcții avansate de sănătate și un design atrăgător.",
+      "score"     : "8.3",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Apple Watch Series 7 Aluminum: Pareri si Specificatii",
+      "category" : "REVIEW",
+      "tags"     : "Ecran, Fitness, Notificări",
+      "url"      : "/review/apple-watch-series-7-aluminum/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/rec0vkmMF4HZZ8mOG/mobile-transparent-apple-watch-series-7-aluminum-rec0vkmMF4HZZ8mOG.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Apple Watch Series 7 Aluminum impresionează cu performanța sa de top, ecranul mai mare și funcțiile avansate de sănătate.",
+      "score"     : "8.7",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "APPLE",
+      "subcat1"     : "WATCHOS"
+    } ,
+  
+    {
+      "title"    : "Cel Mai Bun Apple Watch - 2024 | Top Smartwatch Apple",
+      "category" : "REVIEW",
+      "tags"     : "smartwatch, apple, top",
+      "url"      : "/review/cel-mai-bun-smartwatch-apple/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/top-smartwatch/cel-mai-bun-apple-watch.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Care este cel mai bun Apple Watch? Dacă ai un iPhone, probabil una dintre cele mai bune idei de alegere a unui smartwatch se învârte tot în jurul modelelor disponibile la Apple.",
+      "score"     : "",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "TOP",
+      "subcat1"     : "APPLE"
+    } ,
+  
+    {
+      "title"    : "Recenzie Huawei Watch Buds: Pareri și Specificații Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Portabilitate, Inovatie, Multifunctional",
+      "url"      : "/review/huawei-watch-buds/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recyKcdfVI3rVn4HJ/mobile-transparent-huawei-watch-buds-recyKcdfVI3rVn4HJ.webp",
+      
+			"author"    : "Marius R.",
+	    "description"     : "Huawei Watch Buds surprinde cu inovațiile sale în design și funcționalitate, oferind o experiență de utilizare unică și versatilă.",
+      "score"     : "8.0",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "HUAWEI",
+      "subcat1"     : "OPERATING-SYSTEM"
+    } ,
+  
+    {
+      "title"    : "Huawei Watch GT 3 SE Recenzie: Pareri și Specificații Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Autonomie",
+      "url"      : "/review/huawei-watch-gt-3-se/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recMf1IqGgcJvm1eK/mobile-transparent-huawei-watch-gt-3-se-recMf1IqGgcJvm1eK.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Huawei Watch GT 3 SE: smartwatch accesibil, cu performanțe bune și un design atrăgător, ideal pentru monitorizarea activităților zilnice.",
+      "score"     : "7.4",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "HUAWEI",
+      "subcat1"     : "HARMONYOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Huawei Watch GT 4: Pareri și Specificații Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Autonomie",
+      "url"      : "/review/huawei-watch-gt-4/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/reclmpgXQiyl94Erg/mobile-transparent-huawei-watch-gt-4-reclmpgXQiyl94Erg.webp",
+      
+			"author"    : "Alex P.",
+	    "description"     : "Huawei Watch GT 4 combină performanță avansată, ecran de înaltă calitate și design elegant, oferind o experiență completă de smartwatch.",
+      "score"     : "8.3",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "HUAWEI",
+      "subcat1"     : "HUAWEI-LITEOS"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy A52s 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "5G, AMOLED, QUAD-CAMERA",
+      "url"      : "/review/samsung-galaxy-a52s-5g/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recMJ30vLSQArpF9X/mobile-transparent-samsung-galaxy-a52s-5g-recMJ30vLSQArpF9X.webp",
+      
+			"author"    : "Razvan N.",
+	    "description"     : "Descoperă Samsung Galaxy A52s 5G: performanță solidă, ecran vibrant, raport preț-calitate excelent.",
+      "score"     : "7.9",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy Watch 5 Recenzie: Pareri și Specificații Detaliate",
+      "category" : "REVIEW",
+      "tags"     : "Monitorizare-Sănătate, Rezistent-la-Apă, GPS",
+      "url"      : "/review/samsung-galaxy-watch-5/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recesMxuatDwsaskZ/mobile-transparent-samsung-galaxy-watch-5-recesMxuatDwsaskZ.webp",
+      
+			"author"    : "Andrei I.",
+	    "description"     : "Samsung Galaxy Watch 5 - un smartwatch modern cu funcții avansate de sănătate, design elegant și performanță de încredere.",
+      "score"     : "8.4",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "WEAR OS"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy Watch 6 Classic: Specificatii, Pareri si Recenzie",
+      "category" : "REVIEW",
+      "tags"     : "Fitness, Notificări, Ecran-Tactil",
+      "url"      : "/review/samsung-galaxy-watch6-classic/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recxKtIQW5s9HwpZO/mobile-transparent-samsung-galaxy-watch6-classic-recxKtIQW5s9HwpZO.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Samsung Galaxy Watch 6 Classic combină tehnologia avansată cu un design elegant, oferind o experiență premium pentru utilizatori.",
+      "score"     : "8.2",
+			"cat"    : "SMARTWATCH",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "TIZEN"
+    } ,
+  
+    {
+      "title"    : "Recenzie Samsung Galaxy Z Fold3 5G: Specificatii si Pareri",
+      "category" : "REVIEW",
+      "tags"     : "pliabil, 5G, stylus",
+      "url"      : "/review/samsung-galaxy-z-fold3-5g/",
+      "date"     : "2024-01-15 00:00:00 +0200",
+      "image"     : "/assets/images/reviews/recNPFBF01rgFXDPI/mobile-transparent-samsung-galaxy-z-fold3-5g-recNPFBF01rgFXDPI.webp",
+      
+			"author"    : "Andreea A.",
+	    "description"     : "Descoperă Samsung Galaxy Z Fold3 5G: inovație și stil într-un smartphone pliabil premium.",
+      "score"     : "8.2",
+			"cat"    : "SMARTPHONES",
+      "subcat" : "SAMSUNG",
+      "subcat1"     : "ANDROID"
     } 
   
 ]
