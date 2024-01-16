@@ -187,6 +187,11 @@ Un aspect important al display-ului este capacitatea sa de adaptare la diferitel
 
 Nu în ultimul rând, ecranul Galaxy Watch 6 este protejat de un sticlă durabilă și rezistentă la zgârieturi. Astfel, chiar dacă ceasul tău este supus la uzură zilnică, ecranul va rămâne la fel de impecabil ca în prima zi.
 
+{% include a-rezerva-1.html 
+link="/review/cel-mai-bun-smartwatch-samsung/"
+%}
+
+
 În concluzie, Samsung a pus un accent deosebit pe calitatea display-ului în Galaxy Watch 6, asigurându-se că utilizatorii vor beneficia de o experiență vizuală superioară indiferent de situație. Fie că e vorba de calitatea imaginii, adaptabilitatea la lumina ambiantă sau durabilitatea ecranului, Galaxy Watch 6 setează noi standarde în lumea smartwatch-urilor.
 
 ---

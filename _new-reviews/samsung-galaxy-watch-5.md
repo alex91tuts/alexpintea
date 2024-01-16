@@ -269,7 +269,9 @@ tldr:
 ---
 
 
-{% include a-rezerva-1.html %}
+{% include a-rezerva-1.html 
+link="/review/cel-mai-bun-smartwatch-samsung/"
+%}
 
 
 {% include cta-accesorii.html %}

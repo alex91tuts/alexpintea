@@ -139,6 +139,10 @@ Ecranul este fără îndoială una dintre cele mai importante caracteristici ale
 
 Inima acestui ceas inteligent este procesorul Exynos W920. Acesta este un chipset special dezvoltat pentru dispozitivele wearables, oferind o combinație optimă de performanță și eficiență energetică. Utilizatorii vor beneficia de o navigare rapidă și fără întreruperi, indiferent de complexitatea sarcinilor executate.
 
+{% include a-rezerva-1.html 
+link="/review/cel-mai-bun-smartwatch-samsung/"
+%}
+
 ### Memorie RAM și capacitate de stocare
 
 În ceea ce privește capacitatea de procesare, Galaxy Watch 5 Pro este echipat cu 1,5 GB RAM, asigurând o funcționare fluidă a sistemului și aplicațiilor. Mai mult, ceasul dispune de o memorie internă de 16 GB, suficientă pentru stocarea aplicațiilor preferate, a playlisturilor muzicale sau a rutelor de alergare.

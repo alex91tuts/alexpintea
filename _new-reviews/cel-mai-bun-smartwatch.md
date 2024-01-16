@@ -41,6 +41,10 @@ concurenti:
 
 În era digitală actuală, tehnologia s-a transformat într-o extensie naturală a vieții noastre, facilitând navigarea prin complexitățile cotidiene. Smartwatch-urile, fără îndoială, reprezintă una dintre cele mai inovatoare și fascinante manifestări ale acestei evoluții.
 
+{% include a-rezerva-1.html 
+link="/review/cel-mai-bun-smartwatch-samsung/"
+%}
+
 ### Ce face un smartwatch bun?
 
 Selectarea unui smartwatch nu este o sarcină simplă, având în vedere varietatea modelor de pe piață. Însă, pentru a distinge un smartwatch de calitate, este esențial să evaluăm anumite criterii. 
@@ -198,7 +202,9 @@ Premiul pentru **cel mai bun smartwatch premium 2023-2024** a fost decernat de [
   {% endfor %}
 {% endfor %}
 
-{% include a-rezerva-1.html %}
+{% include a-rezerva-1.html 
+link="/review/cel-mai-bun-smartwatch-apple/"
+%}
 
 ---
 ## Cel mai bun smartwatch în general 2023 - 2024
