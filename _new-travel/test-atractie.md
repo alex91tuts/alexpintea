@@ -36,7 +36,21 @@ imagini:
  - belem/4.webp
 
 ---
-
+<script>
+// Define the string to append
+var appendString = "#gsc.tab=1&gsc.q=gallery%20steel%20figures&gsc.sort=&gsc.page=1";
+// Function to append the string to the current URL
+function appendToUrl() {
+    // Get the current URL
+    var currentUrl = window.location.href;
+    // Append the string
+    var newUrl = currentUrl + appendString;
+    // Update the URL in the browser (without reloading the page)
+    window.history.pushState({path: newUrl}, '', newUrl);
+}
+// Call the function to append the string to the URL
+appendToUrl();
+</script>
 
 
 <div class=row>
@@ -77,6 +91,8 @@ Piața Orașului Vechi este, fără îndoială, un loc unde trecutul se întâln
   .gsc-imageResult .gs-imageResult-popup {  }
   .gs-image .gs-image-scalable { }
   .gs-imagePreviewArea { background: white; height: 560px; }
+  .gsc-above-wrapper-area {display: none;}
+  .gsc-positioningWrapper {display: none;}
   .gs-image-popup-box { opacity: 0;}
   .gs-selectedImageResult {height: 750px;}
   .gs-previewSnippet {
