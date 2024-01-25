@@ -1,3 +1,5 @@
+{% assign orasid = site.new-travel | where: "cat", "oras" | where: "id-oras", "222" | first %}
+
 <div class="zboruri">
   
     <script>
@@ -10,7 +12,7 @@
                 setTimeout(function() {
                     // Create the script tag dynamically
                     var script = document.createElement('script');
-                    script.src = "{{page.kiwi-results}}";
+                    script.src = "https://c111.travelpayouts.com/content?currency=ron&trs=219198&shmarker=208457.istanbul&powered_by=true&locale=ro&from_name=OTP&to_name={% if orasid %}{{ orasid.iata }}{% endif %}&show_header=false&limit=2&primary_color=00AE98&results_background_color=FFFFFF&form_background_color=FFFFFF&promo_id=4478";
                     script.charset = "utf-8";
                     script.async = true;
                     // Append the script tag to the desired div
@@ -36,3 +38,4 @@
   }
 }
 </style>
+

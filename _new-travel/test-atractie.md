@@ -1,14 +1,14 @@
 ---
-layout: travel-attraction
-title: "Test pe atractie noua - Turnul Belem | Lisabona | Portugalia"
+layout: "travel-attraction"
+title: "Catedrala St. Vitus: O atrctie de neratat"
 descriere: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝  
 description: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝ 
 meta_image: assets/images/travel/bucuresti/main.webp 
 image: /assets/images/travel/belem/main.webp
 author: "Fabrica de amintiri"
 author-link: "fabrica-de-amintiri"
-tara: PORTUGALIA
-oras: LISABONA
+tara: "REPUBLICA CEHA"
+oras: "PRAGA"
 lang: ro_RO
 keyword: turnul belem
 date: 15.12.2023
@@ -22,7 +22,9 @@ adresa: III. Nadvori 48/2 Prague Castle, Prague 119 01 Czech Republic
 latitudine: 50.117847
 longitudine: 14.405875
 subtip: "Poduri"
-kiwi-results: "https://c111.travelpayouts.com/content?currency=ron&trs=219198&shmarker=208457.istanbul&powered_by=true&locale=ro&from_name=OTP&to_name=SAW&show_header=false&limit=2&primary_color=00AE98&results_background_color=FFFFFF&form_background_color=FFFFFF&promo_id=4478"
+anchor-count: 0
+id-oras: 222
+cat: atractie
 
 imagini:
  - belem/1.webp
@@ -36,23 +38,28 @@ imagini:
 ---
 
 
-{% include atractie-top-menu.html %}
 
 <div class=row>
 
 {% include contacte-atractie.html %}
 
 <div class="intro-text col-lg-8" markdown="1">
-  
-<span class="drop-caps">G</span>rădina Zoologică din Praga, un sanctuar al biodiversității și o punte între natură și iubitorii faunei sălbatice, își întâmpină vizitatorii cu o diversitate impresionantă de specii, găzduind atât animale exotice, cât și specii native. Încă de la fondarea sa în anul 1931, acest loc feeric a avut misiunea de a educa publicul, de a proteja specii amenințate și de a oferi cercetătorilor un teren fertil pentru studii comportamentale și de conservare.
 
-Situată în inima pitorească a capitalei cehe, Grădina Zoologică din Praga se întinde pe mai mult de 58 de hectare de teren variat, pe care vizitatorii le pot explora pentru a descoperi beatitudinea și complexitatea vieții sălbatice. O fiecare vizită se transformă într-o aventură educativă, ce permite descoperirea unor habitate fascinante și interacțiunea cu o multitudine de specii, de la cei mai mici locuitori ai insectariului până la maiestuoșii locatari ai pavilionului elefanților.
+{% include a-anchor-backlink.html %}
 
-Atracția dispune de numeroase exponate și zone tematice, meticulos concepute pentru a imita cât mai fidel medii naturale ale animalelor. Astfel, printr-o călătorie de-a lungul cărărilor sale, vizitatorii ajung să exploreze savane africane, jungle luxuriante, și chiar ecosisteme subacvatice, având posibilitatea de a observa animalele într-un cadru care onorează și respectă nevoile lor naturale.
+<span class="drop-caps">P</span>iața Orașului Vechi, cunoscută în cehă ca Staroměstské náměstí, este inima istorică a Pragăi, un loc încărcat de istorie și frumusețe arhitecturală, care atrage anual milioane de turiști din întreaga lume. Situată în centrul cartierului Orașul Vechi, piața este înconjurată de clădiri impunătoare și monumente de o valoare inestimabilă, fiind un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori.
 
-Mai mult decât un loc de recreere, Grădina Zoologică din Praga este un centru de cercetare și conservare de vârf, participând la programe internaționale de reproducere și reintroducere a animalelor în sălbăticie, fiind un veritabil catalizator pentru eforturile de păstrare a biodiversității mondiale.
+Unul dintre cele mai emblematice edificii ale pieței este Primăria Orașului Vechi, cu faimosul său ceas astronomic, Orloj. Ceasul, care datează din 1410, este unul dintre cele mai vechi și mai sofisticate ceasuri astronomice din lume, atrăgând zilnic mulțimi de oameni care așteaptă să vadă procesiunea apostolilor la fiecare oră fixă.
 
-Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat sanctuar al educației și conservării, vizita la Grădina Zoologică din Praga se transformă inevitabil într-o lecție de viață despre importanța respectului și protecției tuturor formelor de viață cu care împărțim această planetă. Fiecare pas prin acest loc magic este o ocazie unică de a înțelege mai bine rolul crucial pe care fiecare specie îl joacă în mozaicul complex al ecosistemelor Terrei.
+În apropiere, Biserica Sfântul Nicolae din Orașul Vechi, cu cupola sa impunătoare și interiorul baroc, oferă vizitatorilor o priveliște de neuitat. De asemenea, Biserica Týn, cu turnurile sale gotice care se înalță deasupra acoperișurilor, este un alt punct de reper al pieței, fiind adesea comparată cu o scenă dintr-un basm.
+
+Piața Orașului Vechi a fost martora multor evenimente istorice importante, inclusiv execuții publice și proteste politice. În centrul pieței se află monumentul reformatorului religios Jan Hus, care comemorează eforturile sale de reformă și moartea sa pe rug în 1415.
+
+Pe lângă bogăția arhitecturală și istorică, piața este un centru vibrant al vieții urbane, cu numeroase cafenele, restaurante și magazine de suveniruri. În timpul sărbătorilor de iarnă, piața se transformă într-un târg de Crăciun pitoresc, unde vizitatorii pot savura vin fiert și pot cumpăra decorațiuni tradiționale.
+
+Pentru cei interesați de istoria evreiască a Pragăi, Cartierul Evreiesc, Josefov, este la doar câțiva pași de piață. Aici se pot vizita sinagogi vechi și cimitirul evreiesc, care este unul dintre cele mai vechi din Europa.
+
+Piața Orașului Vechi este, fără îndoială, un loc unde trecutul se întâlnește cu prezentul, oferind o fereastră spre istoria bogată și diversă a Pragăi. Fie că este zi sau noapte, piața este animată și plină de energie, fiind un punct de plecare ideal pentru oricine dorește să exploreze frumusețile capitalei cehe.
 
 </div>
 
@@ -63,8 +70,23 @@ Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat
 
 <hr class="hr-s1">
 
-{% include galerie-travel.html %}
+<script async src="https://cse.google.com/cse.js?cx=006196097068308232447:tfmo-0-ya0y">
+</script>
+<div class="gcse-searchresults-only"></div>
+<style>
+  .gsc-imageResult .gs-imageResult-popup {  }
+  .gs-image .gs-image-scalable { }
+  .gs-imagePreviewArea { background: white; height: 560px; }
+  .gs-image-popup-box { opacity: 0;}
+  .gs-selectedImageResult {height: 750px;}
+  .gs-previewSnippet {
+    margin: 30px;
+    position: absolute;
+    display: none;
+}
+</style>
 
+{% include galerie-travel.html %}
 
 <div class="row jt">
 <div class="col-lg-8 col-12 no-list" markdown="1">
@@ -95,34 +117,8 @@ Programul Grădinii Zoologice din Praga variază în funcție de sezon, deschiz�
 
 Cel mai bun moment pentru a vizita Grădina Zoologică din Praga este **primăvara** (aprilie - iunie) sau **toamna** (septembrie - octombrie), când temperaturile sunt moderate și animalele sunt de obicei mai active. Vara, în **iulie** și **august**, poate fi foarte aglomerat și cald. De asemenea, o vizită în afara sezonului de vârf poate însemna și mai puține mulțimi. Verifică întotdeauna orarul actualizat înainte de vizită, deoarece acesta poate varia în funcție de anotimp.
 
-</div>
 
-  <div class="col-lg-4 col-12 review-side">
-  <span class="title-section-sidebar">RECENT</span>
-	<hr>
-	{% assign travels = site.travel | sort: 'date' | reverse %}
-	{% for travel in travels limit:8 %}
-		<a href="{{ travel.url }}">
-		<div class="small-post">
-	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
-		{{ travel.title }}
-		</div>
-		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
-		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
-		<hr style="border: 0; margin: 0;">
-		</a>
-	{% endfor %}
-	</div>
-  
-  
-</div>
-
-<hr class="hr-s1">
-
-<div class="row" id="detalii">
-<div class="col-12 col-lg-7" markdown="1">
-
-## Atracții de neratat
+## Ce sa vizitezi?
 
 Există câteva puncte culminante pe care nu ar trebui să le ratezi la Grădina Zoologică din Praga:
 
@@ -149,16 +145,35 @@ Taxa de intrare la Grădina Zoologică din Praga este aproximativ 62 RON pentru 
 
 <span class='warning'>Aceste prețuri sunt aproximative și este recomandat să consultați **[site-ul oficial]({{page.website}})** pentru cele mai actualizate informații și pentru a descoperi eventualele reduceri sau bilete speciale.</span>
 
-</div>
-
-{% include map.html %}
 
 </div>
+
+  <div class="col-lg-4 col-12 review-side">
+  <span class="title-section-sidebar">RECENT</span>
+	<hr>
+	{% assign travels = site.travel | sort: 'date' | reverse %}
+	{% for travel in travels limit:8 %}
+		<a href="{{ travel.url }}">
+		<div class="small-post">
+	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
+		{{ travel.title }}
+		</div>
+		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
+		<hr style="border: 0; margin: 0;">
+		</a>
+	{% endfor %}
+	</div>
+
+
+</div>
+
 
 <hr class="hr-s1">
 
 <div class=row>
 <div class="faq col-lg-6 col-12" markdown="1">
+
 ## FAQ despre Grădina Zoologică din Praga
 
 ### Care este programul Grădinii Zoologice din Praga?
@@ -193,7 +208,7 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 <hr class="hr-s1">
 
-## Experimenteaza {{page.atractie}} la maxim
+## Activități la {{page.atractie}}
 
 <script defer async src="https://c108.travelpayouts.com/content?trs=219198&shmarker=208457&place={{page.atractieEn | replace: " ", "%20"}}&items=3&locale=en-US&powered_by=true&promo_id=4039" charset="utf-8"></script>
 
@@ -226,7 +241,6 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 </div>
 
-
   <div class="col-lg-4 col-12 review-side">
   <span class="title-section-sidebar">RECENT</span>
 	<hr>
@@ -244,56 +258,6 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 	{% endfor %}
 	</div>
 
-
-</div>
-
-<hr class="hr-s1">
-
-## Vezi ce spun călătorii
-
-<div class="row">
-  
-<div class="col-lg-4 col-12">
-<div class="recenzie-calator">
-<span>O locație superba</span>
-<p>Am vizitat podul charles in luna decembrie. Seara, putin frig dar s-a meritat din plin. Podul era aporape gol si iluminat. Superb.jHgxshjdhs fsdjkfhsd  lkds csdklc sd lksdf skdj sdisdifsdhsdkc di cbvjksdch sdcsdc sdjkcb kjsd bcksdhc sdcsdc vsdhbcscb sjdgvsdkjcv kscbkajs bsdkjh sadvc </p>
-</div>
-</div>
-
-<div class="col-lg-4 col-12">
-<div class="recenzie-calator">
-<span>O locație superba</span>
-<p>Am vizitat podul charles in luna decembrie. Seara, putin frig dar s-a meritat din plin. Podul era aporape gol si iluminat. Superb.</p>
-</div>
-</div>
-
-<div class="col-lg-4 col-12">
-<div class="recenzie-calator">
-<span>O locație superba</span>
-<p>Am vizitat podul charles in luna decembrie. Seara, putin frig dar s-a meritat din plin. Podul era aporape gol si iluminat. Superb.</p>
-</div>
-</div>
-
-<div class="col-lg-4 col-12">
-<div class="recenzie-calator">
-<span>O locație superba</span>
-<p>Am vizitat podul charles in luna decembrie. Seara, putin frig dar s-a meritat din plin. Podul era aporape gol si iluminat. Superb.</p>
-</div>
-</div>
-
-<div class="col-lg-4 col-12">
-<div class="recenzie-calator">
-<span>O locație superba</span>
-<p>Am vizitat podul charles in luna decembrie. Seara, putin frig dar s-a meritat din plin. Podul era aporape gol si iluminat. Superb.</p>
-</div>
-</div>
-
-<div class="col-lg-4 col-12">
-<div class="recenzie-calator">
-<span>O locație superba</span>
-<p>Am vizitat podul charles in luna decembrie. Seara, putin frig dar s-a meritat din plin. Podul era aporape gol si iluminat. Superb.</p>
-</div>
-</div>
 
 </div>
 

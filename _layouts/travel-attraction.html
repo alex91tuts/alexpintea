@@ -68,11 +68,13 @@ post_class: post-template
           <hr>
 				 <h1 class="banner-title">{{ page.title }}</h1>
           <hr>
+            <!-- review meta
 						<div class="review-meta">
 							<span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon">{%if page.author-link %}<a href="{{ site.url }}/autor/{{ page.author-link }}/"><span itemprop="author">{{ page.author }}</span></a>{% else %}<span itemprop="author">{{ page.author }}</span>{% endif %}</span> | 
 							<span><img fetchpriority="high" src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> {% include reading-time.html %} </span> | 
 							<span><img fetchpriority="high" src="/assets/images/svg/calendar.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
 						</div>
+             -->
 				</div>
     </div>
 </div>
@@ -98,19 +100,110 @@ post_class: post-template
  </div>
 <div id="bottom" class="col-12 order-last">
 </div>
-		{% include sidebar-loop-travel.html %}
 </div>
 		<!-- End Post -->
 	
 </div>
 <style>
   
-.harta {
-  height: fit-content;
-  position: sticky;
-  top: 15px;
-}
+  @media only screen and (min-width: 1000px)  {
+    .faq {
+      height: fit-content;
+      position: sticky;
+      top: 15px;
+    }
 
+  }
+
+ .vezi-si {
+    position: absolute;
+    top: -33px;
+    left: 0;
+    background: white;
+    border-radius: 3px;
+    padding: 0px 6px;
+    box-shadow: 0 -3px 14px -6px gray;
+    font-weight: bold;
+  }
+  .image-cust img {
+    border-radius: 3px;
+  }
+  .categ-cust {
+    border: solid 1px lightgray;
+    border-radius: 3px;
+    padding: 0px 11px;
+    background: gray;
+    color: white;
+    font-weight: 700;
+    right: 15px;
+  }
+  .text-cust {
+    line-height: 1.4;
+  }
+  .link-cust {
+    font-weight: 900;
+    font-size: 22px;
+  
+  }
+  .span-cust {
+    font-weight: 700;
+    font-size: 12px;
+  }
+  .link-to {
+    border: solid 1px #ececec;
+    padding: 8px;
+    margin-top: 55px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 14px -7px #0000009c;
+    position: relative;
+  }
+  .container-imaglink {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    border-radius: 3px;
+  }  
+  
+.small-post {
+    overflow: hidden;
+    font-size: 13px;
+    margin-bottom: 15px;
+    max-height: 45px;
+    height: 45px;
+    font-weight: 500;
+    font-style: italic;
+    color: black;
+}
+	.small-post-image {
+		max-width: 25%;
+    border-radius: 4px;
+    float: left;
+    margin-right: 10px;
+	}
+	.small-post-meta {
+		position: relative;
+    top: -19px;
+    font-size: 11px;
+    font-style: italic;
+    color: black;
+		margin-right: 4px;
+	}
+	.line-sub {
+		margin-top: -17px;
+    margin-bottom: 17px;
+	}
+	.line-sub-cat {
+		margin-bottom: 15px;
+    margin-top: 0px;
+	}
+	.title-section-sidebar {
+		font-weight: 900;
+		display: inline;
+    border-bottom: solid black;
+    padding-bottom: 11px;
+	}
+	
 .faq h3 {
   cursor: pointer;
   padding-right: 25px !important;
@@ -125,12 +218,6 @@ post_class: post-template
   position: relative;
 }
 
-.faq {
-  height: fit-content;
-  position: sticky;
-  top: 10px;
-} 
-  
 .faq h3::after {
   content: url(/assets/images/svg/plus.svg) !important;
   position: absolute!important;
