@@ -36,21 +36,7 @@ imagini:
  - belem/4.webp
 
 ---
-<script>
-// Define the string to append
-var appendString = "#gsc.tab=1&gsc.q=gallery%20steel%20figures&gsc.sort=&gsc.page=1";
-// Function to append the string to the current URL
-function appendToUrl() {
-    // Get the current URL
-    var currentUrl = window.location.href;
-    // Append the string
-    var newUrl = currentUrl + appendString;
-    // Update the URL in the browser (without reloading the page)
-    window.history.pushState({path: newUrl}, '', newUrl);
-}
-// Call the function to append the string to the URL
-appendToUrl();
-</script>
+
 
 
 <div class=row>
@@ -84,25 +70,8 @@ Piața Orașului Vechi este, fără îndoială, un loc unde trecutul se întâln
 
 <hr class="hr-s1">
 
-<script async src="https://cse.google.com/cse.js?cx=006196097068308232447:tfmo-0-ya0y">
-</script>
-<div class="gcse-searchresults-only"></div>
-<style>
-  .gsc-imageResult .gs-imageResult-popup {  }
-  .gs-image .gs-image-scalable { }
-  .gs-imagePreviewArea { background: white; height: 560px; }
-  .gsc-above-wrapper-area {display: none;}
-  .gsc-positioningWrapper {display: none;}
-  .gs-image-popup-box { opacity: 0;}
-  .gs-selectedImageResult {height: 750px;}
-  .gs-previewSnippet {
-    margin: 30px;
-    position: absolute;
-    display: none;
-}
-</style>
 
-{% include galerie-travel.html %}
+{% include galerie-google.html %}
 
 <div class="row jt">
 <div class="col-lg-8 col-12 no-list" markdown="1">

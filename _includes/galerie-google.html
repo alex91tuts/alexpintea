@@ -1,0 +1,82 @@
+<div class="photo-gal-container">
+<h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
+<div class="button-container">
+<button id="opengal">VEZI POZE</button>
+</div>
+<img src="/assets/images/photo-gallery.webp">
+</div>
+
+<style>
+  .photo-gal-container {
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .button-container {
+    width: 100%;
+  }
+  .button-container button {
+    width: 13rem;
+    height: 4rem;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 0 19px -8px #737070;
+    margin-bottom: 20px;
+    background: #008071;
+    font-weight: 900;
+    color: white;
+    font-size: large;
+  }
+  .gsc-results-wrapper-visible {
+    
+  }
+  .gsc-above-wrapper-area {display: none;}
+  .gsc-positioningWrapper {display: none;}
+  .gs-image-popup-box { opacity: 0;}
+  .gs-previewSnippet {
+    margin: 30px;
+    position: absolute;
+    display: none;
+  }
+        .gsc-results-wrapper-overlay {  
+          left: auto;
+          height: 90%;
+          width: 60%;
+        }
+        .gs-mobilePreview {
+          background: #ffffff;
+        }
+        .gs-closeButton {
+          fill: #1d1818;
+        }
+        .gs-previewLink {
+          pointer-events: none;
+          cursor: default;
+        }
+        .gsc-imageResult>.gsc-expansionArea {
+          column-count: 3;
+        }
+</style>
+<script async src="https://cse.google.com/cse.js?cx=006196097068308232447:tfmo-0-ya0y">
+</script>
+<div class="gcse-searchresults-only" data-mobileLayout="forced" data-imageSearchLayout="popup" data-image_size="large" data-image_type="photo" data-imageSearchResultSetSize="large" data-disableWebSearch="true"></div>
+
+<script>
+// Define the string to append
+var appendString = "#gsc.tab=1&gsc.q={{ page.atractie }}&gsc.sort=&gsc.page=1";
+// Function to append the string to the current URL
+function appendToUrl() {
+    // Get the current URL
+    var currentUrl = window.location.href;
+    // Append the string
+    var newUrl = currentUrl + appendString;
+    // Update the URL in the browser (without reloading the page)
+    window.history.pushState({path: newUrl}, '', newUrl);
+}
+// Call the function to append the string to the URL
+appendToUrl();
+</script>
+
+
+
+
+
