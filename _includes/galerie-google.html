@@ -1,7 +1,7 @@
 <div class="photo-gal-container">
 <h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
 <div class="button-container">
-<button id="opengal">VEZI POZE</button>
+<button id="opengal" data-query="{{ page.atractie }}">VEZI POZE</button>
 </div>
 <img src="/assets/images/photo-gallery.webp">
 </div>
@@ -25,9 +25,12 @@
     font-weight: 900;
     color: white;
     font-size: large;
+    cursor: pointer;
   }
   .gsc-results-wrapper-visible {
-    
+  }
+  .gsc-modal-background-image-visible {
+   
   }
   .gsc-above-wrapper-area {display: none;}
   .gsc-positioningWrapper {display: none;}
@@ -37,44 +40,90 @@
     position: absolute;
     display: none;
   }
-        .gsc-results-wrapper-overlay {  
-          left: auto;
-          height: 90%;
-          width: 60%;
-        }
-        .gs-mobilePreview {
-          background: #ffffff;
-        }
-        .gs-closeButton {
-          fill: #1d1818;
-        }
-        .gs-previewLink {
-          pointer-events: none;
-          cursor: default;
-        }
-        .gsc-imageResult>.gsc-expansionArea {
-          column-count: 3;
-        }
+        
+  .gs-mobilePreview {
+    background: #ffffff;
+  }
+  .gs-closeButton {
+    fill: #1d1818;
+  }
+  .gs-previewLink {
+    pointer-events: none;
+    cursor: default;
+  }
+  .gsc-results-wrapper-overlay { 
+    border-radius: 10px;
+    box-shadow: 0 0 38px -16px #00000069;
+  }
+  @media only screen and (min-width: 1000px) {
+    .gsc-results-wrapper-overlay {  
+      left: 0;
+      height: 100%;
+      width: 100%;
+      top: 0;
+      }
+    .gsc-imageResult>.gsc-expansionArea {
+      column-count: 3;
+    }
+    .gsc-wrapper {
+    width: 50%;
+    margin: auto;
+    }
+}
 </style>
 <script async src="https://cse.google.com/cse.js?cx=006196097068308232447:tfmo-0-ya0y">
 </script>
-<div class="gcse-searchresults-only" data-mobileLayout="forced" data-imageSearchLayout="popup" data-image_size="large" data-image_type="photo" data-imageSearchResultSetSize="large" data-disableWebSearch="true"></div>
+
+<div id="searchbox" class="gcse-searchresults-only" style="display:none;"
+     data-mobileLayout="forced"
+     data-imageSearchLayout="popup"
+     data-image_size="large"
+     data-image_type="photo"
+     data-imageSearchResultSetSize="large"
+     data-disableWebSearch="true"></div>
+
+
 
 <script>
-// Define the string to append
-var appendString = "#gsc.tab=1&gsc.q={{ page.atractie }}&gsc.sort=&gsc.page=1";
-// Function to append the string to the current URL
-function appendToUrl() {
-    // Get the current URL
-    var currentUrl = window.location.href;
-    // Append the string
-    var newUrl = currentUrl + appendString;
-    // Update the URL in the browser (without reloading the page)
-    window.history.pushState({path: newUrl}, '', newUrl);
-}
-// Call the function to append the string to the URL
-appendToUrl();
+  // Function to update URL with search query from button's data attribute
+  function updateURLWithQuery(button) {
+    var query = button.getAttribute('data-query');
+    window.location.hash = "gsc.tab=0&gsc.q=" + encodeURIComponent(query) + "&gsc.sort=&gsc.page=1";
+  }
+
+  // Event listener for button click
+  document.getElementById('opengal').addEventListener('click', function() {
+    // Update URL with query
+    updateURLWithQuery(this);
+
+    // Check if CSE instance already exists
+    if (document.getElementById('___gcse_0')) {
+      // CSE already exists, so just update the query
+      var element = google.search.cse.element.getElement('___gcse_0');
+      if (element) {
+        element.execute(this.getAttribute('data-query'));
+      }
+    } else {
+      // Initialize CSE
+      window.__gcse = {
+        parsetags: 'explicit', // Prevent automatic rendering
+        initializationCallback: function() {
+          google.search.cse.element.render({
+            div: "___gcse",
+            tag: 'searchresults-only', // Render only search results
+            attributes: {
+              queryParameterName: 'gsc.q'
+            }
+          });
+        }
+      };
+      google.search.cse.element.go();
+    }
+  });
 </script>
+
+
+
 
 
 
