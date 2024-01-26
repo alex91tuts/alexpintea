@@ -9,12 +9,13 @@ author: "Fabrica de amintiri"
 author-link: "fabrica-de-amintiri"
 tara: "REPUBLICA CEHA"
 oras: "PRAGA"
+city: "PRAGUE"
 lang: ro_RO
 keyword: turnul belem
 date: 15.12.2023
 tags: ['București', 'capitale', 'belem']
 atractie: "Catedrala St. Vitus"
-atractieEn: "St. Vitus Cathedral"
+atractieEn: "Lesser Town"
 phone: +420 603 235 606
 website: http://www.katedralasvatehovita.cz/cs
 email: redakce@katedralasvatehovita.cz
