@@ -4,7 +4,7 @@
 <button class="search-btn" data-query="{{page.atractieEn}} {{page.city}}">VEZI POZE</button>
 <!-- Add more buttons as needed -->
 </div>
-<img src="/assets/images/photo-gallery.webp">
+<img src="/assets/images/photo-gallery.webp" loading="lazy">
 </div>
 
 <style>
@@ -57,12 +57,11 @@
     box-shadow: 0 0 38px -16px #00000069;
     height: 100%;
     width: 100%;
+    top: 0;
+    left: 0;
   }
   @media only screen and (min-width: 1000px) {
-    .gsc-results-wrapper-overlay {  
-      left: 0;
-      top: 0;
-      }
+
     .gsc-imageResult>.gsc-expansionArea {
       column-count: 3;
     }
@@ -73,6 +72,15 @@
     .gs-imagePreview:not([src$=".svg"]) {
     width: auto;
     height: 90vh;
+    }
+    .gsc-results-close-btn {
+    background-image: url(/assets/images/svg/close-button.svg);
+    background-position: top;
+    height: 76px;
+    width: 71px;
+    position: fixed !important;
+    top: 20px;
+    right: 30px;
     }
 }
 </style>

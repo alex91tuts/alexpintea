@@ -38,7 +38,7 @@ imagini:
 
 ---
 
-
+{% include cta-travel-menu.html %}
 
 <div class=row>
 
@@ -132,33 +132,7 @@ Taxa de intrare la Grădina Zoologică din Praga este aproximativ 62 RON pentru 
 <span class='warning'>Aceste prețuri sunt aproximative și este recomandat să consultați **[site-ul oficial]({{page.website}})** pentru cele mai actualizate informații și pentru a descoperi eventualele reduceri sau bilete speciale.</span>
 
 
-</div>
-
-  <div class="col-lg-4 col-12 review-side">
-  <span class="title-section-sidebar">RECENT</span>
-	<hr>
-	{% assign travels = site.travel | sort: 'date' | reverse %}
-	{% for travel in travels limit:8 %}
-		<a href="{{ travel.url }}">
-		<div class="small-post">
-	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
-		{{ travel.title }}
-		</div>
-		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
-		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
-		<hr style="border: 0; margin: 0;">
-		</a>
-	{% endfor %}
-	</div>
-
-
-</div>
-
-
-<hr class="hr-s1">
-
-<div class=row>
-<div class="faq col-lg-6 col-12" markdown="1">
+<div class="faq" markdown="1">
 
 ## FAQ despre Grădina Zoologică din Praga
 
@@ -185,53 +159,13 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 </div>
 
-<div class="col-lg-6 col-12" markdown="1">
-
-## Zboruri către Praga
-{% include kiwi-results.html %}
-</div>
-</div>
-
-<hr class="hr-s1">
-
-## Activități la {{page.atractie}}
-
-<script defer async src="https://c108.travelpayouts.com/content?trs=219198&shmarker=208457&place={{page.atractieEn | replace: " ", "%20"}}&items=3&locale=en-US&powered_by=true&promo_id=4039" charset="utf-8"></script>
-
-<div class="row">
-<div class="col-lg-8 col-12" markdown="1">
-  
-## Cazare în apropiere 
-
-<script src="https://www.booking.com/affiliate/prelanding_sdk"></script>
-  
-  <div id="bookingAffiliateWidget_63ebb457-bcbb-4c5e-9ccb-d65060b0e3d5">&nbsp;</div>
-  
-  <script>
-      (function () {
-          var BookingAffiliateWidget = new Booking.AffiliateWidget({
-  "iframeSettings": {
-    "selector": "bookingAffiliateWidget_63ebb457-bcbb-4c5e-9ccb-d65060b0e3d5",
-    "responsive": true
-  },
-  "widgetSettings": {
-    "ss": "{{page.oras}}, {{page.tara}}",
-    "latitude": {{page.latitudine}},
-    "longitude": {{page.longitudine}},
-    "zoom": 11,
-    "customMarkerTitle": "{{page.atractie}}"
-  }
-});
-      })();
-  </script>
-
 </div>
 
   <div class="col-lg-4 col-12 review-side">
   <span class="title-section-sidebar">RECENT</span>
 	<hr>
 	{% assign travels = site.travel | sort: 'date' | reverse %}
-	{% for travel in travels limit:7 offset:8 %}
+	{% for travel in travels limit:8 %}
 		<a href="{{ travel.url }}">
 		<div class="small-post">
 	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
@@ -246,5 +180,6 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 
 </div>
+
 
 <hr class="hr-s1">

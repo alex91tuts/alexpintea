@@ -1,26 +1,26 @@
 <div class="zboruri">
   
-    <script>
-        // Flag to ensure the script is loaded only once
-        var scriptLoaded = false;
-        // Function to handle scroll event
-        function handleScroll() {
-            if (!scriptLoaded) {
-                scriptLoaded = true; // Set the flag to true
-                setTimeout(function() {
-                    // Create the script tag dynamically
-                    var script = document.createElement('script');
-                    script.src = "https://c111.travelpayouts.com/content?currency=ron&trs=219198&shmarker=208457.istanbul&powered_by=true&locale=ro&from_name=OTP&to_name=SAW&show_header=false&limit=2&primary_color=00AE98&results_background_color=FFFFFF&form_background_color=FFFFFF&promo_id=4478";
-                    script.charset = "utf-8";
-                    script.async = true;
-                    // Append the script tag to the desired div
-                    document.querySelector('.zboruri').appendChild(script);
-                }, 1000); // 2000 milliseconds = 2 seconds
-            }
-        }
-        // Add event listener for scroll event
-        window.addEventListener('scroll', handleScroll);
-    </script>
+<script>
+document.getElementById('uniqueButton1').addEventListener('click', loadDynamicScript);
+
+ // Flag to ensure the script is loaded only once
+var scriptLoaded = false;
+
+function loadDynamicScript() {
+    if (!scriptLoaded) {
+        scriptLoaded = true; // Set the flag to true
+        setTimeout(function() {
+            // Create the script tag dynamically
+            var script = document.createElement('script');
+            script.src = "https://c111.travelpayouts.com/content?currency=ron&trs=219198&shmarker=208457.istanbul&powered_by=true&locale=ro&from_name=OTP&to_name=SAW&show_header=false&limit=2&primary_color=00AE98&results_background_color=FFFFFF&form_background_color=FFFFFF&promo_id=4478";
+            script.charset = "utf-8";
+            script.async = true;
+            // Append the script tag to the desired div
+            document.querySelector('.zboruri').appendChild(script);
+        }, 1000); // 1000 milliseconds = 1 second
+    }
+}
+</script>
      
 </div>
 

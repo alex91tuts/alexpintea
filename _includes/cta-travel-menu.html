@@ -1,0 +1,207 @@
+<div id="header-cta" class="row cta-head">
+<div class="col-4 zbor">
+  <img class="icon-cta" src="/assets/images/svg/plane-ticket.svg">
+  <button id="uniqueButton1" class="cta-text">ZBORURI</button>
+</div>
+  
+<div class="col-4 cont-oras">
+  <span class="city-name">PRAGA</span>
+</div>
+
+<div class="col-4 cazare">
+  <img class="icon-cta" style="float: right;" src="/assets/images/svg/booking-bed.svg">
+  <button id="uniqueButton2" class="cta-text" style="float: right;">CAZARE</button>
+</div>
+</div>
+
+<!-- Unique Modal 1 -->
+<div id="uniqueModal1" class="unique-modal-style">
+  <div class="unique-modal-content">
+    <span class="unique-close" onclick="closeUniqueModal('uniqueModal1')">&times;</span>
+    {% include kiwi-results-atractie.html %}
+  </div>
+</div>
+
+<!-- Unique Modal 2 -->
+<div id="uniqueModal2" class="unique-modal-style">
+  <div class="unique-modal-content extra-cazare">
+    <span class="unique-close" onclick="closeUniqueModal('uniqueModal2')">&times;</span>
+    {% include booking-map.html %}
+  </div>
+</div>
+
+
+
+<style>
+  .cont-oras {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+  .city-name {
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+  }
+  .zbor, .cazare {
+    display: flex;
+    align-items: center;
+  }
+  .cazare {
+    flex-direction: row-reverse;
+  }
+  .cta-head {
+    width: 58%;
+    height: 55px;
+    background: #353746;
+    position: fixed;
+    top: 0;
+    left: auto;
+    z-index: 10000;
+    border-radius: 0px 0px 40px 40px;
+    box-shadow: 0 2px 15px 1px #000000a8;
+    opacity: 0; /* Initially hidden */
+    visibility: hidden; /* Initially not visible */
+    transition: visibility 0.3s, opacity 0.3s linear; /* Smooth transition for visibility and opacity */
+}
+  .icon-cta {
+    width: 60px;
+    margin-top: 10px;
+    background: #353746;
+    padding: 5px;
+    margin-bottom: 10px;
+    position: relative; 
+    top: -11px;
+  }
+  .cta-text {
+    color: white;
+    font-size: xx-large;
+    font-weight: 700;
+    margin: 20px;
+    border: 0;
+    border-radius: 35px;
+    background: #9e6a09;
+    background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    cursor: pointer;
+    padding: 10px 22px;
+    margin-top: 5px;
+    }
+.unique-modal-style {
+  display: none;
+  position: fixed;
+  z-index: 10001;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: #202124;
+  opacity: 0; /* Initially transparent */
+  transition: opacity 0.5s ease; /* Smooth transition for opacity */
+}
+  .extra-cazare {
+    padding: 20px 70px !important;
+  }
+  .unique-modal-style.show {
+    display: block;
+    opacity: 1; /* Fully visible when active */
+  }
+
+  .unique-modal-content {
+    background-color: #fefefe;
+    margin: 10px auto;
+    padding: 20px;
+    border: 1px solid #888;
+    border-radius: 10px;
+    width: 50%;
+    transition: transform 0.5s ease-out; /* Smooth transition for transform */
+    transform: translateY(-20%); /* Start slightly above */
+  }
+
+  .unique-modal-style.show .unique-modal-content {
+    transform: translateY(0); /* Move to original position when visible */
+  }
+
+  .unique-close {
+    color: #aaa;
+    float: right;
+    font-size: 37px;
+    font-weight: bold;
+    position: fixed;
+    top: 3px;
+    right: 21px;
+  }
+
+  .unique-close:hover,
+  .unique-close:focus {
+    color: black;
+    cursor: pointer;
+  }
+
+  
+  @media only screen and (max-width: 600px) {
+    .unique-modal-content { width: 98% !important; }
+      .cta-head {
+        width: 75% !important;
+        height: 35px !important;
+        left: auto !important;
+        right: 0 !important;
+      }
+      .cta-text {
+        font-size: small !important;
+        font-weight: 900 !important;
+        margin: 6px !important;
+        padding: 12px 12px !important;
+      }
+    .extra-cazare: { padding: 60px 5px !important; }
+    .city-name { display: none; }
+    .icon-cta { padding: 5px; width: 36px;}
+
+  }
+  </style>
+
+<script>
+  var lastScrollTop = 0; // Variable to keep track of the last scroll position
+
+  window.addEventListener("scroll", function() {
+    var currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+    var ctaHead = document.getElementById('header-cta');
+
+    if (currentScroll > lastScrollTop) {
+      // Scrolling Down
+      if (currentScroll > 300) {
+        ctaHead.style.opacity = '1';
+        ctaHead.style.visibility = 'visible';
+      }
+    } else {
+      // Scrolling Up
+      ctaHead.style.opacity = '0';
+      ctaHead.style.visibility = 'hidden';
+    }
+    lastScrollTop = currentScroll <= 0 ? 0 : currentScroll; // For Mobile or negative scrolling
+  }, false);
+  
+  
+// Function to open a unique modal
+function openUniqueModal(modalId) {
+  var modal = document.getElementById(modalId);
+  modal.classList.add('show');
+}
+
+// Function to close a unique modal
+function closeUniqueModal(modalId) {
+  var modal = document.getElementById(modalId);
+  modal.classList.remove('show');
+}
+
+// Event listeners for unique buttons
+document.getElementById('uniqueButton1').addEventListener('click', function() {
+  openUniqueModal('uniqueModal1');
+});
+
+document.getElementById('uniqueButton2').addEventListener('click', function() {
+  openUniqueModal('uniqueModal2');
+});
+</script>
+
