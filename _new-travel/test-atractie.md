@@ -5,8 +5,8 @@ descriere: Turnul Belem este o atracție turistică populară din Lisabona și e
 description: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝ 
 meta_image: assets/images/travel/bucuresti/main.webp 
 image: /assets/images/travel/belem/main.webp
-author: "Fabrica de amintiri"
-author-link: "fabrica-de-amintiri"
+author: "TOREDUS"
+author-link: ""
 tara: "REPUBLICA CEHA"
 oras: "PRAGA"
 city: "PRAGUE"
@@ -162,7 +162,7 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 </div>
 
   <div class="col-lg-4 col-12 review-side">
-  <span class="title-section-sidebar">RECENT</span>
+  <span class="title-section-sidebar">ALTE ATRACTII</span>
 	<hr>
 	{% assign travels = site.travel | sort: 'date' | reverse %}
 	{% for travel in travels limit:8 %}

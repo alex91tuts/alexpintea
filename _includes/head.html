@@ -9,15 +9,16 @@
 <meta name="verification" content="5ae535d3628df9e6b27034a609b30c4f" />
 {% if page.robots %}<meta name="robots" content="noindex,follow" /> {% else %} {% endif %}
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
-<meta name="seodity-site-verification" content="seodity-site-verification-7f8e7648f12a40c7a57ef014377c055b" />
+
     
 <title>{{ page.title }}</title>
+
 <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" /> 
 <meta name="description" content="{{ page.description }}"/>
 <meta property="og:type" content="{% if page.topic %}{{ page.topic}}{% else %}article{% endif %}"/>
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:image" content="{% if page.meta_image %}{{ site.url }}/{{ page.meta_image }}{% elsif page.image_path %}{{site.url}}/assets/images/{{page.image_path}}{% endif %}"/>
- 
+
 
 {% if page.layout == "travel" %}{% include criticalcss-travel.html %}
 {% elsif page.layout == "travel-attraction" %}{% include criticalcss-attraction.html %}
@@ -26,8 +27,10 @@
 {% elsif page.layout == "new-review" %}{% include criticalcss-new-review.html %}
 {% else %}{% include criticalcss.html %}{% endif %}
 
+{% if page.layout != "travel-attraction" %}
 <link rel="preload" fetchpriority="high" as="image" {% if page.image %} href="{{ site.url }}{{page.image}}" {% elsif page.layout=="review" %} href="{{ site.url }}/assets/images/reviews/{{ page.image_path }}" {% elsif page.layout=="new-review" %} href="{{ site.url }}/assets/images/reviews/{{ page.image_path }}" {% elsif page.layout == "stiri" %} href="{{ site.url }}/assets/images/{{ page.image_path }}" {% elsif page.layout == "page" %} href="" {% endif %} type="image/webp">
-
+{% endif %}
+  
 <link rel="preload" href="/assets/css/bootstrap-grid.min.css" type="text/css" as="style"onload="this.onload=null;this.rel='stylesheet';" crossorigin="anonymous">
 <!--<link rel="stylesheet" href="/assets/css/bootstrap-grid.min.css" type="text/css">-->
 <link rel="stylesheet" href="/assets/css/main-minified.css" type="text/css">
