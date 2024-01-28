@@ -19,6 +19,7 @@ anchors: ['Locuri de vizitat in Praga', 'Atractii turistice Praga', 'Cele mai fr
 latitudine: 50.117847
 longitudine: 14.405875
 iata: "PRG"
+map: "yes"
 
 imagini:
  - belem/1.webp
@@ -36,8 +37,6 @@ cat: "oras"
 
 {% include atractie-top-menu.html %}
 
-<div class="intro-text" markdown="1">
-  
 <span class="drop-caps">G</span>rădina Zoologică din Praga, un sanctuar al biodiversității și o punte între natură și iubitorii faunei sălbatice, își întâmpină vizitatorii cu o diversitate impresionantă de specii, găzduind atât animale exotice, cât și specii native. Încă de la fondarea sa în anul 1931, acest loc feeric a avut misiunea de a educa publicul, de a proteja specii amenințate și de a oferi cercetătorilor un teren fertil pentru studii comportamentale și de conservare.
 
 Situată în inima pitorească a capitalei cehe, Grădina Zoologică din Praga se întinde pe mai mult de 58 de hectare de teren variat, pe care vizitatorii le pot explora pentru a descoperi beatitudinea și complexitatea vieții sălbatice. O fiecare vizită se transformă într-o aventură educativă, ce permite descoperirea unor habitate fascinante și interacțiunea cu o multitudine de specii, de la cei mai mici locuitori ai insectariului până la maiestuoșii locatari ai pavilionului elefanților.
@@ -47,9 +46,6 @@ Atracția dispune de numeroase exponate și zone tematice, meticulos concepute p
 Mai mult decât un loc de recreere, Grădina Zoologică din Praga este un centru de cercetare și conservare de vârf, participând la programe internaționale de reproducere și reintroducere a animalelor în sălbăticie, fiind un veritabil catalizator pentru eforturile de păstrare a biodiversității mondiale.
 
 Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat sanctuar al educației și conservării, vizita la Grădina Zoologică din Praga se transformă inevitabil într-o lecție de viață despre importanța respectului și protecției tuturor formelor de viață cu care împărțim această planetă. Fiecare pas prin acest loc magic este o ocazie unică de a înțelege mai bine rolul crucial pe care fiecare specie îl joacă în mozaicul complex al ecosistemelor Terrei.
-
-</div>
-
 
 <hr class="hr-s1">
 
