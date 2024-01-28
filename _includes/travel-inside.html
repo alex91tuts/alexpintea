@@ -1,0 +1,45 @@
+<div class="col-12">
+  <div class="wrapper">
+    <h3 class="atr-head fara-subliniere">{{ trip.atractie | upcase}}</h3>
+    <div class="imagine" style="background-image: url({{ trip.image }});"><button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}">DESCHIDE GALERIE</button></div>
+    <p class="trip-text-intro">{{ trip.text-intro }}<a href="{{trip.url}}">...citește mai mult</a></p>
+  </div>
+</div>
+<hr class="hr-s1">
+
+<style>
+  .butoane {
+    border: 1px lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    background: black;
+    color: white;
+    font-weight: 800;
+    cursor: pointer;
+  }
+  .imagine {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 5px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .atr-head {
+    font-size: xx-large;
+    margin-bottom: 0 !important;
+  }
+  .trip-text-intro {
+    margin-top: -6px;
+  }
+  .trip-text-intro a {
+    font-weight: 800;
+    font-style: italic;
+  }
+
+</style>
+
+ 

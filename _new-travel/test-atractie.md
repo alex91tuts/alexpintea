@@ -14,8 +14,8 @@ lang: ro_RO
 keyword: turnul belem
 date: 15.12.2023
 tags: ['București', 'capitale', 'belem']
-atractie: "Catedrala St. Vitus"
-atractieEn: "Lesser Town"
+atractie: "Catedrala Saint Vitus"
+atractieEn: "Saint Vitus Cathedral"
 phone: +420 603 235 606
 website: http://www.katedralasvatehovita.cz/cs
 email: redakce@katedralasvatehovita.cz
@@ -36,6 +36,10 @@ imagini:
  - belem/5.webp
  - belem/4.webp
 
+text-intro:
+ - "Piața Orașului Vechi, cunoscută în cehă ca Staroměstské náměstí, este inima istorică a Pragăi, un loc încărcat de istorie și frumusețe arhitecturală, care atrage anual milioane de turiști din întreaga lume. Situată în centrul cartierului Orașul Vechi, piața este înconjurată de clădiri impunătoare și monumente de o valoare inestimabilă, fiind un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori. Unul dintre cele mai emblematice edificii ale pieței este Primăria Orașului Vechi, cu faimosul său ceas astronomic, Orloj. Ceasul, care datează din 1410, este unul dintre cele mai vechi și mai sofisticate ceasuri astronomice din lume, atrăgând zilnic mulțimi de oameni care așteaptă să vadă procesiunea apostolilor la fiecare oră fixă"
+
+  
 ---
 
 
@@ -69,8 +73,15 @@ Piața Orașului Vechi este, fără îndoială, un loc unde trecutul se întâln
 
 <hr class="hr-s1">
 
+<div class="photo-gal-container">
+<h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
+<div class="button-container">
+<button class="search-btn" data-query="{{page.atractieEn}} {{page.city}}">VEZI POZE</button>
+<!-- Add more buttons as needed -->
+</div>
+<img src="/assets/images/photo-gallery.webp" alt="imagine logo pentru galeria foto" loading="lazy" width="740" height="493">
+</div>
 
-{% include galerie-google.html %}
 
 <div class="row jt">
 <div class="col-lg-8 col-12 no-list" markdown="1">

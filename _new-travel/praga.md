@@ -61,17 +61,17 @@ Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat
 
 <h2 class="fara-subliniere">Locuri de vizitat</h2>
 
-<div class="row">
+<div class="row jt">
+<div class="col-12 col-lg-8" markdown='1'>
+
+<div>
 {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", "222" %}
 {% if atractieid %}
   {% for trip in atractieid %}
-    {% include travel.html %}
+    {% include travel-inside.html %}
   {% endfor %}
 {% endif %}
 </div>
-
-<div class="row jt">
-<div class="col-12 col-lg-8" markdown='1'>
 
 ## Cum te deplasezi prin {{page.oras}}?
 
