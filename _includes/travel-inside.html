@@ -2,15 +2,21 @@
   <div class="wrapper">
     <h3 class="atr-head fara-subliniere">{{ trip.atractie | upcase}}</h3>
     <div class="imagine" style="background-image: url({{ trip.image }});"><button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}">DESCHIDE GALERIE</button></div>
-    <p class="trip-text-intro">{{ trip.text-intro }}<a href="{{trip.url}}">...citește mai mult</a></p>
+    <div style="padding: 0px 5px;"><p class="trip-text-intro">{{ trip.text-intro }}<a href="{{trip.url}}">...vezi articolul întreg</a></p></div>
+    <div  class="link-mobile">
+      <a href="{{trip.url}}">...vezi articolul întreg</a>
+    </div>
   </div>
 </div>
 <hr class="hr-s1">
 
 <style>
+  .link-mobile {
+    display: none;
+  }
   .butoane {
     border: 1px lightgray;
-    border-radius: 5px;
+    border-radius: 5px 0px;
     padding: 10px;
     background: black;
     color: white;
@@ -31,9 +37,9 @@
   .atr-head {
     font-size: xx-large;
     margin-bottom: 10px !important;
-    font-weight: 800;
+    font-weight: 800 !important;
     line-height: 1;
-    font-family: montserrat;
+    font-family: montserrat !important;
   }
   .trip-text-intro {
     margin-top: -6px;
@@ -46,16 +52,47 @@
   @media only screen and (max-width: 600px) {
     .atr-head {
       font-size: large !important;
+      padding: 0px 5px;
+      margin-top: 10px !important;
     }
     .imagine {
-      width: 150px;
+      width: 100%;
       height: 150px;
       display: flex;
       align-items: center;
+      float: none;
+      border-radius: unset;
     }
     .butoane {
       border-radius: 0;
       background: #0000006e;
+      width: 100%;
+    }
+    .trip-text-intro {
+      height: 153px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: break-spaces;
+      font-size: small;
+      line-height: 1.7;
+      margin-top: 5px;
+    }
+    .wrapper {
+      border: solid 1px #d3d3d34f;
+      border-radius: 5px
+    }
+    .link-mobile {
+      width: 100%;
+      height: 30px;
+      display: block;
+      background: #d3d3d34f;
+      margin-top: -10px;
+    }
+    .link-mobile a {
+      display: block;
+      font-weight: 800;
+      margin-left: 5px;
+      font-style: italic;
     }
 }
 

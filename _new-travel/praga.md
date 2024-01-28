@@ -52,10 +52,10 @@ Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat
 
 <hr class="hr-s1">
 
-<h2 class="fara-subliniere">Locuri de vizitat</h2>
+<h2>Locuri de vizitat</h2>
 
 <div class="row jt">
-<div class="col-12 col-lg-8" markdown='1'>
+<div class="col-12 col-lg-8" style="padding-left: 0;" markdown='1'>
 
 <div>
 {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", "222" %}

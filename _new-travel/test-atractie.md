@@ -37,7 +37,7 @@ imagini:
  - belem/4.webp
 
 text-intro:
- - "Piața Orașului Vechi, cunoscută în cehă ca Staroměstské náměstí, este inima istorică a Pragăi, un loc încărcat de istorie și frumusețe arhitecturală, care atrage anual milioane de turiști din întreaga lume. Situată în centrul cartierului Orașul Vechi, piața este înconjurată de clădiri impunătoare și monumente de o valoare inestimabilă, fiind un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori. <br>Unul dintre cele mai emblematice edificii ale pieței este Primăria Orașului Vechi, cu faimosul său ceas astronomic, Orloj. Ceasul, care datează din 1410, este unul dintre cele mai vechi și mai sofisticate ceasuri astronomice din lume, atrăgând zilnic mulțimi de oameni care așteaptă să vadă procesiunea apostolilor la fiecare oră fixă"
+ - "Piața Orașului Vechi, cunoscută în cehă ca Staroměstské náměstí, este inima istorică a Pragăi, un loc încărcat de istorie și frumusețe arhitecturală, care atrage anual milioane de turiști din întreaga lume. Situată în centrul cartierului Orașul Vechi, piața este înconjurată de clădiri impunătoare și monumente de o valoare inestimabilă, fiind un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori. Unul dintre cele mai emblematice edificii ale pieței este Primăria Orașului Vechi, cu faimosul său ceas astronomic, Orloj. Ceasul, care datează din 1410, este unul dintre cele mai vechi și mai sofisticate ceasuri astronomice din lume, atrăgând zilnic mulțimi de oameni care așteaptă să vadă procesiunea apostolilor la fiecare oră fixă"
 
   
 ---
