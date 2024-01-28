@@ -1,4 +1,4 @@
-<div class="col-12">
+<div class="">
   <div class="wrapper">
     <h3 class="atr-head fara-subliniere">{{ trip.atractie | upcase}}</h3>
     <div class="imagine" style="background-image: url({{ trip.image }});"><button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}">DESCHIDE GALERIE</button></div>
@@ -30,7 +30,10 @@
   }
   .atr-head {
     font-size: xx-large;
-    margin-bottom: 0 !important;
+    margin-bottom: 10px !important;
+    font-weight: 800;
+    line-height: 1;
+    font-family: montserrat;
   }
   .trip-text-intro {
     margin-top: -6px;
@@ -39,7 +42,22 @@
     font-weight: 800;
     font-style: italic;
   }
+  
+  @media only screen and (max-width: 600px) {
+    .atr-head {
+      font-size: large !important;
+    }
+    .imagine {
+      width: 150px;
+      height: 150px;
+      display: flex;
+      align-items: center;
+    }
+    .butoane {
+      border-radius: 0;
+      background: #0000006e;
+    }
+}
 
 </style>
 
- 

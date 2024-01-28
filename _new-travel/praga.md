@@ -34,9 +34,6 @@ cat: "oras"
 
 ---
 
-
-{% include atractie-top-menu.html %}
-
 <span class="drop-caps">G</span>rădina Zoologică din Praga, un sanctuar al biodiversității și o punte între natură și iubitorii faunei sălbatice, își întâmpină vizitatorii cu o diversitate impresionantă de specii, găzduind atât animale exotice, cât și specii native. Încă de la fondarea sa în anul 1931, acest loc feeric a avut misiunea de a educa publicul, de a proteja specii amenințate și de a oferi cercetătorilor un teren fertil pentru studii comportamentale și de conservare.
 
 Situată în inima pitorească a capitalei cehe, Grădina Zoologică din Praga se întinde pe mai mult de 58 de hectare de teren variat, pe care vizitatorii le pot explora pentru a descoperi beatitudinea și complexitatea vieții sălbatice. O fiecare vizită se transformă într-o aventură educativă, ce permite descoperirea unor habitate fascinante și interacțiunea cu o multitudine de specii, de la cei mai mici locuitori ai insectariului până la maiestuoșii locatari ai pavilionului elefanților.
@@ -132,20 +129,20 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 
   <div class="col-lg-4 col-12 review-side" style="top: 15px;">
-  <span class="title-section-sidebar">ALTE ORASE</span>
-	<hr>
-	{% assign travels = site.travel | sort: 'date' | reverse %}
-	{% for travel in travels limit:8 %}
-		<a href="{{ travel.url }}">
-		<div class="small-post">
-	<img class="small-post-image" alt="{{ travel.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
-		{{ travel.title }}
-		</div>
-		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
-		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
-		<hr style="border: 0; margin: 0;">
-		</a>
-	{% endfor %}
-	</div>
+    <span class="title-section-sidebar">ALTE ORASE</span>
+      <hr>
+      {% assign travels = site.travel | sort: 'date' | reverse %}
+      {% for travel in travels limit:8 %}
+        <a href="{{ travel.url }}">
+        <div class="small-post">
+      <img class="small-post-image" alt="{{ travel.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
+        {{ travel.title }}
+        </div>
+        <span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
+        <span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
+        <hr style="border: 0; margin: 0;">
+        </a>
+      {% endfor %}
+	 </div>
 
 </div>
