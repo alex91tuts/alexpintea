@@ -24,8 +24,9 @@ latitudine: 50.117847
 longitudine: 14.405875
 subtip: "Poduri"
 anchor-count: 0
-id-oras: 222
-cat: atractie
+id-oras: "222"
+cat: "atractie"
+iata: "PRG"
 
 imagini:
  - belem/1.webp
