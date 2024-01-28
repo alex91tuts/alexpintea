@@ -38,9 +38,8 @@ imagini:
 
 ---
 
-{% include cta-travel-menu.html %}
 
-<div class=row>
+<div class="row">
 
 {% include contacte-atractie.html %}
 
@@ -64,9 +63,8 @@ Piața Orașului Vechi este, fără îndoială, un loc unde trecutul se întâln
 
 </div>
 
-<div style="width:100%;">
-<button id="toggle-button">Citeste mai mult...</button>
-</div>
+
+
 </div>
 
 <hr class="hr-s1">
@@ -183,3 +181,5 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 
 <hr class="hr-s1">
+
+{% include cta-travel-menu.html %}

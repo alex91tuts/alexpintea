@@ -264,15 +264,17 @@ margin-bottom: 20px;
   padding-left: 15px;
 }
 .durata {
-  border: solid 1px #f3eeee;
-  padding: 15px;
-  display: block;
-  text-align: center;
-  font-weight: 800;
-  font-size: xx-large;
-  border-radius: 5px;
-  box-shadow: 0 0 10px -7px #00000091;
-}
+    border: solid 1px #f3eeee;
+    padding: 10px;
+    /* display: block; */
+    text-align: center;
+    font-weight: 800;
+    font-size: xx-large;
+    border-radius: 5px;
+    box-shadow: 0 0 10px -7px #00000091;
+    float: left;
+    margin-right: 10px;
+  }
 .jt p, li {
   text-align: justify;
 }
@@ -324,12 +326,7 @@ margin-bottom: 20px;
   #toggle-button::before {
     content: url('/assets/images/svg/expand.svg');
   }
-.intro-text {
-height: 481px;
-overflow: hidden;
-transition: height 0.5s ease; 
-text-align: justify;
-}
+
 
 .intro-text.expanded {
 height: auto; /* Auto height for expanded state */
@@ -597,19 +594,6 @@ height: auto; /* Auto height for expanded state */
 </style>
 
 <script>
-document.getElementById('toggle-button').addEventListener('click', function() {
-  var introText = document.querySelector('.intro-text');
-  var button = this;
-
-  // Check if the text is already expanded
-  if (introText.classList.contains('expanded')) {
-    introText.classList.remove('expanded'); // Collapse it
-    button.textContent = 'Citeste mai mult...'; // Change button text
-  } else {
-    introText.classList.add('expanded'); // Expand it
-    button.textContent = 'Arată mai putin...'; // Change button text
-  }
-});
   
 // accordion
 document.addEventListener('DOMContentLoaded', () => {

@@ -50,43 +50,45 @@
   .cazare {
     flex-direction: row-reverse;
   }
-  .cta-head {
+.cta-head {
     width: 58%;
     height: 55px;
     background: #353746;
     position: fixed;
-    top: 0;
+    bottom: 0;
     left: auto;
     z-index: 10000;
-    border-radius: 0px 0px 40px 40px;
+    border-radius: 15px 15px 0px 0px;
     box-shadow: 0 2px 15px 1px #000000a8;
-    opacity: 0; /* Initially hidden */
-    visibility: hidden; /* Initially not visible */
-    transition: visibility 0.3s, opacity 0.3s linear; /* Smooth transition for visibility and opacity */
+    opacity: 0;
+    visibility: hidden;
+    transition: visibility 0.3s, opacity 0.3s linear;
 }
   .icon-cta {
     width: 60px;
     margin-top: 10px;
-    background: #353746;
+    /* background: #353746; */
     padding: 5px;
     margin-bottom: 10px;
-    position: relative; 
-    top: -11px;
-  }
+    position: relative;
+    top: -20px;
+}
   .cta-text {
     color: white;
     font-size: xx-large;
     font-weight: 700;
     margin: 20px;
     border: 0;
-    border-radius: 35px;
+    border-radius: 20px;
     background: #9e6a09;
     background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
     background: linear-gradient(to right,#ff8a00,#da1b60);
     cursor: pointer;
-    padding: 10px 22px;
+    padding: 16px 20px;
     margin-top: 5px;
-    }
+    position: relative;
+    bottom: 18px;
+}
 .unique-modal-style {
   display: none;
   position: fixed;
@@ -143,10 +145,9 @@
   @media only screen and (max-width: 600px) {
     .unique-modal-content { width: 98% !important; }
       .cta-head {
-        width: 75% !important;
-        height: 35px !important;
-        left: auto !important;
-        right: 0 !important;
+        width: 100%;
+        height: 37px !important;
+        left: 0 !important;
       }
       .cta-text {
         font-size: small !important;
