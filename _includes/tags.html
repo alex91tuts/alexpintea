@@ -1,14 +1,21 @@
-<hr>
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
 {% for tag in page.tags %}
-	<a href="{{ site.url }}/review" class="tag" onclick="window.name = '{{ tag | upcase }}';" style="background: black; color: white;">{{ tag | upcase }}</a>
+	<span class="tag">{{ tag | upcase }}</span>
 {% endfor %}
-
+</div>
 <style>
 .tag:hover {
 	letter-spacing: 1px;
 	transition: all 1s;
 	transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 	}
+  .tag {
+    background: black;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    font-weight: 700;
+  }
 </style>
 
 

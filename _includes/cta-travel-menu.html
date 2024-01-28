@@ -163,25 +163,41 @@
   </style>
 
 <script>
-  var lastScrollTop = 0; // Variable to keep track of the last scroll position
+var lastScrollTop = 0;
+var isCtaLoaded = false;  // A flag to check if the CTA is already loaded
 
-  window.addEventListener("scroll", function() {
-    var currentScroll = window.pageYOffset || document.documentElement.scrollTop;
-    var ctaHead = document.getElementById('header-cta');
+window.addEventListener("scroll", function() {
+  var currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+  
+  // Load the CTA for the first time after 300px scroll
+  if (currentScroll > 300 && !isCtaLoaded) {
+    loadCtaHead();
+    isCtaLoaded = true;
+  }
 
-    if (currentScroll > lastScrollTop) {
-      // Scrolling Down
-      if (currentScroll > 300) {
-        ctaHead.style.opacity = '1';
-        ctaHead.style.visibility = 'visible';
-      }
-    } else {
-      // Scrolling Up
-      ctaHead.style.opacity = '0';
-      ctaHead.style.visibility = 'hidden';
+  var ctaHead = document.getElementById('header-cta');
+
+  if (currentScroll > lastScrollTop) {
+    // Scrolling Down
+    if (isCtaLoaded) {
+      ctaHead.style.opacity = '1';
+      ctaHead.style.visibility = 'visible';
     }
-    lastScrollTop = currentScroll <= 0 ? 0 : currentScroll; // For Mobile or negative scrolling
-  }, false);
+  } else {
+    // Scrolling Up
+    ctaHead.style.opacity = '0';
+    ctaHead.style.visibility = 'hidden';
+  }
+  lastScrollTop = currentScroll <= 0 ? 0 : currentScroll; // For Mobile or negative scrolling
+}, false);
+
+// Function to load the CTA head
+function loadCtaHead() {
+  var ctaHead = document.getElementById('header-cta');
+  // You can add any initialization or HTML content loading logic here
+  ctaHead.style.visibility = 'visible'; // Make the CTA visible
+}
+
   
   
 // Function to open a unique modal

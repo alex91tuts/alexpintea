@@ -1,3 +1,11 @@
+<head>
+   <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+</head>
+
+<head>
+   <script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+</head>
+
 <div class="col-12 harta">
 
 <h2 class="fara-subliniere" id="harta-atractii-apropiere">Harta Atractii În Apropiere</h2>
@@ -26,7 +34,7 @@
  
   // Custom icon options
 var iconOptions = {
-  iconUrl: '/assets/images/svg/map-marker.svg',
+  iconUrl: '/assets/images/svg/map-marker-2.svg',
   iconSize: [50, 50]
 };
 
@@ -35,10 +43,14 @@ var customIcon = L.icon(iconOptions);
 
 // Markers with popup content and custom icon
 var markers = [
-  { coords: [{{page.latitudine}}, {{page.longitudine}}], popup: "Catedrala St. Vincent" },
-  { coords: [50.117847, 14.400511], popup: "Zoo Praga" },
-  { coords: [50.093292, 14.325001], popup: "Divoka Sarka" },
-  // Add more markers if needed
+  {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", "222" %}
+  {% if atractieid %}
+  {% for trip in atractieid %}
+    
+  { coords: [{{trip.latitudine}}, {{trip.longitudine}}], popup: "<a href='{{ trip.url}}'>{{trip.atractie}}</a>" },
+    
+  {% endfor %}
+  {% endif %}
 ];
 
 // Adding markers to the map
@@ -50,3 +62,6 @@ markers.forEach(function(marker) {
 
   
 </script>
+<style>
+
+</style>

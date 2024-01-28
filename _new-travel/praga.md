@@ -18,7 +18,6 @@ tags: ['București', 'capitale', 'belem']
 anchors: ['Locuri de vizitat in Praga', 'Atractii turistice Praga', 'Cele mai frumoase obiective turistice in Praga']
 latitudine: 50.117847
 longitudine: 14.405875
-
 iata: "PRG"
 
 imagini:
@@ -37,9 +36,7 @@ cat: "oras"
 
 {% include atractie-top-menu.html %}
 
-<div class=row>
-
-<div class="intro-text col-12" markdown="1">
+<div class="intro-text" markdown="1">
   
 <span class="drop-caps">G</span>rădina Zoologică din Praga, un sanctuar al biodiversității și o punte între natură și iubitorii faunei sălbatice, își întâmpină vizitatorii cu o diversitate impresionantă de specii, găzduind atât animale exotice, cât și specii native. Încă de la fondarea sa în anul 1931, acest loc feeric a avut misiunea de a educa publicul, de a proteja specii amenințate și de a oferi cercetătorilor un teren fertil pentru studii comportamentale și de conservare.
 
@@ -53,10 +50,6 @@ Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat
 
 </div>
 
-<div style="width:100%;">
-<button id="toggle-button">Citeste mai mult...</button>
-</div>
-</div>
 
 <hr class="hr-s1">
 
@@ -78,34 +71,7 @@ Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat
 </div>
 
 <div class="row jt">
-<div class="col-lg-8 col-12 no-list" markdown="1">
-
-<h2 class="fara-subliniere">Cazare în {{page.oras}}</h2>
-
-<script src="https://www.booking.com/affiliate/prelanding_sdk"></script>
-  
-  <div id="bookingAffiliateWidget_63ebb457-bcbb-4c5e-9ccb-d65060b0e3d5">&nbsp;</div>
-  
-  <script>
-      (function () {
-          var BookingAffiliateWidget = new Booking.AffiliateWidget({
-  "iframeSettings": {
-    "selector": "bookingAffiliateWidget_63ebb457-bcbb-4c5e-9ccb-d65060b0e3d5",
-    "responsive": true
-  },
-  "widgetSettings": {
-    "ss": "{{page.oras}}, {{page.tara}}",
-    "latitude": {{page.latitudine}},
-    "longitude": {{page.longitudine}},
-    "zoom": 11,
-    "customMarkerTitle": "{{page.atractie}}"
-  }
-});
-      })();
-  </script>
-
-<h2 class="fara-subliniere">Zboruri ieftine spre {{page.oras}}</h2>
-{% include kiwi-results.html %}
+<div class="col-12 col-lg-8" markdown='1'>
 
 ## Cum te deplasezi prin {{page.oras}}?
 
@@ -168,8 +134,9 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 </div>
 </div>
 
-  <div class="col-lg-4 col-12 review-side">
-  <span class="title-section-sidebar">RECENT</span>
+
+  <div class="col-lg-4 col-12 review-side" style="top: 15px;">
+  <span class="title-section-sidebar">ALTE ORASE</span>
 	<hr>
 	{% assign travels = site.travel | sort: 'date' | reverse %}
 	{% for travel in travels limit:8 %}
@@ -184,6 +151,5 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 		</a>
 	{% endfor %}
 	</div>
-
 
 </div>

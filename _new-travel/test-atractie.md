@@ -159,7 +159,7 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 </div>
 
-  <div class="col-lg-4 col-12 review-side">
+  <div class="col-lg-4 col-12 review-side" style="top: 15px !important;">
   <span class="title-section-sidebar">ALTE ATRACTII</span>
 	<hr>
 	{% assign travels = site.travel | sort: 'date' | reverse %}
@@ -182,4 +182,4 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 
 <hr class="hr-s1">
 
-{% include cta-travel-menu.html %}
+
