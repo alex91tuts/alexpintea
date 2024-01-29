@@ -1,100 +1,218 @@
 <div class="">
-  <div class="wrapper">
-    <h3 class="atr-head fara-subliniere">{{ trip.atractie | upcase}}</h3>
-    <div class="imagine" style="background-image: url({{ trip.image }});"><button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}">DESCHIDE GALERIE</button></div>
-    <div style="padding: 0px 5px;"><p class="trip-text-intro">{{ trip.text-intro }}<a href="{{trip.url}}">...vezi articolul întreg</a></p></div>
-    <div  class="link-mobile">
-      <a href="{{trip.url}}">...vezi articolul întreg</a>
+  <div class="wrapper row">
+    <div class="imagine col-lg-5 col-4" style="background-image: url({{ trip.image }});">
+      <button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}">DESCHIDE GALERIE</button></div>
+    <div class="details col-lg-7 col-8">
+      <h3 class="atr-head fara-subliniere">
+        <img src="/assets/images/svg/map-marker.svg" style="margin-right: 5px;">{{ trip.atractie | upcase }}
+      </h3>
+    <div class="trip-text-intro" style="padding: 0px 5px;">
+      <p>{{ trip.text-intro | truncate: 120 }}</p>
+      <button class="card-sumar-btn" data-modal-target="{{ trip.folder }}" >CARD SUMAR</button><a href="{{trip.url}}">VEZI ARTICOL</a>
+      <span class="position">{{ trip.tags | slice: 0 }} </span>
+    </div>
     </div>
   </div>
 </div>
-<hr class="hr-s1">
+
+
+<!-- First Card Sumar Modal Structure -->
+<div id="{{ trip.folder }}" class="card-sumar-modal">
+  <div class="card-sumar-modal-content">
+    <span class="card-sumar-close">&times;</span>
+    <div class="card-modal-wrapper">
+      <div class="card-modal-img-holder" style="background-image: url({{ trip.image }});"></div>
+      <span class="title-card-modal">{{trip.atractie}}</span>
+      <hr class="hr-s1">
+      <p class="text-card-modal">{{trip.text-intro}}</p>
+    </div>
+  </div>
+</div>
+
 
 <style>
-  .link-mobile {
-    display: none;
-  }
-  .butoane {
-    border: 1px lightgray;
-    border-radius: 5px 0px;
-    padding: 10px;
-    background: black;
-    color: white;
-    font-weight: 800;
-    cursor: pointer;
-  }
-  .imagine {
-    width: 300px;
-    height: 300px;
-    float: left;
-    margin-right: 10px;
-    border-radius: 5px;
-    position: relative;
+  .card-modal-img-holder {
+    width: 200px;
+    height: 200px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    float: left;
+    margin-right: 20px;
+    border-radius: 15px;
   }
-  .atr-head {
+  .title-card-modal {
     font-size: xx-large;
+    font-weight: 800;
+  }
+  .card-modal-wrapper {
+    padding: 30px;
+  }
+  
+  
+  
+  
+  
+  
+  .card-sumar-modal {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0 0 0 / 0%);
+}
+
+.card-sumar-modal-content {
+  background-color: #fefefe;
+  margin: 2% auto;
+  padding: 20px;
+  width: 40%;
+  border-radius: 15px;
+  box-shadow: 0 0 68px 21px #358f8170;
+}
+
+.card-sumar-close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.card-sumar-close:hover,
+.card-sumar-close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+  
+  
+  
+  
+  
+  
+  .position {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: black;
+    color: white;
+    padding-left: 13px;
+    border-top-left-radius: 26px;
+    font-weight: 600;
+    padding-right: 5px;
+  }
+  .wrapper {
+    height: 200px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 30px -11px #00000078;
+    margin-top: 20px;
+  } 
+  .atr-head {
+    margin-top: 20px;
+    font-size: larger;
     margin-bottom: 10px !important;
     font-weight: 800 !important;
     line-height: 1;
     font-family: montserrat !important;
   }
-  .trip-text-intro {
-    margin-top: -6px;
+  .imagine {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: inherit;
   }
-  .trip-text-intro a {
+  .butoane {
+    width: 100%;
+    border: none;
+    background: #0000009c;
+    color: white;
+    position: absolute;
+    left: 0;
+    padding: 15px;
     font-weight: 800;
-    font-style: italic;
+    font-family: montserrat;
+    font-size: large;
+    cursor: pointer;
+  }
+  .trip-text-intro p {
+    font-size: 15px;
+    line-height: 1.5;
+    color: gray;
+  }
+  .trip-text-intro button, .trip-text-intro a {
+    border: solid 1px #8080803b;
+    padding: 10px;
+    border-radius: 10px;
+    background: #47b0bd;
+    font-family: montserrat;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: medium;
   }
   
   @media only screen and (max-width: 600px) {
-    .atr-head {
-      font-size: large !important;
-      padding: 0px 5px;
-      margin-top: 10px !important;
+    .wrapper {
+    height: 120px;
     }
-    .imagine {
-      width: 100%;
-      height: 150px;
-      display: flex;
-      align-items: center;
-      float: none;
-      border-radius: unset;
+    .trip-text-intro p {
+    display: none;
     }
-    .butoane {
-      border-radius: 0;
-      background: #0000006e;
-      width: 100%;
+    .trip-text-intro button, .trip-text-intro a {
+    font-size: x-small;
+    margin-right: 5px;
+    padding: 11px 4px;
     }
     .trip-text-intro {
-      height: 153px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: break-spaces;
-      font-size: small;
-      line-height: 1.7;
-      margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
     }
-    .wrapper {
-      border: solid 1px #d3d3d34f;
-      border-radius: 5px
+    .butoane {
+    font-weight: 500;
+    font-size: x-small;
+    cursor: pointer;
+    padding: 12px 0;
     }
-    .link-mobile {
-      width: 100%;
-      height: 30px;
-      display: block;
-      background: #d3d3d34f;
-      margin-top: -10px;
+    .position {
+      display: none;
     }
-    .link-mobile a {
-      display: block;
-      font-weight: 800;
-      margin-left: 5px;
-      font-style: italic;
+    .atr-head {
+      margin-top: 17px;
+      font-size: large;
     }
+    .card-sumar-modal-content {
+    padding: 5px;
+    width: 90%;
+    margin: 57% auto;
+    }
+    .title-card-modal {
+    font-size: x-large;
+    font-weight: 800;
+    line-height: 1.5;
+    }
+    .card-modal-wrapper {
+    padding: 8px;
+    padding-top: 20px;
+    }
+    .text-card-modal {
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    }
+    .card-modal-img-holder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 250px;
 }
+  }
 
 </style>
 
