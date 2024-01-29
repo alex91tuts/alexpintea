@@ -7,7 +7,10 @@
   </div>
   </div>
 <div class="col-lg-10 col-9 text-cust">
-  {% assign orasid = site.new-travel | where: "cat", "oras" | where: "id-oras", "222" | first %}{% if orasid %}<a href="{{ orasid.url }}" class="link-cust">{{ orasid.anchors[page.anchor-count] }}</a>{% endif %}
+   <!-- example position -->
+  {% assign cycle_index = {{page.position}} | minus: 1 | modulo: 3 %}
+  
+  {% assign orasid = site.new-travel | where: "cat", "oras" | where: "id-oras", "222" | first %}{% if orasid %}<a href="{{ orasid.url }}" class="link-cust">{{ orasid.anchors[cycle_index] }}</a>{% endif %}
   <br>
 </div>
 

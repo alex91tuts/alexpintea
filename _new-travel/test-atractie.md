@@ -14,8 +14,8 @@ lang: ro_RO
 keyword: turnul belem
 date: 15.12.2023
 tags: ['București', 'capitale', 'belem']
-atractie: "Catedrala Saint Vitus"
-atractieEn: "Saint Vitus Cathedral"
+atractie: "National Memorial to the Heroes of the Heydrich Terror"
+atractieEn: "National Memorial to the Heroes of the Heydrich Terror"
 phone: +420 603 235 606
 website: http://www.katedralasvatehovita.cz/cs
 email: redakce@katedralasvatehovita.cz
@@ -23,11 +23,11 @@ adresa: III. Nadvori 48/2 Prague Castle, Prague 119 01 Czech Republic
 latitudine: 50.117847
 longitudine: 14.405875
 subtip: "Poduri"
-anchor-count: 0
 id-oras: "222"
 cat: "atractie"
 iata: "PRG"
 folder: "xyz222ls45"
+position: 6
 
 imagini:
  - belem/1.webp
@@ -42,7 +42,6 @@ text-intro: "Piața Orașului Vechi, cunoscută în cehă ca Staroměstské nám
 
   
 ---
-
 
 <div class="row">
 

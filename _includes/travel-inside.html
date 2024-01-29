@@ -106,7 +106,6 @@
     padding-right: 5px;
   }
   .wrapper {
-    height: 200px;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 0 30px -11px #00000078;
@@ -144,6 +143,9 @@
     line-height: 1.5;
     color: gray;
   }
+  .trip-text-intro {
+    margin-bottom: 15px;
+  }
   .trip-text-intro button, .trip-text-intro a {
     border: solid 1px #8080803b;
     padding: 10px;
@@ -158,9 +160,7 @@
   }
   
   @media only screen and (max-width: 600px) {
-    .wrapper {
-    height: 120px;
-    }
+
     .trip-text-intro p {
     display: none;
     }
@@ -168,6 +168,8 @@
     font-size: x-small;
     margin-right: 5px;
     padding: 11px 4px;
+    width: 100%;
+    text-align: center;
     }
     .trip-text-intro {
     display: flex;
@@ -184,12 +186,12 @@
     }
     .atr-head {
       margin-top: 17px;
-      font-size: large;
+      font-size: small;
     }
     .card-sumar-modal-content {
     padding: 5px;
     width: 90%;
-    margin: 57% auto;
+    margin: 236px auto;
     }
     .title-card-modal {
     font-size: x-large;
