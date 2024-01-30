@@ -73,14 +73,7 @@ Piața Orașului Vechi este, fără îndoială, un loc unde trecutul se întâln
 
 <hr class="hr-s1">
 
-<div class="photo-gal-container">
-<h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
-<div class="button-container">
-<button class="search-btn" data-query="{{page.atractieEn}} {{page.city}}">VEZI POZE</button>
-<!-- Add more buttons as needed -->
-</div>
-<img src="/assets/images/photo-gallery.webp" alt="imagine logo pentru galeria foto" loading="lazy" width="740" height="493">
-</div>
+{% include galerie-atractie.html %}
 
 
 <div class="row jt">
