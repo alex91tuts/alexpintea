@@ -27,7 +27,7 @@ id-oras: "222"
 cat: "atractie"
 iata: "PRG"
 folder: "xyz222ls45"
-position: 6
+position: 4
 
 imagini:
  - belem/1.webp

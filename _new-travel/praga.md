@@ -10,7 +10,7 @@ author-link: "fabrica-de-amintiri"
 tara: REPUBLICA CEHA
 oras: PRAGA
 lang: ro_RO
-id-oras: 222
+id-oras: "222"
 keyword: turnul belem
 date: 2024-01-18
 date-modified: 2024-01-18
