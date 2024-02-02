@@ -13,7 +13,7 @@ city: "PRAGUE"
 lang: ro_RO
 keyword: turnul belem
 date: 15.12.2023
-tags: ['București', 'capitale', 'belem']
+tags: ['CETATE', 'capitale', 'belem']
 atractie: "National Memorial to the Heroes of the Heydrich Terror"
 atractieEn: "National Memorial to the Heroes of the Heydrich Terror"
 phone: +420 603 235 606
@@ -29,16 +29,7 @@ iata: "PRG"
 folder: "xyz222ls45"
 position: 4
 
-imagini:
- - belem/1.webp
- - belem/5.webp
- - belem/3.webp
- - belem/5.webp
- - belem/1.webp
- - belem/5.webp
- - belem/4.webp
-
-text-intro: "Piața Orașului Vechi, cunoscută în cehă ca Staroměstské náměstí, este inima istorică a Pragăi, un loc încărcat de istorie și frumusețe arhitecturală, care atrage anual milioane de turiști din întreaga lume. Situată în centrul cartierului Orașul Vechi, piața este înconjurată de clădiri impunătoare și monumente de o valoare inestimabilă, fiind un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori.<br>Unul dintre cele mai emblematice edificii ale pieței este Primăria Orașului Vechi, cu faimosul său ceas astronomic, Orloj. Ceasul, care datează din 1410, este unul dintre cele mai vechi și mai sofisticate ceasuri astronomice din lume, atrăgând zilnic mulțimi de oameni care așteaptă să vadă procesiunea apostolilor la fiecare oră fixă"
+text-intro: "Catedrala Sfântul Vitus este o capodoperă arhitecturală gotică și un simbol emblematic al orașului Praga și al întregii Republici Cehe. Situată în inima fortăreței istorice a Castelului Praga, catedrala domină peisajul urban cu turnurile sale înalte și vitraliile colorate, fiind vizibilă de la mare distanță.<hr>Construcția catedralei a început în anul 1344, când regele Carol al IV-lea a pus piatra de temelie, dorind să creeze un loc de cult care să rivalizeze cu cele mai impunătoare biserici ale Europei. Proiectul inițial a fost încredințat arhitectului francez Mathieu d'Arras, care a lucrat la catedrală până la moartea sa în 1352. După dispariția sa, Peter Parler, un alt arhitect de renume, a preluat conducerea lucrărilor, aducând inovații importante în stilul gotic și influențând arhitectura europeană pentru secolele următoare.<hr>Catedrala Sfântul Vitus este locul de odihnă al numeroși sfinți, regi și arhiepiscopi. Aici se află și mormântul Sfântului Venceslas, patronul Boemiei, un loc de pelerinaj pentru credincioșii din întreaga lume. De asemenea, catedrala găzduiește coroana regală a Boemiei, parte a Tezaurului Sfântului Venceslas, care este păstrată într-o cameră secretă accesibilă doar cu șapte chei, deținute de diferite personalități ale statului.<hr>Interiorul catedralei este la fel de impresionant ca și exteriorul său. Navele înalte, susținute de coloane masive, creează un spațiu vast și aerisit, în timp ce ferestrele cu vitralii, realizate de artiști precum Alfons Mucha, aduc un joc de lumini și culori care încântă privirea. Capela Sfântului Venceslas, cu pereții săi încrustați cu pietre semiprețioase și frescele medievale, este considerată una dintre cele mai frumoase părți ale catedralei.<hr>De-a lungul secolelor, Catedrala Sfântul Vitus a suferit numeroase modificări și restaurări. Ultima etapă majoră de construcție a avut loc la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, când catedrala a fost finalizată în stil neo-gotic sub supravegherea arhitectului Josef Mocker. Această etapă a adăugat turnul principal și fațada vestică, care astăzi oferă una dintre cele mai cunoscute imagini ale catedralei.<hr>Catedrala Sfântul Vitus nu este doar un monument religios, ci și un loc unde se desfășoară evenimente culturale și muzicale de importanță, inclusiv concerte de orgă și corale. Vizitatorii pot urca în turnul catedralei pentru a se bucura de o priveliște panoramică asupra orașului Praga, o experiență care merită efortul urcării celor peste 300 de trepte.<hr>Pentru cei interesați de istorie, artă și arhitectură, Catedrala Sfântul Vitus este o destinație obligatorie în timpul vizitei în Praga. Este recomandat să alocați suficient timp pentru a explora atât interiorul cât și exteriorul catedralei, precum și pentru a descoperi comorile ascunse și poveștile fascinante care au modelat acest monument de-a lungul secolelor."
 
   
 ---

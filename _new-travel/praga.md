@@ -14,8 +14,8 @@ id-oras: "222"
 keyword: turnul belem
 date: 2024-01-18
 date-modified: 2024-01-18
-tags: ['București', 'capitale', 'belem']
-anchors: ['Locuri de vizitat in Praga', 'Atractii turistice Praga', 'Cele mai frumoase obiective turistice in Praga']
+tags: ['CETATE', 'capitale', 'belem']
+anchors: ['Locuri de vizitat in Praga', 'Atractii turistice Praga', 'Cele mai frumoase obiective turistice in Praga','Ce poti sa vizitezi in Praga?','Totul despre Praga - cele mai frumoase locuri de vizitat']
 latitudine: 50.117847
 longitudine: 14.405875
 iata: "PRG"
@@ -34,6 +34,23 @@ cat: "oras"
 
 ---
 
+{% include galerie-travel.html %}
+
+<hr class="hr-s1">
+
+<div class="row">
+<div class="faq col-4 sticky" markdown="1">
+
+<h3 class="fara-subliniere">DEMOGRAFICE {{ page.oras }}</h3>
+Grădina Zoologică din Praga are un program variabil, în funcție de sezon. În timpul verii, de obicei este deschisă între orele 09:00 și 19:00, iar în timpul iernii între orele 09:00 și 16:00 sau 17:00. Este recomandabil să verificați programul actualizat pe site-ul lor oficial înainte de a planifica vizita.
+
+<h3 class="fara-subliniere">PERSONALITATI MARCANTE {{ page.oras }}</h3>
+Prețul biletului de intrare poate varia. Pentru adulți biletul poate ajunge până la 250 CZK, în timp ce pentru copii, studenți și seniori biletul ajunge la aproximativ 200 CZK. Copiii cu vârsta sub 3 ani beneficiază de intrare gratuită. Tarife pentru familii și grupuri sunt, de asemenea, disponibile. Pentru informații exacte și actualizate, este bine să consultați site-ul oficial al Grădinii Zoologice din Praga.
+
+</div>
+
+<div class="col-8" markdown="1">
+
 <span class="drop-caps">G</span>rădina Zoologică din Praga, un sanctuar al biodiversității și o punte între natură și iubitorii faunei sălbatice, își întâmpină vizitatorii cu o diversitate impresionantă de specii, găzduind atât animale exotice, cât și specii native. Încă de la fondarea sa în anul 1931, acest loc feeric a avut misiunea de a educa publicul, de a proteja specii amenințate și de a oferi cercetătorilor un teren fertil pentru studii comportamentale și de conservare.
 
 Situată în inima pitorească a capitalei cehe, Grădina Zoologică din Praga se întinde pe mai mult de 58 de hectare de teren variat, pe care vizitatorii le pot explora pentru a descoperi beatitudinea și complexitatea vieții sălbatice. O fiecare vizită se transformă într-o aventură educativă, ce permite descoperirea unor habitate fascinante și interacțiunea cu o multitudine de specii, de la cei mai mici locuitori ai insectariului până la maiestuoșii locatari ai pavilionului elefanților.
@@ -44,9 +61,8 @@ Mai mult decât un loc de recreere, Grădina Zoologică din Praga este un centru
 
 Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat sanctuar al educației și conservării, vizita la Grădina Zoologică din Praga se transformă inevitabil într-o lecție de viață despre importanța respectului și protecției tuturor formelor de viață cu care împărțim această planetă. Fiecare pas prin acest loc magic este o ocazie unică de a înțelege mai bine rolul crucial pe care fiecare specie îl joacă în mozaicul complex al ecosistemelor Terrei.
 
-<hr class="hr-s1">
-
-{% include galerie-travel.html %}
+</div>
+</div>
 
 {% include map.html %}
 

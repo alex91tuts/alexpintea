@@ -1,10 +1,9 @@
-<h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
 <div style="margin-bottom: 13px;">
 <div class="row">
   {% for image in page.imagini limit:1 %}
   <div class="col-6 poza-mare" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
   {% endfor %}
-  <div class="col-6">
+  <div class="col-6" style="padding-right: 0;">
     {% for image in page.imagini limit:1 offset:1 %}
     <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
     {% endfor %}
@@ -14,7 +13,7 @@
   </div>
 </div>
 </div>
-<div class="row" style="padding-right:13px; margin-bottom:30px;">
+<div class="row" style="padding-right:0px; margin-bottom:30px;">
     {% for image in page.imagini limit:1 offset:3 %}
     <div style="padding-right: 0; padding-left: 0;" class="col-4">
     <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
@@ -45,8 +44,6 @@
   </div>
 
 </div>
-
-<hr class="hr-s1">
 
 <style>
   @media only screen and (max-width: 600px) {
