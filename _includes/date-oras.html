@@ -1,0 +1,246 @@
+<div class="row col-lg-4 sticky" style="height: fit-content;">
+
+<div id="ww_ec2fd1bf2452a" v='1.3' loc='id' a='{"t":"horizontal","lang":"ro","sl_lpl":1,"ids":["wl307"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722"}'>More forecasts: <a href="https://oneweather.org/cs/prague/30_days/" id="ww_ec2fd1bf2452a_u" target="_blank">Počasí Praha na 30 dní</a></div>
+<script defer src="https://app2.weatherwidget.org/js/?id=ww_ec2fd1bf2452a"></script>  
+  
+<button class="date-oras" data-query="<div style='text-align: center;'><img src='/assets/images/world-map.webp' loading='lazy' alt='harta lumii' width='500' height='292'></div><div class='head-holder;'><h2>{{page.tara}}</h2></div>{{page.detalii-tara}}">
+<span class="det">DESPRE ȚARĂ</span>
+<span class="text-contacte">{{ page.tara }}</span>
+<img class="contacte-svg-travel" src="/assets/images/svg/click.svg" alt="imagine drapel tara" width="20" height="20">
+</button>  
+
+<button class="date-oras" data-query="<div style='text-align: center;'><img src='/assets/images/city-details.webp' loading='lazy' alt='imagine reprezentativa pentru detalii administrative' width='500' height='333'></div><div class='head-holder;'><h2>{{page.oras}} - DETALII ADMINISTRATIVE</h2></div>{{page.detalii-administrative}}">
+<span class="det">PRAGA</span>
+<span class="text-contacte">ADMINISTRARE</span>
+<img class="contacte-svg-travel" src="/assets/images/svg/click.svg" alt="imagine drapel tara" width="20" height="20">
+</button>  
+  
+<button class="date-oras" data-query="<div style='text-align: center;'><img src='/assets/images/surface.webp' loading='lazy' alt='imagine reprezentativa pentru suprafata' width='500' height='375'></div><div class='head-holder;'><h2>{{page.oras}} - SUPRAFATA</h2></div>{{page.detalii-suprafata}}">
+<span class="det">PRAGA</span>
+<span class="text-contacte">SUPRAFATA</span>
+<img class="contacte-svg-travel" src="/assets/images/svg/click.svg" alt="imagine drapel tara" width="20" height="20">
+</button>  
+
+<div id="localClock" data-timezone="Europe/Bucharest">
+<span>ORA IN {{page.oras}}</span>
+  <div class="time" id="hours"></div>:
+  <div class="time" id="minutes"></div>:
+  <div class="time" id="seconds"></div>
+</div>
+
+<div id="weather">
+    <p>Temperature: <span id="temperature"></span>°C</p>
+    <p>Wind Speed: <span id="windSpeed"></span> km/h</p>
+</div>
+
+
+</div>
+
+<!-- The Modal -->
+<div id="dateOrasModal" class="date-oras-modal"  markdown="1">
+
+  <!-- Modal content -->
+  <div class="date-oras-modal-content">
+    <span class="date-oras-close">&times;</span>
+    
+    <div id="modalData">Some content for the modal...</div>
+  </div>
+
+</div>
+  
+
+<style>
+#localClock span {
+  position: absolute;
+  top: 0;
+  font-size: small;
+}
+#localClock {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    color: white;
+    background: black;
+    padding: 14px;
+    font-size: xx-large;
+    margin-top: 20px;
+    border-radius: 15px;
+    position: relative;
+  }
+  .time  {
+    text-align: center;
+    width: 25%;
+  }
+
+@media only screen and (min-width: 600px) { 
+  .sticky {
+  position: sticky;
+  top: 0;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+ .date-oras-modal-content {
+  width: 95% !important;
+  }
+}
+  .det {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    background: black;
+    padding: 3px;
+    border-radius: 3px 0px 13px 0px;
+    padding-right: 9px;
+    font-family: 'Montserrat';
+  }
+  .date-oras {
+    margin-top: 20px;
+    border: solid 1px #f3eeee;
+    border-radius: 5px;
+    max-width: 740px;
+    padding: 10px;
+    box-shadow: 0 0 10px -7px #00000091;
+    width: 100%;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .contacte-svg-travel {
+    margin-right: 5px;
+    position: relative;
+    top: 3px;
+    margin-left: 10px;
+    border-radius: 0 !important;
+  }
+  .text-contacte {
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    color: #494444;
+  }
+  
+  
+  /* The Modal (background) */
+.date-oras-modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 9000; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.date-oras-modal-content {
+  position: relative;
+    background-color: #fefefe;
+    margin: 2% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 15px;
+    font-size: medium;
+}
+
+/* The Close Button */
+.date-oras-close {
+  color: #aaa;
+  float: right;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.date-oras-close:hover,
+.date-oras-close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+</style>
+
+<script>
+// Get the modal and the element to display data
+var modal = document.getElementById("dateOrasModal");
+var modalData = document.getElementById("modalData");
+
+// Get all buttons that open the modal
+var btns = document.querySelectorAll(".date-oras");
+
+// Function to open modal and display data
+function openModalWithData(event) {
+  var dataQuery = event.currentTarget.getAttribute("data-query");
+  modalData.innerHTML = dataQuery; // Update the modal content as HTML
+  modal.style.display = "block";
+}
+
+// Attach event listeners to buttons
+btns.forEach(function(btn) {
+  btn.addEventListener('click', openModalWithData);
+});
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("date-oras-close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+
+
+function updateLocalClock() {
+  var clockElement = document.getElementById('localClock');
+  var timezone = clockElement.getAttribute('data-timezone');
+  var now = new Date();
+
+  // Convert time to specified timezone
+  now = now.toLocaleString('en-US', { timeZone: timezone });
+
+  // Create a date object from the converted time string
+  var localTime = new Date(now);
+
+  // Extract hours, minutes, and seconds
+  var hours = localTime.getHours();
+  var minutes = localTime.getMinutes();
+  var seconds = localTime.getSeconds();
+
+  // Format hours, minutes, and seconds
+  hours = hours < 10 ? '0' + hours : hours;
+  minutes = minutes < 10 ? '0' + minutes : minutes;
+  seconds = seconds < 10 ? '0' + seconds : seconds;
+
+  // Update the individual divs
+  document.getElementById('hours').textContent = hours;
+  document.getElementById('minutes').textContent = minutes;
+  document.getElementById('seconds').textContent = seconds;
+}
+
+// Update the clock every second
+setInterval(updateLocalClock, 1000);
+
+// Initial call to display the time immediately
+updateLocalClock();
+  
+
+
+
+</script>

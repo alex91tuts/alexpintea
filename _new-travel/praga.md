@@ -8,6 +8,9 @@ image: /assets/images/travel/belem/main.webp
 author: "Fabrica de amintiri"
 author-link: "fabrica-de-amintiri"
 tara: REPUBLICA CEHA
+detalii-tara: "Republica Cehă este situată în centrul Europei, fiind înconjurată de Germania la vest, Austria la sud, Slovacia la est și Polonia la nord.<br> Capitala sa, Praga, este cunoscută la nivel mondial pentru arhitectura impresionantă și istoria bogată.<br> Țara dispune de o economie puternică, cu un sector industrial diversificat și un sector de servicii în plină expansiune.<br> Republica Cehă are un patrimoniu cultural și istoric bogat, inclusiv numeroase situri care sunt incluse în Patrimoniul Mondial UNESCO.<br> Český Krumlov, Kutná Hora și Telč sunt doar câteva dintre orașele pitorești ale țării, care atrag vizitatori din toată lumea.<br> Peisajele naturale ale Republicii Cehe, inclusiv parcurile naționale și rezervațiile naturale, oferă numeroase oportunități pentru activități în aer liber.<br> Gastronomia cehă este renumită pentru diversitatea sa, incluzând feluri de mâncare tradiționale cum ar fi gulașul și dumplings-urile, acompagate de celebrul bere cehă.<br> Cu tradițiile sale culturale bogate, Republica Cehă găzduiește numeroase festivaluri și evenimente anuale, care reflectă zestrea sa culturală și artistică.<br> În concluzie, Republica Cehă este o destinație impresionantă, oferind un amestec unic de istorie, cultură și natură, ce atrage vizitatori din întreaga lume."
+detalii-administrative: "Orasul Praga, situat în inima Europei, este recunoscut pentru frumusețea și bogăția istorică. **Este capitala și cel mai mare oraș al Republicii Cehe**.<br> Structura administrativă a Pragăi este organizată în diferite niveluri, având ca scop o gestionare eficientă și asigurarea serviciilor pentru cetățeni.<br>Principala diviziune constă în 22 de districte, numerotate de la Praga 1 la Praga 22. **Aceste districte operează autonom și au propriile consilii locale și primari**.<br> Districtele sunt grupate într-un total de 57 de cartiere, fiecare cu propria sa identitate și administrare locală.<br>Pe lângă această împărțire administrativă, Praga este de asemenea segmentată în zone cadastrale, care sunt adesea utilizate pentru scopuri imobiliare și înregistrarea oficială a terenurilor.<br>Importanța administrativă a Pragăi se extinde dincolo de gestionarea zilnică a serviciilor urbane. **Orașul este un centru politic, economic și cultural major în Republica Cehă**.<br>Administrația orașului Praga pune un accent deosebit pe conservarea patrimoniului său istoric și cultural. *Numeroase monumente istorice, inclusiv centrul orașului vechi, sunt protejate de UNESCO*.<br>În concluzie, organizarea administrativă a Pragăi este esențială pentru menținerea echilibrului între conservarea istorică și nevoile unei metropole moderne.<br> Această structură complexă asigură că Praga rămâne una dintre cele mai fascinante capitale europene, oferind o combinație unică de istorie, cultură și inovație."
+detalii-suprafata: "Praga, capitala Republicii Cehe, este cunoscută pentru frumusețea sa arhitectonică și istorică. <br> Suprafața totală a orașului se extinde pe aproximativ 496 de kilometri pătrați. <br> Împărțită de râul Vltava, Praga oferă o combinație încântătoare de cartiere istorice și zone verzi. <br> Centrul istoric, inclus în patrimoniul mondial UNESCO, ocupă o parte semnificativă din această suprafață. <br> Orașul găzduiește diverse parcuri și grădini publice, adăugând la diversitatea peisajului său urban. <br> Cu toate acestea, Praga continuă să se dezvolte și să se extindă, echilibrând între păstrarea patrimoniului și modernizare. <br>"
 oras: PRAGA
 lang: ro_RO
 id-oras: "222"
@@ -39,15 +42,8 @@ cat: "oras"
 <hr class="hr-s1">
 
 <div class="row">
-<div class="faq col-4 sticky" markdown="1">
 
-<h3 class="fara-subliniere">DEMOGRAFICE {{ page.oras }}</h3>
-Grădina Zoologică din Praga are un program variabil, în funcție de sezon. În timpul verii, de obicei este deschisă între orele 09:00 și 19:00, iar în timpul iernii între orele 09:00 și 16:00 sau 17:00. Este recomandabil să verificați programul actualizat pe site-ul lor oficial înainte de a planifica vizita.
-
-<h3 class="fara-subliniere">PERSONALITATI MARCANTE {{ page.oras }}</h3>
-Prețul biletului de intrare poate varia. Pentru adulți biletul poate ajunge până la 250 CZK, în timp ce pentru copii, studenți și seniori biletul ajunge la aproximativ 200 CZK. Copiii cu vârsta sub 3 ani beneficiază de intrare gratuită. Tarife pentru familii și grupuri sunt, de asemenea, disponibile. Pentru informații exacte și actualizate, este bine să consultați site-ul oficial al Grădinii Zoologice din Praga.
-
-</div>
+{% include date-oras.html %}
 
 <div class="col-8" markdown="1">
 
