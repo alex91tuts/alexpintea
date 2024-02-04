@@ -14,7 +14,7 @@
 <script async>
 
    // Creating a map object
-   var map = L.map('map').setView([{{page.latitudine}}, {{page.longitudine}}], 10);
+   var map = L.map('map').setView([{{page.latitudine}}, {{page.longitudine}}], 12);
 
    // Creating a Layer object
    var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
@@ -34,11 +34,11 @@ var customIcon = L.icon(iconOptions);
 
 // Markers with popup content and custom icon
 var markers = [
-  {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", "222" %}
+  {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras %}
   {% if atractieid %}
   {% for trip in atractieid %}
     
-  { coords: [{{trip.latitudine}}, {{trip.longitudine}}], popup: "<a href='{{ trip.url}}'>{{trip.atractie}}</a>" },
+  { coords: [{{trip.latitudine}}, {{trip.longitudine}}], popup: "<div class='popup-image-holder' style='background-image: url(/assets/images/travel/{{trip.folder}}/{{trip.imagine-mobile}});'></div><a href='{{ trip.url}}'>{{trip.atractie}}</a>" },
     
   {% endfor %}
   {% endif %}
@@ -51,8 +51,24 @@ markers.forEach(function(marker) {
     .addTo(map);
 });
 
-  
-</script>
-<style>
 
+
+</script>
+
+
+<style>
+  .popup-image-holder {
+    height: 65px;
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  }
+  .leaflet-popup-content {
+    min-height: 65px;
+    width: 100px !important;
+}
 </style>

@@ -65,7 +65,7 @@ post_class: post-template
     <div class="continut-imagine">
 				<div class="">
           <hr>
-				 <h1 class="banner-title">{{ page.title }}</h1>
+				 <h1 class="banner-title">{{ page.title | upcase }}</h1>
           <hr>
             <!-- review meta
 						<div class="review-meta">
@@ -376,6 +376,7 @@ height: auto; /* Auto height for expanded state */
     font-weight: 500;
 		color: black !important;
 		font-style: italic;
+    text-align: left;
 	}
 
 		.go-img {
@@ -419,7 +420,7 @@ height: auto; /* Auto height for expanded state */
       font-weight: 600;
     }
     
-    #breadcrumbs a { color: #63d3d9; font-weight: 600; }
+    #breadcrumbs a { color: #198388; font-weight: 600; }
     
     .review-meta span {
     font-size: 13px;

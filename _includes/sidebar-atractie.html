@@ -1,0 +1,58 @@
+<div class="col-lg-4 col-12 review-side" style="top: 15px !important;">
+  <span class="title-section-sidebar">ALTE ATRACTII {{page.oras}}</span>
+  <hr>
+  {% assign alltravel = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras %}
+  {% assign travels = alltravel | sort: 'date' | reverse %}
+
+  {% assign currentIndex = -1 %}
+  {% for travel in travels %}
+    {% if travel.url == page.url %}
+      {% assign currentIndex = forloop.index0 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign postsToShow = 8 %}
+  {% assign displayedCount = 0 %}
+  {% assign totalTravels = travels | size %}
+  
+  <!-- Display next posts after current post, skipping current post -->
+  {% for travel in travels offset: currentIndex | plus: 1 %}
+    {% if displayedCount >= postsToShow %}
+      {% break %}
+    {% endif %}
+    {% if travel.url != page.url %}
+      <a href="{{ travel.url }}">
+        <div class="small-post">
+          <div style="width: 79px; height: 41px; background-image: url('/assets/images/travel/{{travel.folder}}/{{travel.imagine-mobile}}'); background-size: cover; background-position: center; float: left; margin-right: 5px; border-radius: 3px;"></div>
+          {{ travel.title }}
+        </div>
+        <span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="{{ travel.author }}"> {{ travel.author }}</span>
+        <span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="Calendar"> {{ travel.date | date_to_string }}</span>
+        <hr style="border: 0; margin: 0;">
+      </a>
+      {% assign displayedCount = displayedCount | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  <!-- If there weren't enough posts, start from the beginning -->
+  {% if displayedCount < postsToShow %}
+    {% for travel in travels %}
+      {% if displayedCount >= postsToShow %}
+        {% break %}
+      {% endif %}
+      {% if travel.url != page.url %}
+        <a href="{{ travel.url }}">
+          <div class="small-post">
+            <div style="width: 79px; height: 41px; background-image: url('/assets/images/travel/{{travel.folder}}/{{travel.imagine-mobile}}'); background-size: cover; background-position: center; float: left; margin-right: 5px; border-radius: 3px;"></div>
+            {{ travel.title }}
+          </div>
+          <span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="{{ travel.author }}"> {{ travel.author }}</span>
+          <span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="Calendar"> {{ travel.date | date_to_string }}</span>
+          <hr style="border: 0; margin: 0;">
+        </a>
+        {% assign displayedCount = displayedCount | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+</div>

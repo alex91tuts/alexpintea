@@ -1,6 +1,6 @@
 <div class="">
   <div class="wrapper row">
-    <div class="imagine col-lg-5 col-4" style="background-image: url({{ trip.image }});">
+    <div class="imagine col-lg-5 col-4" style="background-image: url(/assets/images/travel/{{trip.folder}}/{{ trip.imagine }});">
       <button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}">DESCHIDE GALERIE</button></div>
     <div class="details col-lg-7 col-8">
       <h3 class="atr-head fara-subliniere">
@@ -21,7 +21,7 @@
   <div class="card-sumar-modal-content">
     <span class="card-sumar-close">&times;</span>
     <div class="card-modal-wrapper">
-      <div class="card-modal-img-holder" style="background-image: url({{ trip.image }});"></div>
+      <div class="card-modal-img-holder" style="background-image: url(/assets/images/travel/{{trip.folder}}/{{ trip.imagine }});"></div>
       <span class="title-card-modal">{{trip.atractie}}</span>
       <hr class="hr-s1">
       <p class="text-card-modal">{{trip.text-intro}}</p>
