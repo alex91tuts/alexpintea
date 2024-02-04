@@ -1,6 +1,6 @@
 ---
 layout: travel-attraction
-title: "PRAGA - Locuri de vizitat | Atractii | Cazare | Obiective Turistice"
+title: "TOTUL DESPRE PRAGA - LOCURI DE VIZITAT, ATRACTII TURISTICE, IMAGINI"
 descriere: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝  
 description: Turnul Belem este o atracție turistică populară din Lisabona și este vizitat anual de mii de turiști care admiră arhitectura sa impresionantă și istoria bogată. Vezi de ce ☝ 
 meta_image: assets/images/travel/bucuresti/main.webp 
@@ -44,7 +44,7 @@ cat: "oras"
 
 {% include date-oras.html %}
 
-<div class="col-8" markdown="1">
+<div class="col-lg-8 col-8" markdown="1">
 
 <span class="drop-caps">G</span>rădina Zoologică din Praga, un sanctuar al biodiversității și o punte între natură și iubitorii faunei sălbatice, își întâmpină vizitatorii cu o diversitate impresionantă de specii, găzduind atât animale exotice, cât și specii native. Încă de la fondarea sa în anul 1931, acest loc feeric a avut misiunea de a educa publicul, de a proteja specii amenințate și de a oferi cercetătorilor un teren fertil pentru studii comportamentale și de conservare.
 
