@@ -12,11 +12,7 @@ post_class: post-template
   "headline": "{{ page.title }}",
   "alternativeHeadline": "{{ page.title }}",
   "image": [
-    {%- capture folder_path -%}/assets/images/travel/{{ page.folder }}{% endcapture -%}
-    {%- assign small = site.static_files | where_exp: "file", "file.path contains folder_path and file.name contains 'desktop'" -%}
-    {%- for image in small -%}
-      "{{ site.url }}{{ image.path }}" {%- unless forloop.last -%}, {% endunless -%}
-    {%- endfor -%}
+    
   ],
   "author": {
     "@type": "Person",
