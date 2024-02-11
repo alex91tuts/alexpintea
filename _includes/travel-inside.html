@@ -12,6 +12,7 @@
       <span class="position">{{ trip.tags | slice: 0 }} </span>
     </div>
     </div>
+      <div class="col-12 small-text-mobile"><span>{{ trip.text-intro | truncate: 100 }}</span></div>
   </div>
 </div>
 
@@ -51,9 +52,6 @@
   
   
   
-  
-  
-  
   .card-sumar-modal {
   display: none;
   position: fixed;
@@ -73,6 +71,19 @@
   width: 40%;
   border-radius: 15px;
   box-shadow: 0 0 68px 21px #358f8170;
+  animation: myAnim 1s ease 0s 1 normal forwards;
+}
+
+@keyframes myAnim {
+	0% {
+		opacity: 0;
+		transform: translateY(-50px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
 }
 
 .card-sumar-close {
@@ -158,9 +169,23 @@
     margin-right: 10px;
     font-size: medium;
   }
+  @media only screen and (min-width: 600px) {
+    .small-text-mobile {
+      display: none;
+    }
+  }
   
   @media only screen and (max-width: 600px) {
-
+    .small-text-mobile {
+    line-height: 1.2;
+    border-top: solid 1px lightgray;
+    position: relative;
+    top: -1px;
+    padding: 7px 10px;
+    }
+    .small-text-mobile span {
+      font-size: small;
+    }
     .trip-text-intro p {
     display: none;
     }

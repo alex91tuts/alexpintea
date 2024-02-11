@@ -1,46 +1,54 @@
 <div style="margin-bottom: 13px;">
-<div class="row">
-  {% for image in page.imagini limit:1 %}
-  <div class="col-6 poza-mare" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
-  {% endfor %}
-  <div class="col-6" style="padding-right: 0;">
-    {% for image in page.imagini limit:1 offset:1 %}
-    <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+  <div class="row">
+    {% for image in page.imagini limit:1 %}
+      <div class="col-6 poza-mare" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
     {% endfor %}
-    {% for image in page.imagini limit:1 offset:2 %}
-    <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');margin-top: 13px;"></div>
-    {% endfor %}
+    <div class="col-6" style="padding-right: 0;">
+      {% for image in page.imagini limit:1 offset:1 %}
+        <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+      {% endfor %}
+      {% for image in page.imagini limit:1 offset:2 %}
+        <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}'); margin-top: 13px;"></div>
+      {% endfor %}
+    </div>
   </div>
 </div>
-</div>
-<div class="row" style="padding-right:0px; margin-bottom:30px;">
-    {% for image in page.imagini limit:1 offset:3 %}
+<div class="row" style="padding-right: 0px; margin-bottom: 30px;">
+  {% for image in page.imagini limit:1 offset:3 %}
     <div style="padding-right: 0; padding-left: 0;" class="col-4">
-    <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
     </div>
-    {% endfor %}
-    {% for image in page.imagini limit:1 offset:4 %}
+  {% endfor %}
+  {% for image in page.imagini limit:1 offset:4 %}
     <div style="padding-right: 0;" class="col-4">
-    <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
     </div>
-    {% endfor %}
-    {% for image in page.imagini limit:1 offset:5 %}
+  {% endfor %}
+  {% for image in page.imagini limit:1 offset:5 %}
     <div style="padding-right: 0;" class="col-4">
-      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');position:relative;">
+      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}'); position: relative;">
         <div class="dark"><button class="mai-multe" id="myBtn-travel">MAI MULTE...</button></div>
       </div>
     </div>
-    {% endfor %}
+  {% endfor %}
 </div>
+
 
 <!-- The Modal -->
 <div id="myModal-travel" class="modal">
 <span class="close">&times;</span>
   <!-- Modal content -->
   <div class="modal-content">
-    {% for image in page.imagini %}
-      <img style="margin-bottom: 30px;" src="/assets/images/travel/{{ image }}" loading="lazy" alt="{{page.nume}}">
-    {% endfor %}
+    {%- for file in site.static_files -%}
+    {%- if file.path contains "mobile" -%}
+    {%- elsif file.path contains "/assets/images/travel/belem" -%}
+      {%- if file.extname == '.webp' -%}
+        {%- assign filenameparts = file.path | split: "/" -%}
+        {%- assign filename = filenameparts | last | replace: file.extname,"" -%}
+        <img style="margin-bottom: 30px;" src="{{ file.path }}" loading="lazy" alt="{{ page.nume }}"/>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
   </div>
 
 </div>
@@ -124,6 +132,7 @@
         border: none;
         width: 50%;
         border-radius: 15px;
+        animation: myAnim 1s ease 0s 1 normal forwards;
     }
     /* The Close Button */
     .close {

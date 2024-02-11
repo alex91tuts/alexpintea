@@ -22,6 +22,7 @@ latitudine: 50.117847
 longitudine: 14.405875
 iata: "PRG"
 map: "yes"
+timezone: "europe/prague"
 
 imagini:
  - belem/1.webp
@@ -40,11 +41,12 @@ cat: "oras"
 
 <hr class="hr-s1">
 
+
 <div class="row">
 
 {% include date-oras.html %}
 
-<div class="col-lg-8 col-8" markdown="1">
+<div class="col-lg-8 col-12" markdown="1">
 
 <span class="drop-caps">G</span>rădina Zoologică din Praga, un sanctuar al biodiversității și o punte între natură și iubitorii faunei sălbatice, își întâmpină vizitatorii cu o diversitate impresionantă de specii, găzduind atât animale exotice, cât și specii native. Încă de la fondarea sa în anul 1931, acest loc feeric a avut misiunea de a educa publicul, de a proteja specii amenințate și de a oferi cercetătorilor un teren fertil pentru studii comportamentale și de conservare.
 
