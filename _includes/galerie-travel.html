@@ -1,53 +1,51 @@
+{% capture folder_path %}/assets/images/travel/{{ page.folder }}{% endcapture %}
+{% assign small = site.static_files | where_exp: "file", "file.path contains folder_path and file.name contains 'mobile'" %}
+
+
 <div style="margin-bottom: 13px;">
   <div class="row">
-    {% for image in page.imagini limit:1 %}
-      <div class="col-6 poza-mare" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+    {% for image in small limit:1 %}
+      <div class="col-8 poza-mare" style="background-image: url('{{ image.path }}');"></div>
     {% endfor %}
-    <div class="col-6" style="padding-right: 0;">
-      {% for image in page.imagini limit:1 offset:1 %}
-        <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+    <div class="col-4" style="padding-right: 0;">
+      {% for image in small limit:1 offset:1 %}
+        <div class="col-12 poza-mica" style="background-image: url('{{ image.path }}');"></div>
       {% endfor %}
-      {% for image in page.imagini limit:1 offset:2 %}
-        <div class="col-12 poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}'); margin-top: 13px;"></div>
+      {% for image in small limit:1 offset:2 %}
+        <div class="col-12 poza-mica" style="background-image: url('{{ image.path }}'); margin-top: 13px;"></div>
       {% endfor %}
     </div>
   </div>
 </div>
 <div class="row" style="padding-right: 0px; margin-bottom: 30px;">
-  {% for image in page.imagini limit:1 offset:3 %}
+  {% for image in small limit:1 offset:3 %}
     <div style="padding-right: 0; padding-left: 0;" class="col-4">
-      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+      <div class="poza-mica" style="background-image: url('{{ image.path }}');"></div>
     </div>
   {% endfor %}
-  {% for image in page.imagini limit:1 offset:4 %}
+  {% for image in small limit:1 offset:4 %}
     <div style="padding-right: 0;" class="col-4">
-      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}');"></div>
+      <div class="poza-mica" style="background-image: url('{{ image.path }}');"></div>
     </div>
   {% endfor %}
-  {% for image in page.imagini limit:1 offset:5 %}
+  {% for image in small limit:1 offset:5 %}
     <div style="padding-right: 0;" class="col-4">
-      <div class="poza-mica" style="background: url('/assets/images/travel/{{ page.folder }}/{{ image }}'); position: relative;">
+      <div class="poza-mica" style="background-image: url('{{ image.path }}'); position: relative;">
         <div class="dark"><button class="mai-multe" id="myBtn-travel">MAI MULTE...</button></div>
       </div>
     </div>
   {% endfor %}
 </div>
 
+{% assign large = site.static_files | where_exp: "file", "file.path contains folder_path and file.name contains 'desktop'" %}
 
 <!-- The Modal -->
 <div id="myModal-travel" class="modal">
 <span class="close">&times;</span>
   <!-- Modal content -->
   <div class="modal-content">
-    {%- for file in site.static_files -%}
-    {%- if file.path contains "mobile" -%}
-    {%- elsif file.path contains "/assets/images/travel/belem" -%}
-      {%- if file.extname == '.webp' -%}
-        {%- assign filenameparts = file.path | split: "/" -%}
-        {%- assign filename = filenameparts | last | replace: file.extname,"" -%}
-        <img style="margin-bottom: 30px;" src="{{ file.path }}" loading="lazy" alt="{{ page.nume }}"/>
-      {%- endif -%}
-    {%- endif -%}
+    {%- for image in large -%}
+         <img style="margin-bottom: 30px;" src="{{ image.path }}" loading="lazy" alt="{% assign full_string = image.path %}{% assign filename = full_string | split: '/' | last | replace: 'desktop-galerie-', 'locuri de vizitat ' | remove: '.webp' | replace: '-', ' ' %}{{ filename }}"/>
   {%- endfor -%}
   </div>
 
@@ -132,7 +130,6 @@
         border: none;
         width: 50%;
         border-radius: 15px;
-        animation: myAnim 1s ease 0s 1 normal forwards;
     }
     /* The Close Button */
     .close {

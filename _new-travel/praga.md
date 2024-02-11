@@ -18,8 +18,8 @@ date: 2024-01-18
 date-modified: 2024-01-18
 tags: ['CETATE', 'capitale', 'belem']
 anchors: ['Locuri de vizitat in Praga', 'Atractii turistice Praga', 'Cele mai frumoase obiective turistice in Praga','Ce poti sa vizitezi in Praga?','Totul despre Praga - cele mai frumoase locuri de vizitat']
-latitudine: 50.117847
-longitudine: 14.405875
+latitudine: 50.086494
+longitudine: 14.411333
 iata: "PRG"
 map: "yes"
 timezone: "europe/prague"
@@ -65,19 +65,7 @@ Concepută nu doar ca o expunere de specii rare ori frumoase, ci ca un adevărat
 
 <hr class="hr-s1">
 
-<h2>Locuri de vizitat</h2>
-
-<div class="row jt">
-<div class="col-12 col-lg-8 locuri-holder" style="padding-left: 0;" markdown='1'>
-
-<div class="items-holder">
-{% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras | sort: "position" %}
-{% if atractieid %}
-  {% for trip in atractieid %}
-    {% include travel-inside.html %}
-  {% endfor %}
-{% endif %}
-</div>
+{% include travel-inside.html %}
 
 ## Cum te deplasezi prin {{page.oras}}?
 
@@ -140,22 +128,6 @@ Grădina Zoologică din Praga oferă tururi ghidate pentru grupuri, însă este 
 </div>
 </div>
 
-
-  <div class="col-lg-4 col-12 review-side" style="top: 15px;">
-    <span class="title-section-sidebar">ALTE ORASE</span>
-      <hr>
-      {% assign travels = site.travel | sort: 'date' | reverse %}
-      {% for travel in travels limit:8 %}
-        <a href="{{ travel.url }}">
-        <div class="small-post">
-      <img class="small-post-image" alt="{{ travel.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
-        {{ travel.title }}
-        </div>
-        <span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
-        <span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
-        <hr style="border: 0; margin: 0;">
-        </a>
-      {% endfor %}
-	 </div>
+{% include sidebar-oras.html %}
 
 </div>
