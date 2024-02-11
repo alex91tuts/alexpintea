@@ -143,4 +143,19 @@ sitemap:
       {% endif %}
     </url>
   {% endfor %}
+  {% for trip in site.new-travel %}
+    <url>
+      <loc>{{ site.url }}{{ trip.url | remove: "index.html" }}</loc>
+      {% if trip.date-modified %}
+        <lastmod>{{ trip.date-modified | date: "%Y-%m-%d" }}</lastmod>
+      {% else %}
+        <lastmod>{{ trip.date | date: "%Y-%m-%d" }}</lastmod>
+      {% endif %}
+      {% if page.sitemap.priority %}
+        <priority>{{ page.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.9</priority>
+      {% endif %}
+    </url>
+  {% endfor %}
 </urlset>
