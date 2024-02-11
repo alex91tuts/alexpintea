@@ -556,6 +556,1282 @@
     } 
   
 	,
+  
+    {
+      "title"    : "Bazilica Sfântul Gheorghe din Praga: Ghid Complet pentru Vizitarea Monumentului Istoric",
+      "category" : "CEHIA",
+      "tags"     : "basilică, istorică, romanică",
+      "url"      : "/travel/bazilica-sfantul-gheorghe-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Bazilica Sfântul Gheorghe din Praga, una dintre cele mai vechi biserici din Cehia. Află despre arhitectura sa impresionantă și istoria bogată care o înconjoară.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Bazilica Sfântul Petru și Sfântul Pavel din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "basilică, istorică, Vyšehrad",
+      "url"      : "/travel/bazilica-sfantul-petru-si-sfantul-pavel-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Basilica of St Peter and St Paul din Praga, o capodoperă a arhitecturii neogotice, cu vitralii impresionante și istorie bogată. Află mai multe despre vizite și evenimente.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Descoperă Crawling Babies din Praga: O Atracție Artistică Surprinzătoare și Modernă",
+      "category" : "CEHIA",
+      "tags"     : "sculpturi, bebeluși, contemporan",
+      "url"      : "/travel/bebelusii-taratori-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Arta contemporană la Praga cu sculpturile Crawling Babies de David Černý. Află semnificația unică și impactul cultural al acestor opere neobișnuite.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Berăria Monahală Strahov din Praga: Descoperă Tradiția Beraritului Ceh în Inima Europei",
+      "category" : "CEHIA",
+      "tags"     : "bere, manastire, istoric",
+      "url"      : "/travel/beraria-manastirii-strahov-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și savoarea berii artizanale la The Strahov Monastic Brewery din Praga. Află despre tradiția monahală a fabricării berii și bucură-te de o experiență unică într-un cadru istoric.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biblioteca Municipală din Praga: Un Sanctuar al Cunoașterii și Culturii în Inima Orașului Prague",
+      "category" : "CEHIA",
+      "tags"     : "bibliotecă, cultură, arhitectură",
+      "url"      : "/travel/biblioteca-municipala-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biblioteca Municipală din Praga, o oază de cultură și arhitectură impresionantă. Află despre colecțiile sale vaste, evenimentele culturale și instalația de artă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Our Lady before Tyn din Praga: Ghid Turistic și Istoric al Monumentului Iconic",
+      "category" : "CEHIA",
+      "tags"     : "gotică, biserica, Praga",
+      "url"      : "/travel/biserica-maicii-domnului-din-tyn-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și arhitectura impresionantă a Bisericii Maicii Domnului din Týn, o bijuterie gotică emblematică a orașului Praga, și află cum acest monument a influențat cultura și spiritualitatea cehă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Our Lady of the Snows din Praga: Descoperă Oază de Liniște și Splendoare Arhitecturală",
+      "category" : "CEHIA",
+      "tags"     : "barocă, istorică, impunătoare",
+      "url"      : "/travel/biserica-maicii-domnului-din-zapada-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și arhitectura impresionantă a Bisericii Our Lady of the Snows din Praga, una dintre cele mai înalte biserici gotice, cu un interior bogat și o poveste fascinantă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfânta Ludmila din Praga: Ghid Turistic și Informații Utile",
+      "category" : "CEHIA",
+      "tags"     : "neo-gotică, biserica, Praga",
+      "url"      : "/travel/biserica-sfanta-ludmila-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Sfânta Ludmila din Praga, o capodoperă neo-gotică plină de istorie și spiritualitate. Află despre arhitectura impresionantă și evenimentele culturale ce au loc aici.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Kostel Panny Marie Vítězné și Pragske Jezulatko: Ghid Complet pentru Vizitarea Bisericii Sfântului Copil din Praga",
+      "category" : "CEHIA",
+      "tags"     : "biserica, Jezulatko, Praga",
+      "url"      : "/travel/biserica-sfanta-maria-victorioasa-si-pruncul-iisus-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Kostel Panny Marie Vítězné, biserica iconică din Praga ce adăpostește statuia miraculoasă a Praghezului Iisus. Află istoria, arhitectura și semnificația spirituală a acestei bijuterii sacre.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfântul Francisc din Assisi din Praga: Ghid Turistic și Istoric al unei Capodopere Baroce",
+      "category" : "CEHIA",
+      "tags"     : "baroc, orgă, concerte",
+      "url"      : "/travel/biserica-sfantul-francisc-de-assisi-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Frumusețea și istoria Bisericii Sfântul Francisc de Assisi din Praga, o capodoperă arhitecturală barocă, plină de artă sacra și liniște spirituală.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica St. Giles din Praga: Descoperă Oază de Liniște și Artă Barocă în Inima Orașului",
+      "category" : "CEHIA",
+      "tags"     : "gotic, biserica, Praga",
+      "url"      : "/travel/biserica-sfantul-giles-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și arhitectura impresionantă a bisericii St. Giles din Praga, o capodoperă gotică plină de artă și mister. Află mai multe despre acest simbol spiritual ceh.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfântul Iacob din Praga: Descoperă Bijuteria Ascunsă a Arhitecturii Baroce",
+      "category" : "CEHIA",
+      "tags"     : "baroc, criptă, orgă",
+      "url"      : "/travel/biserica-sfantul-iacob-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și arhitectura impresionantă a Bisericii Sfântul Iacob din Praga, un monument gotic emblematic cu opere de artă sacre și legende fascinante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfântul Nicolae din Praga: Descoperă Splendoarea Barocului în Inima Orașului Vechi",
+      "category" : "CEHIA",
+      "tags"     : "baroc, biserica, Praga",
+      "url"      : "/travel/biserica-sfantul-nicolae-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Frumusețea barocă a Bisericii Sfântul Nicolae din Praga, o capodoperă arhitecturală cu interioare opulente și istorie fascinantă. Ghidul tău complet pentru a explora acest monument iconic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Josefov, Cartierul Istoric Evreiesc din Praga: Ghid Complet de Vizitare și Atracții Imperdibile",
+      "category" : "CEHIA",
+      "tags"     : "evreiesc, istoric, sinagogi",
+      "url"      : "/travel/cartierul-evreiesc-josefov-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea cartierului Josefov din Praga, o odisee culturală în inima evreiască a orașului, cu sinagogi vechi, cimitirul evreiesc și povești fascinante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Cartierul Lesser Town din Praga: Ghid Complet pentru Explorarea Comorii Ascunse a Orașului Vechi",
+      "category" : "CEHIA",
+      "tags"     : "istoric, pitoresc, aristocratic",
+      "url"      : "/travel/cartierul-mic-mala-strana-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Cartierul istoric Lesser Town din Praga, o oază de liniște plină de grădini ascunse, străzi pietruite și arhitectură barocă. Explorează poveștile și secretele acestui colț pitoresc.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Casa Dansantă din Praga: Arhitectură Modernă și Istorie Vibrantă",
+      "category" : "CEHIA",
+      "tags"     : "arhitectură, modern, iconic",
+      "url"      : "/travel/casa-dansatoare-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Arhitectura unică a Casei Dansante din Praga, o capodoperă modernă ce sfidează convenționalul. Află istoria și inspirația din spatele acestei clădiri emblematice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Obecni Dum din Praga: Ghid Complet pentru Vizitarea Capodoperei Art Nouveau",
+      "category" : "CEHIA",
+      "tags"     : "ArtNouveau, Concerte, Arhitectură",
+      "url"      : "/travel/casa-municipala-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Splendoarea Obecni Dum, o capodoperă a Art Nouveau din Praga. Află despre istoria, arhitectura și evenimentele culturale ce au loc în acest palat emblematic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Castelul Praga: Ghid Complet pentru Vizitarea Monumentului Istoric din Inima Pragăi",
+      "category" : "CEHIA",
+      "tags"     : "istorie, dominație, arhitectură",
+      "url"      : "/travel/castelul-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea Castelului Praga, simbolul istoric al Republicii Cehe. Află despre palate, grădini și comori ascunse în inima Pragăi.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Troja Chateau din Praga: Descoperă Splendoarea Barocă și Grădinile Pitorești",
+      "category" : "CEHIA",
+      "tags"     : "baroc, grădină, artă",
+      "url"      : "/travel/castelul-troja-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Troja Chateau, o bijuterie barocă din Praga, cu grădini pitorești și artă impresionantă. Planifică-ți vizita și află istoria acestui palat magnific.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Catedrala St. Vitus din Praga: Ghid Complet pentru Vizitarea Monumentului Istoric Iconic",
+      "category" : "CEHIA",
+      "tags"     : "gotic, catedrală, Praga",
+      "url"      : "/travel/catedrala-sfantul-vitus-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Splendoarea catedralei St. Vitus din Praga, o capodoperă gotică plină de istorie și artă. Află despre arhitectura impresionantă, vitraliile colorate și mormintele regale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Catedrala Sfinții Chiril și Metodiu din Praga: Descoperă Istoria și Arhitectura Sacrală",
+      "category" : "CEHIA",
+      "tags"     : "ortodoxă, martiri, rezistență",
+      "url"      : "/travel/catedrala-sfintii-chiril-si-metodiu-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Catedrala Sfinților Chiril și Metodiu din Praga, un simbol al rezistenței cehoslovace și locul unei ascunzători eroice în timpul celui de-al Doilea Război Mondial. Explorează istoria și arhitectura acestei biserici impunătoare.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "DOX Centre for Contemporary Art din Praga: Oaza de Artă Modernă și Evenimente Culturale Inedite",
+      "category" : "CEHIA",
+      "tags"     : "contemporan, arta, inovatie",
+      "url"      : "/travel/centrul-de-arta-contemporana-dox-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "DOX Centre for Contemporary Art din Praga, un spațiu inovator dedicat artei moderne, designului și arhitecturii. Explorează expoziții captivante și evenimente culturale într-un centru artistic de avangardă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Cimitirul Olšany din Praga: Ghid Complet pentru Vizitarea Ultimului Odihna al Personalitatilor Istorice",
+      "category" : "CEHIA",
+      "tags"     : "cimitir, istoric, monumental",
+      "url"      : "/travel/cimitirul-ol%C5%A1any-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea Cimitirului Olšany din Praga, ultimul refugiu al personalităților cehe și o oază de liniște plină de monumente impresionante și artă funerară.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Stary zidovsky Hrbitov din Praga: Ghid complet pentru vizitarea cimitirului evreiesc istoric",
+      "category" : "CEHIA",
+      "tags"     : "cimitir, istoric, evreiesc",
+      "url"      : "/travel/cimitirul-vechi-evreiesc-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și misterul celui mai vechi cimitir evreiesc din Praga, Stary zidovsky Hrbitov. Află despre simbolismul și arhitectura unică a acestui loc sacru, plin de povești și tradiții.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Cimitirul Vysehrad din Praga: Oază de Pace și Istorie în Inima Cehiei",
+      "category" : "CEHIA",
+      "tags"     : "cimitir, istoric, monumente",
+      "url"      : "/travel/cimitirul-vysehrad-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Vysehrad Cemetery, un loc plin de istorie și artă în inima Pragăi, unde odihnesc personalități marcante ce au modelat cultura cehă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Tyn Yard - Ungelt: Descoperă Comoara Medievală Ascunsă în Inima Pragăi",
+      "category" : "CEHIA",
+      "tags"     : "istoric, comerț, arhitectură",
+      "url"      : "/travel/curtea-t%C3%BDn-ungelt-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Tyn Yard - Ungelt, o oază medievală plină de istorie în inima Pragăi. Explorează curțile sale pietruite, magazinele tradiționale și cafenelele ascunse. Ghidul tău complet pentru o călătorie în timp!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Descoperă Petrin din Praga: Ghidul Complet al Grădinilor și Turnului de Observație",
+      "category" : "CEHIA",
+      "tags"     : "deal, turn, grădini",
+      "url"      : "/travel/dealul-pet%C5%99%C3%ADn-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Dealul Petřín din Praga, o oază de liniște cu grădini pitorești, turnul de observație Petřín și labirintul de oglinzi. Ghidul tău pentru o escapadă perfectă în inima Boemiei.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Divoka Sarka, Praga: Oază Naturală și Aventură în Inima Boemiei",
+      "category" : "CEHIA",
+      "tags"     : "natură, rezervație, drumeții",
+      "url"      : "/travel/divoka-sarka-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Oază de natură Divoka Sarka din Praga: trasee pitorești, bazine naturale și peisaje de vis. Ghidul tău complet pentru aventuri și relaxare în inima naturii cehe.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Gallery of Steel Figures Praga: Descoperă Arta Metalică Inedită în Inima Cehiei",
+      "category" : "CEHIA",
+      "tags"     : "otel, sculpturi, inovatie",
+      "url"      : "/travel/galeria-figurilor-de-otel-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Fascinanta Galerie a Figurilor de Oțel din Praga, o expoziție unică unde arta se întâlnește cu ingineria, prezentând sculpturi impresionante realizate din piese auto reciclate.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Narodni Galerie Praha: Descoperă Capodoperele Artelor Vizuale din Inima Pragăi",
+      "category" : "CEHIA",
+      "tags"     : "arta, galerie, cultural",
+      "url"      : "/travel/galeria-nationala-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Colecțiile impresionante de artă ale Narodni Galerie din Praga. Explorează capodoperele de la arta medievală la cea modernă și contemporană în inima orașului istoric.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Grădina Botanică din Praga: Oază de Verdeață și Relaxare în Inima Orașului",
+      "category" : "CEHIA",
+      "tags"     : "botanic, floră, seră",
+      "url"      : "/travel/gradina-botanica-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Oază de liniște și frumusețe naturală la Grădina Botanică din Praga. Explorează serele exotice, grădinile tematice și peisajele pitorești. Ghid complet pentru vizitatori!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Grădina Vrtba din Praga: Oază Barocă Ascunsă în Inima Orașului",
+      "category" : "CEHIA",
+      "tags"     : "baroc, gradini, priveliste",
+      "url"      : "/travel/gradina-vrtba-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Grădina Vrtba, o oază barocă ascunsă în inima Pragăi. Află despre istoria, arhitectura și frumusețea acestui patrimoniu UNESCO, perfect pentru o escapadă pitorească.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Ghid Complet pentru Explorarea Grădinii Zoologice din Praga",
+      "category" : "CEHIA",
+      "tags"     : "animale, familie, conservare",
+      "url"      : "/travel/gradina-zoologica-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Minunile naturii la Grădina Zoologică din Praga! Află despre speciile rare, programele de conservare și activitățile familiale. Planifică-ți vizita perfectă!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Grădinile Palatului Wallenstein din Praga: Oază de liniște și artă barocă",
+      "category" : "CEHIA",
+      "tags"     : "baroc, grădini, palat",
+      "url"      : "/travel/gradinile-palatului-wallenstein-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Grădinile palatului Wallenstein din Praga, o oază de liniște cu peisaje baroce, sculpturi impresionante și pavilioane ascunse. Explorează acest colț de paradis istoric.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Hradcany, Inima Istorică a Pragăi: Ghid Complet pentru Explorarea Cartierului Regal",
+      "category" : "CEHIA",
+      "tags"     : "castel, istorie, panoramic",
+      "url"      : "/travel/hradcany-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Hradcany, cartierul istoric al Pragăi, unde te așteaptă Castelul Praga, catedrala St. Vitus și multe alte comori arhitecturale. Ghidul tău complet pentru o călătorie de neuitat!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Loreta Praha - Ghid Complet al Sanctuarului Istoric din Praga",
+      "category" : "CEHIA",
+      "tags"     : "pelerinaj, baroc, clopotniță",
+      "url"      : "/travel/loreta-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Loreta Praha, sanctuarul baroc care încântă vizitatorii cu clopotnița sa muzicală și comorile sacre. Află istoria și secretele acestui loc de pelerinaj emblematic din Praga.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Conventul Sfânta Agnes din Boemia - Galeria Națională Praga: O Călătorie în Istoria și Arta Medievală",
+      "category" : "CEHIA",
+      "tags"     : "convent, arta, istorie",
+      "url"      : "/travel/manastirea-sfanta-agnes-din-boemia-galeria-nationala-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Conventul Sf. Agnes din Boemia, parte a Galeriei Naționale din Praga, un sanctuar al artei medievale și gotice, încărcat de istorie și spiritualitate. Explorează acest monument istoric unic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Manifesto Florenc Praga: Ghid Complet pentru Vizitarea Pieței Gastronomice Inovatoare",
+      "category" : "CEHIA",
+      "tags"     : "gastronomie, trendy, piata",
+      "url"      : "/travel/manifesto-florenc-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Manifesto Florenc, o oază urbană de gastronomie și design în inima Pragăi. Află totul despre acest spațiu inovator, de la food trucks la evenimente culturale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Memorialul Jan Palach din Praga: Omagiu Eroului Cehoslovac și Simbol al Libertății",
+      "category" : "CEHIA",
+      "tags"     : "sacrificiu, istorie, Praga",
+      "url"      : "/travel/memorialul-jan-palach-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Memorialul Jan Palach din Praga, un omagiu adus curajului și sacrificiului. Află istoria, semnificația și cum să vizitezi acest simbol al libertății.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Memorialul Național al Eroilor Terorii Heydrich din Praga: Omagiu și Istorie",
+      "category" : "CEHIA",
+      "tags"     : "rezistență, memorial, istorie",
+      "url"      : "/travel/memorialul-national-al-eroilor-terorii-heydrich-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Memorialul Național al Eroilor Terorii Heydrich din Praga, un omagiu adus curajului și sacrificiului luptătorilor rezistenței cehe. Află istoria și semnificația acestui loc emoționant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Memorialul Victimelor Comunismului din Praga: Un Omagiu Emoționant și Educativ",
+      "category" : "CEHIA",
+      "tags"     : "comunism, victime, memorial",
+      "url"      : "/travel/memorialul-victimelor-comunismului-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Memorialul Victimelor Comunismului din Praga, un omagiu emoționant adus curajului și suferinței celor afectați de regimul totalitar. Află istoria și semnificația acestui monument impresionant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Monumentul Jan Hus din Praga: Omagiu adus unui Erou Național Czech",
+      "category" : "CEHIA",
+      "tags"     : "reformator, istoric, Praga",
+      "url"      : "/travel/monumentul-jan-hus-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Monumentul Jan Hus, simbol al luptei pentru libertatea de expresie și reformă religioasă, situat în inima istorică a Pragăi, pe impresionanta Piață a Orașului Vechi.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Vysehrad - Monumentul Național Cultural din Praga: Ghid Complet de Vizitare",
+      "category" : "CEHIA",
+      "tags"     : "istorie, fortificație, panoramă",
+      "url"      : "/travel/monumentul-national-cultural-vysehrad-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Vysehrad, monumentul cultural național din Praga, o fortăreață plină de istorie, cu biserici impunătoare, grădini pitorești și vederi spectaculoase asupra Vltavei. Explorează legendele și arhitectura acestui loc emblematic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Monumentul Național de la Vitkov din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "istorie, monument, Vitkov",
+      "url"      : "/travel/monumentul-national-de-pe-vitkov-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Monumentul Național de la Vitkov din Praga, un simbol al istoriei cehești și un loc de comemorare impresionant. Află despre muzeu, mausoleu și vederile panoramice ale orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Aviației Kbely din Praga: O Călătorie În Istoria Aeronauticii",
+      "category" : "CEHIA",
+      "tags"     : "aviație, militar, istoric",
+      "url"      : "/travel/muzeul-aviatiei-kbely-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria aviației la Muzeul Aviației Kbely din Praga. Explorează exponate fascinante, aeronave istorice și află despre evoluția zborului într-unul dintre cele mai mari muzee de profil din Europa.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Berii Cehia din Praga: O Călătorie în Inima Tradițiilor Pivovarești",
+      "category" : "CEHIA",
+      "tags"     : "bere, muzeu, Praga",
+      "url"      : "/travel/muzeul-ceh-al-berii-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și tradițiile berii cehe la Czech Beer Museum din Praga. Explorează expoziții interactive, degustări de bere și creează-ți propria etichetă de bere personalizată!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Ceske Muzeum Hudby din Praga: Descoperă Istoria Muzicii în Inima Boemiei",
+      "category" : "CEHIA",
+      "tags"     : "muzică, istorie, cultură",
+      "url"      : "/travel/muzeul-ceh-al-muzicii-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Ceske Muzeum Hudby din Praga, un sanctuar al muzicii clasice și moderne. Află despre expoziții, concerte și istoria clădirii baroce care adăpostește muzeul.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Museum of Communism Praga: Ghid Complet pentru Vizitarea Expoziției Istorice",
+      "category" : "CEHIA",
+      "tags"     : "istorie, comunism, educativ",
+      "url"      : "/travel/muzeul-comunismului-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria complexă a comunismului la Museum of Communism din Praga. Află despre viața sub regim, rezistența și căderea acestuia într-un tur captivant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Illusion Art Museum Prague - IAM Prague: O Aventură Vizuală Inedită în Inima Pragăi",
+      "category" : "CEHIA",
+      "tags"     : "iluzii, arta, interactiv",
+      "url"      : "/travel/muzeul-de-arta-a-iluziilor-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Illusion Art Museum Prague - IAM Prague, un univers fascinant al artei optice și iluziilor interactive. Vizitează și lasă-te surprins de expoziții unice în inima Pragăi!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Zidovske Muzeum v Praze: Ghid Complet pentru Explorarea Istoriei Evreiești din Praga",
+      "category" : "CEHIA",
+      "tags"     : "istorie, iudaism, muzeu",
+      "url"      : "/travel/muzeul-evreiesc-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și patrimoniul evreiesc la Muzeul Evreiesc din Praga. Explorează sinagogi istorice, artefacte valoroase și poveștile comunității evreiești din inima Europei.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Karel Zeman din Praga: O Călătorie Magică în Lumea Cinematografiei de Animație",
+      "category" : "CEHIA",
+      "tags"     : "animație, cinematografie, interactiv",
+      "url"      : "/travel/muzeul-karel-zeman-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Magia cinematografiei la Muzeul Karel Zeman din Praga. Află despre pionierul efectelor speciale și explorează expoziții interactive ce te vor fascina.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeele KGB din Praga: O Călătorie În Timpul Războiului Rece",
+      "category" : "CEHIA",
+      "tags"     : "spionaj, istorie, sovietic",
+      "url"      : "/travel/muzeul-kgb-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria intrigantă a KGB-ului la Muzeul KGB din Praga. Exponate autentice, echipamente de spionaj și povești captivante din perioada Războiului Rece te așteaptă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Film Legends Museum Prague: Descoperă Magia Cinematografiei în Inima Pragăi",
+      "category" : "CEHIA",
+      "tags"     : "cinema, figurine, divertisment",
+      "url"      : "/travel/muzeul-legendelor-filmului-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Magia cinematografiei la Film Legends Museum Prague! Află secretele din spatele scenei, pozează alături de personaje iconice și trăiește experiența interactivă unică în inima Pragăi.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Museum of Miniatures din Praga: Descoperă Lumea Fascinantă a Miniatuurilor Artistice",
+      "category" : "CEHIA",
+      "tags"     : "miniaturi, detaliu, unicat",
+      "url"      : "/travel/muzeul-miniaturilor-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Lumea fascinantă a detaliilor la Museum of Miniatures din Praga, unde arta și măiestria se întâlnesc în miniaturi uimitoare. O aventură unică pentru toate vârstele!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "NaFilM: Muzeul Național de Film din Praga - O Călătorie Fascinantă în Istoria Cinematografiei",
+      "category" : "CEHIA",
+      "tags"     : "cinematografie, istorie, interactiv",
+      "url"      : "/travel/muzeul-national-al-filmului-nafilm-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "NaFilM: Muzeul Național de Film din Praga, o oază pentru cinefili și o călătorie fascinantă prin istoria cinematografiei. Află mai multe despre expoziții interactive și colecții rare!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Cold War Museum Praga: O Călătorie În Timpul Războiului Rece",
+      "category" : "CEHIA",
+      "tags"     : "istorie, razboiul-rece, militar",
+      "url"      : "/travel/muzeul-razboiului-rece-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Cold War Museum din Praga, o călătorie fascinantă în istoria Războiului Rece. Explorează exponatele unice și află secretele unei ere tensionate.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Museum of Senses Prague: O experiență unică pentru simțuri în inima Pragăi",
+      "category" : "CEHIA",
+      "tags"     : "senzorial, interactiv, distractiv",
+      "url"      : "/travel/muzeul-simturilor-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Museum of Senses din Praga, o aventură unică pentru simțuri! Experimentează iluzii optice uimitoare și expoziții interactive care te vor captiva.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Speculum Alchemiae Museum din Praga: Descoperă secretele alchimiei în inima Europei",
+      "category" : "CEHIA",
+      "tags"     : "alchimie, istorie, mister",
+      "url"      : "/travel/muzeul-speculum-alchemiae-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Secretele alchimiei la Speculum Alchemiae Museum din Praga. Explorează laboratoarele ascunse și află despre căutarea pietrei filozofale în inima istorică a orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Tehnic Național din Praga: O Călătorie Fascinantă în Inovația și Istoria Tehnologiei",
+      "category" : "CEHIA",
+      "tags"     : "tehnologie, istorie, inovație",
+      "url"      : "/travel/muzeul-tehnic-national-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Fascinanta lume a inovației la Muzeul Tehnic Național din Praga. Explorează expoziții de aviație, tehnologie și inginerie care au modelat istoria.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Novy Svet Praga: Ghid Complet pentru Explorarea Cartierului Istoric Ascuns",
+      "category" : "CEHIA",
+      "tags"     : "pitoresc, istoric, linistit",
+      "url"      : "/travel/nov%C3%BD-sv%C4%9Bt-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Novy Svet, o oază de liniște în Praga, cu străduțe înguste și case pitorești. Află istoria și secretele acestui cartier de poveste, departe de agitația turistică.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "O2 Arena Praga: Ghid Complet pentru Evenimente și Vizitare",
+      "category" : "CEHIA",
+      "tags"     : "concerte, sport, evenimente",
+      "url"      : "/travel/o2-arena-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "O2 Arena din Praga, un centru vibrant pentru evenimente culturale și sportive. Află programul, cum să ajungi și cele mai bune sfaturi pentru vizită.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Opera de Stat din Praga: Ghid Complet pentru Vizitarea Icoanei Culturale Cehe",
+      "category" : "CEHIA",
+      "tags"     : "opera, cultural, istoric",
+      "url"      : "/travel/opera-de-stat-din-praga-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Splendoarea Operei de Stat din Praga, o capodoperă arhitecturală cu spectacole impresionante. Ghidul tău complet pentru o experiență culturală de neuitat.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "New Town Praga: Ghid Complet pentru Explorarea Cartierului Istoric",
+      "category" : "CEHIA",
+      "tags"     : "Wenceslas, comerț, modern",
+      "url"      : "/travel/orasul-nou-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Farmecul New Town din Praga, o zonă vibrantă plină de istorie, arhitectură impresionantă și viață culturală efervescentă. Explorează atracții ca Piața Wenceslas și Teatrul Național.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Lobkowicz din Praga: Descoperă Comoara Ascunsă a Istoriei și Artei Boeme",
+      "category" : "CEHIA",
+      "tags"     : "palat, istorie, arta",
+      "url"      : "/travel/palatul-lobkowicz-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Lobkowicz din Praga, o bijuterie a patrimoniului cultural ce adăpostește o colecție impresionantă de artă, muzică și istorie. Explorează galeriile, concertele și povestea fascinantă a familiei Lobkowicz.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palac Sternbergow din Praga: Ghid Complet pentru Vizitarea Capodoperei Baroce",
+      "category" : "CEHIA",
+      "tags"     : "artă, baroc, muzeu",
+      "url"      : "/travel/palatul-sternberg-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palacul Sternberg din Praga, o bijuterie a artei baroce, care găzduiește o colecție impresionantă de artă europeană. Află despre istoria și exponatele sale fascinante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Waldstein din Praga: Descoperă Splendoarea Renașterii în Inima Boemiei",
+      "category" : "CEHIA",
+      "tags"     : "baroc, senat, grădini",
+      "url"      : "/travel/palatul-waldstein-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Waldstein din Praga, o capodoperă a arhitecturii baroce, cu grădini pitorești și interioare opulente. Ghidul tău complet pentru istorie, tururi și sfaturi de vizitare.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palladium Praha: Ghid Complet de Shopping și Divertisment în Inima Pragăi",
+      "category" : "CEHIA",
+      "tags"     : "cumpărături, mall, istoric",
+      "url"      : "/travel/palladium-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palladium Praha, un centru comercial iconic din inima Pragăi, cu peste 200 de magazine și restaurante. Ghidul tău complet pentru shopping și divertisment în capitala Cehiei.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Kampa Park din Praga: Ghid Complet pentru Explorarea Paradisului Verde Urban",
+      "category" : "CEHIA",
+      "tags"     : "insulă, artă, relaxare",
+      "url"      : "/travel/parcul-kampa-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Kampa Park din Praga, o oază de liniște pe malul râului Vltava. Află despre istoria parcului, arta modernă și cele mai bune locuri pentru picnic și relaxare.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Letna din Praga: Ghid Complet pentru Vizitarea Oazei Verzi deasupra Vltavei",
+      "category" : "CEHIA",
+      "tags"     : "vedere, patinaj, metronom",
+      "url"      : "/travel/parcul-letna-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Frumusețile și istoria Parcului Letná din Praga. Află despre cele mai bune trasee, puncte de belvedere și evenimente culturale în această oază verde urbană.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Vysehrad Park din Praga: Ghid Complet pentru Explorarea Oazei Istorice Verzi",
+      "category" : "CEHIA",
+      "tags"     : "istorie, vedere, fortificație",
+      "url"      : "/travel/parcul-vysehrad-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Vysehrad Park din Praga, o oază de istorie și natură. Plimbă-te prin grădini pitorești, explorează fortificațiile antice și bucură-te de vederi panoramice asupra orașului. Ghidul tău pentru o escapadă culturală memorabilă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Lucerna Arcade Prague: Ghid Complet pentru Explorarea Galeriei Istorice din Praga",
+      "category" : "CEHIA",
+      "tags"     : "cumpărături, art-nouveau, cinematograf",
+      "url"      : "/travel/pasajul-lucerna-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Lucerna Arcade din Praga, o galerie comercială impresionantă plină de istorie, magazine și cafenele. Explorează arhitectura Art Nouveau și statuia ecvestră a lui Wenceslas.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piața de Fermieri Naplavka din Praga: Descoperă Produse Locale și Atmosfera Autentică Czechă",
+      "category" : "CEHIA",
+      "tags"     : "piata, local, gastronomie",
+      "url"      : "/travel/piata-de-fermieri-naplavka-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Naplavka Farmer&#39;s Market din Praga, oaza urbană pentru gurmanzi și iubitori de produse locale. Explorează standurile cu bunătăți proaspete și atmosfera vibrantă a pieței!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Staromestske namesti: Inima Istorică a Pragăi și Ghidul Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "istoric, piață, Praga",
+      "url"      : "/travel/piata-orasului-vechi-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Farmecul istoric al Pieței Orașului Vechi, Staroměstské náměstí, din Praga. Află despre ceasul astronomic, monumentele și evenimentele culturale ce animă acest centru vibrant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piața Republicii (Namesti Republiky) din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "istoric, piață, arhitectură",
+      "url"      : "/travel/piata-republicii-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Piața istorică Namesti Republiky din Praga, inima culturală și arhitecturală a orașului, cu atracții emblematice precum Turnul Prașiei și Casa Municipală.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piața Wenceslas din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "istorie, comerț, monument",
+      "url"      : "/travel/piata-venceslas-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea Piaței Wenceslas din Praga, un simbol al patrimoniului ceh și epicentrul evenimentelor culturale și sociale. Ghidul tău complet pentru cumpărături, gastronomie și explorare urbană.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Prasna brana din Praga: Ghid Complet pentru Vizitarea Porții Istorice",
+      "category" : "CEHIA",
+      "tags"     : "istorie, turn, arhitectură",
+      "url"      : "/travel/poarta-pulberariei-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și arhitectura impresionantă a Prasnei brana din Praga, o poartă gotică fortificată ce oferă o priveliște panoramică asupra orașului. Află mai multe despre acest simbol iconic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Podul Charles din Praga: Ghid Complet pentru Vizitarea Icoanei Arhitecturale Boeme",
+      "category" : "CEHIA",
+      "tags"     : "istoric, simbol, pietonal",
+      "url"      : "/travel/podul-charles-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea podului Charles din Praga, o capodoperă arhitecturală gotică. Află despre statuile sale impresionante și cele mai bune momente pentru a-l vizita.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Primăria Veche și Ceasul Astronomic din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "istorie, ceasastronomic, primarie",
+      "url"      : "/travel/primaria-veche-cu-ceasul-astronomic-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și mecanismul fascinant al Ceasului Astronomic din Primăria Veche, o capodoperă a Pragăi, și află cum să-l vizitezi pentru a asista la spectacolul său unic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Kingdom of Railways Praga: Descoperă Cel Mai Mare Model Feroviar din Cehia",
+      "category" : "CEHIA",
+      "tags"     : "trenuri, miniaturi, interactiv",
+      "url"      : "/travel/regatul-cailor-ferate-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Kingdom of Railways din Praga, o lume fascinantă în miniatură pentru pasionații de trenuri și familii. Explorează diorame detaliate și tehnologie interactivă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Rudolfinum Praga: Ghid Complet pentru Vizitarea Iconicului Centru de Artă și Muzică",
+      "category" : "CEHIA",
+      "tags"     : "concerte, galerie, neorenascentist",
+      "url"      : "/travel/rudolfinum-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Rudolfinum, o bijuterie arhitecturală din Praga, care găzduiește atât sala de concerte Dvořák, cât și Galeria de Artă. Află istoria și evenimentele culturale de aici.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sinagoga Jerusalem din Praga: Descoperă Splendoarea Arhitecturală și Istoria Vibrantă a Unui Monument Iudaic Emblematic",
+      "category" : "CEHIA",
+      "tags"     : "sinagogă, art-nouveau, istorică",
+      "url"      : "/travel/sinagoga-ierusalim-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Sinagoga Jerusalem din Praga, o capodoperă a stilului Art Nouveau și un simbol al istoriei evreiești bogate. Află despre arhitectura unică și semnificația culturală a acestui loc de cult impresionant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sinagoga Pinkas, Muzeul Evreiesc din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "sinagoga, memorial, istorie",
+      "url"      : "/travel/sinagoga-pinkas-muzeul-evreiesc-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria emoționantă a Sinagogii Pinkas, parte a Muzeului Evreiesc din Praga, un memorial dedicat victimelor Holocaustului din Boemia și Moravia. Explorează exponatele și inscripțiile impresionante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sinagoga Spaniolă și Muzeul Evreiesc din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "sinagoga, evreiesc, istorie",
+      "url"      : "/travel/sinagoga-spaniola-muzeul-evreiesc-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Sinagoga Spaniolă, o bijuterie arhitecturală a Muzeului Evreiesc din Praga. Află despre istoria și arta fascinantă care îmbogățesc patrimoniul cultural al orașului Praga.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Statuia lui Franz Kafka din Praga: Opera lui Jaroslav Rona - Un Simbol Cultural Inedit",
+      "category" : "CEHIA",
+      "tags"     : "Kafka, Sculptură, Praga",
+      "url"      : "/travel/statuia-lui-franz-kafka-de-jaroslav-rona-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Statuia lui Franz Kafka realizată de Jaroslav Rona în Praga. Află povestea din spatele acestei opere de artă impresionante și cum să o vizitezi.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Statuia Franz Kafka din Praga: Descoperă Simbolismul și Istoria din Spatele Operei de Artă Iconice",
+      "category" : "CEHIA",
+      "tags"     : "Kafka, Sculptură, Praga",
+      "url"      : "/travel/statuia-lui-franz-kafka-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Statuia lui Franz Kafka din Praga, o capodoperă artistică ce omagiază geniul scriitorului. Află istoria și semnificația acestei opere moderne în inima orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Man Hanging Out - Atracția Inedită din Praga care Sfidă Gravitația",
+      "category" : "CEHIA",
+      "tags"     : "sculptură, insolit, artă",
+      "url"      : "/travel/statuia-omul-atarnand-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "&quot;Man Hanging Out&quot;, opera intrigantă de artă stradală din Praga, care surprinde trecătorii. Află povestea din spatele sculpturii și cum să o găsești în inima orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Statuia Inversată a Regelui Wenceslas Călare pe un Cal Mort: O Atracție Neobișnuită în Praga",
+      "category" : "CEHIA",
+      "tags"     : "neconvențional, artă, satiră",
+      "url"      : "/travel/statuia-rasturnata-a-regelui-wenceslas-calare-pe-un-cal-mort-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Statuia inedită a regelui Wenceslas călărind un cal mort, o operă de artă contemporană plină de simbolism în inima orașului Praga. Explorează semnificațiile și istoria din spatele acestei creații unice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Peeing Characters din Praga: Descoperă fascinanta sculptură contemporană a lui David Černý",
+      "category" : "CEHIA",
+      "tags"     : "statui, modern, insolit",
+      "url"      : "/travel/statuile-care-urineaza-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Peeing Characters, sculptura modernă și provocatoare din Praga, care surprinde vizitatorii cu umorul său neașteptat. Află mai multe despre această atracție unică!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Strada Celetná din Praga: Ghid Complet pentru Explorarea Istoriei și Comerțului Boem",
+      "category" : "CEHIA",
+      "tags"     : "istorică, comerț, arhitectură",
+      "url"      : "/travel/strada-celetn%C3%A1-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea străzii Celetná din Praga, o arteră plină de farmec, arhitectură impresionantă și magazine unice. Ghidul tău complet pentru o plimbare memorabilă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Nerudova Street din Praga: Ghid Complet pentru Descoperirea Celei Mai Picturale Străzi din Orașul de Aur",
+      "category" : "CEHIA",
+      "tags"     : "istorică, pitorească, arhitectură",
+      "url"      : "/travel/strada-nerudova-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Nerudova Street, strada istorică din inima Pragăi, plină de case baroce, embleme și povești fascinante. Ghidul tău complet pentru o plimbare memorabilă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parizska Street din Praga: Ghidul Complet pentru Cumpărături de Lux și Arhitectură Impresionantă",
+      "category" : "CEHIA",
+      "tags"     : "cumpărături, lux, modă",
+      "url"      : "/travel/strada-parizska-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Eleganța Parizska Street din Praga, o destinație de lux pentru shopping și arhitectură impresionantă. Ghidul tău complet pentru cele mai rafinate magazine și cafenele.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "The Estates Theatre din Praga: Descoperă Istoria și Splendoarea Teatrului Istoric",
+      "category" : "CEHIA",
+      "tags"     : "istoric, opera, Mozart",
+      "url"      : "/travel/teatrul-estates-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "The Estates Theatre din Praga, o bijuterie arhitecturală cu o istorie bogată, unde Mozart a dirijat premiera operei Don Giovanni. Află mai multe despre spectacolele actuale și cum să vizitezi acest monument cultural.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Teatrul Național din Praga: Ghid Complet pentru Vizitarea Icoanei Culturale Cehe",
+      "category" : "CEHIA",
+      "tags"     : "cultural, arhitectură, spectacole",
+      "url"      : "/travel/teatrul-national-din-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Splendoarea Teatrului Național din Praga, o capodoperă arhitecturală și epicentrul culturii cehe. Află istoria, spectacolele și cum să-l vizitezi.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Turnul Clopotniței Henry din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "turn, istoric, panoramic",
+      "url"      : "/travel/turnul-clopotnitei-lui-henry-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea Turnului Clopotului Henry din Praga, un simbol arhitectural impresionant. Află cum să-l vizitezi și ce vederi panoramice îți oferă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Turnul Podului din Orașul Vechi din Praga: Ghid Complet pentru Vizitatori",
+      "category" : "CEHIA",
+      "tags"     : "gotic, turn, vedere",
+      "url"      : "/travel/turnul-podului-din-orasul-vechi-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și arhitectura impunătoare a Turnului Podului din Orașul Vechi, un simbol emblematic al Pragăi, și află cum să-l vizitezi pentru o experiență culturală memorabilă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Zidul Foamei din Praga: Istoria și Importanța unui Monument Emblematic",
+      "category" : "CEHIA",
+      "tags"     : "istoric, fortificație, vedere",
+      "url"      : "/travel/zidul-foamei-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și semnificația Zidului Foamei din Praga, o fortificație medievală plină de legende. Află cum acest monument istoric își păstrează farmecul și misterul în inima orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Zidurile cetății Vysehrad din Praga: Descoperă istoria și frumusețea fortificațiilor antice",
+      "category" : "CEHIA",
+      "tags"     : "istorie, fortificații, Vyšehrad",
+      "url"      : "/travel/zidurile-cetatii-vysehrad-praga/",
+      "date"     : "2024-02-04 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Istoria și frumusețea zidurilor cetății Vysehrad din Praga, un loc încărcat de legende și vederi spectaculoase asupra orașului. Explorează fortificațiile și grădinile pitorești.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "TOTUL DESPRE PRAGA - LOCURI DE VIZITAT, ATRACTII, IMAGINI, CAZARE, ZBORURI",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "CAPITALA, BOEM, CULTURAL",
+      "url"      : "/travel/totul-despre-praga-locuri-vizitat-atractii/",
+      "date"     : "2024-02-11 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Descopera PRAGA. Vezi in acest articol locurile de vizitat, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale...",
+			"cat"    : "oras",
+			"type"     : "travel"
+    } 
+  
+	,
 	
     {
       "title"    : "Galaxy s10 Lite, Galaxy Note 10 Lite Pareri | Specificatii | Culori",

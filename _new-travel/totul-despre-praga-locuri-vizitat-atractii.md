@@ -4,7 +4,7 @@ title: "TOTUL DESPRE PRAGA - LOCURI DE VIZITAT, ATRACTII, IMAGINI, CAZARE, ZBORU
 descriere: "Descopera PRAGA. Vezi in acest articol locurile de vizitat, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale..."  
 description: "Descopera PRAGA. Vezi in acest articol locurile de vizitat, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale..." 
 meta_image: ""
-image: ""
+imagine: "mobile-galerie-catedrala-sf-vitus-praga.webp"
 author: "TOREDUS"
 author-link: "grup-totredus"
 latitudine: 50.086494
