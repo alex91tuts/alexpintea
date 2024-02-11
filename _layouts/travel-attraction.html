@@ -6,22 +6,26 @@ post_class: post-template
 
 ---
 <script type="application/ld+json">
-{% if page.video == "yes" %}[{% endif %}
-{ "@context": "https://schema.org", 
- "@type": "Article",
- "headline": "{{ page.title }}",
- "alternativeHeadline": "{{ page.title }}",
- "image": [
- {%- capture folder_path %}/assets/images/travel/{{ page.folder }}{% endcapture -%}{%- assign small = site.static_files | where_exp: "file", "file.path contains folder_path and file.name contains 'desktop'" -%}{%- for image in small -%}"{{site.url}}{{ image.path }}"{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}
- ],
- "author":{
-		"@type": "Person",
-		"name": "{{ page.author }}",
-		"url": "{{ page.author-link }}"
+{
+  "@context": "https://schema.org", 
+  "@type": "Article",
+  "headline": "{{ page.title }}",
+  "alternativeHeadline": "{{ page.title }}",
+  "image": [
+    {%- capture folder_path -%}/assets/images/travel/{{ page.folder }}{% endcapture -%}
+    {%- assign small = site.static_files | where_exp: "file", "file.path contains folder_path and file.name contains 'desktop'" -%}
+    {%- for image in small -%}
+      "{{ site.url }}{{ image.path }}" {%- unless forloop.last -%}, {% endunless -%}
+    {%- endfor -%}
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}",
+    "url": "{{ page.author-link }}"
   }, 
- "genre": "travel", 
- "keywords": "{{ page.anchors | join: ', ' }}",
-"publisher": {
+  "genre": "travel", 
+  "keywords": "{{ page.anchors | join: ', ' }}",
+  "publisher": {
     "@type": "Organization",
     "name": "Totredus",
     "logo": {
@@ -29,31 +33,32 @@ post_class: post-template
       "url": "{{ site.url }}/assets/images/log-tr.webp"
     }
   },
- "url": "{{ page.baseurl }}",
-   "mainEntityOfPage": {
+  "url": "{{ page.url }}",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ site.url }}/travel"
   },
- "datePublished": "{{ page.date }}",
- "dateCreated": "{{ page.date }}",
- "dateModified": "{{ page.date-modified }}",
- "description": "{{ page.description }}",
- "articleBody": ""
- }{% if page.video == "yes" %},
- {
+  "datePublished": "{{ page.date }}",
+  "dateCreated": "{{ page.date }}",
+  "dateModified": "{{ page.date-modified }}",
+  "description": "{{ page.description }}",
+  "articleBody": ""
+}
+{% if page.video == "yes" %}
+, {
   "@context": "https://schema.org",
   "@type": "VideoObject",
   "name": "{{ page.video_name }}",
   "description": "{{ page.video_description }}",
   "thumbnailUrl": [
-  	"{{ site.url }}{{ page.video_thumb }}"
-   ],
-   "uploadDate": "{{ page.video_update }}",
-	 "embedUrl": "{{ page.video_url }}"
-  } 
- ]
- {% endif %}
+    "{{ site.url }}{{ page.video_thumb }}"
+  ],
+  "uploadDate": "{{ page.video_update }}",
+  "embedUrl": "{{ page.video_url }}"
+}
+{% endif %}
 </script>
+
 
 
 <!-- Begin Article
