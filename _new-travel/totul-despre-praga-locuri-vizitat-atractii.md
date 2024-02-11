@@ -107,7 +107,7 @@ Când vizitați orașul Praga, cunoscut pentru arhitectura sa impunătoare și i
 
 2. **Încălțăminte**: În multe locuințe și în unele cazuri, chiar și în pensiuni sau spații mai intime, vi se poate cere să vă lăsați încălțămintea la intrare. Este bine să urmați acest obicei pentru a arăta respect.
 
-3. **Tipuri la restaurante**: Deși nu este obligatoriu, este obișnuit să lăsați un bacșiș de aproximativ 10% dacă sunteți mulțumiți de serviciu. În multe locuri, este de preferat să lăsați bacșișul în mână direct chelnerului în loc să îl lăsați pe masă.
+3. **Bacșiș la restaurante**: Deși nu este obligatoriu, este obișnuit să lăsați un bacșiș de aproximativ 10% dacă sunteți mulțumiți de serviciu. În multe locuri, este de preferat să lăsați bacșișul în mână direct chelnerului în loc să îl lăsați pe masă.
 
 4. **Îmbrăcămintea**: Praghezii pun mare accent pe modul în care se prezintă. Chiar dacă orașul este destul de relaxat în ceea ce privește îmbrăcămintea de zi cu zi, încercați să adoptați un stil smart casual când ieșiți în oraș seara sau dacă vizitați teatre și restaurante mai sofisticate.
 
