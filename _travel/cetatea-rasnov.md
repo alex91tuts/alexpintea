@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Cetatea Rasnov 2023: O Calatorie In Timp Prin Istoria Medievala"
+title: "Cetatea Rasnov: O Calatorie In Timp Prin Istoria Medievala"
 descriere: "Explorează Cetatea Râșnov - bijuteria Transilvaniei. Află istoria sa bogată, viziunea panoramică impresionantă și atracțiile uimitoare din apropiere."  
 description: "Explorează Cetatea Râșnov - bijuteria Transilvaniei. Află istoria sa bogată, viziunea panoramică impresionantă și atracțiile uimitoare din apropiere."   
 meta_image: assets/images/travel/cetatea-rasnov/cetatea-rasnov-main.webp 
@@ -14,7 +14,7 @@ lang: ro_RO
 keyword: "cetate rasnov"
 date: 2023-05-18
 date-modified: 2023-07-21
-tags: ['Rasnov', 'Cetate', '2023']
+tags: ['Rasnov', 'Cetate', '2024']
 
 ---
 

@@ -1819,15 +1819,28 @@
     } ,
   
     {
-      "title"    : "TOTUL DESPRE PRAGA - 97 LOCURI DE VIZITAT, ATRACTII, IMAGINI, CAZARE, ZBORURI",
+      "title"    : "DESPRE PRAGA - ATRACTII, CAZARE, IMAGINI, ZBORURI, ISTORIC",
       "category" : "REPUBLICA CEHA",
       "tags"     : "CAPITALA, BOEM, CULTURAL",
       "url"      : "/travel/totul-despre-praga-locuri-vizitat-atractii/",
       "date"     : "2024-02-11 00:00:00 +0200",
 	    "image"     : "",
 			"author"    : "TOREDUS",
-	    "description"     : "Descopera PRAGA. Vezi in acest articol locurile de vizitat, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale...",
+	    "description"     : "Descopera PRAGA. Vezi in acest articol detalii despre orasul celor 1000 de turnuri, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale...",
 			"cat"    : "oras",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Locuri de Vizitat in Praga - Top 30 Atractii si Obiective Turistice",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "PRAGA, OBIECTIVE, ATRACTIT",
+      "url"      : "/travel/locuri-de-vizitat-in-praga-atractii-obiective-turistice/",
+      "date"     : "2024-02-18 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Cele mai frumoase locuri de vizitat in Praga - Ce are de oferit Orasul Celor O Mie de Turnuri: arhitectura istorică, de parcuri pitorești si cultura vibrantă.",
+			"cat"    : "blog-oras",
 			"type"     : "travel"
     } 
   

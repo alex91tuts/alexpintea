@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: "Locuri de vizitat lângă Timișoara: Top 10 Destinații Uimitoare - Ghid 2023"
+title: "Locuri de vizitat lângă Timișoara: Top 10 Destinații Uimitoare"
 descriere: "Descoperiți cele mai frumoase locuri de vizitat lângă Timișoara: de la domeniile pitorești la rezervații naturale și parcuri. Ideal pentru weekend-uri și aventuri de o zi!" 
 description: "Descoperiți cele mai frumoase locuri de vizitat lângă Timișoara: de la domeniile pitorești la rezervații naturale și parcuri. Ideal pentru weekend-uri și aventuri de o zi!" 
 meta_image: assets/images/travel/langa-timisoara/main-locuri-langa-timisoara.webp 

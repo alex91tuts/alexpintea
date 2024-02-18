@@ -1,6 +1,6 @@
 ---
 layout: "travel"
-title: "Top 10 Locuri de Vizitat în Croația: Ghidul Complet al Obiectivelor Turistice 2023"
+title: "Top 10 Locuri de Vizitat în Croația: Ghidul Complet al Obiectivelor Turistice"
 descriere: "Descoperă cele mai impresionante 10 obiective turistice din Croația! De la zidurile istorice ale Dubrovnikului până la insulele Hvar, acest ghid îți ofera tot ce trebuie să știi pentru o vacanță de neuitat. "
 description: "Descoperă cele mai impresionante 10 obiective turistice din Croația! De la zidurile istorice ale Dubrovnikului până la insulele Hvar, acest ghid îți ofera tot ce trebuie să știi pentru o vacanță de neuitat. "
 date: 2023-10-09

@@ -10,7 +10,7 @@ post_class: post-template
 { "@context": "https://schema.org", 
  "@type": "Article",
  "headline": "{{ page.title }}",
- "alternativeHeadline": "{{ page.title }}",
+ "alternativeHeadline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
  {%- if page.cat == "blog-oras" -%}
  "image": [
     {%- capture folder_path -%}/assets/images/travel/{{ page.folder }}{% endcapture -%}
@@ -85,7 +85,7 @@ post_class: post-template
 						<div class="categorie-review">
 							<span>{{ page.oras }}</span>
 						</div>
-				 <h1 class="banner-title">{{ page.title }}</h1>
+				 <h1 class="banner-title">{{ page.title }} - {{ 'now' | date: '%Y' }}</h1>
 						<div class="review-meta">
 							<span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon">{%if page.author-link %}<a href="{{ site.url }}/autor/{{ page.author-link }}/"><span itemprop="author">{{ page.author }}</span></a>{% else %}<span itemprop="author">{{ page.author }}</span>{% endif %}</span> | 
 							<span><img fetchpriority="high" src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> {% include reading-time.html %} </span> | 

@@ -10,7 +10,7 @@ post_class: post-template
   "@context": "https://schema.org", 
   "@type": "Article",
   "headline": "{{ page.title }}",
-  "alternativeHeadline": "{{ page.title }}",
+  "alternativeHeadline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
   "image": [
     {%- capture folder_path -%}/assets/images/travel/{{ page.folder }}{% endcapture -%}
       {%- assign small = "" | split: "," -%}
@@ -78,7 +78,7 @@ post_class: post-template
     <div class="continut-imagine">
 				<div class="">
           <hr>
-				 <h1 class="banner-title">{{ page.title | upcase }}</h1>
+				 <h1 class="banner-title">{{ page.title | upcase }} - {{ 'now' | date: '%Y' }}</h1>
           <hr>
             <!-- review meta
 						<div class="review-meta">
