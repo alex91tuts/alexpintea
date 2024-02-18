@@ -1,0 +1,21 @@
+---
+layout: null
+---
+[
+  {%- assign filtered_trips = site.new-travel | where: "id-oras", "274707" | where: "cat", "atractie" | sort: "position" -%}
+{% for trip in filtered_trips offset: 30 %}
+  {
+    "titlu": "{{ trip.title }}",
+    "data": "{{ trip.date | date_to_string }}",
+    "imagine": "/assets/images/travel/{{trip.folder}}/{{ trip.imagine }}",
+    "link": "{{ trip.url }}",
+    "atractie": "{{ trip.atractie }}",
+    "oras": "{{ trip.oras }}",
+    "position": "{{ trip.position }}",
+    "intro": "{{ trip.text-intro | escape }}",
+    "categorie": "{{ trip.tara }}",
+    "descriere": "{{ trip.descriere | escape }}",
+    "tags": [{% for tag in trip.tags limit: 1 %}"{{ tag | upcase }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

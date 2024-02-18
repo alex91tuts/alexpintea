@@ -1,8 +1,8 @@
 ---
 layout: travel-attraction
-title: "TOTUL DESPRE PRAGA - LOCURI DE VIZITAT, ATRACTII, IMAGINI, CAZARE, ZBORURI"
-descriere: "Descopera PRAGA. Vezi in acest articol locurile de vizitat, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale..."  
-description: "Descopera PRAGA. Vezi in acest articol locurile de vizitat, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale..." 
+title: "DESPRE PRAGA - ATRACTII, CAZARE, IMAGINI, ZBORURI, ISTORIC"
+descriere: "Descopera PRAGA. Vezi in acest articol detalii despre orasul celor 1000 de turnuri, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale..."  
+description: "Descopera PRAGA. Vezi in acest articol detalii despre orasul celor 1000 de turnuri, atractiile si obiectivele turistice, cazare, zboruri, ponturi si trucuri, obiceiuri locale..." 
 meta_image: ""
 imagine: "mobile-galerie-catedrala-sf-vitus-praga.webp"
 author: "TOREDUS"
@@ -21,7 +21,7 @@ id-oras: "274707"
 date: 2024-02-11
 date-modified:
 tags: ['CAPITALA','BOEM','CULTURAL']
-anchors: ['Locuri de vizitat in Praga','Atractii turistice Praga', 'Cele mai frumoase obiective turistice in Praga','Ce poti sa vizitezi in Praga?','Totul despre Praga - cele mai frumoase locuri de vizitat']
+anchors: ['Despre Praga','Totul Despre Praga']
 map: "yes"
 cat: "oras"
 folder: recsAliG9AGy7c1Es

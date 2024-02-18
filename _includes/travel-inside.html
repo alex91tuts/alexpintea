@@ -1,20 +1,23 @@
-<h2>Locuri de vizitat în {{page.oras}}</h2>
+
+<h2>{{atractieid.size}} Locuri de vizitat în {{page.oras}}</h2>
 
 <div class="row jt">
 <div class="col-12 col-lg-8 locuri-holder" style="padding-left: 0;" markdown='1'>
 
 <div class="items-holder">
+
 {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras | sort: "position" %}
+{% assign i = 0 %}
 {% if atractieid %}
   {% for trip in atractieid %}
-    
+    {% assign i = i | plus: 1 %}
  <div class="">
   <div class="wrapper row">
     <div class="imagine col-lg-5 col-4" style="background-image: url(/assets/images/travel/{{trip.folder}}/{{ trip.imagine }});">
-      <button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}">DESCHIDE GALERIE</button></div>
+      <button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}"> DESCHIDE GALERIE</button></div>
     <div class="details col-lg-7 col-8">
       <h3 class="atr-head fara-subliniere">
-        <img src="/assets/images/svg/map-marker.svg" style="margin-right: 5px;">{{ trip.atractie | upcase }}
+        <img src="/assets/images/svg/map-marker.svg" style="margin-right: 5px;">{{i}}. {{ trip.atractie | upcase }}
       </h3>
     <div class="trip-text-intro" style="padding: 0px 5px;">
       <p>{{ trip.text-intro | truncate: 150 }}</p>
@@ -40,9 +43,12 @@
   </div>
 </div>
 
+  
  {% endfor %}
 {% endif %}
+  
 </div>
+
 
 <style>
   .card-modal-img-holder {

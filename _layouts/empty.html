@@ -14,7 +14,8 @@
 </div>
 {% include footer.html %}  
 	
-<script>
+{% if page.cat != "blog-oras" %}
+<script async>
 
 	
 // Sticky elements for the menu
@@ -81,7 +82,9 @@ window.onload = getAllHeadings;
 
 
 </script>
-
+{% endif %}
+  
+  
 <style>
 	.custom-link {
 		border-radius: 10px;

@@ -1,3 +1,32 @@
+{% if page.cat == "blog-oras" %}
+
+<div class="col-lg-4 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
+<div id="sidebar" style="height: fit-content; position: sticky; top: 10px;">
+<div class="col review-side">
+  <span class="title-section-sidebar">RECENT</span>
+	<hr>
+	{% assign travels = site.travel | sort: 'date' | reverse %}
+	{% for travel in travels limit:8 %}
+		<a href="{{ travel.url }}">
+		<div class="small-post">
+	<img class="small-post-image" alt="{{ travel.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
+		{{ travel.title }}
+		</div>
+		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
+		<span class="small-post-meta"><img src="/assets/images/svg/calendar.svg" width="10.6" height="10.6" alt="totredus"> {{ travel.date | date_to_string }} </span>
+		<hr style="border: 0; margin: 0;">
+		</a>
+	{% endfor %}
+	</div>
+</div>
+</div>
+</div>
+	
+	
+</div>	
+</div>
+
+{% else %}
 <div class="col-lg-4 col-12 wrapper-side order-lg-12" style="padding-left: 25px; padding-right: 0;">
 <div id="sidebar">
 <div class="col review-side">
@@ -7,7 +36,7 @@
 	{% for travel in travels limit:5 %}
 		<a href="{{ travel.url }}">
 		<div class="small-post">
-	<img class="small-post-image" alt="{{ page.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
+	<img class="small-post-image" alt="{{ travel.title }}" src="http://images.weserv.nl/?url={{ site.url }}{{ travel.image }}&h=41&output=jpg&q=65" width="79" height="41">
 		{{ travel.title }}
 		</div>
 		<span class="small-post-meta"><img src="/assets/images/svg/author.svg" width="10.6" height="10.6" alt="totredus"> {{travel.author}} </span>
@@ -47,6 +76,7 @@
 </div>	
 </div>
 
+{% endif %}
 <style>
 .small-post {
     overflow: hidden;

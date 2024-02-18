@@ -107,7 +107,9 @@ post_class: post-template
 	 {% include author.html %}
    {% include tags.html %}
    {% include cta-travel-menu.html %}
+   {% if page.cat != "blog-oras" %}
    {% include galerie-google.html %}
+   {% endif %}
 	</div>
  </div>
 <div id="bottom" class="col-12 order-last">
@@ -622,7 +624,8 @@ height: auto; /* Auto height for expanded state */
 </style>
 
 <script>
-  
+ 
+{% if page.cat != "blog-oras" %}
 // accordion FAQ
 document.addEventListener('DOMContentLoaded', () => {
   const faqHeaders = document.querySelectorAll('.faq h3');
@@ -672,6 +675,6 @@ document.addEventListener("DOMContentLoaded", function() {
   };
 });
 
-  
+{% endif %}
 
 </script>

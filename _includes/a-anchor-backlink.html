@@ -8,12 +8,67 @@
   </div>
 <div class="col-lg-10 col-9 text-cust">
   
-  {% assign orasid = site.new-travel | where: "cat", "oras" | where: "id-oras", {{page.id-oras}} | first %}{% if orasid %}
+  {% assign orasid = site.new-travel | where: "cat", "blog-oras" | where: "id-oras", {{page.id-oras}} | first %}{% if orasid %}
   {% assign count = orasid.anchors.size %}
   {% assign cycle_index = {{page.position}} | minus: 1 | modulo: count %}
   <a href="{{ orasid.url }}" class="link-cust">{{ orasid.anchors[cycle_index] }}</a>{% endif %}
-  <br>
 </div>
 
 </div>
 </div>
+
+<style>
+.vezi-si {
+    position: absolute;
+    top: -33px;
+    left: 0;
+    background: white;
+    border-radius: 3px;
+    padding: 0px 6px;
+    box-shadow: 0 -3px 14px -6px gray;
+    font-weight: bold;
+  }
+  .image-cust img {
+    border-radius: 3px;
+  }
+  .categ-cust {
+    border: solid 1px lightgray;
+    border-radius: 3px;
+    padding: 0px 11px;
+    background: gray;
+    color: white;
+    font-weight: 700;
+    right: 15px;
+  }
+  .text-cust {
+    line-height: 1.4;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+  .link-cust {
+    font-weight: 900;
+    font-size: 22px;
+  
+  }
+  .span-cust {
+    font-weight: 700;
+    font-size: 12px;
+  }
+  .link-to {
+    border: solid 1px #ececec;
+    padding: 8px;
+    margin-top: 55px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 14px -7px #0000009c;
+    position: relative;
+  }
+  .container-imaglink {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    border-radius: 3px;
+  }  
+
+</style>

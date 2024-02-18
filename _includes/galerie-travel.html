@@ -56,7 +56,7 @@
   <!-- Modal content -->
   <div class="modal-content">
     {%- for image in large -%}
-         <img style="margin-bottom: 30px;" src="{{ image.path }}" loading="lazy" alt="{% assign full_string = image.path %}{% assign filename = full_string | split: '/' | last | replace: 'desktop-galerie-', 'locuri de vizitat ' | remove: '.webp' | replace: '-', ' ' %}{{ filename }}"/>
+         <img style="margin-bottom: 30px;" src="{{ image.path }}" loading="lazy" alt="{% assign full_string = image.path %}{% assign filename = full_string | split: '/' | last | replace: 'desktop-galerie-', ' ' | remove: '.webp' | replace: '-', ' ' %}{{page.anchors[0]}} {{ filename }}"/>
   {%- endfor -%}
   </div>
 

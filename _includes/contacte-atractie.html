@@ -28,7 +28,9 @@
 {% endif %}
 {% if page.oras %}  
 <div class="contacte-travel">
-  <img class="contacte-svg-travel" src="/assets/images/svg/city.svg" alt="imagine linie oras" width="20" height="20"><span class="text-contacte">{{ page.oras }}</span>
+  <img class="contacte-svg-travel" src="/assets/images/svg/city.svg" alt="imagine linie oras" width="20" height="20">
+  {% assign orasid = site.new-travel | where: "cat", "oras" | where: "id-oras", {{page.id-oras}} | first %}{% if orasid %}
+  <a href="{{ orasid.url }}" class="link-cust">{{ page.oras }}</a>{% endif %}
 </div>
 {% endif %}
 </div>
