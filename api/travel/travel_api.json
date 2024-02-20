@@ -6,17 +6,13 @@ layout: null
 	{
 		"titlu": "{{ trip.title }}",
 		"data": "{{ trip.date | date_to_string }}",
-		"imagine": "/assets/images/travel/{{trip.folder}}/{{ trip.imagine }}",
+		"imagine": "/assets/images/travel/{{trip.folder}}/{% if trip.mobile_main_image %}{{ trip.mobile_main_image }}{% else %}{{ trip.imagine }}{% endif %}",
 		"link": "{{ trip.url }}",
 		"oras": "{{ trip.oras }}",
 		"categorie": "{{ trip.tara }}",
 		"descriere": "{{ trip.descriere | escape }}",
-		"tags": [{% for tag in trip.tags %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
-		"tag1": {% assign lun = trip.tags | size | minus: 1 %}{% for i in (0..lun) limit:1 %}"{{ stire.tags[i] }}"{% unless forloop.last %},{% endunless %}{% endfor %},
-		"tag2": {% assign lun = trip.tags | size | minus: 1 %}{% for i in (0..lun) limit:1 offset:1  %}"{{ stire.tags[i] }}"{% unless forloop.last %},{% endunless %}{% endfor %},
-		"tag3": {% assign lun = trip.tags | size | minus: 1 %}{% for i in (0..lun) limit:1 offset:2  %}"{{ stire.tags[i] }}"{% unless forloop.last %},{% endunless %}{% endfor %}
-	}{% unless forloop.last %},{% endunless %}{% endfor %}
-  ,
+		"tags": [{% for tag in trip.tags %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+	},{% endfor %}
 	{% for trip in site.travel reversed %}
 	{
 		"titlu": "{{ trip.title }}",
@@ -26,9 +22,6 @@ layout: null
 		"oras": "{{ trip.oras }}",
 		"categorie": "{{ trip.tara }}",
 		"descriere": "{{ trip.descriere }}",
-		"tags": [{% for tag in trip.tags %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
-		"tag1": {% assign lun = trip.tags | size | minus: 1 %}{% for i in (0..lun) limit:1 %}"{{ stire.tags[i] }}"{% unless forloop.last %},{% endunless %}{% endfor %},
-		"tag2": {% assign lun = trip.tags | size | minus: 1 %}{% for i in (0..lun) limit:1 offset:1  %}"{{ stire.tags[i] }}"{% unless forloop.last %},{% endunless %}{% endfor %},
-		"tag3": {% assign lun = trip.tags | size | minus: 1 %}{% for i in (0..lun) limit:1 offset:2  %}"{{ stire.tags[i] }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+		"tags": [{% for tag in trip.tags %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
 	}{% unless forloop.last %},{% endunless %}{% endfor %}
 ]

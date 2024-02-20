@@ -56,7 +56,7 @@ collections:
     permalink: /:path/
   new-travel:
     output: true     
-    permalink: /travel/:path/
+    permalink: /travel/:name/
   
 
 

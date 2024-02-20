@@ -91,7 +91,7 @@
     } ,
   
     {
-      "title"    : "Locuri de vizitat in Bucuresti: 30 Atracții Uimitoare pentru 2023",
+      "title"    : "Locuri de vizitat in Bucuresti: 30 Atracții Uimitoare",
       "category" : "ROMÂNIA",
       "tags"     : "București, capitale, atractii",
       "url"      : "/travel/atractii-turistice-bucuresti/",
@@ -271,9 +271,9 @@
     } ,
   
     {
-      "title"    : "Cetatea Rasnov 2023: O Calatorie In Timp Prin Istoria Medievala",
+      "title"    : "Cetatea Rasnov: O Calatorie In Timp Prin Istoria Medievala",
       "category" : "ROMANIA",
-      "tags"     : "Rasnov, Cetate, 2023",
+      "tags"     : "Rasnov, Cetate, 2024",
       "url"      : "/travel/cetatea-rasnov/",
       "date"     : "2023-05-18 00:00:00 +0300",
 	    "image"     : "/assets/images/travel/cetatea-rasnov/cetatea-rasnov-main.webp",
@@ -316,7 +316,7 @@
     } ,
   
     {
-      "title"    : "Locuri de vizitat lângă Timișoara: Top 10 Destinații Uimitoare - Ghid 2023",
+      "title"    : "Locuri de vizitat lângă Timișoara: Top 10 Destinații Uimitoare",
       "category" : "ROMANIA",
       "tags"     : "Timisoara, Locuri de vizitat, Banatul Montan",
       "url"      : "/travel/locuri-de-vizitat-langa-timisoara/",
@@ -511,7 +511,7 @@
     } ,
   
     {
-      "title"    : "Top 10 Locuri de Vizitat în Croația: Ghidul Complet al Obiectivelor Turistice 2023",
+      "title"    : "Top 10 Locuri de Vizitat în Croația: Ghidul Complet al Obiectivelor Turistice",
       "category" : "CROATIA",
       "tags"     : "Croatia, Obiective, Turism",
       "url"      : "/travel/locuri-de-vizitat-croatia/",
@@ -556,6 +556,19 @@
     } 
   
 	,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/travel/klet/",
+      "date"     : "2024-02-20 20:52:30 +0200",
+	    "image"     : "",
+			"author"    : "",
+	    "description"     : "",
+			"cat"    : "",
+			"type"     : "travel"
+    } ,
   
     {
       "title"    : "Bazilica Sfântul Gheorghe din Praga: Ghid Complet pentru Vizitarea Monumentului Istoric",
@@ -1834,13 +1847,507 @@
     {
       "title"    : "Locuri de Vizitat in Praga - Top 30 Atractii si Obiective Turistice",
       "category" : "REPUBLICA CEHA",
-      "tags"     : "PRAGA, OBIECTIVE, ATRACTIT",
+      "tags"     : "PRAGA, OBIECTIVE, ATRACTII",
       "url"      : "/travel/locuri-de-vizitat-in-praga-atractii-obiective-turistice/",
       "date"     : "2024-02-18 00:00:00 +0200",
 	    "image"     : "",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "Cele mai frumoase locuri de vizitat in Praga - Ce are de oferit Orasul Celor O Mie de Turnuri: arhitectura istorică, de parcuri pitorești si cultura vibrantă.",
 			"cat"    : "blog-oras",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Despre CESKY KRUMLOV - Cazare, Zbor, Atractii Turistice, Istoric",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "Pitoresc, Castel, Boem",
+      "url"      : "/travel/despre-cesky-krumlov-imagini-cazare-zbor-istoric-atractii/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Cesky Krumlov, bijuteria medievală a Republicii Cehe. Vezi în acest articol toate detaliile despre acest minunat oras. Atractii turistice, imagini, cazare, zboruri, obiceiuri locale, transport...",
+			"cat"    : "oras",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica St. Jost din Cesky Krumlov: Descoperă Oază de Liniște și Artă Gotica",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "istorică, arhitectură, religioasă",
+      "url"      : "/travel/biserica-sfantul-iost/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica St. Jost din Cesky Krumlov: un ghid complet pentru vizitarea acestui monument istoric, cu detalii despre arhitectura gotică, frescele medievale și importanța sa culturală.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfântul Vitus din Cesky Krumlov: Descoperă Bijuteria Arhitecturală a Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "gotică, catedrală, istorică",
+      "url"      : "/travel/biserica-sfantul-vitus/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Catedrala St. Vitus din Cesky Krumlov: explorează istoria și arhitectura gotică a acestei biserici emblematice, un simbol al patrimoniului cultural ceh.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Fairytale House - Puppet Museum din Cesky Krumlov: O Călătorie Încântătoare în Lumea Păpușilor",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "păpuși, basme, muzeu",
+      "url"      : "/travel/casa-basmelor-muzeul-papusilor/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Fairytale House - Puppet Museum din Cesky Krumlov: o incursiune fermecătoare în lumea poveștilor și a marionetelor. Explorează expoziții captivante și află istoria teatrului de păpuși într-un decor de basm.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Rozenberg Horse House din Cesky Krumlov: Descoperă Farmecul Istoric al Grajdurilor Regale",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "ecvestru, istoric, Rozenberg",
+      "url"      : "/travel/casa-echitatiei-rozenberg/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Rozenberg Horse House din Cesky Krumlov: o incursiune în istoria ecvestră, arhitectura renascentistă și tradițiile nobiliare cehe. Află mai multe despre acest monument unic și cum să-l vizitezi.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Casele Latran din Cesky Krumlov: Descoperă Farmecul Medieval al Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "istorice, arhitectură, boeme",
+      "url"      : "/travel/casele-latran/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Casele Latran din Cesky Krumlov: Explorează istoria și arhitectura unică a acestui cartier pitoresc, plin de povești și farmec medieval. Ghidul tău complet pentru o călătorie în timp.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Castelul Cesky Krumlov: Ghid Complet pentru Vizitarea Perlei Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "castel, boem, patrimoniu",
+      "url"      : "/travel/castelul-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Castelul Cesky Krumlov, o bijuterie arhitecturală a Boemiei, te invită să explorezi istoria sa bogată, grădinile impresionante și vederile pitorești ale orașului. Află mai multe despre tururile ghidate și evenimentele culturale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Egon Schiele Art Centrum din Cesky Krumlov: Descoperă Universul Expresionistului Austriac",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "arta, expozitii, Schiele",
+      "url"      : "/travel/centrul-de-arta-egon-schiele/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Egon Schiele Art Centrum din Cesky Krumlov este un sanctuar al artei moderne, oferind o colecție impresionantă de lucrări ale lui Schiele și expoziții temporare de artă contemporană. Vizitați pentru a explora legătura artistului cu orașul și pentru a vă inspira din creativitatea vibrantă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Infocenter Cesky Krumlov: Ghidul Complet pentru Turisti in Orasul Istoric",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "informații, turism, asistență",
+      "url"      : "/travel/centrul-de-informare-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Infocenter Cesky Krumlov: ghidul tău esențial pentru explorarea orașului medieval Cesky Krumlov. Obține informații actualizate despre atracții, tururi și evenimente culturale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Coloana Ciumei din Cesky Krumlov: Monumentul Istoric al Supraviețuirii și Artelor",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "monument, ciumă, baroc",
+      "url"      : "/travel/coloana-ciumei/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Coloana Ciumei din Cesky Krumlov, un monument baroc impresionant, simbolizează recunoștința orașului față de sfârșitul epidemiei de ciumă. Află istoria și semnificația acestei opere de artă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Fosta Berărie Cesky Krumlov: Descoperă Istoria și Tradiția Beraritului în Inima Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "bere, istorie, arhitectură",
+      "url"      : "/travel/fosta-berarie-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Fosta Berărie Cesky Krumlov: un ghid complet al istoriei sale bogate, arhitecturii unice și transformării într-un centru cultural. Explorează moștenirea pivovară a orașului Cesky Krumlov.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Miroslav Paral Art Gallery din Cesky Krumlov: Descoperă Arta Contemporană în Inima Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "arta, galerie, contemporan",
+      "url"      : "/travel/galeria-de-arta-miroslav-paral/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Miroslav Paral Art Gallery din Cesky Krumlov: Explorează universul artistic al lui Miroslav Paral, unde arta contemporană se întâlnește cu istoria în inima orașului medieval. Vizitează galeria pentru o experiență culturală unică.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Galerie Marie din Cesky Krumlov: Descoperă Artă și Istorie în Inima Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "arta, galerie, CeskyKrumlov",
+      "url"      : "/travel/galerie-marie/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Galerie Marie din Cesky Krumlov: Explorează colecția impresionantă de artă contemporană cehă, într-un cadru istoric unic. Află mai multe despre expoziții și evenimente culturale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Grădina Castelului Cesky Krumlov: Oază de Verdeață și Istorie în Inima Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "grădini, istoric, CeskyKrumlov",
+      "url"      : "/travel/gradina-castelului/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Grădina Castelului din Cesky Krumlov: un refugiu pitoresc plin de istorie și natură. Explorează aleile sale, fântânile arteziene și teatrul baroc în aer liber, în timp ce te bucuri de vederi panoramice asupra orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Seminarni zahrada Cesky Krumlov: Oaza de liniste si frumusete in inima Boemiei",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "grădini, relaxare, istoric",
+      "url"      : "/travel/gradina-seminarului/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Seminarni zahrada, o oază de liniște în inima orașului Cesky Krumlov, vă invită să descoperiți grădinile sale pitorești, aleile încântătoare și vederile panoramice spre castel. Explorați acest colț de paradis și aflați mai multe despre istoria sa bogată.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Hotel Ruze - Fosta Colegiu Iezuit din Cesky Krumlov: Cazare de Lux cu Istorie",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "istoric, lux, arhitectură",
+      "url"      : "/travel/hotelul-ruze-fostul-colegiu-iezuit/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Hotel Ruze - Fosta Colegiu Iezuit din Cesky Krumlov, o incursiune in istorie si lux. Afla despre cazare de 5 stele in inima orasului medieval, servicii si experiente unice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Lavka pod Zamkem din Cesky Krumlov: Ghid Complet pentru Vizitatori",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "restaurant, vedere, castel",
+      "url"      : "/travel/lavka-pod-zamkem/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Lavka pod Zamkem din Cesky Krumlov: ghidul tău complet pentru a explora acest pitoresc pod pietonal, oferind vederi spectaculoase asupra castelului și orașului vechi. Află istoria, cele mai bune momente pentru vizită și sfaturi utile.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Manastirea Minoritilor din Cesky Krumlov: Descoperă Istoria și Arhitectura Unică a unei Bijuterii Medievale",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "manastire, istoric, arhitectura",
+      "url"      : "/travel/manastirea-minoritilor/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Manastirea Minoritilor din Cesky Krumlov: o incursiune în istoria spirituală și arhitecturală a Boemiei. Explorează frumusețea și misterul acestui loc sacru, bijuterie a patrimoniului ceh.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Explorarea Minei de Grafit - Grafitovy Dul din Cesky Krumlov: O Aventură Subterană Fascinantă",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "mină, grafit, subteran",
+      "url"      : "/travel/mina-de-grafit-grafitovy-dul-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Explorați mina de grafit Grafitovy Dul din Cesky Krumlov și descoperiți secretele mineritului subteran. Aflați despre istoria și tehnologiile folosite în extracția grafitului într-un tur unic și captivant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Krumlov Mill din Cesky Krumlov: Descoperă Farmecul Istoric al Morii de Apă",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "moară, istoric, CeskyKrumlov",
+      "url"      : "/travel/moara-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Krumlov Mill din Cesky Krumlov: un ghid complet pentru vizitarea istoricului moară, atracții înconjurătoare și sfaturi pentru a profita la maximum de experiența ta culturală în acest sit UNESCO.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "3D Museum Cesky Krumlov: O Experiență Unică în Lumea Iluziilor Optice",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "interactiv, iluzii, fotografie",
+      "url"      : "/travel/muzeul-3d-din-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul 3D din Cesky Krumlov: o experiență interactivă unică care îți va pune la încercare simțurile. Explorează iluzii optice uimitoare și opere de artă tridimensionale care te vor face să te întrebi ce este real și ce nu. Perfect pentru o zi de distracție în familie sau cu prietenii!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeum obchodu Cesky Krumlov: Descoperă Comerțul Tradițional în Inima Orasului Istoric",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "comerț, istorie, expoziție",
+      "url"      : "/travel/muzeul-comertului-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeum obchodu Cesky Krumlov: Explorați istoria comerțului și a vieții cotidiene în pitorescul oraș Cesky Krumlov. Aflați despre evoluția negoțului și vizitați expoziții fascinante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul de Ceară din Cesky Krumlov: Descoperă Lumea Fascinantă a Figurilor de Ceară",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "figuri, ceară, istorie",
+      "url"      : "/travel/muzeul-de-ceara-din-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul de Ceară din Cesky Krumlov: Ghid complet pentru vizitarea expoziției de figuri de ceară realiste, informații despre bilete, program și exponatele celebre.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Museum Fotoatelier Seidel din Cesky Krumlov: O Călătorie În Timpul Fotografiei Istorice",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "fotografie, istorie, Seidel",
+      "url"      : "/travel/muzeul-fotoatelier-seidel/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Museum Fotoatelier Seidel din Cesky Krumlov: o incursiune fascinantă în istoria fotografiei și a tehnicii foto. Explorează colecția unică de imagini și echipamente vintage.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Moldavitelor - Muzeum Vltavinu din Cesky Krumlov: Descoperă Misterul Pietrelor Verzi",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "moldavite, geologie, muzeu",
+      "url"      : "/travel/muzeul-moldavitelor/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Moldavite Museum - Muzeum vltavinu din Cesky Krumlov: Explorează lumea fascinantă a moldavitelor, tezaurul verde al Boemiei. Află despre originea și semnificația acestor pietre prețioase unice într-un cadru istoric captivant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Motocicletelor Istorice din Cesky Krumlov: O Călătorie în Trecutul Lumii pe Două Roți",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "motociclete, istorie, Cesky Krumlov",
+      "url"      : "/travel/muzeul-motocicletelor-istorice/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Historical Motorcycles Museum Cesky Krumlov: Explorează colecția impresionantă de motociclete vintage, descoperă istoria fascinantă a vehiculelor pe două roți și bucură-te de o călătorie nostalgică în trecutul motociclismului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Regionalni Muzeum v Ceskem Krumlove: Descoperă Comorile Culturale din Inima Cesky Krumlov",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "istorie, cultura, expozitii",
+      "url"      : "/travel/muzeul-regional-din-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Regionalni Muzeum v Ceskem Krumlove: Explorează istoria și cultura orașului Cesky Krumlov printr-o colecție impresionantă de artefacte și exponate. Află mai multe despre acest muzeu fascinant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Museum of Torture Cesky Krumlov: Descoperă Istoria Înfricoșătoare a Metodelor de Tortură",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "tortură, istorie, muzee",
+      "url"      : "/travel/muzeul-torturii-din-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Museum of Torture Cesky Krumlov: Explorați expoziții fascinante despre istoria metodelor de tortură într-un cadru medieval unic. Aflați mai multe despre instrumentele de tortură și poveștile din spatele lor.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeum utrpneho prava din Cesky Krumlov: Descoperă Istoria Dreptului Penal",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "tortură, istoric, medieval",
+      "url"      : "/travel/muzeul-torturii/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeum utrpneho prava din Cesky Krumlov: Explorează istoria justiției medievale și instrumentele de tortură într-un cadru autentic. Află mai multe despre expozițiile captivante și atmosfera unică a muzeului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Mestsky Park Cesky Krumlov: Oaza de Verdeață și Relaxare în Inima Orașului Istoric",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "natură, relaxare, plimbare",
+      "url"      : "/travel/parcul-mestsky/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Mestsky Park Cesky Krumlov: oaza de verdeata si liniste, perfecta pentru plimbari relaxante si picnicuri, cu trasee pitoresti si spatii de joaca pentru copii. Exploreaza acest parc incantator si bucura-te de natura in inima orasului istoric.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piața Svornosti din Cesky Krumlov: Ghid Complet pentru Vizitatori",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "piață, istoric, CeskyKrumlov",
+      "url"      : "/travel/piata-svornosti/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Piața Svornosti din Cesky Krumlov: inima istorică a orașului, unde arhitectura renascentistă și barocă se îmbină cu viața culturală vibrantă. Explorează cafenelele, galeriile și evenimentele ce animă acest spațiu emblematic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Eggenberg Pivovary din Cesky Krumlov: Descoperă Tradiția Berii Cehești",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "bere, istorie, CeskyKrumlov",
+      "url"      : "/travel/pivovar-eggenberg/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Eggenberg Pivovary din Cesky Krumlov: o incursiune în istoria berii cehe, vizite la fabrica de bere tradițională și degustări ale sortimentelor locale. Află mai multe despre tururile ghidate și experiența unică a berii artizanale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Primăria din Cesky Krumlov: Descoperă Istoria și Arhitectura Inconfundabilă a Inimii Orașului Medieval",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "istorie, arhitectură, primărie",
+      "url"      : "/travel/primaria-din-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Primăria din Český Krumlov: Explorează istoria și arhitectura impresionantă a acestui monument emblematic, situat în inima unui oraș UNESCO. Ghid complet pentru vizitatori.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sinagoga din Cesky Krumlov: Descoperă Istoria și Arhitectura Unică a Patrimoniului Evreiesc",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "sinagogă, istorie, CeskyKrumlov",
+      "url"      : "/travel/sinagoga-din-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Sinagoga din Cesky Krumlov: un ghid complet pentru vizitarea acestui monument istoric, cu informații despre arhitectura unică, istoria comunității evreiești și sfaturi pentru turiști.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Siroka Ulice Cesky Krumlov: Ghid Complet pentru Explorarea Celei Mai Fermecătoare Străzi din Orașul Medieval",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "istorică, pitorească, comercială",
+      "url"      : "/travel/strada-siroka-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Siroka Ulice Cesky Krumlov: Explorați strada istorică pitorească din inima orașului Cesky Krumlov, plină de clădiri renascentiste și farmec medieval. Ghidul complet pentru magazine, restaurante și galerii de artă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Teatro del Castello din Cesky Krumlov: Ghid Complet pentru Vizitatori",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "teatru, istoric, baroc",
+      "url"      : "/travel/teatrul-castelului/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Teatro del Castello din Cesky Krumlov: Ghid complet pentru vizitarea unuia dintre cele mai vechi teatre baroce din lume. Afla programul, istoria și cum să ajungi la această bijuterie culturală.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Teatrul în aer liber cu scenă rotativă din Cesky Krumlov: O experiență unică de teatru sub cerul liber",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "teatru, rotativ, in-aer-liber",
+      "url"      : "/travel/teatrul-in-aer-liber-cu-scena-rotativa-din-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Teatrul în aer liber cu scenă rotativă din Český Krumlov: un amfiteatru unic unde natura și arta se întâlnesc. Află programul, istoria și cum să-ți planifici vizita pentru o experiență culturală memorabilă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Vitkuv Hradek din Cesky Krumlov: Descoperă Istoria și Frumusețea Ascunsă a Cetății Uitate",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "ruine, istorie, panorama",
+      "url"      : "/travel/vitkuv-hradek/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Vitkuv Hradek din Cesky Krumlov: un ghid complet pentru vizitarea ruinelor medievale pline de istorie. Afla cum să ajungi, ce să vezi și sfaturi pentru o experiență memorabilă.",
+			"cat"    : "atractie",
 			"type"     : "travel"
     } 
   
