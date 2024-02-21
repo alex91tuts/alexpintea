@@ -16,7 +16,7 @@ oras: "CESKY KRUMLOV"
 lang: ro_RO
 keyword: 
 date: 2024-02-20
-date-modified: ""
+date-modified: 
 tags: ['CEHIA','ISTORIC','UNESCO']
 anchors: ['Locuri de vizitat in Cesky Krumlov','atractii turistice in Cesky Krumlov','obiective turistice Cesky Krumlov','ce sa faci in Cesky Krumlov']
 id-oras: "274688"

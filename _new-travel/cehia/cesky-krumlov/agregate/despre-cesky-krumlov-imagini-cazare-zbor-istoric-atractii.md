@@ -19,7 +19,7 @@ id-tara: "274684"
 lang: ro_RO
 id-oras: "274688"
 date: 2024-02-20
-date-modified: ""
+date-modified:
 tags: ['Pitoresc','Castel','Boem']
 anchors: ['Despre Cesky Krumlov','Totul despre Cesky Krumlov', 'Ghid Cesky Krumlov','Ce trebuie sa stii despre Cesky Krumlov']
 map: "yes"
