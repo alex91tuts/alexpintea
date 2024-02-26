@@ -558,19 +558,6 @@
 	,
   
     {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/travel/klet/",
-      "date"     : "2024-02-20 20:52:30 +0200",
-	    "image"     : "",
-			"author"    : "",
-	    "description"     : "",
-			"cat"    : "",
-			"type"     : "travel"
-    } ,
-  
-    {
       "title"    : "Bazilica Sfântul Gheorghe din Praga: Ghid Complet pentru Vizitarea Monumentului Istoric",
       "category" : "CEHIA",
       "tags"     : "basilică, istorică, romanică",
@@ -1845,12 +1832,12 @@
     } ,
   
     {
-      "title"    : "Locuri de Vizitat in Praga - Top 30 Atractii si Obiective Turistice",
+      "title"    : "Locuri de Vizitat in Praga - Top 45 Atractii si Obiective Turistice",
       "category" : "REPUBLICA CEHA",
       "tags"     : "PRAGA, OBIECTIVE, ATRACTII",
       "url"      : "/travel/locuri-de-vizitat-in-praga-atractii-obiective-turistice/",
       "date"     : "2024-02-18 00:00:00 +0200",
-	    "image"     : "",
+	    "image"     : "main-2-image-l-recsAliG9AGy7c1Es.webp",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "Cele mai frumoase locuri de vizitat in Praga - Ce are de oferit Orasul Celor O Mie de Turnuri: arhitectura istorică, de parcuri pitorești si cultura vibrantă.",
 			"cat"    : "blog-oras",
@@ -1858,7 +1845,7 @@
     } ,
   
     {
-      "title"    : "Despre CESKY KRUMLOV - Cazare, Zbor, Atractii Turistice, Istoric",
+      "title"    : "Despre CESKY KRUMLOV - Cazare, Zbor, Obiceiuri, Istoric",
       "category" : "REPUBLICA CEHA",
       "tags"     : "Pitoresc, Castel, Boem",
       "url"      : "/travel/despre-cesky-krumlov-imagini-cazare-zbor-istoric-atractii/",
@@ -1867,6 +1854,32 @@
 			"author"    : "TOREDUS",
 	    "description"     : "Cesky Krumlov, bijuteria medievală a Republicii Cehe. Vezi în acest articol toate detaliile despre acest minunat oras. Atractii turistice, imagini, cazare, zboruri, obiceiuri locale, transport...",
 			"cat"    : "oras",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "35 Locuri de vizitat in Cesky Krumlov - Cele mai frumoase atractii si obiective turistice",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "CEHIA, ISTORIC, UNESCO",
+      "url"      : "/travel/locuri-de-vizitat-in-cesky-krumlov-atractii-obiective-turistice-copy/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "main-2-image-l-recJVbbVooSbWU5ak.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descopera cele mai frumoase locuri de vizitat din orasul Cesky Krumlov, o bijuterie din patrimoniul UNESCO. Topul obiectivelor si atractiilor turistice.",
+			"cat"    : "blog-oras",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "35 Locuri de vizitat in Cesky Krumlov - Cele mai frumoase atractii si obiective turistice",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "CEHIA, ISTORIC, UNESCO",
+      "url"      : "/travel/muzee/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "main-2-image-l-recJVbbVooSbWU5ak.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descopera cele mai frumoase locuri de vizitat din orasul Cesky Krumlov, o bijuterie din patrimoniul UNESCO. Topul obiectivelor si atractiilor turistice.",
+			"cat"    : "blog-oras",
 			"type"     : "travel"
     } ,
   
@@ -1975,6 +1988,19 @@
     } ,
   
     {
+      "title"    : "Centrul Istoric al Cesky Krumlov: Ghid Complet pentru Explorarea Patrimoniului UNESCO",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "medieval, patrimoniu, castel",
+      "url"      : "/travel/centrul-istoric-al-orasului-cesky-krumlov/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Centrul Istoric al Cesky Krumlov: un ghid complet pentru explorarea acestui sit UNESCO, cu informații despre castele, muzee, galerii de artă și străduțe pitorești. Află mai multe despre istoria și cultura vibrantă a orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
       "title"    : "Coloana Ciumei din Cesky Krumlov: Monumentul Istoric al Supraviețuirii și Artelor",
       "category" : "REPUBLICA CEHA",
       "tags"     : "monument, ciumă, baroc",
@@ -2061,6 +2087,19 @@
 	    "image"     : "",
 			"author"    : "TOREDUS",
 	    "description"     : "Hotel Ruze - Fosta Colegiu Iezuit din Cesky Krumlov, o incursiune in istorie si lux. Afla despre cazare de 5 stele in inima orasului medieval, servicii si experiente unice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Klet&#39; din Cesky Krumlov: Ghid Complet pentru Ascensiunea pe Cel Mai Înalt Vârf din Boemia de Sud",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "munte, panorama, drumeție",
+      "url"      : "/travel/klet/",
+      "date"     : "2024-02-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Klet din Cesky Krumlov, cel mai înalt vârf din Boemia de Sud, oferă trasee pitorești și o priveliște panoramică asupra regiunii. Află cum să ajungi și ce poți descoperi în această destinație populară pentru drumeții și natură.",
 			"cat"    : "atractie",
 			"type"     : "travel"
     } ,

@@ -10,7 +10,7 @@ image: /assets/images/travel/croatia/locuri-vizitat-croatia-main.webp
 author: "Fabrica de amintiri"
 author-link: "fabrica-de-amintiri"
 tara: "CROATIA"
-oras: ""
+oras: "MAI MULTE"
 lang: "ro_RO"
 keyword: "locuri de vizitat in croatia"
 tags: ['Croatia','Obiective','Turism']

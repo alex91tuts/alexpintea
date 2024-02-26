@@ -9,7 +9,7 @@ post_class: post-template
 {% if page.video == "yes" %}[{% endif %}
 { "@context": "https://schema.org", 
  "@type": "Article",
- "headline": "{{ page.title }}",
+ "headline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
  "alternativeHeadline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
  {%- if page.cat == "blog-oras" -%}
  "image": [

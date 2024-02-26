@@ -10,7 +10,7 @@ image: /assets/images/travel/grecia/main.webp
 author: "Fabrica de amintiri"
 author-link: "fabrica-de-amintiri"
 tara: "GRECIA"
-oras: ""
+oras: "MAI MULTE"
 lang: "ro_RO"
 keyword: "locuri de vizitat in grecia"
 tags: ['Grecia','Insule','Munte']

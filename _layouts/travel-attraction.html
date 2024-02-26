@@ -9,7 +9,7 @@ post_class: post-template
 {
   "@context": "https://schema.org", 
   "@type": "Article",
-  "headline": "{{ page.title }}",
+  "headline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
   "alternativeHeadline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
   "image": [
     {%- capture folder_path -%}/assets/images/travel/{{ page.folder }}{% endcapture -%}
