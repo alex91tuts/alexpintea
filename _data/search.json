@@ -94,7 +94,7 @@
       "title"    : "Locuri de vizitat in Bucuresti: 30 Atracții Uimitoare",
       "category" : "ROMÂNIA",
       "tags"     : "București, capitale, atractii",
-      "url"      : "/travel/atractii-turistice-bucuresti/",
+      "url"      : "/travel/1-atractii-turistice-bucuresti/",
       "date"     : "2023-03-21 00:00:00 +0200",
 	    "image"     : "/assets/images/travel/bucuresti/main.webp",
 			"author"    : "Fabrica de amintiri",
@@ -129,21 +129,6 @@
 	    "image"     : "/assets/images/travel/citybreak/Milano/main.webp",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "În Milano 3 zile poți vizita Piazza del Duomo, Catedrala din Milano, Galleria Vittorio Emanuele II, Castelo Sforezsco și multe altele.",
-			"cat"    : "",
-      "subcat" : "",
-      "subcat1"     : "",
-			"type"     : "travel"
-    } ,
-  
-    {
-      "title"    : "Pasajul Macca-Vilacrosse: O călătorie în centrul Bucureștiului interbelic",
-      "category" : "ROMÂNIA",
-      "tags"     : "București, Mecca-Vilacrosse, 2023",
-      "url"      : "/travel/pasajul-macca-villacrosse/",
-      "date"     : "2023-03-25 00:00:00 +0200",
-	    "image"     : "/assets/images/travel/macca/main.webp",
-			"author"    : "Fabrica de amintiri",
-	    "description"     : "Pasajul Macca-Vilacrosse este un loc emblematic în București, care oferă o fereastră spre atmosfera vibrantă și istoria bogată a orașului..",
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
@@ -219,21 +204,6 @@
 	    "image"     : "/assets/images/travel/stavropoleos/stavropoleos.webp",
 			"author"    : "Fabrica de amintiri",
 	    "description"     : "Cu arhitectura sa unică și impresionantă, biserica Stavropoleos reprezintă o oază de liniște și spiritualitate în mijlocul agitației urbane.",
-			"cat"    : "",
-      "subcat" : "",
-      "subcat1"     : "",
-			"type"     : "travel"
-    } ,
-  
-    {
-      "title"    : "Palatul Parlamentului din București: O Capodoperă Arhitectonică și Istorică",
-      "category" : "ROMÂNIA",
-      "tags"     : "București, Palatul Parlamentului, 2023",
-      "url"      : "/travel/palatul-parlamentului/",
-      "date"     : "2023-04-15 00:00:00 +0300",
-	    "image"     : "/assets/images/travel/palatulparl/palatul.webp",
-			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descoperiți Palatul Parlamentului din București, o capodoperă arhitectonică și istorică, într-un articol de blog detaliat care explorează istoria, designul și controversele legate de această clădire emblematică.",
 			"cat"    : "",
       "subcat" : "",
       "subcat1"     : "",
@@ -556,6 +526,19 @@
     } 
   
 	,
+  
+    {
+      "title"    : "Locuri De Vizitat in Bucuresti: Top Atractii si Obiective Turistice din Capitala",
+      "category" : "ROMANIA",
+      "tags"     : "ROMANIA, ISTORIC, FRUMUSETE",
+      "url"      : "/travel/atractii-turistice-bucuresti/",
+      "date"     : "2023-03-21 00:00:00 +0200",
+	    "image"     : "main-2-image-l-recxlu2xBrdkwxy7Y.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Locuri De Vizitat in Bucuresti. Descopera impreuna cu noi o lista completa cu atractiile turistice ale Bucurestiului. Vezi ce sa nu ratezi daca vizitezi capitala Romaniei",
+			"cat"    : "blog-oras",
+			"type"     : "travel"
+    } ,
   
     {
       "title"    : "Bazilica Sfântul Gheorghe din Praga: Ghid Complet pentru Vizitarea Monumentului Istoric",
@@ -2386,6 +2369,1631 @@
 	    "image"     : "",
 			"author"    : "TOREDUS",
 	    "description"     : "Vitkuv Hradek din Cesky Krumlov: un ghid complet pentru vizitarea ruinelor medievale pline de istorie. Afla cum să ajungi, ce să vezi și sfaturi pentru o experiență memorabilă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "AFI Cotroceni București: Ghid Complet pentru Shopping și Divertisment",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, divertisment, multiplex",
+      "url"      : "/travel/afi-cotroceni/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "AFI Cotroceni: centrul comercial ideal pentru shopping și divertisment în București. Explorează magazinele, cinema-ul și zona de food court. Vizitează acum!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Despre BUCURESTI - Cazare, Atractii Turistice, Istoric",
+      "category" : "ROMANIA",
+      "tags"     : "Capitală, Istorie, Diversitate",
+      "url"      : "/travel/totul-despre-bucuresti-fotgrafii-cazare-istoric-demografice/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "București, capitala vibrantă a României, te invită să explorezi istoria sa bogată, arhitectura impresionantă și viața de noapte efervescentă. Află mai multe despre atracțiile turistice, cultura locală și bucătăria delicioasă.București, capitala vibrantă a României, te invită să explorezi istoria sa bogată, arhitectura impresionantă și viața de noapte efervescentă. Află mai multe despre atracțiile turistice, cultura locală și bucătăria delicioasă.",
+			"cat"    : "oras",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Arcul de Triumf din București: Simbolul Victoriei și Istoria sa Impresionantă",
+      "category" : "ROMANIA",
+      "tags"     : "monument, istorie, București",
+      "url"      : "/travel/arcul-de-triumf/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Arcul de Triumf din București, un simbol al victoriei și istoriei românești, te invită să explorezi arhitectura impresionantă și să descoperi expozițiile dedicate eroilor naționali. Află mai multe despre acest monument iconic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Baneasa Shopping City București: Destinația Ideală pentru Cumpărături și Divertisment",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, modă, divertisment",
+      "url"      : "/travel/baneasa-shopping-city/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Baneasa Shopping City: centrul comercial de top din București, ideal pentru o experiență de shopping de neuitat, cu magazine de brand, restaurante și evenimente speciale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biblioteca Centrală Universitară din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "cultură, cunoaștere, arhitectură",
+      "url"      : "/travel/biblioteca-centrala-universitara-din-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biblioteca Centrală Universitară din București: un sanctuar al cunoașterii și arhitecturii, cu o istorie impresionantă și colecții valoroase de cărți. Explorează sălile sale somptuoase și află mai multe despre rolul său cultural în inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biblioteca Națională a României din București: Oază de Cultură și Istorie Literară",
+      "category" : "ROMANIA",
+      "tags"     : "cultură, cunoaștere, arhitectură",
+      "url"      : "/travel/biblioteca-nationala-a-romaniei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biblioteca Națională a României din București: explorează arhitectura impresionantă, colecțiile vaste și sălile de lectură ale uneia dintre cele mai importante instituții culturale din țară. Află programul, evenimentele și cum să accesezi resursele sale valoroase.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Alba din București: Descoperă Oază de Liniște și Istorie în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, ortodoxă",
+      "url"      : "/travel/biserica-alba/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Alba din București, un monument istoric de o frumusețe aparte, îmbină arhitectura tradițională cu povești fascinante. Află mai multe despre istoria și arhitectura acestei biserici emblematice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Anglicană a Învierii din București: Oază de Liniște și Arhitectură Britanică în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "anglicană, înviere, București",
+      "url"      : "/travel/biserica-anglicana-a-invierii/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Anglicană a Învierii din București: un sanctuar istoric și arhitectural unic, care îmbină spiritualitatea cu arta gotică. Află mai multe despre slujbe, evenimente culturale și comunitatea vibrantă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Baratia din București: Descoperă Istoria și Arhitectura Unică a Monumentului Religios",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, religie",
+      "url"      : "/travel/biserica-baratia/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Baratia din București: un simbol al spiritualității și arhitecturii, cu o istorie bogată ce datează din secolul al XVIII-lea. Află mai multe despre acest lăcaș de cult emblematic pentru capitala României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Boteanu din București: Descoperă Comoara Ascunsă a Capitalei Românești",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, ortodoxă, monument",
+      "url"      : "/travel/biserica-boteanu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Boteanu, un monument istoric din București, își deschide porțile pentru vizitatori. Află mai multe despre arhitectura sa unică și frescele impresionante care povestesc istoria orașului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Bucur din București: Descoperă Istoria și Arhitectura Unui Monument Emblematic",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, ortodoxă, legendară",
+      "url"      : "/travel/biserica-bucur/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Bucur, unul dintre cele mai vechi lăcașuri de cult din București, își deschide porțile pentru a-ți dezvălui istoria și arhitectura sa unică. Află mai multe despre acest simbol al spiritualității românești.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Colțea din București: Descoperă Istoria și Arhitectura Monumentului Istoric",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, ortodoxă",
+      "url"      : "/travel/biserica-coltea/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Colțea din București, un monument istoric și arhitectural impresionant, își deschide porțile pentru vizitatori. Află mai multe despre istoria și arhitectura sa barocă, picturile murale și legăturile cu spitalul Colțea.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Kretzulescu din București: Descoperă Bijuteria Arhitecturală a Capitalei României",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, ortodoxă",
+      "url"      : "/travel/biserica-cretulescu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Kretzulescu din București: un monument istoric și arhitectural emblematic, descoperiți frumusețea și istoria acestei biserici ortodoxe din secolul al XVIII-lea, situată în inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Doamnei din București: Ghid Complet pentru Vizitarea Monumentului Istoric",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, ortodoxă",
+      "url"      : "/travel/biserica-doamnei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Doamnei din București: un ghid complet pentru vizitarea acestui monument istoric, arhitectura sa impresionantă și semnificația culturală. Află programul de vizitare și evenimentele speciale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Domnița Bălașa din București: Oază de Spiritualitate și Arhitectură în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "ortodoxă, istorică, arhitectură",
+      "url"      : "/travel/biserica-domnita-balasa/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Domnița Bălașa din București: află istoria, arhitectura și semnificația spirituală a acestei capodopere arhitectonice, un simbol al credinței și culturii românești.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Italiană Sfântul Salvator din București: Oază de liniște și arhitectură impresionantă",
+      "category" : "ROMANIA",
+      "tags"     : "biserică, italiană, istorică",
+      "url"      : "/travel/biserica-italiana-sfantul-salvator/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Sfântul Salvator - o bijuterie arhitecturală italiană în inima Bucureștiului. Explorează istoria, arhitectura și frumusețea ascunsă a acestei biserici emblematice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfântul Anton - Curtea Veche din București: Descoperă Istoria și Arhitectura Unică a Celui Mai Vechi Lăcaș de Cult Christian Ortodox Din Capitala României",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, religie",
+      "url"      : "/travel/biserica-sfantul-anton-curtea-veche/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Sfântul Anton - Curtea Veche, un simbol al Bucureștiului, te invită să explorezi istoria și arhitectura sa unică, oferind o fereastră spre trecutul capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfântul Gheorghe Nou din București: Descoperă Bijuteria Arhitecturală a Capitalei României",
+      "category" : "ROMANIA",
+      "tags"     : "ortodoxă, istorică, arhitectură",
+      "url"      : "/travel/biserica-sfantul-gheorghe-nou/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Sfântul Gheorghe Nou din București, un monument istoric și spiritual impresionant, își deschide porțile pentru vizitatori. Află mai multe despre arhitectura sa unică și frescele care povestesc istoria României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sf. Nicolae din București: Descoperă Bijuteria Arhitecturală Barocă",
+      "category" : "ROMANIA",
+      "tags"     : "baroc, istoric, ortodox",
+      "url"      : "/travel/biserica-sfantul-nicolae-din-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Sf. Nicolae din București: un monument istoric impresionant, cunoscut pentru arhitectura sa barocă și frescele bogate. Explorează istoria și frumusețea acestei biserici emblematice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Sfântul Spiridon Nou din București: Descoperă Comoara Istorică a Capitalei României",
+      "category" : "ROMANIA",
+      "tags"     : "ortodoxă, istorică, arhitectură",
+      "url"      : "/travel/biserica-sfantul-spiridon-nou/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Sfântul Spiridon Nou din București, un monument istoric și spiritual impresionant, își deschide porțile pentru vizitatori. Află mai multe despre arhitectura sa unică și frescele care povestesc istoria.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Biserica Zlatari din București: Descoperă Comoara Arhitecturală a Capitalei României",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, ortodoxă, monument",
+      "url"      : "/travel/biserica-zlatari/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Biserica Zlatari din București, un monument istoric și spiritual impresionant, își deschide porțile pentru vizitatori. Află mai multe despre arhitectura sa unică și frescele valoroase.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Bucharest Mall - Destinația de Shopping și Divertisment din Inima Bucureștiului",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, divertisment, modă",
+      "url"      : "/travel/bucharest-mall/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Bucharest Mall, primul centru comercial modern din București, te invită să explorezi o varietate de magazine, restaurante și opțiuni de divertisment. Află mai multe despre experiența de shopping și relaxare în inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Calea Victoriei București: Ghid Complet al Celei Mai Istorice Artere a Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, eleganță, comerț",
+      "url"      : "/travel/calea-victoriei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Calea Victoriei: Explorați bulevardul istoric din București, plin de arhitectură impresionantă, muzee, magazine de lux și cafenele. Ghid complet pentru turism și cumpărături.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Casa Experimentelor București: O Aventură Interactivă pentru Întreaga Familie",
+      "category" : "ROMANIA",
+      "tags"     : "interactiv, educativ, stiinta",
+      "url"      : "/travel/casa-experimentelor/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Casa Experimentelor din București: un centru interactiv de știință perfect pentru familii și curioși de toate vârstele. Explorați expoziții captivante și participați la experimente fascinante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Casa Filipescu-Cesianu din București: Descoperă Oază de Artă și Istorie în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, istorie, muzeu",
+      "url"      : "/travel/casa-filipescu-cesianu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Casa Filipescu-Cesianu din București: o incursiune în istoria și arhitectura de secol XIX, descoperă expozițiile de artă și evenimentele culturale găzduite de acest monument istoric.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Casa Memorială Tudor Arghezi din București: Descoperă Universul Poetului Intimist",
+      "category" : "ROMANIA",
+      "tags"     : "literatură, istorie, cultură",
+      "url"      : "/travel/casa-memoriala-tudor-arghezi/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Casa Memorială Tudor Arghezi din București, o incursiune în universul poetic al scriitorului, unde vizitatorii pot explora camera de lucru, biblioteca și grădina plină de verdeață.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Casa Presei Libere din București: Simbol al Libertății de Exprimare și Arhitectură Impresionantă",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, istorie, simbol",
+      "url"      : "/travel/casa-presei-libere/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Casa Presei Libere din București, emblematică pentru arhitectura stalinistă, își deschide porțile pentru a dezvălui istoria presei și a culturii românești. Explorează acest monument istoric și află mai multe despre rolul său în peisajul mediatic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Catedrala Mântuirii Neamului din București: Simbolul Spiritual al României",
+      "category" : "ROMANIA",
+      "tags"     : "ortodoxă, monumentală, contemporană",
+      "url"      : "/travel/catedrala-mantuirii-neamului/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Catedrala Mântuirii Neamului din București, un simbol arhitectural impresionant și loc de pelerinaj spiritual. Află istoria, arhitectura și semnificația acestei biserici grandioase.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Catedrala Patriarhală din București: Descoperă Inima Spirituală a Capitalei României",
+      "category" : "ROMANIA",
+      "tags"     : "ortodoxă, istorică, arhitectură",
+      "url"      : "/travel/catedrala-patriarhala-din-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Catedrala Patriarhală din București: un simbol al spiritualității ortodoxe românești, cu o arhitectură impresionantă și o istorie bogată. Explorează moștenirea culturală și religioasă a României în inima capitalei.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Catedrala Sfântul Iosif din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "catedrală, religie, arhitectură",
+      "url"      : "/travel/catedrala-sfantul-iosif/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Catedrala Sfântul Iosif din București, o capodoperă arhitecturală neoromânică, te invită să explorezi istoria și spiritualitatea unuia dintre cele mai importante lăcașuri de cult catolice din capitala României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Centrul Vechi din București: Ghid Complet pentru Explorarea Inimii Istorice a Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, centru",
+      "url"      : "/travel/centrul-vechi/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Centrul Vechi din București: ghid complet pentru explorarea inimii istorice a capitalei, cu recomandări de restaurante, baruri și obiective turistice esențiale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Cercul Militar Național din București: Descoperă Istoria și Arhitectura Impresionantă a CCA",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, istorie, evenimente",
+      "url"      : "/travel/cercul-militar-national/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Cercul Militar Național (CCA) din București: o bijuterie arhitecturală plină de istorie și cultură. Află despre evenimentele, expozițiile și importanța sa în inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Cimitirul Bellu din București: Ghid Complet pentru Vizitarea Monumentului Istoric și Cultural",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, monumente, arte",
+      "url"      : "/travel/cimitirul-bellu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Cimitirul Bellu din București, o oază de istorie și artă, unde repausul etern al marilor personalități culturale se împletește cu monumente impresionante de arhitectură funerară.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Fântâna Vioara Spartă din București: Descoperă Oază de Artă Urbană",
+      "category" : "ROMANIA",
+      "tags"     : "fântână, vioară, București",
+      "url"      : "/travel/fantana-vioara-sparta/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Fântâna Vioara Spartă din București: un simbol artistic unic, care îmbină muzica și arhitectura într-o creație vizuală impresionantă. Află istoria și semnificația acestei opere de artă urbane.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Fashion House Outlet Centre Militari: Destinația Ideală pentru Shopping la Prețuri Reduse în București",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, reduceri, outlet",
+      "url"      : "/travel/fashion-house-outlet-centre-militari/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Fashion House Outlet Centre Militari: cel mai mare outlet din București, oferă reduceri substanțiale la branduri renumite. Ideal pentru shopping de calitate la prețuri accesibile.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Foisorul de Foc din București: Ghid Complet pentru Vizitarea Monumentului Istoric",
+      "category" : "ROMANIA",
+      "tags"     : "muzeu, istorie, arhitectură",
+      "url"      : "/travel/foisorul-de-foc/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Foisorul de Foc, emblemă a Bucureștiului, își deschide porțile pentru vizitatori. Află istoria și arhitectura unică a acestui monument istoric, transformându-ți vizita într-o călătorie în timp. Explorează muzeul și bucură-te de o priveliște panoramică a capitalei din turnul de observație.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Gradina Botanica Dimitrie Brandza din Bucuresti: Oaza de Verdeata si Educatie Botanica",
+      "category" : "ROMANIA",
+      "tags"     : "flora, educatie, relaxare",
+      "url"      : "/travel/gradina-botanica-dimitrie-brandza/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Gradina Botanică Dimitrie Brândză din București: o oază de liniște și biodiversitate. Explorează colecțiile de plante, serele exotice și istoria acestui spațiu verde emblematic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Grădina Zoologică București: O Oază de Diversitate Animală în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "fauna, recreere, educativ",
+      "url"      : "/travel/gradina-zoologica-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Grădina Zoologică București: un refugiu verde în inima orașului, unde diversitatea faunei te așteaptă pentru o aventură educativă și distractivă pentru toate vârstele. Explorează habitatul natural al animalelor și participă la evenimente speciale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Hanul lui Manuc din București: Descoperă Farmecul Istoric și Arhitectura Unică a Celei Mai Vechi Caravanserai din Capitala României",
+      "category" : "ROMANIA",
+      "tags"     : "istoric, arhitectură, tradițional",
+      "url"      : "/travel/hanul-lui-manuc/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Hanul lui Manuc din București, o oază de istorie și arhitectură în inima capitalei, invită vizitatorii să descopere farmecul său boem și să se delecteze cu tradiționalele sale restaurante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Lacul Morii București: Ghid Complet pentru O Escapadă Urbană Relaxantă",
+      "category" : "ROMANIA",
+      "tags"     : "lac, recreere, București",
+      "url"      : "/travel/lacul-morii/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Lacul Morii din București: un ghid complet pentru vizitatori, cu informații despre activități de recreere, istoria lacului și sfaturi pentru o zi perfectă în aer liber.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Lipscani București: Ghid Complet pentru Explorarea Inimii Istorice a Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, comerț, nocturn",
+      "url"      : "/travel/lipscani/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Lipscani, inima istorică a Bucureștiului, te invită să explorezi străzile sale vibrante, pline de cafenele, magazine de suveniruri și clădiri cu arhitectură impresionantă. Află mai multe despre acest cartier emblematic al capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Manastirea Antim din Bucuresti: Oaza de liniste si spiritualitate in inima capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "ortodoxă, istorică, arhitectură",
+      "url"      : "/travel/manastirea-antim/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Manastirea Antim din București, o oază de spiritualitate și artă în inima capitalei, te invită să explorezi istoria și arhitectura sa impresionantă, frescele și colecția de obiecte religioase.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Manastirea Mihai Voda din Bucuresti: Descopera Comoara Istorică a Capitalei Romania",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, manastire, arhitectura",
+      "url"      : "/travel/manastirea-mihai-voda/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Manastirea Mihai Voda din Bucuresti, un monument istoric si arhitectural impresionant, te asteapta sa-i descoperi istoria bogata si arhitectura unica. Afla mai multe despre acest simbol al spiritualitatii romanesti.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Manastirea Radu Voda din Bucuresti: Oaza de liniste si spiritualitate in inima capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "ortodoxă, istorică, arhitectură",
+      "url"      : "/travel/manastirea-radu-voda/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Manastirea Radu Voda din Bucuresti, o oaza de liniste si spiritualitate, cu o arhitectura impresionanta si fresce bizantine. Afla istoria si semnificatia acestui loc sacru.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Manastirea Stavropoleos din Bucuresti: Oaza de liniste si spiritualitate in inima capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "biserică, istorie, arhitectură",
+      "url"      : "/travel/manastirea-stavropoleos/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Manastirea Stavropoleos din București, o oază de liniște și spiritualitate în inima capitalei, cu o arhitectură impresionantă și fresce bizantine. Află mai multe despre istoria și frumusețea acestui loc sacru.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Mega Mall București: Destinația Ideală pentru Shopping și Divertisment",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, divertisment, modă",
+      "url"      : "/travel/mega-mall/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Mega Mall București - ghidul tău complet pentru shopping și divertisment! Află despre magazine, restaurante, cinema și evenimente speciale. Vizitează acum!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Memorialul Holocaustului din București: Omagiu și Educație în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "memorial, istorie, comemorare",
+      "url"      : "/travel/memorialul-holocaustului-din-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Memorialul Holocaustului din București - un loc de reculegere și educație, dedicat memoriei victimelor Holocaustului din România. Află istoria și semnificația acestui monument important.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Memorialul Renașterii din București: Simbolul Comemorativ al Revoluției Române",
+      "category" : "ROMANIA",
+      "tags"     : "comemorare, istorie, monument",
+      "url"      : "/travel/memorialul-renasterii/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Memorialul Renașterii din București - un simbol al luptei împotriva comunismului și omagiu adus eroilor Revoluției din 1989. Află istoria, semnificația și cum să-l vizitezi.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Militari Shopping București: Destinația Ideală pentru Cumpărături și Divertisment",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, comercial, divertisment",
+      "url"      : "/travel/militari-shopping/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Militari Shopping București: Ghidul tău complet pentru o experiență de cumpărături de neuitat. Află despre magazine, restaurante și evenimente speciale în acest centru comercial popular.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Monumentul Eroilor Aerului din București: Omagiu Adus Curajului și Sacrificiului în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "aviatie, monument, istorie",
+      "url"      : "/travel/monumentul-eroilor-aerului/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Monumentul Eroilor Aerului din București, un omagiu adus aviatorilor eroi, îmbină istoria și arhitectura într-un simbol emblematic. Află mai multe despre semnificația și arhitectura acestui impresionant monument.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Monumentul Lupa Capitolina din București: Descoperă Istoria și Semnificația sa Culturală",
+      "category" : "ROMANIA",
+      "tags"     : "lup, Roma, simbol",
+      "url"      : "/travel/monumentul-lupoaica-capitolina/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Monumentul Lupa Capitolina din București - descoperă istoria și semnificația acestui simbol iconic al Romei antice, acum prezent în inima capitalei României. Explorează legenda fondării Romei și admira replica faimoasei statui.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Băncii Naționale a României din București: Descoperă Istoria Monetară a Țării",
+      "category" : "ROMANIA",
+      "tags"     : "bancar, istorie, monede",
+      "url"      : "/travel/muzeul-bancii-nationale-a-romaniei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Băncii Naționale a României din București: o incursiune fascinantă în istoria monetară și financiară a țării, cu exponate rare și o arhitectură impresionantă. Explorează patrimoniul economic național într-un cadru de excepție.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Colecțiilor de Artă din București: Descoperă Comorile Artistice Ale Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "arta, colectii, cultural",
+      "url"      : "/travel/muzeul-colectiilor-de-arta/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Colecțiilor de Artă din București îți deschide porțile către o lume a artei și istoriei. Explorează colecții impresionante de pictură, sculptură și artă decorativă în inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Curtea Veche din București: Descoperă Istoria și Misterul la Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arheologie, domnitori",
+      "url"      : "/travel/muzeul-curtea-veche/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Curtea Veche din București: explorează ruinele palatului medieval al lui Vlad Țepeș și descoperă istoria bogată a capitalei României. Vizitează pentru o călătorie în timp!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul de Arta Frederic Storck si Cecilia Cutescu-Storck din Bucuresti: Descopera Patrimoniul Cultural Romanesc",
+      "category" : "ROMANIA",
+      "tags"     : "sculptură, pictură, modernism",
+      "url"      : "/travel/muzeul-de-arta-frederic-storck-si-cecilia-cutescu-storck/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul de Arta Frederic Storck si Cecilia Cutescu-Storck din București: o incursiune în universul artistic al sculptorului Frederic Storck și al pictoriței Cecilia Cuțescu-Storck. Explorează colecția impresionantă de opere de artă și află mai multe despre contribuția acestor artiști la cultura românească.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "MARe/Muzeul de Arta Recenta București: Descoperă Inovația în Arta Contemporană",
+      "category" : "ROMANIA",
+      "tags"     : "contemporană, arta, inovativ",
+      "url"      : "/travel/muzeul-de-arta-recenta-mare/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "MARe/Muzeul de Arta Recenta din București, o oază de artă contemporană românească și internațională. Explorează colecții impresionante și expoziții temporare într-un spațiu arhitectural modern.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul de Istorie a Comunității Evreiești din București: Descoperă Patrimoniul și Tradițiile Culturale Evreiești",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, evreiesc, cultură",
+      "url"      : "/travel/muzeul-de-istorie-al-comunitatilor-evreiesti-din-romania/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Museum of History of the Jewish Community din București: explorează istoria și cultura evreilor români prin exponate fascinante și colecții rare. Află mai multe despre patrimoniul evreiesc al României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Ferestroika București: Descoperă Charm-ul Comunist în Inima Capitalei Românești",
+      "category" : "ROMANIA",
+      "tags"     : "retro, comunism, cafenea",
+      "url"      : "/travel/muzeul-ferestroika/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Ferestroika: experimentează atmosfera autentică a Bucureștiului retro în acest bar unic, unde istoria se întâlnește cu cultura urbană. Bucură-te de băuturi inspirate și decor nostalgic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul George Enescu din București: Descoperă Patrimoniul Muzical Românesc",
+      "category" : "ROMANIA",
+      "tags"     : "muzică, istorie, cultura",
+      "url"      : "/travel/muzeul-george-enescu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul George Enescu din București: o incursiune în viața și opera marelui compozitor român. Explorează camerele istorice, manuscrisele și instrumentele muzicale într-o clădire emblematică.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul George Severeanu din București: Descoperă Comorile Arheologice și Istoria Medicinii",
+      "category" : "ROMANIA",
+      "tags"     : "arheologie, numismatică, istorie",
+      "url"      : "/travel/muzeul-george-severeanu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul George Severeanu din București: o incursiune fascinantă în istoria și cultura românească prin colecțiile impresionante de arheologie și numismatică. Află mai multe despre acest tezaur cultural ascuns în inima capitalei.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul K. H. Zambaccian din București: O Colecție de Artă Românească și Europeană Remarcabilă",
+      "category" : "ROMANIA",
+      "tags"     : "artă, colecție, pictură",
+      "url"      : "/travel/muzeul-k-h-zambaccian/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul K. H. Zambaccian din București îți deschide porțile către o colecție impresionantă de artă românească și europeană. Explorează operele lui Luchian, Grigorescu și Tonitza într-un cadru intim și plin de istorie.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Kitsch-ului din București: Descoperă Artă și Cultură Unică",
+      "category" : "ROMANIA",
+      "tags"     : "kitsch, cultural, inedit",
+      "url"      : "/travel/muzeul-kitsch-ului-romanesc/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Museu Kitsch-ului din București îți dezvăluie lumea fascinantă a kitsch-ului autohton. Explorează colecții unice de obiecte și artă populară, într-o călătorie culturală inedită și plină de umor.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Micul Paris din București: Descoperă Istoria și Farmecul Parisului Estului",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, București, cultură",
+      "url"      : "/travel/muzeul-micul-paris/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Micul Paris din București îți oferă o călătorie unică în istoria și cultura &quot;Parisului Estului&quot;. Explorează expoziții fascinante și descoperă legăturile dintre București și Paris.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Militar Național București: Descoperă Istoria Militară a României",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arme, uniforme",
+      "url"      : "/travel/muzeul-militar-national-regele-ferdinand-i/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Militar Național din București: explorează istoria militară a României prin exponate impresionante, uniforme, arme și vehicule de luptă. Un loc plin de învățături pentru toate vârstele.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Municipiului București: Descoperă Comorile Istorice ale Capitalei României",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, cultura, patrimoniu",
+      "url"      : "/travel/muzeul-municipiului-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Municipiului București: Explorează istoria și cultura capitalei României prin colecțiile impresionante de artă, obiecte istorice și expoziții tematice. Află mai multe despre patrimoniul Bucureștiului într-un cadru arhitectural deosebit.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național al Aviației Române din București: O Călătorie În Inima Istoriei Aeronautice",
+      "category" : "ROMANIA",
+      "tags"     : "avioane, istorie, tehnologie",
+      "url"      : "/travel/muzeul-national-al-aviatiei-romane/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național al Aviației Române din București: explorează istoria aviației românești, vizionează aeronave istorice și participă la evenimente interactive. Ideal pentru pasionații de aviație și familii.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul CFR București: Descoperă Istoria Feroviară a României",
+      "category" : "ROMANIA",
+      "tags"     : "trenuri, istorie, feroviar",
+      "url"      : "/travel/muzeul-national-al-cailor-ferate-romane/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul CFR din București: o călătorie fascinantă în istoria căilor ferate românești. Explorează exponatele unice, locomotivele de epocă și descoperă patrimoniul feroviar național.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național al Hărților și Cărții Vechi din București: Descoperă Comorile Cartografice Ale României",
+      "category" : "ROMANIA",
+      "tags"     : "cartografie, istorie, rarități",
+      "url"      : "/travel/muzeul-national-al-hartilor-si-cartii-vechi/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național al Hărților și Cărții Vechi din București: o călătorie fascinantă prin istorie și geografie prin intermediul colecțiilor rare de hărți, atlase și cărți. Explorează patrimoniul cartografic și lasă-te impresionat de artefacte de neuitat.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național al Satului Dimitrie Gusti din București: O Călătorie în Inima Tradițiilor Românești",
+      "category" : "ROMANIA",
+      "tags"     : "tradiții, arhitectură, istorie",
+      "url"      : "/travel/muzeul-national-al-satului-dimitrie-gusti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național al Satului &quot;Dimitrie Gusti&quot; din București: o călătorie autentică în inima tradițiilor românești, unde arhitectura și obiceiurile populare prind viață. Explorează casele țărănești, atelierele meșteșugărești și evenimentele culturale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național de Artă al României: Descoperă Comorile Artistice din Inima Bucureștiului",
+      "category" : "ROMANIA",
+      "tags"     : "arta, cultural, istoric",
+      "url"      : "/travel/muzeul-national-de-arta-al-romaniei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național de Artă al României: explorează colecții impresionante de artă europeană și românească în inima Bucureștiului. Află despre exponatele de patrimoniu și expozițiile temporare.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național de Artă Contemporană din București: O Călătorie Modernă în Inima Culturii Românești",
+      "category" : "ROMANIA",
+      "tags"     : "artă, contemporan, cultural",
+      "url"      : "/travel/muzeul-national-de-arta-contemporana/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național de Artă Contemporană din București: explorati colecțiile impresionante de artă modernă, expoziții temporare inovatoare și evenimente culturale din inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național de Geologie din București: Descoperă Comorile Pământului",
+      "category" : "ROMANIA",
+      "tags"     : "geologie, fosile, minerale",
+      "url"      : "/travel/muzeul-national-de-geologie/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național de Geologie din București: Explorează istoria Pământului prin colecții impresionante de minerale, roci și fosile. Află mai multe despre expozițiile permanente și evenimentele speciale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național de Istorie a României din București: Descoperă Comorile Trecutului Românesc",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, cultura, patrimoniu",
+      "url"      : "/travel/muzeul-national-de-istorie-a-romaniei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național de Istorie a României din București: explorează comorile istorice ale națiunii, de la Tezaurul de la Pietroasele până la replica Coroanei de Oțel. Află orarul, tarifele și expozițiile temporare.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național de Istorie Naturală Grigore Antipa din București: O Călătorie Fascinantă în Lumea Biodiversității",
+      "category" : "ROMANIA",
+      "tags"     : "natură, știință, biodiversitate",
+      "url"      : "/travel/muzeul-national-de-istorie-naturala-grigore-antipa/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național de Istorie Naturală Grigore Antipa din București îți dezvăluie secretele naturii și biodiversitatea printr-o colecție impresionantă de exponate. Explorează galerii interactive și află mai multe despre lumea înconjurătoare.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Național Tehnic Profesor Inginer Dimitrie Leonida din București: O Călătorie în Inovația Tehnologică",
+      "category" : "ROMANIA",
+      "tags"     : "tehnică, inovație, educație",
+      "url"      : "/travel/muzeul-national-tehnic-profesor-inginer-dimitrie-leonida/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Național Tehnic Profesor Inginer Dimitrie Leonida din București este o oază de istorie tehnologică și inovație. Explorează expoziții fascinante și descoperă evoluția tehnologiei în România.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Nicolae Minovici din București: Descoperă Comoara Arhitecturală și Culturală",
+      "category" : "ROMANIA",
+      "tags"     : "etnografie, arhitectură, tradițional",
+      "url"      : "/travel/muzeul-nicolae-minovici/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Nicolae Minovici din București, o bijuterie arhitecturală în stil neoromânesc, unde arta și tradiția se împletesc. Explorează colecțiile de artă populară și descoperă istoria familiei Minovici.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Museum of Senses Bucharest: O Experiență Senzorială Unică în Inima Bucureștiului",
+      "category" : "ROMANIA",
+      "tags"     : "senzorial, interactiv, distractiv",
+      "url"      : "/travel/muzeul-simturilor-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Museum of Senses Bucharest: o experiență unică în inima capitalei, unde simțurile sunt puse la încercare prin iluzii optice și expoziții interactive. Vizitează și stimulează-ți percepțiile!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Theodor Aman din București: Descoperă Patrimoniul Artistic Românesc",
+      "category" : "ROMANIA",
+      "tags"     : "arta, istorie, pictura",
+      "url"      : "/travel/muzeul-theodor-aman/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Theodor Aman din București: Explorează casa și atelierul pictorului român, descoperă colecția de artă și află mai multe despre viața și opera acestui artist emblematic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Theodor Pallady din București: Descoperă Capodoperele Picturii Românești",
+      "category" : "ROMANIA",
+      "tags"     : "arta, pictura, istoric",
+      "url"      : "/travel/muzeul-theodor-pallady/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Theodor Pallady din București, o oază de artă și istorie, unde vizitatorii pot admira operele unuia dintre cei mai importanți pictori români. Explorează colecția impresionantă de artă într-o locație de patrimoniu, Casa Melik.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Țăranului Român din București: Descoperă Tradițiile și Cultura Autentică Românească",
+      "category" : "ROMANIA",
+      "tags"     : "tradiții, etnografie, cultură",
+      "url"      : "/travel/muzeul-%C8%9Baranului-roman/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Țăranului Român din București: explorează patrimoniul cultural rural, expoziții autentice și colecții de artă populară ce reflectă viața tradițională românească.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Observatorul Astronomic Amiral Vasile Urseanu din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "astronomie, observator, educativ",
+      "url"      : "/travel/observatorul-astronomic-amiral-vasile-urseanu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Observatorul Astronomic &quot;Amiral Vasile Urseanu&quot; din București - un sanctuar al astronomiei, oferind vizitatorilor o călătorie fascinantă printre stele și o incursiune în istoria observațiilor cosmice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Opera Națională București: Spectacole de Neuitat în Inima Capitalei Românești",
+      "category" : "ROMANIA",
+      "tags"     : "opera, cultural, arhitectura",
+      "url"      : "/travel/opera-nationala-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Opera Națională București: un simbol cultural al capitalei României, oferind spectacole de balet și operă de renume mondial. Află programul, istoria și cum să vizitezi acest edificiu impresionant.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Orășelul Copiilor București: Ghid Complet pentru Distracția în Familie",
+      "category" : "ROMANIA",
+      "tags"     : "divertisment, copii, parc",
+      "url"      : "/travel/oraselul-copiilor/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Orășelul Copiilor din București: un parc de distracții ideal pentru familii, cu activități și jocuri pentru copii de toate vârstele. Află mai multe despre atracții, program și tarife.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul BNR din București: Arhitectură Impresionantă și Istorie Monetară",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, bancar, istoric",
+      "url"      : "/travel/palatul-bancii-nationale-a-romaniei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul BNR din București: o incursiune arhitecturală și istorică în sediul central al Băncii Naționale a României, o clădire emblematică pentru patrimoniul național. Află despre designul său unic și rolul în economia țării.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Bragadiru din București: Descoperă Splendoarea Arhitecturală și Istoria Fascinantă a Monumentului Capitală",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, istorie, evenimente",
+      "url"      : "/travel/palatul-bragadiru/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Bragadiru din București, o bijuterie arhitecturală cu influențe neogotice și neobaroc, își deschide porțile pentru a-ți dezvălui istoria bogată și sălile fastuoase, perfecte pentru evenimente memorabile. Explorează splendoarea unei ere apuse în inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul CEC din București: Arhitectură Impresionantă și Istorie Bogată",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectura, istorie, financiar",
+      "url"      : "/travel/palatul-cec/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul CEC din București, o bijuterie arhitecturală a capitalei României, își deschide porțile pentru a-ți dezvălui istoria bogată și arhitectura impresionantă. Află mai multe despre acest simbol emblematic situat pe Calea Victoriei.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Cotroceni din București: Ghid Complet pentru Vizitarea Reședinței Prezidențiale",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, presidential, muzeu",
+      "url"      : "/travel/palatul-cotroceni/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Cotroceni din București, o bijuterie arhitecturală plină de istorie și sediul Președinției României. Explorează grădinile regale, muzeul și interioarele somptuoase.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul de Justiție din București: Arhitectură Impresionantă și Istorie Juridică",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, istorie, instituțional",
+      "url"      : "/travel/palatul-de-justitie-din-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul de Justiție din București: explorează arhitectura impresionantă, istoria bogată și importanța juridică a acestei clădiri emblematice situată pe malul Dâmboviței. Află mai multe despre vizite și accesul public.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Parlamentului din București: Ghid Complet pentru Vizitarea Celei Mai Impresionante Clădiri din România",
+      "category" : "ROMANIA",
+      "tags"     : "impunator, legislativ, comunist",
+      "url"      : "/travel/palatul-parlamentului/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Parlamentului din București, una dintre cele mai impunătoare clădiri administrative din lume, te invită să explorezi salele grandioase și să descoperi istoria fascinantă a acestui simbol al erei comuniste.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Patriarhiei din București: Descoperă Sediul Ortodoxiei Românești",
+      "category" : "ROMANIA",
+      "tags"     : "religie, istorie, arhitectură",
+      "url"      : "/travel/palatul-patriarhiei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Patriarhiei din București, o bijuterie arhitecturală plină de istorie și spiritualitate. Explorează sediul Bisericii Ortodoxe Române și descoperă frescele sale impresionante.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Primăverii – Fosta Reședință a lui Ceaușescu din București: O Călătorie în Istoria Controversată a României",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, lux, comunism",
+      "url"      : "/travel/palatul-primaverii/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Conacul Ceaușescu din București, o incursiune în viața luxoasă a fostului dictator. Explorează camerele opulente, decorațiunile extravagante și istoria controversată a epocii comuniste.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Regal din București: Descoperă Istoria și Arta Regalității Românești",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, arhitectură, monarhie",
+      "url"      : "/travel/palatul-regal/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Regal din București, o bijuterie arhitecturală plină de istorie și artă, găzduiește astăzi Muzeul Național de Artă al României. Explorează galeriile sale impresionante și descoperă capodoperele artei românești și europene.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Palatul Suțu din București: Descoperă Istoria și Arhitectura Monumentală",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, istorie, muzeu",
+      "url"      : "/travel/palatul-sutu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Palatul Suțu din București, o bijuterie arhitecturală neoclasică, își deschide porțile pentru a vă dezvălui istoria bogată și colecțiile de artă impresionante. Explorați galeriile și sălile fastuoase ale acestui monument istoric, sediu al Muzeului Municipiului București.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Alexandru Ioan Cuza din București: Oază de Verdeață și Relaxare în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "relaxare, lacuri, sport",
+      "url"      : "/travel/parcul-alexandru-ioan-cuza/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Alexandru Ioan Cuza din București, o oază de verdeață și relaxare, ideală pentru plimbări, sport și activități în aer liber. Află mai multe despre acest spațiu verde urban!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Carol din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "monumente, natură, istorie",
+      "url"      : "/travel/parcul-carol/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Carol din București, o oază de liniște și istorie, te invită să explorezi Mausoleul, Monumentul Eroilor și să te relaxezi pe aleile verzi. Descoperă frumusețea și patrimoniul acestui loc emblematic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Circului de Stat București: Oază de Verdeață și Divertisment în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "circ, parc, București",
+      "url"      : "/travel/parcul-circului-de-stat/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Circului de Stat din București: o oază verde plină de istorie și relaxare, perfectă pentru plimbări, activități sportive și momente de respiro în inima capitalei României. Descoperiți frumusețea și liniștea acestui parc iconic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Cișmigiu din București: Oază de Verdeață și Istorie în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "parc, natură, istoric",
+      "url"      : "/travel/parcul-cismigiu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Cișmigiu din București: o oază de liniște și natură în inima capitalei. Explorează aleile romantice, lacul idilic și grădinile istorice. Ghid complet pentru vizitatori.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Herăstrău din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "natură, relaxare, nautic",
+      "url"      : "/travel/parcul-herastrau/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Herăstrău din București: o oază verde plină de viață, ideală pentru plimbări, sport și relaxare. Explorează grădinile tematice, aleile încântătoare și evenimentele culturale.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Izvor din București: Oază de Verdeață și Relaxare în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "verdeata, relaxare, monument",
+      "url"      : "/travel/parcul-izvor/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Izvor din București: o oază de liniște și natură în inima capitalei, perfectă pentru plimbări relaxante și activități în aer liber. Află mai multe despre istoria și frumusețile acestui spațiu verde urban.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Kiseleff din București: Oază de Verdeață și Istorie în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "verdeata, muzeu, istoric",
+      "url"      : "/travel/parcul-kiseleff/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Kiseleff din București: o oază de liniște și istorie, perfectă pentru plimbări relaxante. Explorează aleile umbrite, monumentele și muzeele din apropiere.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Moghioros din Drumul Taberei, București: Oază de Verdeață și Relaxare în Inima Orașului",
+      "category" : "ROMANIA",
+      "tags"     : "recreere, familie, natură",
+      "url"      : "/travel/parcul-moghioros/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Moghioros din Drumul Taberei, București, este o oază de verdeață și relaxare. Află despre facilitățile de recreere, evenimentele culturale și istoria acestui spațiu verde urban.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Național Văcărești: Oază de Natură și Biodiversitate în Inima Bucureștiului",
+      "category" : "ROMANIA",
+      "tags"     : "natură, biodiversitate, urban",
+      "url"      : "/travel/parcul-natural-vacaresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Național Văcărești: o oază de natură și biodiversitate în inima Bucureștiului. Explorează traseele, observă fauna și flora și află istoria acestui loc unic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Tei București: Oază de Verdeață și Relaxare în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "lac, relaxare, natură",
+      "url"      : "/travel/parcul-tei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Tei București: oază de verdeață urbană, perfectă pentru plimbări relaxante, activități sportive și picnicuri. Află istoria, facilitățile și evenimentele speciale ale parcului.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Parcul Tineretului București: Oază de Verdeață și Relaxare în Inima Capitalei",
+      "category" : "ROMANIA",
+      "tags"     : "relaxare, sport, natură",
+      "url"      : "/travel/parcul-tineretului/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Parcul Tineretului din București: o oază verde perfectă pentru relaxare, sport și distracție în familie. Explorează aleile, lacurile și grădina botanică din inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Park Lake Mall București: Destinația Ideală pentru Shopping și Relaxare",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, relaxare, modern",
+      "url"      : "/travel/park-lake-mall/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Park Lake Mall din București: un centru comercial modern, ideal pentru shopping și relaxare. Află despre magazine, restaurante și evenimente speciale. Vizitează acum!",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Pasajul Macca-Villacrosse din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, galerie, istoric",
+      "url"      : "/travel/pasajul-macca-villacrosse/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Pasajul Macca-Villacrosse din București, o bijuterie arhitecturală în stil Art Nouveau, este o destinație de neratat pentru iubitorii de istorie și arhitectură. Află mai multe despre cafenelele sale pitorești și atmosfera boemă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piata Constitutiei din Bucuresti: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "piață, monument, evenimente",
+      "url"      : "/travel/piata-constitutiei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Piața Constituției din București: centrul evenimentelor culturale și istorice majore, gazda concertelor grandioase și locul celebrărilor naționale. Află mai multe despre această emblemă a capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piața Revoluției din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "istorie, monumente, revoluție",
+      "url"      : "/travel/piata-revolutiei/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Piața Revoluției din București: un simbol istoric al libertății, cunoscut pentru rolul său în Revoluția din 1989. Explorează monumentele, arhitectura și poveștile care au modelat România modernă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piata Unirii din București: Ghid Complet pentru Vizitatori - Atracții, Magazine și Istorie",
+      "category" : "ROMANIA",
+      "tags"     : "centrală, istorică, comercială",
+      "url"      : "/travel/piata-unirii/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Piata Unirii din București: centrul vibrant al capitalei, unde istoria se întâlnește cu modernitatea. Explorează magazinele, fântânile arteziene și legăturile cu cele mai importante obiective turistice.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Piața Universității din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "educație, monumente, central",
+      "url"      : "/travel/piata-universitatii/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Piața Universității din București: centrul istoric și cultural vibrant, unde trecutul se întâlnește cu prezentul. Explorează monumentele, cafenelele și viața de noapte din inima capitalei României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Promenada Mall București: Destinația Ideală pentru Shopping și Divertisment",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, modă, divertisment",
+      "url"      : "/travel/promenada-mall/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Promenada Mall București: ghidul tău complet pentru shopping și divertisment. Află despre magazine, restaurante, evenimente speciale și facilități.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Romexpo București: Centrul Expozițional de Top pentru Evenimente și Târguri Internaționale",
+      "category" : "ROMANIA",
+      "tags"     : "expoziții, conferințe, evenimente",
+      "url"      : "/travel/romexpo/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Romexpo București - centrul expozițional de top pentru evenimente, târguri și conferințe din România. Află programul, facilitățile și cum să ajungi la cel mai mare pavilion de expoziții din capitală.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sala Palatului București: Ghid Complet pentru Evenimente și Vizitare",
+      "category" : "ROMANIA",
+      "tags"     : "concerte, conferințe, evenimente",
+      "url"      : "/travel/sala-palatului/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Sala Palatului din București: află istoria și arhitectura acestei embleme culturale, evenimentele majore găzduite și cum să planifici vizita ta aici.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sinagoga Mare din București: Descoperă Istoria și Arhitectura Unică a Monumentului Iudaic",
+      "category" : "ROMANIA",
+      "tags"     : "sinagoga, istorie, arhitectură",
+      "url"      : "/travel/sinagoga-mare-din-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Sinagoga Mare din București: un simbol al patrimoniului evreiesc, arhitectură impresionantă și istorie profundă. Explorează acest monument istoric și descoperă comunitatea evreiască din capitala României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Sinagoga Yeshua Tova din București: Descoperă Istoria și Arhitectura Unică a Celui Mai Vechi Templu Evreiesc",
+      "category" : "ROMANIA",
+      "tags"     : "sinagogă, istorie, București",
+      "url"      : "/travel/sinagoga-yeshua-tova/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Sinagoga Yeshua Tova din București: un simbol al comunității evreiești, cu o arhitectură impresionantă și o istorie bogată. Explorează acest monument istoric și descoperă tradițiile evreiești din capitala României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Arena Națională București: Ghid Complet pentru Vizitarea Celui Mai Mare Stadion din România",
+      "category" : "ROMANIA",
+      "tags"     : "fotbal, evenimente, modern",
+      "url"      : "/travel/stadionul-national-arena-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Stadionul Național Arena din București: ghid complet pentru vizitatori, evenimente, acces și istoria celui mai mare stadion din România, gazda meciurilor importante și concerte.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Statuia Ecvestra a Lui Carol I din București: Un Monument Regal de Descoperit",
+      "category" : "ROMANIA",
+      "tags"     : "monument, istorie, București",
+      "url"      : "/travel/statuia-ecvestra-a-lui-carol-i/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Statuia Ecvestra a lui Carol I din București, un monument istoric impresionant, reprezintă un omagiu adus primului rege al României. Află mai multe despre istoria și semnificația acestei opere de artă.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Statuia lui Corneliu Coposu din București: Omagiu Adus unui Simbol al Democrației Românești",
+      "category" : "ROMANIA",
+      "tags"     : "monument, istorie, politician",
+      "url"      : "/travel/statuia-lui-corneliu-coposu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Statuia lui Corneliu Coposu din București: un omagiu adus unui simbol al democrației românești. Află istoria, semnificația și cum să vizitezi acest monument important.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Statuia lui Iuliu Maniu din București: Omagiu adus unui lider istoric român",
+      "category" : "ROMANIA",
+      "tags"     : "statuie, istorie, București",
+      "url"      : "/travel/statuia-lui-iuliu-maniu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Statuia lui Iuliu Maniu din București, un omagiu adus unuia dintre cei mai importanți politicieni români. Află istoria și semnificația monumentului situat în inima capitalei.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Statuia lui Mihai Eminescu din București: Omagiu Adus Poetului Național",
+      "category" : "ROMANIA",
+      "tags"     : "poet, monument, București",
+      "url"      : "/travel/statuia-lui-mihai-eminescu/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Statuia lui Mihai Eminescu din București: un omagiu adus marelui poet național. Află istoria, semnificația și locația exactă a acestui monument emblematic pentru cultura românească.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Teatrul Național Ion Luca Caragiale din București: Ghid Complet pentru Vizitatori",
+      "category" : "ROMANIA",
+      "tags"     : "cultural, spectacole, arhitectura",
+      "url"      : "/travel/teatrul-national-ion-luca-caragiale-din-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Teatrul Național Ion Luca Caragiale din București: program, istorie, arhitectură și spectacole. Ghid complet pentru vizitarea uneia dintre cele mai emblematice clădiri culturale din capitala României.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Teatrul Odeon București: Program, Istoric și Ghid de Vizitare",
+      "category" : "ROMANIA",
+      "tags"     : "teatru, cultural, istoric",
+      "url"      : "/travel/teatrul-odeon-bucuresti/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Teatrul Odeon București: un simbol al culturii și artelor scenice, oferind o varietate de piese de teatru și spectacole. Află programul și istoria acestui edificiu emblematic.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Templul Coral din București: Descoperă Splendoarea Arhitecturală și Istoria Vibrantă a Sinagogii Istorice",
+      "category" : "ROMANIA",
+      "tags"     : "sinagogă, istorie, arhitectură",
+      "url"      : "/travel/templul-coral/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Templul Coral din București, o capodoperă arhitecturală a comunității evreiești, îmbină istoria și spiritualitatea. Află mai multe despre acest simbol al rezistenței și frumuseții.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Uniunea Arhitecților din România: Descoperă Sediul Istoric din București",
+      "category" : "ROMANIA",
+      "tags"     : "arhitectură, asociație, profesionalism",
+      "url"      : "/travel/uniunea-arhitectilor-din-romania/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Uniunea Arhitecților din România: explorează sediul istoric din București, descoperă expoziții de arhitectură și evenimente culturale ce promovează patrimoniul arhitectonic românesc.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Veranda Mall București: Destinația Ideală pentru Shopping și Distracție",
+      "category" : "ROMANIA",
+      "tags"     : "cumpărături, modern, divertisment",
+      "url"      : "/travel/veranda-mall/",
+      "date"     : "2024-02-26 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Veranda Mall București: centrul tău de shopping și distracție, cu magazine variate, restaurante delicioase și activități pentru întreaga familie. Vizitează acum!",
 			"cat"    : "atractie",
 			"type"     : "travel"
     } 

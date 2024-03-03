@@ -36,6 +36,10 @@ text-intro: 'Veranda Mall, situat în inima cartierului Obor din București, est
 
 ---
 
+<span class="vxwic" t="65e48c4c0f4cf702126c8f83" ll="41.390847,2.16902"></span>
+
+<script type='text/javascript'>  var sc = document.createElement('script');  sc.id = 'vxscript';  sc.type = 'text/javascript';  sc.async = 'async';  sc.src = 'https://m.avuxicdn.com/v3/s/65e48b490f4cf702126c8f80/en';  document.body.appendChild(sc);</script>
+
 <div class="row">
 
 {% include contacte-atractie.html %}
