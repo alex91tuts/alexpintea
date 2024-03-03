@@ -91,21 +91,6 @@
     } ,
   
     {
-      "title"    : "Locuri de vizitat in Bucuresti: 30 Atracții Uimitoare",
-      "category" : "ROMÂNIA",
-      "tags"     : "București, capitale, atractii",
-      "url"      : "/travel/1-atractii-turistice-bucuresti/",
-      "date"     : "2023-03-21 00:00:00 +0200",
-	    "image"     : "/assets/images/travel/bucuresti/main.webp",
-			"author"    : "Fabrica de amintiri",
-	    "description"     : "Daca te intrebi ce sa faci in București, ei bine citeste acest articol. De la străzile pline de viață până la situri istorice uluitoare și repere emblematice, acest oras plin de viata nu te va dezamagi.",
-			"cat"    : "",
-      "subcat" : "",
-      "subcat1"     : "",
-			"type"     : "travel"
-    } ,
-  
-    {
       "title"    : "Locuri istorice Bucuresti | 65 cele mai populare",
       "category" : "ROMÂNIA",
       "tags"     : "București, Istorice, 2023",
@@ -1844,20 +1829,7 @@
       "title"    : "35 Locuri de vizitat in Cesky Krumlov - Cele mai frumoase atractii si obiective turistice",
       "category" : "REPUBLICA CEHA",
       "tags"     : "CEHIA, ISTORIC, UNESCO",
-      "url"      : "/travel/locuri-de-vizitat-in-cesky-krumlov-atractii-obiective-turistice-copy/",
-      "date"     : "2024-02-20 00:00:00 +0200",
-	    "image"     : "main-2-image-l-recJVbbVooSbWU5ak.webp",
-			"author"    : "Fabrica de amintiri",
-	    "description"     : "Descopera cele mai frumoase locuri de vizitat din orasul Cesky Krumlov, o bijuterie din patrimoniul UNESCO. Topul obiectivelor si atractiilor turistice.",
-			"cat"    : "blog-oras",
-			"type"     : "travel"
-    } ,
-  
-    {
-      "title"    : "35 Locuri de vizitat in Cesky Krumlov - Cele mai frumoase atractii si obiective turistice",
-      "category" : "REPUBLICA CEHA",
-      "tags"     : "CEHIA, ISTORIC, UNESCO",
-      "url"      : "/travel/muzee/",
+      "url"      : "/travel/locuri-de-vizitat-in-cesky-krumlov-atractii-obiective-turistice/",
       "date"     : "2024-02-20 00:00:00 +0200",
 	    "image"     : "main-2-image-l-recJVbbVooSbWU5ak.webp",
 			"author"    : "Fabrica de amintiri",
