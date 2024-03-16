@@ -99,10 +99,8 @@ post_class: post-template
 <div class="row">
 	<!-- Post Content -->
 	<div id="articol" class="article-post review-post col-lg-8 col-12 order-first order-lg-1">
-		{% if page.cat != "blog-oras" %}
     <div class="cuprins" id="cuprins" onclick='toggleShow()'><span>CUPRINS</span></div>
 		<div id="tocid" class="toc col"><span class="mobile-toc-trig"; id="mobileActivate"></span><ul id="outputList"></ul></div>
-    {% endif %}
 			
 		
  <div style="font-family: Montserrat;">
@@ -199,6 +197,8 @@ post_class: post-template
 	}
 	#continut h2 {
 		display: inline-block;
+    width: 100%;
+    line-height: normal;
 	}
 	
 	#outputList li {

@@ -30,4 +30,11 @@ no-atractii: 45
 
 ---
 
+---
+## Introducere - Locuri de vizitat in Bucuresti
+
+București, capitala României, este un oraș vibrant și plin de istorie, oferind o gamă largă de **locuri frumoase de vizitat**. Orașul combină frumosul arhitectural istoric cu modernitatea, fiind cunoscut pentru diversitatea sa culturală și arhitecturală. 
+
+Fie că ești interesat de istorie, artă, cultură sau pur și simplu de explorarea vieții urbane, capitala României este o destinație care merită explorată.
+
 {% include locuri-de-vizitat.html %}
