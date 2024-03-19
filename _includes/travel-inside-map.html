@@ -1,0 +1,33 @@
+ <div class="">
+  <div class="wrapper row">
+    <div class="imagine col-lg-5 col-4" style="background-image: url(/assets/images/travel/{{trip.folder}}/{{ trip.imagine }});">
+      <button class="search-btn butoane" data-query="{{trip.atractieEn}} {{trip.city}}"> DESCHIDE GALERIE</button></div>
+    <div class="details col-lg-7 col-8">
+      <h3 class="atr-head fara-subliniere">
+        <img src="/assets/images/svg/map-marker.svg" style="margin-right: 5px;">{{i}}. {{ trip.atractie | upcase }}
+      </h3>
+    <div class="trip-text-intro" style="padding: 0px 5px;">
+      <p>{{ trip.text-intro | truncate: 150 }}</p>
+      <button class="card-sumar-btn" data-modal-target="{{ trip.folder }}" >CARD SUMAR</button><a href="{{trip.url}}">VEZI ARTICOL</a>
+      <span class="position">{{ trip.tags | slice: 0 }} </span>
+    </div>
+    </div>
+      <div class="col-12 small-text-mobile"><span>{{ trip.text-intro | truncate: 130 }}</span></div>
+  </div>
+</div>
+
+
+<!-- First Card Sumar Modal Structure -->
+<div id="{{ trip.folder }}" class="card-sumar-modal">
+  <div class="card-sumar-modal-content">
+    <span class="card-sumar-close">&times;</span>
+    <div class="card-modal-wrapper">
+      <div class="card-modal-img-holder" style="background-image: url(/assets/images/travel/{{trip.folder}}/{{ trip.imagine }});"></div>
+      <span class="title-card-modal">{{trip.atractie}}</span>
+      <hr class="hr-s1">
+      <p class="text-card-modal">{{trip.text-intro}}</p>
+    </div>
+  </div>
+</div>
+
+
