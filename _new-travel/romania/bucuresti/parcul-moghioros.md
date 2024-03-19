@@ -22,8 +22,8 @@ phone: ''
 website: 'https://www.facebook.com/ParculDrumulTabereiMoghioros/'
 email: ''
 adresa: 'Drumul Taberei,Sector 6, Bucharest 061352 Romania'
-latitudine: 44.42653
-longitudine: 26.05708
+latitudine: 44.4203303
+longitudine: 26.0289295
 subtip: ["Parks"]
 id-oras: "294458"
 cat: "atractie"
