@@ -3968,6 +3968,19 @@
 	    "description"     : "Veranda Mall București: centrul tău de shopping și distracție, cu magazine variate, restaurante delicioase și activități pentru întreaga familie. Vizitează acum!",
 			"cat"    : "atractie",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "HARTA OBIECTIVE TURISTICE BUCURESTI",
+      "category" : "ROMANIA",
+      "tags"     : "Capitală, Istorie, Diversitate",
+      "url"      : "/travel/harta-bucuresti-obiective-turistice/",
+      "date"     : "2024-03-19 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Descoperă cele mai captivante atracții turistice din București cu harta interactivă a orașului! Explorează poveștile, istoria și frumusețea ascunsă a capitalei României",
+			"cat"    : "blog-oras",
+			"type"     : "travel"
     } 
   
 	,
