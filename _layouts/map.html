@@ -11,6 +11,7 @@ post_class: post-template
   "@type": "Article",
   "headline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
   "alternativeHeadline": "{{ page.title }} - {{ 'now' | date: '%Y' }}",
+  "image": "/assets/images/travel/{{page.folder}}/{{page.desktop_main_image}}",
   "author": {
     "@type": "Person",
     "name": "{{ page.author }}",
@@ -101,10 +102,10 @@ post_class: post-template
    // Creating a map object
    var map = L.map('map').setView([{{page.latitudine}}, {{page.longitudine}}], 15);
 
-   var layer = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+   // Creating a Layer object
+   var layer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',{
+  attribution: '© OpenStreetMap contributors, © CartoDB'
 });
-
 
    // Adding layer to the map
    map.addLayer(layer);
@@ -125,13 +126,12 @@ var markers = [
   {% if atractieid %}
   {% for trip in atractieid %}
     
-  { coords: [{{trip.latitudine}}, {{trip.longitudine}}], popup: "<div class=''><div class='wrapper row'><div class='imagine col-lg-5 col-4' style='background-image: url(/assets/images/travel/{{trip.folder}}/{{ trip.imagine }});'></div><div class='details col-lg-7 col-8'><h3 class='atr-head fara-subliniere'><img src='/assets/images/svg/map-marker.svg' style='margin-right: 5px;'>{{trip.atractie | upcase}}</h3><div class='trip-text-intro' style='padding: 0px 5px;'><p>{{trip.text-intro | truncate:150 | smartify }}</p><a href='https://www.google.com/maps/search/?api=1&query={{ trip.atractie }} {{ trip.adresa }}'><img src='/assets/images/svg/directions.svg' style='margin-right: 5px;'>INDICATII</a><a href='{{trip.url}}'>MAI MULT</a><span class='position'>{{trip.tags | slice:0}}</span></div></div><div class='col-12 small-text-mobile'><span>{{trip.text-intro | truncate:130 | smartify }}</span></div></div></div>" },
+  { coords: [{{trip.latitudine}}, {{trip.longitudine}}], popup: "<div class=''><div class='wrapper row'><div class='imagine col-lg-5 col-4' style='background-image: url(/assets/images/travel/{{trip.folder}}/{{ trip.imagine }});'></div><div class='details col-lg-7 col-8'><h3 class='atr-head fara-subliniere'><img src='/assets/images/svg/map-marker.svg' style='margin-right: 5px;'>{{trip.atractie | upcase}}</h3><div class='trip-text-intro' style='padding: 0px 5px;'><p>{{trip.text-intro | truncate:150 | smartify }}</p><a href='https://www.google.com/maps/search/?api=1&query={%if page.tara == 'ROMANIA'%}{{trip.atractie}}{% else %}{{trip.atractieEn}}{% endif %} {{ trip.adresa }}'><img src='/assets/images/svg/directions.svg' style='margin-right: 5px;'>INDICATII</a><a href='{{trip.url}}'>MAI MULT</a><span class='position'>{{trip.tags | slice:0}}</span></div></div><div class='col-12 small-text-mobile'><span>{{trip.text-intro | truncate:130 | smartify }}</span></div></div></div>" },
     
   {% endfor %}
   {% endif %}
 ];
    
-
 
 // Adding markers to the map
 markers.forEach(function(marker) {
