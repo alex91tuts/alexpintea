@@ -3,8 +3,8 @@ layout: map
 title: "HARTA OBIECTIVE TURISTICE BUCURESTI"
 descriere: "Descoperă cele mai captivante atracții turistice din București cu harta interactivă a orașului! Explorează poveștile, istoria și frumusețea ascunsă a capitalei României"  
 description: "Descoperă cele mai captivante atracții turistice din București cu harta interactivă a orașului! Explorează poveștile, istoria și frumusețea ascunsă a capitalei României" 
-mobile_main_image: "main-image-s-recxlu2xBrdkwxy7Y.webp"
-desktop_main_image: "main-image-l-recxlu2xBrdkwxy7Y.webp"
+mobile_main_image: "map-main-image-s-recxlu2xBrdkwxy7Y.webp"
+desktop_main_image: "map-main-image-l-recxlu2xBrdkwxy7Y.webp"
 author: "TOREDUS"
 author-link: "grup-totredus"
 latitudine: 44.426767

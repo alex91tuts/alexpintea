@@ -19,11 +19,11 @@ tags: ['ortodoxă', 'monumentală', 'contemporană']
 atractie: "Catedrala Mântuirii Neamului"
 atractieEn: "Romanian People's Salvation Cathedral"
 phone: ''
-website: 'http://www.vikingrivercruises.com/cruise-destinations/europe/passage-eastern-europe/2020-bucharest-budapest/index.html#itineraryday/1'
+website: ''
 email: ''
 adresa: '4-60 13 September Street Sector 5, Bucharest Romania'
-latitudine: 44.42926
-longitudine: 26.19897
+latitudine: 44.4261072
+longitudine: 26.0781301
 subtip: ["Churches & Cathedrals"]
 id-oras: "294458"
 cat: "atractie"

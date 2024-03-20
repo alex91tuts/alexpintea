@@ -101,8 +101,10 @@ post_class: post-template
    // Creating a map object
    var map = L.map('map').setView([{{page.latitudine}}, {{page.longitudine}}], 15);
 
-   // Creating a Layer object
-   var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+   var layer = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+
 
    // Adding layer to the map
    map.addLayer(layer);
