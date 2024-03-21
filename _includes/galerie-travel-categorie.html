@@ -1,0 +1,148 @@
+{% assign desired_category = page.desired-cat %}
+{% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras | sort: "position" %}
+{% if atractieid %}
+  
+<div style="margin-bottom: 13px;">
+  <div class="row">
+    {% for trip in atractieid limit: 1 offset: 0 %}
+    {% if trip.categorie-generata-1 contains desired_category or trip.categorie-generata-2 contains desired_category or trip.categorie-generata-3 contains desired_category %}
+    <div class="col-8 poza-mare pm1" style="background-image: url('/assets/images/travel/{{trip.folder}}/{{trip.imagine-big}}');"></div>
+    <style>
+    @media (max-width: 600px) {
+      .pm1 {
+        background-image: url('/assets/images/travel/{{trip.folder}}/{{trip.imagine}}') !important;
+      }
+    }
+    </style>
+    {% endif %}
+    {% endfor %}
+    <div class="col-4" style="padding-right: 0;">
+      {% for trip in atractieid limit: 1 offset: 1 %}
+      {% if trip.categorie-generata-1 contains desired_category or trip.categorie-generata-2 contains desired_category or trip.categorie-generata-3 contains desired_category %}
+      <div class="col-12 poza-mica pm2" style="background-image: url('/assets/images/travel/{{trip.folder}}/{{trip.imagine}}');"></div>
+      <style>
+        @media (max-width: 600px) {
+          .pm2 {
+            background-image: url('/assets/images/travel/{{trip.folder}}/{{trip.imagine-mobile}}') !important;
+          }
+        }
+    </style>
+      {% endif %}
+      {% endfor %}
+      {% for trip in atractieid limit: 1 offset: 2 %}
+      {% if trip.categorie-generata-1 contains desired_category or trip.categorie-generata-2 contains desired_category or trip.categorie-generata-3 contains desired_category %}
+      <div class="col-12 poza-mica pm3" style="background-image: url('/assets/images/travel/{{trip.folder}}/{{trip.imagine}}'); margin-top: 13px;"></div>
+      <style>
+        @media (max-width: 600px) {
+          .pm3 {
+            background-image: url('/assets/images/travel/{{trip.folder}}/{{trip.imagine-mobile}}') !important;
+          }
+        }
+    </style>
+      {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+
+{% endif %}
+
+<style>
+  @media only screen and (max-width: 600px) {
+   .poza-mare {
+      height: 250px !important;
+    }
+    .poza-mica {
+    height: 118px !important;
+    }
+    .dark {
+    line-height: 118px !important;
+    }
+    .mai-multe {
+    font-size: 14px !important;
+    }
+    .modal-content {
+    width: 90% !important;  
+    margin-top: 20px !important;
+    }
+    .close {
+    top: 16px !important;
+    background: black;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 9px -2px black;
+    padding: 6px 4px;
+    font-size: 45px !important;
+    line-height: .5;
+    }
+  }
+  .mai-multe {
+    color: white;
+    font-weight: 900;
+    background: none;
+    border: none;
+    cursor: pointer;
+    }
+  .dark {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #0000009c;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 193px;
+    }
+  .poza-mare {
+    height: 400px;
+    border-radius: 10px;
+    background-size: cover !important;
+    background-position: center !important;
+    }
+  .poza-mica {
+    height: 193px;
+    border-radius: 10px;
+    background-size: cover !important;
+    background-position: center !important;
+    }
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1030; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: #202020f5; /* Black w/ opacity */
+    }
+    /* Modal Content */
+    .modal-content {
+        background-color: #20202000;
+        margin: 1% auto;
+        /* padding: 20px; */
+        border: none;
+        width: 50%;
+        border-radius: 15px;
+    }
+    /* The Close Button */
+    .close {
+        color: white;
+        float: left;
+        font-size: 78px;
+        font-weight: bold;
+        position: fixed;
+        top: 10px;
+        left: 10px;
+    }
+    .close:hover,
+    .close:focus {
+        transform: rotate(45deg);
+        transition: 1s;
+        text-decoration: none;
+        cursor: pointer;
+    }
+</style>

@@ -27,6 +27,7 @@ timezone: "Europe/Bucharest"
 suprafata: "228 km2"
 populatie: "1.8 milioane"
 no-atractii: 45
+desired-cat: ""
 
 ---
 

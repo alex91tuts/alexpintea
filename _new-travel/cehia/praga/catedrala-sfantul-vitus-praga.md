@@ -5,6 +5,7 @@ descriere: "Splendoarea catedralei St. Vitus din Praga, o capodoperă gotică pl
 description: "Splendoarea catedralei St. Vitus din Praga, o capodoperă gotică plină de istorie și artă. Află despre arhitectura impresionantă, vitraliile colorate și mormintele regale."
 imagine: "main-recpF5nkVneHfReb8.webp"
 imagine-mobile: "mobile-recpF5nkVneHfReb8.webp"
+imagine-big: "main-big-recpF5nkVneHfReb8.webp"
 atr-imagine: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Praha%2C_Katedr%C3%A1la%2C_JV_01.jpg/500px-Praha%2C_Katedr%C3%A1la%2C_JV_01.jpg"
 author: "TOREDUS"
 author-link: "grup-totredus"

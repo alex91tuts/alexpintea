@@ -3984,6 +3984,19 @@
     } ,
   
     {
+      "title"    : "HARTA OBIECTIVE TURISTICE CESKY KRUMLOV",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "Pitoresc, Castel, Boem",
+      "url"      : "/travel/harta-obiective-turistice-cesky-krumlov/",
+      "date"     : "2024-03-20 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Descopera cele mai frumoase obiective turistice pe harta interactivă a orașului CESKY KRUMLOV",
+			"cat"    : "blog-oras",
+			"type"     : "travel"
+    } ,
+  
+    {
       "title"    : "HARTA OBIECTIVE TURISTICE PRAGA",
       "category" : "REPUBLICA CEHA",
       "tags"     : "CAPITALA, BOEM, CULTURAL",

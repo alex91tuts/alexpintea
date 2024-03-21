@@ -73,6 +73,7 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 <div class="container review-cont">
+{%if page.cat != "blog-oras"%}
 <!-- Post Featured Image -->
 <meta itemprop="image" content="{{ site.url }}{{page.image}}"></meta>
 <div id="top-featured" class="banner-review row" style="">
@@ -96,6 +97,11 @@ post_class: post-template
   </div>
 </div>
 <!-- End Featured Image -->
+{% else %}
+{% include galerie-travel-categorie.html %}
+<h1 class="banner-title" style="color: black;">{{ page.title }} - {{ 'now' | date: '%Y' }}</h1>
+{% endif %}
+
 <div class="row">
 	<!-- Post Content -->
 	<div id="articol" class="article-post review-post col-lg-8 col-12 order-first order-lg-1">

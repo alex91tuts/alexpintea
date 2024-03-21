@@ -1,45 +1,13 @@
----
-## TOP {{page.no-atractii}} De Atracții Turistice în {{ page.oras}}
-
-{% assign desired_category = "012" %}
+{% assign desired_category = page.desired-cat %}
 {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras | sort: "position" %}
 {% assign i = 0 %}
 {% if atractieid %}
-  <table>
-    <tr>
-      <th>ATRACTIE</th>
-    </tr>
-    {% for trip in atractieid %}
-      {% if trip.categorie-generata-1 contains desired_category or trip.categorie-generata-2 contains desired_category or trip.categorie-generata-3 contains desired_category %}
-        {% capture i %}{{ i | plus: 1 }}{% endcapture %}
-        <tr>
-          <td><a href="#{{trip.folder}}">{{i}}. {{ trip.atractie }}</a></td>
-        </tr>
-      {% endif %}
-    {% endfor %}
-  </table>
-{% endif %}
-
-
-
-<hr>
-<h2>Galerie foto obiective turistice {{ page.oras }} </h2>
-
-{% include galerie-travel.html %}
-
-<hr>
-<h2>Locuri de vizitat în {{page.oras}} - Detalii</h2>
-
-{% assign desired_category = "012" %}
-{% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras | sort: "position" %}
-{% assign i = 0 %}
-{% if atractieid %}
-  {% for trip in atractieid limit: page.no-atractii %}
+  {% for trip in atractieid %}
     {% if trip.categorie-generata-1 contains desired_category or trip.categorie-generata-2 contains desired_category or trip.categorie-generata-3 contains desired_category %}
       {% capture i %}{{ i | plus: 1 }}{% endcapture %}
       
 <div class="atr-hold">
-<h3 id="{{trip.folder}}">{{i}}. {{trip.atractie}}</h3>
+<h2 id="{{trip.atractie | slugify }}">{{i}}. {{trip.atractie}}</h2>
 <img src="/assets/images/travel/{{trip.folder}}/{{trip.imagine}}" alt="{{trip.atractie}}" class="atr-img">
 <p>{{ trip.text-intro | truncate: 1000 }}<b><a href="{{trip.url}}">citește mai mult</a></b></p>
 </div>
