@@ -25,6 +25,7 @@ cat: "blog-oras"
 folder: recsAliG9AGy7c1Es
 no-atractii: 45
 desired-cat: ""
+subcat: "lv"
 
 
 ---

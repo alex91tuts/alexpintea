@@ -29,6 +29,7 @@ suprafata: "22.16 km2"
 populatie: "cca. 13.000"
 no-atractii: 35
 desired-cat: ""
+subcat: "lv"
 
 ---
 

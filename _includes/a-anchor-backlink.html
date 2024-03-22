@@ -1,4 +1,4 @@
-{% assign orasid = site.new-travel | where: "cat", "blog-oras" | where: "id-oras", {{page.id-oras}} | first %}{% if orasid %}
+{% assign orasid = site.new-travel | where: "subcat", "lv" | where: "id-oras", {{page.id-oras}} | first %}{% if orasid %}
   {% assign count = orasid.anchors.size %}
   {% assign cycle_index = {{page.position}} | minus: 1 | modulo: count %}
 <div class="link-to">
@@ -10,7 +10,7 @@
   </div>
   </div>
 <div class="col-lg-10 col-9 text-cust">
-  <a href="{{ orasid.url }}" class="link-cust">{{ orasid.anchors[cycle_index] }}</a>
+  <a href="{{ orasid.url }}" class="link-cust">{{ orasid.anchors[cycle_index] | capitalize }}</a>
 </div>
 
 </div>

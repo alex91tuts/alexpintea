@@ -20,6 +20,7 @@ tags: ['ROMANIA','ISTORIC','FRUMUSETE']
 anchors: ['Locuri de vizitat in Bucuresti','Atractii turistice Bucuresti','Obiective Turistice Bucuresti','De Vizitat in Bucuresti']
 id-oras: "294458"
 cat: "blog-oras"
+subcat: "lv"
 folder: "recxlu2xBrdkwxy7Y"
 latitudine: 44.426767
 longitudine: 26.102538
