@@ -12,7 +12,7 @@
     
 <div class="atr-hold">
 <h2 id="{{trip.atractie | slugify }}">{{i}}. {{trip.atractie}}</h2>
-<img src="/assets/images/travel/{{trip.folder}}/{{trip.imagine}}" alt="{{trip.atractie}}" class="atr-img">
+<img src="/assets/images/travel/{{trip.folder}}/{{trip.imagine}}" alt="{{trip.atractie}}" loading="lazy" class="atr-img">
   <p>{{ trip.text-intro | truncate: 1000 }}<b><a href="{{trip.url}}">citește mai mult</a></b></p>
 </div>
 <hr class="hr-s1">

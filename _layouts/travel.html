@@ -98,8 +98,19 @@ post_class: post-template
 </div>
 <!-- End Featured Image -->
 {% else %}
-{% include galerie-travel-categorie.html %}
-<h1 class="banner-title" style="color: black;">{{ page.title }} - {{ 'now' | date: '%Y' }}</h1>
+<div class="continut-imagine" style="background-color: #4d4855;background-image: linear-gradient(147deg, #4d4855 0%, #000000 74%);position: relative;border-radius: 15px;font-family: Montserrat;">
+    <div class="">
+        <div class="categorie-review">
+          <span>{{ page.oras }}</span>
+        </div>
+     <h1 class="banner-title">{{ page.title }} - {{ 'now' | date: '%Y' }}</h1>
+        <div class="review-meta">
+          <span><img fetchpriority="high" src="/assets/images/svg/author.svg" class="small-svg" width="10.6" height="10.6" alt="totredus icon">{%if page.author-link %}<a href="{{ site.url }}/autor/{{ page.author-link }}/"><span itemprop="author">{{ page.author }}</span></a>{% else %}<span itemprop="author">{{ page.author }}</span>{% endif %}</span> | 
+          <span><img fetchpriority="high" src="/assets/images/svg/time.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> {% include reading-time.html %} </span> | 
+          <span><img fetchpriority="high" src="/assets/images/svg/calendar.svg" class="small-svg" width="10.6" height="10.6"  alt="totredus icon"> <span itemprop="datePublished">{{ page.date | date_to_string }}</span> </span>
+        </div>
+    </div>
+</div>
 {% endif %}
 
 <div class="row">
@@ -215,6 +226,11 @@ post_class: post-template
 		color: black !important;
 		font-style: italic;
 	}
+  #outputList {
+    overflow-y: auto;
+    max-height: 90vh;
+  }
+  
 
 		.go-img {
 				position: absolute;

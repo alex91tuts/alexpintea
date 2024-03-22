@@ -4007,6 +4007,19 @@
 	    "description"     : "Descopera cele mai frumoase obiective turistice pe harta interactivă a orașului PRAGA",
 			"cat"    : "blog-oras",
 			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Locuri istorice si culturale in Praga",
+      "category" : "REPUBLICA CEHA",
+      "tags"     : "PRAGA, OBIECTIVE, ATRACTII",
+      "url"      : "/travel/locuri-istorice-praga/",
+      "date"     : "2024-03-21 00:00:00 +0200",
+	    "image"     : "main-2-image-l-recsAliG9AGy7c1Es.webp",
+			"author"    : "Fabrica de amintiri",
+	    "description"     : "Descoperă Praga: un ghid esențial al celor mai semnificative locuri istorice și culturale. De la impunătorul Castel Praga la misticul Pod Carol, explorează bijuteriile care țes povestea vibrantă a acestui oraș magic.",
+			"cat"    : "blog-oras",
+			"type"     : "travel"
     } 
   
 	,
