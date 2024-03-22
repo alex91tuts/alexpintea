@@ -323,7 +323,7 @@ document.addEventListener('DOMContentLoaded', function() {
         let currentScrollPosition = window.pageYOffset;
 
         if (window.innerWidth <= 1200) {
-            if (currentScrollPosition > lastScrollPosition && currentScrollPosition >= 50) {
+            if (currentScrollPosition > lastScrollPosition && currentScrollPosition >= 0) {
                 navigationDiv.style.opacity = '0';  // Hide the navigation when scrolling down
             } else if (currentScrollPosition < lastScrollPosition) {
                 navigationDiv.style.opacity = '1';  // Show the navigation when scrolling up
