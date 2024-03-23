@@ -33,7 +33,7 @@ cat: 'atractie'
 iata: ""
 timezone: "Europe/Bucharest"
 folder: "rec7QrfCUMusPtJEv"
-position: 4.5
+position: 4
 categorie-generata-1: "003"
 categorie-generata-2: "007"
 categorie-generata-3: "013"
