@@ -25,5 +25,6 @@ anchors: ['harta atractii turistice bucuresti','harta locuri de vizitat in bucur
 map: "yes"
 cat: "blog-oras"
 folder: "recxlu2xBrdkwxy7Y"
+subcat: "map"
 
 ---

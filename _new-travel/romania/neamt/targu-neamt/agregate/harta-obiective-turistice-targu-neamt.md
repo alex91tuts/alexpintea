@@ -26,5 +26,6 @@ anchors: ['harta atractii turistice targu neamt','harta locuri de vizitat in tar
 map: "yes"
 cat: "blog-oras"
 folder: "recxHsQjDxotwFYz8"
+subcat: "map"
 
 ---

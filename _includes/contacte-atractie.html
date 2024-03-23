@@ -1,32 +1,33 @@
 <div class="row col-lg-4 sticky" style="height: fit-content;">
 
-{% if page.adresa %}
+{% if page.adresa != "" %}
 <div class="contacte-travel">
   <img class="contacte-svg-travel" src="/assets/images/svg/map.svg" alt="imagine adresa" width="20" height="20"><span class="text-contacte">{{ page.adresa }}</span>
 </div>
 {% endif %}
 
-{% if page.email %}
 <div class="contacte-travel">
-  <img class="contacte-svg-travel" src="/assets/images/svg/email.svg" alt="imagine email" width="20" height="20"><span class="text-contacte">{{ page.email }}</span>
+  <img class="contacte-svg-travel" src="/assets/images/svg/map-cat.svg" alt="imagine harta obiective turistice" width="20" height="20">
+  {% assign orasid = site.new-travel | where: "subcat", "map" | where: "id-oras", {{page.id-oras}} | first %}
+  <a href="{{ orasid.url }}" class="link-cust">HARTA ATRACTII</a>
 </div>
-{% endif %}
-{% if page.phone %}
+  
+{% if page.phone != "" %}
 <div class="contacte-travel">
   <img class="contacte-svg-travel" src="/assets/images/svg/phone.svg" alt="imagine telefon" width="20" height="20"><span class="text-contacte">{{ page.phone }}</span>
 </div>
 {% endif %}
-{% if page.website %}
+{% if page.website != "" %}
 <div class="contacte-travel">
   <img class="contacte-svg-travel" src="/assets/images/svg/web.svg" alt="imagine website" width="20" height="20"><a href="{{page.website}}" target="_blank"><span class="text-contacte" style="text-decoration: underline;">Vezi website</span></a>
 </div>
 {% endif %}
-{% if page.tara %}
+{% if page.tara != "" %}
 <div class="contacte-travel">
   <img class="contacte-svg-travel" src="/assets/images/svg/country.svg" alt="imagine drapel tara" width="20" height="20"><span class="text-contacte">{{ page.tara }}</span>
 </div>
 {% endif %}
-{% if page.oras %}  
+{% if page.oras != "" %}  
 <div class="contacte-travel">
   <img class="contacte-svg-travel" src="/assets/images/svg/city.svg" alt="imagine linie oras" width="20" height="20">
   {% assign orasid = site.new-travel | where: "cat", "oras" | where: "id-oras", {{page.id-oras}} | first %}

@@ -25,5 +25,6 @@ anchors: ['harta atractii turistice praga','harta locuri de vizitat in praga','h
 map: "yes"
 cat: "blog-oras"
 folder: "recsAliG9AGy7c1Es"
+subcat: "map"
 
 ---

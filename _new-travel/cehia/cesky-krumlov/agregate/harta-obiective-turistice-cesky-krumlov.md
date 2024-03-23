@@ -25,5 +25,6 @@ anchors: ['harta atractii turistice cesky krumlov','harta locuri de vizitat in c
 map: "yes"
 cat: "blog-oras"
 folder: "recJVbbVooSbWU5ak"
+subcat: "map"
 
 ---
