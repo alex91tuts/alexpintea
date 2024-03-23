@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Telegondolă Piatra Neamț: Descoperă Vederi Spectaculoase și Aventura în Inima Moldovei"
+title: "Telegondolă Piatra Neamț: Vederi Spectaculoase și Aventura"
 descriere: 'Telegondolă Piatra Neamț: experimentează o călătorie spectaculoasă deasupra orașului Piatra Neamț, admirând peisajele pitorești ale Moldovei de la înălțime. Informații utile, tarife și orar.' 
 description: 'Telegondolă Piatra Neamț: experimentează o călătorie spectaculoasă deasupra orașului Piatra Neamț, admirând peisajele pitorești ale Moldovei de la înălțime. Informații utile, tarife și orar.'
 imagine: "main-recFkopmnmdXnsTae.webp"

@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Piața Ștefan cel Mare din Piatra Neamț: Ghid Turistic și Atracții de Vizitat"
+title: "Piața Ștefan cel Mare din Piatra Neamț: Ghid Turistic"
 descriere: 'Piața Ștefan cel Mare din Piatra Neamț: un centru istoric vibrant, plin de monumente culturale și evenimente locale. Explorează istoria și frumusețea acestui loc emblematic pentru orașul Piatra Neamț.' 
 description: 'Piața Ștefan cel Mare din Piatra Neamț: un centru istoric vibrant, plin de monumente culturale și evenimente locale. Explorează istoria și frumusețea acestui loc emblematic pentru orașul Piatra Neamț.'
 imagine: "main-recEppnljiMwr7j4J.webp"

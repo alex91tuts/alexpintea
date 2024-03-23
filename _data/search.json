@@ -4075,19 +4075,6 @@
     } ,
   
     {
-      "title"    : "Casa Memorială „Alexandru Vlahuță” Agapia - Descoperă Istoria și Cultura în Târgu Neamț",
-      "category" : "ROMANIA",
-      "tags"     : "literatură, memorial, istorie",
-      "url"      : "/travel/casa-memoriala-alexandru-vlahuta-din-agapia/",
-      "date"     : "2024-03-22 00:00:00 +0200",
-	    "image"     : "",
-			"author"    : "TOREDUS",
-	    "description"     : "Casa Memorială „Alexandru Vlahuță” din Agapia, Târgu Neamț: un sanctuar cultural dedicat scriitorului și pedagogului român, oferind o incursiune în viața și opera sa, în inima unui peisaj pitoresc.",
-			"cat"    : "atractie",
-			"type"     : "travel"
-    } ,
-  
-    {
       "title"    : "Casa Memorială „Veronica Micle” din Târgu Neamț: Descoperă Istoria și Povestea Poetei Dragostei",
       "category" : "ROMANIA",
       "tags"     : "poezie, istorie, memorial",
@@ -4218,6 +4205,84 @@
     } ,
   
     {
+      "title"    : "Casa Memorială „Alexandru Vlahuță” Agapia: Descoperă Patrimoniul Cultural",
+      "category" : "ROMANIA",
+      "tags"     : "literatură, memorial, istorie",
+      "url"      : "/travel/casa-memoriala-alexandru-vlahuta-din-agapia/",
+      "date"     : "2024-03-23 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Casa Memorială „Alexandru Vlahuță” din Agapia: explorează universul scriitorului român, imersându-te în atmosfera de secol XIX, prin obiectele personale și manuscrisele originale expuse.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Mănăstirea Agapia din Neamț: Ghid de Vizitare",
+      "category" : "ROMANIA",
+      "tags"     : "spiritualitate, pictură, istorie",
+      "url"      : "/travel/manastirea-agapia/",
+      "date"     : "2024-03-23 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Mănăstirea Agapia, o oază de spiritualitate și artă în inima Moldovei, te invită să explorezi arhitectura tradițională și frescele realizate de Nicolae Grigorescu. Află mai multe despre istoria și frumusețea acestui loc sacru.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Mănăstirea Văratec din Agapia – Oază de liniște și spiritualitate ",
+      "category" : "ROMANIA",
+      "tags"     : "spiritualitate, mănăstire, ortodoxie",
+      "url"      : "/travel/manastirea-varatec/",
+      "date"     : "2024-03-23 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Mănăstirea Văratec, o oază de pace spirituală în Agapia, te invită să explorezi arhitectura tradițională și grădinile pitorești ale celui mai mare așezământ monahal de maici din România.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Muzeul Vivant din Agapia: Tradițiile și Istoria Vie a Neamțului",
+      "category" : "ROMANIA",
+      "tags"     : "etnografie, tradiții, autentic",
+      "url"      : "/travel/muzeul-vivant-din-agapia/",
+      "date"     : "2024-03-23 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Muzeul Vivant din Agapia - o incursiune autentică în tradițiile și meșteșugurile românești. Explorează expoziții interactive și află mai multe despre cultura populară într-un cadru pitoresc.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Pădurea de Argint Agapia - Oază de Liniște și Natură ",
+      "category" : "ROMANIA",
+      "tags"     : "natură, relaxare, pădure",
+      "url"      : "/travel/padurea-de-argint/",
+      "date"     : "2024-03-23 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Pădurea de Argint din Agapia: un sanctuar natural plin de mister, cu peisaje pitorești și trasee de drumeție care îți taie respirația. Află istoria, legenda și cum să ajungi în această oază de liniște.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
+      "title"    : "Schitul Agapia Veche: Comoara Ascunsă a Spiritualității din Agapia",
+      "category" : "ROMANIA",
+      "tags"     : "spiritualitate, retras, istoric",
+      "url"      : "/travel/schitul-agapia-veche/",
+      "date"     : "2024-03-23 00:00:00 +0200",
+	    "image"     : "",
+			"author"    : "TOREDUS",
+	    "description"     : "Schitul Agapia Veche, o oază de liniște și spiritualitate în inima Moldovei, vă invită să descoperiți frescele sale unice și peisajul pitoresc al zonei. Aflați mai multe despre istoria și arhitectura acestui loc sacru.",
+			"cat"    : "atractie",
+			"type"     : "travel"
+    } ,
+  
+    {
       "title"    : "HARTA OBIECTIVE TURISTICE PIATRA NEAMT",
       "category" : "ROMANIA",
       "tags"     : "Harta, Atractii, Obiective",
@@ -4257,7 +4322,7 @@
     } ,
   
     {
-      "title"    : "Cetatea Dacica Petrodava din Piatra Neamț: Descoperă Istoria și Misterele Ancestrale",
+      "title"    : "Cetatea Dacica Petrodava din Piatra Neamț: Istorie și Mistere Ancestrale",
       "category" : "ROMANIA",
       "tags"     : "dacică, istorie, fortificație",
       "url"      : "/travel/cetatea-dacica-petrodava/",
@@ -4270,7 +4335,7 @@
     } ,
   
     {
-      "title"    : "Dealul Pietricica din Piatra Neamț: Ghid Complet pentru Explorarea Peisajelor Pitorești",
+      "title"    : "Dealul Pietricica din Piatra Neamț: Explorează Peisajele Pitorești",
       "category" : "ROMANIA",
       "tags"     : "natură, panoramă, istorie",
       "url"      : "/travel/dealul-pietricica/",
@@ -4283,7 +4348,7 @@
     } ,
   
     {
-      "title"    : "Lacul Fosilifer Cozla din Piatra Neamț: Descoperă Misterul Trecutului Geologic",
+      "title"    : "Lacul Fosilifer Cozla din Piatra Neamț: Misterul Trecutului Geologic",
       "category" : "ROMANIA",
       "tags"     : "fosile, geologie, unic",
       "url"      : "/travel/lacul-fosilifer-cozla/",
@@ -4296,7 +4361,7 @@
     } ,
   
     {
-      "title"    : "Muntele Cozla Piatra Neamț: Ghid Complet pentru O Escapadă Perfectă în Inima Naturii",
+      "title"    : "Muntele Cozla Piatra Neamț: O Escapadă Perfectă în Inima Naturii",
       "category" : "ROMANIA",
       "tags"     : "natură, drumeție, panoramă",
       "url"      : "/travel/muntele-cozla/",
@@ -4309,7 +4374,7 @@
     } ,
   
     {
-      "title"    : "Muzeul de Artă Eneolitică Cucuteni din Piatra Neamț: Descoperă Comorile Preistorice",
+      "title"    : "Muzeul de Artă Eneolitică Cucuteni din Piatra Neamț",
       "category" : "ROMANIA",
       "tags"     : "eneolitic, Cucuteni, arheologie",
       "url"      : "/travel/muzeul-de-arta-eneolitica-cucuteni-din-piatra-neamt/",
@@ -4322,7 +4387,7 @@
     } ,
   
     {
-      "title"    : "Muzeul de Artă Piatra Neamț: Descoperă Comorile Culturale din Inima Moldovei",
+      "title"    : "Muzeul de Artă Piatra Neamț: Comori Culturale în Inima Moldovei",
       "category" : "ROMANIA",
       "tags"     : "artă, cultură, istorie",
       "url"      : "/travel/muzeul-de-arta-piatra-neamt/",
@@ -4335,7 +4400,7 @@
     } ,
   
     {
-      "title"    : "Muzeul de Etnografie din Piatra Neamț: Descoperă Tradițiile și Cultura Neamțului",
+      "title"    : "Muzeul de Etnografie din Piatra Neamț: Tradiții și Cultură",
       "category" : "ROMANIA",
       "tags"     : "tradiții, istorie, cultura",
       "url"      : "/travel/muzeul-de-etnografie-din-piatra-neamt/",
@@ -4348,7 +4413,7 @@
     } ,
   
     {
-      "title"    : "Descoperă Comorile Trecutului la Muzeul de Istorie și Arheologie Piatra Neamț: O Călătorie în Inima Istoriei",
+      "title"    : "Descoperă Comorile Trecutului la Muzeul de Istorie și Arheologie Piatra Neamț",
       "category" : "ROMANIA",
       "tags"     : "istorie, arheologie, cultura",
       "url"      : "/travel/muzeul-de-istorie-si-arheologie-piatra-neamt/",
@@ -4361,7 +4426,7 @@
     } ,
   
     {
-      "title"    : "Muzeul Memorial „Calistrat Hogaș” din Piatra Neamț: Descoperă Istoria și Cultura Locală",
+      "title"    : "Muzeul Memorial Calistrat Hogaș din Piatra Neamț: Istorie și Cultura Locală",
       "category" : "ROMANIA",
       "tags"     : "literatură, memorial, istorie",
       "url"      : "/travel/muzeul-memorial-calistrat-hogas-piatra-neamt/",
@@ -4374,7 +4439,7 @@
     } ,
   
     {
-      "title"    : "Piața Ștefan cel Mare din Piatra Neamț: Ghid Turistic și Atracții de Vizitat",
+      "title"    : "Piața Ștefan cel Mare din Piatra Neamț: Ghid Turistic",
       "category" : "ROMANIA",
       "tags"     : "centrală, monument, istorică",
       "url"      : "/travel/piata-stefan-cel-mare-din-piatra-neamt/",
@@ -4387,7 +4452,7 @@
     } ,
   
     {
-      "title"    : "Telegondolă Piatra Neamț: Descoperă Vederi Spectaculoase și Aventura în Inima Moldovei",
+      "title"    : "Telegondolă Piatra Neamț: Vederi Spectaculoase și Aventura",
       "category" : "ROMANIA",
       "tags"     : "telegondolă, vedere, Piatra-Neamț",
       "url"      : "/travel/telegondola-piatra-neamt/",
@@ -4400,7 +4465,7 @@
     } ,
   
     {
-      "title"    : "Turnul lui Ștefan cel Mare din Piatra Neamț: Ghid Complet pentru Vizitatori",
+      "title"    : "Turnul lui Ștefan cel Mare din Piatra Neamț: Ghid Pentru Vizitatori",
       "category" : "ROMANIA",
       "tags"     : "istorie, monument, panoramă",
       "url"      : "/travel/turnul-lui-stefan-cel-mare/",
@@ -4413,7 +4478,7 @@
     } ,
   
     {
-      "title"    : "Vârful Cozla din Piatra Neamț: Ghidul complet pentru drumeții și priveliști panoramice",
+      "title"    : "Vârful Cozla din Piatra Neamț: drumeții și priveliști panoramice",
       "category" : "ROMANIA",
       "tags"     : "natură, drumeție, panoramă",
       "url"      : "/travel/varful-cozla/",

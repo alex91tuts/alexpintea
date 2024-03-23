@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Lacul Fosilifer Cozla din Piatra Neamț: Descoperă Misterul Trecutului Geologic"
+title: "Lacul Fosilifer Cozla din Piatra Neamț: Misterul Trecutului Geologic"
 descriere: 'Lacul Fosilifer Cozla din Piatra Neamț este o fereastră unică în timp, oferind vizitatorilor ocazia de a explora vestigii ale unei lumi preistorice. Află mai multe despre acest monument natural de excepție.' 
 description: 'Lacul Fosilifer Cozla din Piatra Neamț este o fereastră unică în timp, oferind vizitatorilor ocazia de a explora vestigii ale unei lumi preistorice. Află mai multe despre acest monument natural de excepție.'
 imagine: "main-recTkZuEH0tQU5lki.webp"

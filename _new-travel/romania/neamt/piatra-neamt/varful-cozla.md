@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Vârful Cozla din Piatra Neamț: Ghidul complet pentru drumeții și priveliști panoramice"
+title: "Vârful Cozla din Piatra Neamț: drumeții și priveliști panoramice"
 descriere: 'Vârful Cozla (650m) din Piatra Neamț: ghid complet pentru drumeții și iubitorii de natură. Află trasee, puncte de belvedere și activități de recreere pentru o escapadă memorabilă.' 
 description: 'Vârful Cozla (650m) din Piatra Neamț: ghid complet pentru drumeții și iubitorii de natură. Află trasee, puncte de belvedere și activități de recreere pentru o escapadă memorabilă.'
 imagine: "main-reckNEqjlc8mfPrES.webp"

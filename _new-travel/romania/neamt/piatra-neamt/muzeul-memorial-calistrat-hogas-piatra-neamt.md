@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Muzeul Memorial „Calistrat Hogaș” din Piatra Neamț: Descoperă Istoria și Cultura Locală"
+title: "Muzeul Memorial Calistrat Hogaș din Piatra Neamț: Istorie și Cultura Locală"
 descriere: 'Muzeul Memorial „Calistrat Hogaș” din Piatra Neamț îți deschide porțile către viața și opera scriitorului român, oferind o incursiune autentică în epoca sa prin obiecte personale și manuscrise originale.' 
 description: 'Muzeul Memorial „Calistrat Hogaș” din Piatra Neamț îți deschide porțile către viața și opera scriitorului român, oferind o incursiune autentică în epoca sa prin obiecte personale și manuscrise originale.'
 imagine: "main-rec2kmTvbiQxALVmU.webp"

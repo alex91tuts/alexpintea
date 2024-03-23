@@ -1,9 +1,3 @@
----
-## Galerie foto obiective turistice {{ page.oras }}
-
-{% include galerie-travel.html %}
-
-
 {% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", page.id-oras | sort: "position" %}
 {% assign i = 0 %}
 {% if atractieid %}

@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Muzeul de Etnografie din Piatra Neamț: Descoperă Tradițiile și Cultura Neamțului"
+title: "Muzeul de Etnografie din Piatra Neamț: Tradiții și Cultură"
 descriere: 'Muzeul de Etnografie din Piatra Neamț: Explorează tradițiile și cultura populară românească prin colecții impresionante de costume, unelte și obiecte artizanale. Află mai multe despre patrimoniul cultural al zonei Neamț.' 
 description: 'Muzeul de Etnografie din Piatra Neamț: Explorează tradițiile și cultura populară românească prin colecții impresionante de costume, unelte și obiecte artizanale. Află mai multe despre patrimoniul cultural al zonei Neamț.'
 imagine: "main-recSZq1QAm7kqxm7r.webp"

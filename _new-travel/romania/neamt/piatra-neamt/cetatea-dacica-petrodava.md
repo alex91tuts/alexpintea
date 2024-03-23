@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Cetatea Dacica Petrodava din Piatra Neamț: Descoperă Istoria și Misterele Ancestrale"
+title: "Cetatea Dacica Petrodava din Piatra Neamț: Istorie și Mistere Ancestrale"
 descriere: 'Cetatea Dacica Petrodava din Piatra Neamț, un sit arheologic impresionant, îți dezvăluie secretele străvechi ale dacilor. Explorează ruinele și află mai multe despre istoria și cultura dacică.' 
 description: 'Cetatea Dacica Petrodava din Piatra Neamț, un sit arheologic impresionant, îți dezvăluie secretele străvechi ale dacilor. Explorează ruinele și află mai multe despre istoria și cultura dacică.'
 imagine: "main-recs4bRprdZSn6Eor.webp"

@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Descoperă Comorile Trecutului la Muzeul de Istorie și Arheologie Piatra Neamț: O Călătorie în Inima Istoriei"
+title: "Descoperă Comorile Trecutului la Muzeul de Istorie și Arheologie Piatra Neamț"
 descriere: 'Muzeul de Istorie și Arheologie Piatra Neamț: Explorează trecutul vibrant al Moldovei prin exponate fascinante, artefacte antice și colecții unice care îți vor deschide poarta către istoria bogată a regiunii.' 
 description: 'Muzeul de Istorie și Arheologie Piatra Neamț: Explorează trecutul vibrant al Moldovei prin exponate fascinante, artefacte antice și colecții unice care îți vor deschide poarta către istoria bogată a regiunii.'
 imagine: "main-recNS5NsTvF6X4b7w.webp"

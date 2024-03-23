@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Dealul Pietricica din Piatra Neamț: Ghid Complet pentru Explorarea Peisajelor Pitorești"
+title: "Dealul Pietricica din Piatra Neamț: Explorează Peisajele Pitorești"
 descriere: 'Dealul Pietricica din Piatra Neamț, un simbol al orașului, oferă o panoramă spectaculoasă și trasee de drumeție pline de istorie. Află mai multe despre acest loc pitoresc și activitățile pe care le poți încerca aici.' 
 description: 'Dealul Pietricica din Piatra Neamț, un simbol al orașului, oferă o panoramă spectaculoasă și trasee de drumeție pline de istorie. Află mai multe despre acest loc pitoresc și activitățile pe care le poți încerca aici.'
 imagine: "main-rec7QrfCUMusPtJEv.webp"

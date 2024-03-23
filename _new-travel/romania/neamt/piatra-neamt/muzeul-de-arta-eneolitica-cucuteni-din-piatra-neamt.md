@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Muzeul de Artă Eneolitică Cucuteni din Piatra Neamț: Descoperă Comorile Preistorice"
+title: "Muzeul de Artă Eneolitică Cucuteni din Piatra Neamț"
 descriere: 'Muzeul de Artă Eneolitică "Cucuteni" din Piatra Neamț îți oferă o călătorie fascinantă în trecut, explorând una dintre cele mai vechi civilizații europene. Admirați colecția impresionantă de artefacte și descoperiți misterul culturii Cucuteni.' 
 description: 'Muzeul de Artă Eneolitică "Cucuteni" din Piatra Neamț îți oferă o călătorie fascinantă în trecut, explorând una dintre cele mai vechi civilizații europene. Admirați colecția impresionantă de artefacte și descoperiți misterul culturii Cucuteni.'
 imagine: "main-reclpEoSWMMJGnffo.webp"

@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Turnul lui Ștefan cel Mare din Piatra Neamț: Ghid Complet pentru Vizitatori"
+title: "Turnul lui Ștefan cel Mare din Piatra Neamț: Ghid Pentru Vizitatori"
 descriere: 'Turnul lui Ștefan cel Mare din Piatra Neamț, un simbol istoric al Moldovei, își deschide porțile pentru vizitatori. Află mai multe despre arhitectura și istoria acestui monument emblematic.' 
 description: 'Turnul lui Ștefan cel Mare din Piatra Neamț, un simbol istoric al Moldovei, își deschide porțile pentru vizitatori. Află mai multe despre arhitectura și istoria acestui monument emblematic.'
 imagine: "main-recXEmF6NBqvsdc3O.webp"

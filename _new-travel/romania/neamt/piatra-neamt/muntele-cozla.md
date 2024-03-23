@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Muntele Cozla Piatra Neamț: Ghid Complet pentru O Escapadă Perfectă în Inima Naturii"
+title: "Muntele Cozla Piatra Neamț: O Escapadă Perfectă în Inima Naturii"
 descriere: 'Muntele Cozla din Piatra Neamț: ghid complet pentru drumeții și activități în aer liber, cu informații despre trasee, peisaje pitorești și facilități de cazare în inima Moldovei.' 
 description: 'Muntele Cozla din Piatra Neamț: ghid complet pentru drumeții și activități în aer liber, cu informații despre trasee, peisaje pitorești și facilități de cazare în inima Moldovei.'
 imagine: "main-recClnJQGYuQmhNTC.webp"

@@ -1,6 +1,6 @@
 ---
 layout: "travel-attraction"
-title: "Muzeul de Artă Piatra Neamț: Descoperă Comorile Culturale din Inima Moldovei"
+title: "Muzeul de Artă Piatra Neamț: Comori Culturale în Inima Moldovei"
 descriere: 'Muzeul de Artă Piatra Neamț: Explorează colecții impresionante de artă românească și internațională în inima orașului Piatra Neamț. Află despre expoziții, evenimente culturale și istoria acestui simbol cultural.' 
 description: 'Muzeul de Artă Piatra Neamț: Explorează colecții impresionante de artă românească și internațională în inima orașului Piatra Neamț. Află despre expoziții, evenimente culturale și istoria acestui simbol cultural.'
 imagine: "main-recOcHQcJCKibO2B4.webp"
