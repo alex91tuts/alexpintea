@@ -1,12 +1,30 @@
 <div class="photo-gal-container">
-<h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
-<div class="button-container">
-{% if page.tara == 'ROMANIA' %}
-<button class="search-btn" data-query="{{page.atractie | slugify | replace: '-', ' ' }} {{page.oras}}">VEZI POZE</button>
-{% else %}
-<button class="search-btn" data-query="{{page.atractieEn}} {{page.city}}">VEZI POZE</button> 
-{% endif %}
-<!-- Add more buttons as needed -->
+  <h2 class="fara-subliniere" id="galerie-photo-atractie"> Galerie foto {{ page.atractie }}</h2>
+  <div class="button-container">
+  {% if page.tara == 'ROMANIA' %}
+  <button class="search-btn" data-query="{{page.atractie | slugify | replace: '-', ' ' }} {{page.oras}}">VEZI POZE</button>
+  {% else %}
+  <button class="search-btn" data-query="{{page.atractieEn}} {{page.city}}">VEZI POZE</button> 
+  {% endif %}
+  <!-- Add more buttons as needed -->
+  </div>
+  <img src="/assets/images/travel/{{ page.folder }}/{{page.imagine-big}}" alt="{{ page.atractie | slugify | replace: '-', ''}}" loading="lazy" width="740">
+  {%if page.atr-imagine != ""%}
+  <a href="{{page.atr-imagine}}" class="atr-imagine">Sursa imagine</a>
+  {% endif %}
 </div>
+
+
+<!-- Add more buttons as needed 
 <img src="/assets/images/photo-gallery.webp" alt="imagine logo pentru galeria foto" loading="lazy" width="740" height="493">
-</div>
+
+-->
+
+<style>
+  .atr-imagine {
+    position: relative;
+    display: block;
+    font-size: 10px;
+    font-style: italic;
+  }
+</style>
