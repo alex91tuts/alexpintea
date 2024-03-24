@@ -1,6 +1,7 @@
 {% assign orasid = site.new-travel | where: "subcat", "lv" | where: "id-oras", {{page.id-oras}} | first %}{% if orasid %}
   {% assign count = orasid.anchors.size %}
   {% assign cycle_index = {{page.position}} | minus: 1 | modulo: count %}
+  
 <div class="link-to">
 <span class="vezi-si">Vezi și:</span>
 <div class="row" markdown="1">

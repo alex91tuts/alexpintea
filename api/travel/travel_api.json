@@ -4,7 +4,7 @@ layout: null
 [
   {% for trip in site.new-travel reversed %}
 	{
-		"titlu": "{{ trip.title }}",
+		"titlu": {% if trip.layout == "travel-attraction" %}"{{ trip.atractie | smartify }}"{% else %}"{{ trip.title }}"{% endif %},
 		"data": "{{ trip.date | date_to_string }}",
 		"imagine": "/assets/images/travel/{{trip.folder}}/{% if trip.mobile_main_image %}{{ trip.mobile_main_image }}{% else %}{{ trip.imagine }}{% endif %}",
     "imagine-2": [{% assign desired_category = trip.desired-cat %}{% assign atractieid = site.new-travel | where: "cat", "atractie" | where: "id-oras", trip.id-oras | sort: "position" %}{% if atractieid %}{% for calatorie in atractieid limit: 3 offset: 0 %}{% if calatorie.categorie-generata-1 contains desired_category or calatorie.categorie-generata-2 contains desired_category or calatorie.categorie-generata-3 contains desired_category %}"/assets/images/travel/{{calatorie.folder}}/{{calatorie.imagine}}"{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% endif %}],
