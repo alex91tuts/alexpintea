@@ -5634,6 +5634,20 @@
 			"cat"    : "SANATATE",
       "subcat" : "",
       "subcat1"     : ""
+    } ,
+  
+    {
+      "title"    : "Aspirator vertical, aspirator robot sau aspirator clasic? Pe care să îl aleg?",
+      "category" : "",
+      "tags"     : "Robot, Vertical, Aspirator",
+      "url"      : "/ce-aspirator-sa-aleg/",
+      "date"     : "2024-05-12 00:00:00 +0300",
+	    "image"     : "/assets/images/reviews/ceaspirator/aspirator-main.webp",
+			"author"    : "Alex P.",
+	    "description"     : "Diferențele între aspiratoarele verticale, robot și cele clasice pentru a te ajuta să alegi soluția ideală de curățenie pentru casa ta. Află care aspirator se potrivește cel mai bine nevoilor și stilului tău de viață, pentru o locuință impecabilă fără efort.",
+			"cat"    : "ASPIRATOR",
+      "subcat" : "",
+      "subcat1"     : ""
     } 
   
 	,
