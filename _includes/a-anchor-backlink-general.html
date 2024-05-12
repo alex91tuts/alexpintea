@@ -1,31 +1,21 @@
-{% assign sorted_posts = site.data.search | where: "cat", page.cat | sort: 'date' %}
-{% for post in sorted_posts %}
-  {% if post.url == page.url %}
-  <div>
-    {% assign current_index = forloop.index0 %}
-    {% assign prev_index = current_index | minus: 1 %}
-    {% assign next_index = current_index | plus: 1 %}
+{% assign general = site.stiri | where: "cat", page.cat %}
 
-    {% if sorted_posts[next_index] %}
-      {% assign next_post = sorted_posts[next_index] %}
-          <div class="link-to">
-          <span class="vezi-si">Vezi și:</span>
-          <div class="row">
-          <div class="col-lg-2 col-3 image-cust" style="text-align: center;">
-            <div class="container-imaglink">
-              <img src="/assets/images/svg/related.svg" alt="{{ next_post.title }}" width="65" height="65">
-            </div>
-          </div>
-          <div class="col-lg-10 col-9 text-cust">
-            <a href="{{ next_post.url }}" class="link-cust">{{ next_post.title }}</a>
-            <br>
-          </div>
-          </div>
-        </div>
-    {% endif %}
+{{ general.nume }}
+  
+<div class="link-to">
+<span class="vezi-si">Vezi și:</span>
+<div class="row" markdown="1">
+<div class="col-lg-2 col-3 image-cust" style="text-align: center;">
+  <div class="container-imaglink">
+    <img src="/assets/images/svg/related.svg" alt="icon for related text" width="65" height="65">
   </div>
-  {% endif %}
-{% endfor %}
+  </div>
+<div class="col-lg-10 col-9 text-cust">
+  <a href="{{ orasid.url }}" class="link-cust">{{page.next.title}}</a>
+</div>
+
+</div>
+</div>
 
 <style>
 .vezi-si {

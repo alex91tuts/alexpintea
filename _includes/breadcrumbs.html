@@ -1,4 +1,4 @@
-{% if page.layout == "travel" or "travel-attraction" -%}
+{% if page.layout == "travel" or page.layout == "travel-attraction" -%}
 <div id="breadcrumbs">
 {% assign crumbs = page.url | remove:'/index.html' | remove: '/stiri' | remove: '/review' | remove: '/smarthome' | split: '/' %}
 <a href="/">Acasa</a> >>
@@ -12,7 +12,7 @@
 
 {% else -%}
 <div id="breadcrumbs">
-{%- assign crumbs = page.url | remove:'/index.html' | remove: '/stiri' | remove: '/review' | remove: '/magazine' | remove: '/smarthome' | split: '/' -%}
+{%- assign crumbs = page.url | remove:'/index.html' | remove: '/stiri' | remove: '/review' | remove: '/magazine' | remove: '/smarthome' | remove: '/travel' | split: '/' -%}
 <a href="/">Acasa</a>
 <a href="{{ site.url }}/{{ page.cat | replace: ' ', '-' | downcase }}/">/ {{ page.cat | downcase | capitalize | strip }} /</a>
 {% for crumb in crumbs offset: 1 %}
