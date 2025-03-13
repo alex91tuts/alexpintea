@@ -25,7 +25,7 @@ Aparatele de aer condiționat cu inverter sunt considerate superioare din punct 
 
 În trecut, aparatele de aer condiționat și pompele de căldură funcționau doar în două moduri: oprite sau pornite. 
 
-Cu tehnologia inverter, aparatul de aer condiționat poate regla temperatura dintr-o cameră fără a mai fi necesară oprirea și repornirea constantă a acestuia. 
+Cu tehnologia inverter, [cel mai bun aer conditionat](https://aerconditionatinstal.ro/)aparatul de aer condiționat poate regla temperatura dintr-o cameră fără a mai fi necesară oprirea și repornirea constantă a acestuia. 
 
 Acest lucru duce la o eficiență sporită și la o economie semnificativă de energie.
 
