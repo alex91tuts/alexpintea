@@ -1,5 +1,5 @@
 ---
-title: 'Iluminat Inteligent: Ghidul Esențial pentru Casa Ta'
+title: 'Secretele Iluminatului Inteligent'
 image_path: smart/iluminat/sistem-iluminat.webp
 layout: stiri
 date: 2023-06-04
