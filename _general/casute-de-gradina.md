@@ -37,7 +37,7 @@ Să fim sinceri, o curte ordonată este o curte mai relaxantă. O căsuță de g
 Așadar, beneficiile sunt clare: de la protejarea sculelor la crearea unui spațiu personal de vis. Dacă te-am făcut curios și ești gata să vezi cum o astfel de investiție poate transforma concret spațiul tău, te invităm să descoperi o gamă completă de [casute de gradina la gardenway.ro](https://gardenway.ro/casute-de-gradina).
 
 <img src="/assets/images/stiri/vf/casute-gradina-1.jpg" loading="lazy" alt="casute de gradina" >
-<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</a>
+<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</span>
   
 ---
 
@@ -49,18 +49,18 @@ Alegerea poate părea complicată, dar dacă urmărești acești pași, vei lua 
 
 Fiecare material are avantaje și dezavantaje clare.
 
-* **Lemnul (Opțiunea clasică și caldă)**
-    * **De ce să-l iubești:** Arată superb, natural, se integrează perfect în orice peisaj și se poate personaliza (vopsi) ușor. Este un bun izolator termic.
-    * **Ce trebuie să știi:** Are nevoie de dragoste. Lemnul "lucrează" și necesită întreținere. Trebuie tratat (cu lazură, ulei sau vopsea) la fiecare 2-5 ani pentru a-l proteja de umezeală, dăunători și raze UV.
-* **Metalul (Opțiunea durabilă și modernă)**
-    * **De ce să-l iubești:** Este extrem de durabil, rezistent la foc și dăunători și, în general, mai ieftin. Modelele moderne (din oțel galvanizat vopsit) sunt foarte rezistente la rugină.
-    * **Ce trebuie să știi:** Se poate încinge vara și poate fi zgomotos în timpul ploii. Izolația termică este aproape zero (dacă nu adaugi tu un strat). Ai grijă la zgârieturi, care trebuie retușate pentru a preveni rugina.
-* **Rășină / PVC / Plastic (Opțiunea rapidă și fără bătăi de cap)**
-    * **De ce să-l iubești:** Este cel mai ușor de montat, nu rugineste, nu putrezește și nu trebuie vopsit niciodată. Se curăță pur și simplu cu un furtun.
-    * **Ce trebuie să știi:** Estetica poate fi... "practică". Plasticele de calitate inferioară se pot decolora sau crăpa în timp din cauza soarelui puternic. Nu este la fel de robust ca lemnul sau metalul pentru a agăța rafturi grele pe pereți.
+**Lemnul (Opțiunea clasică și caldă)**
+* **De ce să-l iubești:** Arată superb, natural, se integrează perfect în orice peisaj și se poate personaliza (vopsi) ușor. Este un bun izolator termic.
+* **Ce trebuie să știi:** Are nevoie de dragoste. Lemnul "lucrează" și necesită întreținere. Trebuie tratat (cu lazură, ulei sau vopsea) la fiecare 2-5 ani pentru a-l proteja de umezeală, dăunători și raze UV.
+**Metalul (Opțiunea durabilă și modernă)**
+* **De ce să-l iubești:** Este extrem de durabil, rezistent la foc și dăunători și, în general, mai ieftin. Modelele moderne (din oțel galvanizat vopsit) sunt foarte rezistente la rugină.
+* **Ce trebuie să știi:** Se poate încinge vara și poate fi zgomotos în timpul ploii. Izolația termică este aproape zero (dacă nu adaugi tu un strat). Ai grijă la zgârieturi, care trebuie retușate pentru a preveni rugina.
+**Rășină / PVC / Plastic (Opțiunea rapidă și fără bătăi de cap)**
+* **De ce să-l iubești:** Este cel mai ușor de montat, nu rugineste, nu putrezește și nu trebuie vopsit niciodată. Se curăță pur și simplu cu un furtun.
+* **Ce trebuie să știi:** Estetica poate fi... "practică". Plasticele de calitate inferioară se pot decolora sau crăpa în timp din cauza soarelui puternic. Nu este la fel de robust ca lemnul sau metalul pentru a agăța rafturi grele pe pereți.
 
 <img src="/assets/images/stiri/vf/casute-gradina-2.jpg" loading="lazy" alt="casute de gradina" >
-<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</a>
+<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</span>
 
 ### Pasul 2: Dimensiunea și amplasarea (Măsoară de două ori!)
 
@@ -69,19 +69,20 @@ Gândește-te realist: **Ce vrei să depozitezi?** Fă o listă.
 * Biciclete? Ai nevoie de adâncime sau un sistem de agățare.
 * Vrei și un banc de lucru? Adaugă 1,5 metri în plus la lățime.
 
-> **Sfatul Pro:** Nu cumpăra o căsuță *exact* la dimensiunea de care crezi că ai nevoie. Ia întotdeauna o mărime puțin mai mare. Vei fi surprins cât de repede se umple!
->
-> De asemenea, gândește-te la **amplasare**. Nu o ascunde în cel mai îndepărtat colț al grădinii dacă o vei folosi zilnic. Asigură-te că ai suficient spațiu în fața ușilor pentru a le deschide complet și pentru a manevra obiecte mari.
+**Sfatul Pro:** Nu cumpăra o căsuță *exact* la dimensiunea de care crezi că ai nevoie. Ia întotdeauna o mărime puțin mai mare. Vei fi surprins cât de repede se umple!
+
+De asemenea, gândește-te la **amplasare**. Nu o ascunde în cel mai îndepărtat colț al grădinii dacă o vei folosi zilnic. Asigură-te că ai suficient spațiu în fața ușilor pentru a le deschide complet și pentru a manevra obiecte mari.
 
 ### Pasul 3: Fundația – Baza succesului
 
 Aceasta este poate **cea mai importantă etapă** pe care mulți o neglijează. O căsuță așezată direct pe pământ se va deforma, va putrezi (dacă e din lemn) și ușile nu se vor mai închide corect.
 
-* Terenul trebuie să fie **drept (la nivel)** și **bine drenat** (apa să nu băltească).
-* **Opțiuni de fundație:**
-    * **Placă de beton:** Cea mai durabilă și stabilă opțiune, ideală pentru căsuțe mari și grele.
-    * **Pavaj sau dale de beton:** O opțiune excelentă, mai ușor de realizat decât placa turnată.
-    * **Platformă pe piloni (grinzi de lemn/metal):** Perfectă pentru terenuri ușor înclinate și asigură o ventilație excelentă pe sub căsuță.
+Terenul trebuie să fie **drept (la nivel)** și **bine drenat** (apa să nu băltească).
+
+**Opțiuni de fundație:**
+* **Placă de beton:** Cea mai durabilă și stabilă opțiune, ideală pentru căsuțe mari și grele.
+* **Pavaj sau dale de beton:** O opțiune excelentă, mai ușor de realizat decât placa turnată.
+* **Platformă pe piloni (grinzi de lemn/metal):** Perfectă pentru terenuri ușor înclinate și asigură o ventilație excelentă pe sub căsuță.
 
 ### Pasul 4: Detaliile care fac diferența
 
@@ -93,7 +94,7 @@ Nu toate căsuțele sunt create la fel. Uită-te după:
 
 ---
 
-## 💡 Trenduri și ce se poartă în prezent
+## Trenduri și ce se poartă în prezent
 
 Căsuța de grădină nu mai e doar o cutie bej.
 * **Design-ul contează:** Se caută modele care completează casa (stil modern, minimalist, sau rustic "ca la bunici").
@@ -102,7 +103,7 @@ Căsuța de grădină nu mai e doar o cutie bej.
 * **Biroul din grădină:** De la pandemie încoace, cererea pentru căsuțe bine izolate, cu ferestre mari, care pot fi transformate în birouri, a explodat.
 
 <img src="/assets/images/stiri/vf/casute-gradina-3.jpg" loading="lazy" alt="casute de gradina" >
-<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</a>
+<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</span>
 
 ## Concluzie
 
