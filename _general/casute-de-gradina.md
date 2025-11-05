@@ -37,7 +37,7 @@ Să fim sinceri, o curte ordonată este o curte mai relaxantă. O căsuță de g
 Așadar, beneficiile sunt clare: de la protejarea sculelor la crearea unui spațiu personal de vis. Dacă te-am făcut curios și ești gata să vezi cum o astfel de investiție poate transforma concret spațiul tău, te invităm să descoperi o gamă completă de [casute de gradina la gardenway.ro](https://gardenway.ro/casute-de-gradina).
 
 <img src="/assets/images/stiri/vf/casute-gradina-1.jpg" loading="lazy" alt="casute de gradina" >
-<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</span>
+<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl</span>
   
 ---
 
@@ -60,7 +60,7 @@ Fiecare material are avantaje și dezavantaje clare.
 * **Ce trebuie să știi:** Estetica poate fi... "practică". Plasticele de calitate inferioară se pot decolora sau crăpa în timp din cauza soarelui puternic. Nu este la fel de robust ca lemnul sau metalul pentru a agăța rafturi grele pe pereți.
 
 <img src="/assets/images/stiri/vf/casute-gradina-2.jpg" loading="lazy" alt="casute de gradina" >
-<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</span>
+<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl</span>
 
 ### Pasul 2: Dimensiunea și amplasarea (Măsoară de două ori!)
 
@@ -103,7 +103,7 @@ Căsuța de grădină nu mai e doar o cutie bej.
 * **Biroul din grădină:** De la pandemie încoace, cererea pentru căsuțe bine izolate, cu ferestre mari, care pot fi transformate în birouri, a explodat.
 
 <img src="/assets/images/stiri/vf/casute-gradina-3.jpg" loading="lazy" alt="casute de gradina" >
-<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl)</span>
+<span class="atr-imagine">Căsuță de grădină modernă, photo: ogrodosfera.pl</span>
 
 ## Concluzie
 
